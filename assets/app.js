@@ -45,6 +45,14 @@ async function carregarJSON(caminho) {
   }
 }
 
+function embaralhar(lista) {
+  for (let i = lista.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [lista[i], lista[j]] = [lista[j], lista[i]];
+  }
+  return lista;
+}
+
 function mostrarErro(msg) {
   main.replaceChildren(
     el("h1", {}, "Algo não carregou"),
@@ -245,27 +253,42 @@ function questao(q, num, nParte, aoResponder) {
     return bloco;
   }
 
-  const botoes = letras.map((letra) =>
-    el("button", { class: "alt", type: "button", "data-letra": letra, "aria-pressed": "false" },
+  /* Embaralha as alternativas a cada exibição (evita decorar a letra do gabarito)
+     e reetiqueta A, B, C... na nova ordem, inclusive no comentário ("X) ..."). */
+  const ordem = embaralhar([...letras]);
+  const novaLetra = {};
+  ordem.forEach((original, i) => { novaLetra[original] = letras[i]; });
+  const gabarito = novaLetra[q.gabarito];
+  const comentario = String(q.comentario || "").split(/\n+/).filter((l) => l.trim())
+    .map((l) => l.replace(/^\s*([A-E])\)/, (m, x) => (novaLetra[x] ? `${novaLetra[x]})` : m)))
+    .sort((a, b) => {
+      const la = /^([A-E])\)/.exec(a), lb = /^([A-E])\)/.exec(b);
+      return la && lb ? la[1].localeCompare(lb[1]) : 0;
+    });
+
+  const botoes = ordem.map((original, i) => {
+    const letra = letras[i];
+    return el("button", { class: "alt", type: "button", "data-letra": letra, "aria-pressed": "false" },
       el("span", { class: "bolha", "aria-hidden": "true" }, letra),
-      el("span", {}, el("span", { class: "pular" }, `Alternativa ${letra}: `), inline(q.alternativas[letra]))
-    ));
+      el("span", {}, el("span", { class: "pular" }, `Alternativa ${letra}: `), inline(q.alternativas[original]))
+    );
+  });
   const resultado = el("div", { "aria-live": "polite" });
 
   const responder = (letra) => {
-    const acertou = letra === q.gabarito;
+    const acertou = letra === gabarito;
     for (const b of botoes) {
       b.disabled = true;
       const l = b.dataset.letra;
       if (l === letra) { b.classList.add("escolhida"); b.setAttribute("aria-pressed", "true"); }
-      if (l === q.gabarito) b.classList.add("correta");
+      if (l === gabarito) b.classList.add("correta");
       else if (l === letra) b.classList.add("incorreta");
     }
     const base = q.base_legal || {};
     resultado.replaceChildren(
       el("p", { class: `veredito ${acertou ? "ok" : "nao"}` },
-        acertou ? `Certo. Gabarito: ${q.gabarito}.` : `Errado. Você marcou ${letra}; o gabarito é ${q.gabarito}.`),
-      el("div", { class: "comentario" }, String(q.comentario || "").split(/\n+/).filter(Boolean).map((p) => el("p", {}, inline(p)))),
+        acertou ? `Certo. Gabarito: ${gabarito}.` : `Errado. Você marcou ${letra}; o gabarito é ${gabarito}.`),
+      el("div", { class: "comentario" }, comentario.map((p) => el("p", {}, inline(p)))),
       base.texto ? el("blockquote", { class: "base" },
         base.dispositivo ? el("cite", {}, base.dispositivo) : null,
         inline(base.texto)) : null
