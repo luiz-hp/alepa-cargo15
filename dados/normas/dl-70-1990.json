@@ -322,6 +322,379 @@
           }
         }
       ]
+    },
+    {
+      "titulo": "Carreira, enquadramento e disposições finais",
+      "artigos": "Arts. 11 a 39",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A Parte 2 do Decreto Legislativo nº 70/1990 (Arts. 11 a 39) disciplina a carreira, o enquadramento, o Quadro Suplementar e as regras transitórias. O acesso na carreira dá-se por promoção (à referência imediatamente superior) e por ascensão (para cargo de grupo ocupacional hierarquicamente mais elevado). A promoção obedece a critérios de antiguidade e merecimento."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Instituto / Tema",
+            "Regras e Prazos do Decreto"
+          ],
+          "linhas": [
+            [
+              "Estrutura Salarial",
+              "18 referências por categoria funcional, com variação de 5% entre elas."
+            ],
+            [
+              "Gratificação Nível Superior",
+              "80% sobre vencimento-base (diploma de 3º grau); inacumulável (direito de opção)."
+            ],
+            [
+              "Adicional de Insalubridade",
+              "Assegurado na forma da lei; taquígrafo é considerado insalubre desde logo."
+            ],
+            [
+              "Concurso Público",
+              "Prazo máximo de 6 meses; obrigatoriedade de solicitar colaboração da UFPA/UEPA/entidades oficiais."
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "PRAZOS E PERCENTUAIS CRÍTICOS: 80% (Gratificação Superior); 5% (variação entre 18 referências); 5 dias (nomeação da Comissão de Enquadramento); 15 dias prorrogável por igual período (trabalhos da Comissão); 15 dias improrrogáveis (revisão da tabela de vencimentos); 30 dias da próxima legislatura (votação do regulamento de acesso); 6 meses (concurso); 2 anos (extinção do Gabinete ex-Presidente, prorrogação dos Assistentes Parlamentares e avaliação do mérito); 5 anos na CF/88 (estabilidade)."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Quadro Suplementar: cargos em extinção para não enquadráveis no quadro efetivo, assegurada irredutibilidade e direitos adquiridos.",
+            "Comissão de Enquadramento: presidida pelo 1º Secretário, com Procurador, Consultor, Diretor de Pessoal, Chefe de Seleção, ASALP e 3 da Presidência.",
+            "Vedação de Admissão: proibida contratação no Legislativo por regime diverso do Decreto."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "A prova cobra o texto do decreto, mas a ascensão do art. 14 não é compatível com a Constituição de 1988: pela Súmula Vinculante 43 do STF, é inconstitucional prover servidor, sem concurso público destinado ao cargo, em cargo que não integra a carreira na qual foi investido."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "No que tange ao desenvolvimento do servidor público na carreira no âmbito da Assembleia Legislativa do Pará, nos termos dos Arts. 11 e 12 do Decreto Legislativo nº 70/1990, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "O acesso na carreira dar-se-á pelas formas de promoção e ascensão funcionais, cujos critérios específicos serão definidos em regulamento próprio.",
+            "B": "A carreira é definida legalmente como a linha de transposição automática do servidor público entre qualquer quadro efetivo e comissionado.",
+            "C": "O acesso na carreira ocorrerá exclusivamente por promoção funcional, sendo vedada a ascensão entre grupos ocupacionais.",
+            "D": "Os critérios de promoção e ascensão funcionais foram integralmente fixados no próprio texto do Decreto Legislativo nº 70/1990, dispensado regulamento posterior.",
+            "E": "O servidor comissionado adquire direito ao acesso na carreira efetiva após dois anos de contínuo e ininterrupto exercício no cargo."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O Art. 12 estabelece que o acesso na carreira dar-se-á por promoção e por ascensão funcionais, com critérios definidos em regulamento próprio.\nB) INCORRETA. Conforme o Art. 11, carreira é a linha de acesso do funcionário na categoria funcional a que pertencer e desta para cargo de referência inicial de categoria funcional hierarquicamente mais elevada, e não transposição entre quadros efetivo e comissionado.\nC) INCORRETA. O Art. 12 prevê expressamente duas formas de acesso: promoção e ascensão funcionais.\nD) INCORRETA. O Art. 12 remete expressamente a definição dos critérios para regulamento próprio.\nE) INCORRETA. Não há previsão de acesso na carreira efetiva para servidores comissionados pelo simples decurso do tempo.",
+          "base_legal": {
+            "dispositivo": "Art. 12",
+            "texto": "Art. 12 - O acesso na carreira dar-se-á por promoção e por ascensão funcionais, cujos critérios serão definidos em regulamento próprio."
+          }
+        },
+        {
+          "enunciado": "Acerca do instituto da promoção funcional regido pelo Decreto Legislativo nº 70/1990, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "Promoção é a elevação do funcionário a qualquer referência da classe superior, condicionada ao surgimento de vaga no quadro suplementar.",
+            "B": "A promoção obedecerá aos critérios de antiguidade e merecimento, devendo este obedecer à avaliação de desempenho e de treinamento, pontualidade, assiduidade e disciplina.",
+            "C": "A promoção por merecimento obedecerá exclusivamente ao critério de tempo de serviço prestado ao órgão, vedada a avaliação de treinamento.",
+            "D": "A elevação do funcionário por promoção ocorrerá para a referência final da tabela de vencimentos, independentemente da ordem cronológica de referências.",
+            "E": "A promoção por antiguidade exige obrigatoriamente a apresentação de diploma de curso de nível superior legalmente reconhecido."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. Promoção é a elevação do funcionário à referência imediatamente superior na escala de vencimento da classe (Art. 13).\nB) CORRETA. O Art. 13, parágrafo único, estipula exatamente os critérios de antiguidade e merecimento, detalhando os fatores de merecimento.\nC) INCORRETA. O merecimento obedece à avaliação de desempenho, treinamento, pontualidade, assiduidade e disciplina, ao passo que a antiguidade afere o tempo.\nD) INCORRETA. A elevação dá-se para a referência imediatamente superior (Art. 13).\nE) INCORRETA. A exigência de diploma refere-se ao provimento de cargos de natureza técnica/superior ou ascensão, e não aos critérios de promoção por antiguidade.",
+          "base_legal": {
+            "dispositivo": "Art. 13, Parágrafo Único",
+            "texto": "Parágrafo Único - A promoção obedecerá a critérios de antigüidade e merecimento, este obedecendo a avaliação de desempenho e de treinamento, pontualidade, assiduidade e disciplina."
+          }
+        },
+        {
+          "enunciado": "De acordo com as disposições do Art. 14 do Decreto Legislativo nº 70/1990, o instituto da ascensão funcional caracteriza-se como:",
+          "alternativas": {
+            "A": "A passagem do servidor estável para o Quadro Suplementar de cargos em extinção mediante opção expressa.",
+            "B": "A elevação do funcionário à referência imediatamente superior dentro da mesma escala de vencimento da classe.",
+            "C": "A elevação do funcionário de cargo do grupo operacional a que pertencer para cargo de grupo ocupacional hierarquicamente mais elevado, respeitada a habilitação profissional exigida para provimento.",
+            "D": "A nomeação preferencial de ocupantes de cargos efetivos para cargos de provimento em comissão de Direção Superior.",
+            "E": "A reclassificação de servidores com base no tempo de serviço cumprido no Poder Executivo Estadual."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O enquadramento no Quadro Suplementar decorre de impossibilidade de enquadramento no novo Quadro Efetivo (Art. 18).\nB) INCORRETA. Essa é a definição legal de promoção (Art. 13).\nC) CORRETA. Transcreve a definição exata de ascensão contida no Art. 14 do Decreto Legislativo nº 70/1990.\nD) INCORRETA. O exercício preferencial de cargos em comissão está regido no Art. 5º, § 3º.\nE) INCORRETA. A ascensão é forma de acesso na carreira entre grupos ocupacionais do Poder Legislativo, respeitada a habilitação exigida e o Regulamento.",
+          "base_legal": {
+            "dispositivo": "Art. 14",
+            "texto": "Art. 14 - Ascensão é a elevação do funcionário de cargo do grupo operacional a que pertencer para cargo de grupo ocupacional hierarquicamente mais elevado, respeitada a habilitação profissional exigida para provimento e as normas do Regulamento de que trata o art. 12 deste Decreto Legislativo."
+          }
+        },
+        {
+          "enunciado": "Relativamente ao enquadramento dos atuais titulares de cargos do Quadro de Provimento Efetivo previsto no Art. 16 do Decreto Legislativo nº 70/1990, assinale a afirmativa correta.",
+          "alternativas": {
+            "A": "Os servidores que se encontravam à disposição de outros órgãos foram automaticamente exonerados e transferidos para o Quadro Suplementar.",
+            "B": "O enquadramento dos atuais titulares dar-se-á obrigatoriamente na referência inicial da carreira, desconsiderando-se o tempo de serviço anterior.",
+            "C": "É vedado o enquadramento de servidores que na data da publicação do Decreto estivessem à disposição da administração direta ou indireta Federal.",
+            "D": "Os ocupantes à disposição da administração direta ou indireta Federal, Estadual ou Municipal serão enquadrados em cargos equivalentes aos efetivamente exercidos no órgão de origem e classificados gradualmente na referência a que têm direito pelo tempo de serviço.",
+            "E": "A equivalência de cargos para fins de enquadramento observará unicamente o nível de remuneração percebido, independentemente das atribuições e responsabilidades do cargo."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. Os servidores à disposição são enquadrados em cargos equivalentes aos exercidos no órgão de origem (Art. 16, § 1º).\nB) INCORRETA. O Art. 16, § 2º prevê que serão classificados gradualmente na referência a que têm direito pelo tempo de serviço no órgão.\nC) INCORRETA. O Art. 16, § 1º prevê expressamente o enquadramento dos servidores à disposição da administração Federal, Estadual ou Municipal.\nD) CORRETA. Sintetiza a regra do Art. 16, caput e §§ 1º e 2º, no tocante ao enquadramento em cargos equivalentes em atribuições/responsabilidades e classificação por tempo de serviço.\nE) INCORRETA. O Art. 16, caput exige equivalência em atribuições e responsabilidades, e não unicamente valor remuneratório.",
+          "base_legal": {
+            "dispositivo": "Art. 16, § 1°",
+            "texto": "§ 1° - Os ocupantes do Quadro de Provimento Efetivo da Assembléia Legislativa do Estado, que se encontrarem, à data da publicação deste Decreto Legislativo, à disposição da administração direta ou indireta Federal, Estadual ou Municipal, serão enquadrados em cargos equivalentes aos efetivamente exercidos no órgão de origem."
+          }
+        },
+        {
+          "enunciado": "O Art. 17 do Decreto Legislativo nº 70/1990 tratou da estabilidade extraordinária dos servidores da Assembleia Legislativa do Pará. Sobre o tema, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "Consideram-se estáveis os servidores em exercício na data da promulgação do Decreto Legislativo nº 70/1990, há pelo menos dois anos continuados.",
+            "B": "A estabilidade foi concedida exclusivamente aos servidores aprovados em concurso público promovido no prazo de seis meses da promulgação do Decreto.",
+            "C": "O tempo de serviço prestado pelos servidores considerados estáveis no caput do Art. 17 é vedado de ser utilizado como título em futuros concursos públicos.",
+            "D": "A estabilidade excepcional foi estendida apenas aos ocupantes de cargos em comissão de Direção Superior (DAS).",
+            "E": "São considerados estáveis os servidores em exercício na data da promulgação da Constituição Federal, há pelo menos cinco anos continuados e que não tenham sido admitidos na forma regulada no art. 37 da CF."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O prazo constitucional/legal é de pelo menos cinco anos continuados na data da promulgação da Constituição Federal (Art. 17), e não dois anos.\nB) INCORRETA. O Art. 17 contempla exatamente os servidores NÃO admitidos na forma do art. 37 da CF (sem concurso) que já contavam com 5 anos na data da CF/88.\nC) INCORRETA. O parágrafo único do Art. 17 dispõe expressamente que o tempo de serviço será contado como título quando se submeterem a concurso para fins de efetivação.\nD) INCORRETA. Aplica-se aos servidores do quadro que preenchiam o requisito temporal e constitucional de 5 anos continuados.\nE) CORRETA. Transcreve fielmente os requisitos do Art. 17 do Decreto Legislativo nº 70/1990.",
+          "base_legal": {
+            "dispositivo": "Art. 17",
+            "texto": "Art. 17 - Os servidores em exercício na data da promulgação da Constituição Federal, há pelo menos cinco anos continuados e que não tenham sido admitidos na forma regulada no art. 37, da Constituição Federal, são considerados estáveis no quadro de Servidores da Assembléia Legislativa do Estado do Pará."
+          }
+        },
+        {
+          "enunciado": "Com relação às normas que regem o Quadro Suplementar contidas nos Arts. 18 a 20 do Decreto Legislativo nº 70/1990, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "O Quadro Suplementar, constituído de cargos em extinção, é integrado por cargos efetivos cujos ocupantes não puderam ser enquadrados no novo Quadro de Provimento Efetivo.",
+            "B": "É terminantemente vedada a nomeação de servidores integrantes do Quadro Suplementar para o exercício de cargos em comissão.",
+            "C": "Os integrantes do Quadro Suplementar não poderão, em hipótese alguma, vir a ser enquadrados no Quadro de Provimento Efetivo.",
+            "D": "O Quadro Suplementar é constituído exclusivamente por cargos de provimento em comissão que aguardam vacância definitiva.",
+            "E": "O enquadramento dos integrantes do Quadro Suplementar no Quadro Efetivo ocorrerá de forma compulsória, independentemente da existência de vaga."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Definição exata do Art. 18: cargos em extinção de provimento efetivo cujos ocupantes não puderam ser enquadrados no novo Quadro Efetivo.\nB) INCORRETA. O Art. 20 dispõe expressamente que os servidores do Quadro Suplementar poderão ser nomeados para cargos em comissão.\nC) INCORRETA. O Art. 19 permite o enquadramento a qualquer tempo no Quadro Efetivo, desde que satisfeitos os requisitos da Lei e respeitada a disponibilidade de vaga.\nD) INCORRETA. O Art. 18 prevê que o Quadro Suplementar é integrado por cargos de Provimento Efetivo (em extinção).\nE) INCORRETA. O Art. 19 exige a satisfação dos requisitos da lei e respeitada a disponibilidade de vaga.",
+          "base_legal": {
+            "dispositivo": "Art. 18",
+            "texto": "Art. 18 - O Quadro Suplementar de cargos em extinção, será integrado pelos cargos públicos de Provimento Efetivo, cujos ocupantes, pelos critérios previstos neste Decreto Legislativo, não possam ser enquadrados no novo Quadro de Provimento Efetivo."
+          }
+        },
+        {
+          "enunciado": "Em cumprimento ao princípio da irredutibilidade e proteção aos direitos adquiridos nas adequações organizacionais do Poder Legislativo (Arts. 21 e 22), estabeleceu-se que:",
+          "alternativas": {
+            "A": "A extinção de cargos decorrente da reorganização importará na redução proporcional dos proventos dos servidores inativos.",
+            "B": "Nenhum servidor perderá ou terá diminuídos seus direitos adquiridos, nem será prejudicado em seus direitos futuros, especialmente quanto à remuneração.",
+            "C": "Aos ocupantes do cargo de Técnico em Assessoramento Legislativo (PL-03) assegurou-se a remuneração de Procuradores, permitidas posteriores inclusões por ato da Presidência.",
+            "D": "A adequação das tabelas de vencimento autoriza o decréscimo remuneratório temporário durante o período de transição de enquadramento.",
+            "E": "Os direitos adquiridos aplicam-se exclusivamente aos servidores ocupantes de cargos do Quadro de Provimento em Comissão."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O Art. 21 veda expressamente a perda ou diminuição de direitos adquiridos ou prejuízos na remuneração.\nB) CORRETA. Transcreve a garantia geral de proteção remuneratória e de direitos adquiridos e futuros estampada no Art. 21.\nC) INCORRETA. O Art. 22 assegura a remuneração inerente aos cargos de Procuradores ao PL-03 do Quadro Suplementar, porém veda expressamente quaisquer inclusões posteriores.\nD) INCORRETA. O Art. 21 proíbe que qualquer medida ordenada pelo Decreto diminua remuneração ou direitos.\nE) INCORRETA. A garantia atinge expressamente todos os servidores afetados pelas medidas do Decreto Legislativo.",
+          "base_legal": {
+            "dispositivo": "Art. 21",
+            "texto": "Art. 21 - Em conseqüência da criação de quadro suplementar, da denominação, transposição ou extinção de cargos, bem como em decorrência de qualquer medida ordenada por este Decreto Legislativo, nenhum servidor perderá ou terá diminuídos seus direitos adquiridos, nem será, de qualquer forma, prejudicado em seus direitos futuros, especialmente quanto à remuneração."
+          }
+        },
+        {
+          "enunciado": "Sobre as regras transitórias relativas a vantagens de cargos e à estrutura de gabinetes contidas nos Arts. 23 e 24 do Decreto Legislativo nº 70/1990, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "Fica assegurada à categoria de Secretário de Comissão Técnica a percepção do vencimento inerente ao cargo de Diretor de Departamento Financeiro.",
+            "B": "O Gabinete do ex-Presidente será mantido em caráter permanente e vitalício para todos os parlamentares que exerceram o comando da Casa.",
+            "C": "O Gabinete do ex-Presidente, a ser utilizado por quem exerceu a Presidência no período imediatamente anterior, ficará mantido com a sua atual estrutura e será extinto dentro de dois anos, a contar da publicação do Decreto.",
+            "D": "A categoria de Secretário de Comissão Técnica foi extinta sem a concessão de equivalência com qualquer cargo em comissão.",
+            "E": "O Gabinete do ex-Presidente foi extinto imediatamente na data da publicação do Decreto Legislativo nº 70/1990."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O Art. 23 assegura as vantagens atribuídas ao cargo equivalente de Secretários - DAS.202.1 (e não Diretor do Departamento Financeiro).\nB) INCORRETA. O Art. 24 estipula prazo temporário de 2 anos para a extinção do referido gabinete.\nC) CORRETA. Fiel à redação do Art. 24 quanto ao destinatário, manutenção de estrutura e prazo de extinção de 2 anos.\nD) INCORRETA. O Art. 23 assegurou expressamente as vantagens atribuídas ao cargo equivalente de Secretários - DAS.202.1.\nE) INCORRETA. O Art. 24 prevê a manutenção da estrutura temporariamente, fixando a extinção no prazo de 2 anos.",
+          "base_legal": {
+            "dispositivo": "Art. 24",
+            "texto": "Art. 24 - O Gabinete do ex-Presidente, a ser utilizado por quem exerceu a Presidência no período imediatamente anterior, ficará mantido com a sua atual estrutura e será extinto dentro de dois (2) anos, a contar da data da publicação deste Decreto Legislativo."
+          }
+        },
+        {
+          "enunciado": "Considere as disposições dos Arts. 25 e 26 do Decreto Legislativo nº 70/1990 referentes a diárias e contratos de Assistentes Parlamentares. É correto afirmar que:",
+          "alternativas": {
+            "A": "O valor das diárias devidas ao servidor que se deslocar a serviço é fixado diretamente em lei ordinária, sendo vedado ato da Mesa Diretora.",
+            "B": "Os contratos de trabalho dos Assistentes Parlamentares foram rescindidos de pleno direito na data de publicação do Decreto Legislativo.",
+            "C": "Diárias são devidas exclusivamente aos servidores que realizarem viagens para fora do território estadual.",
+            "D": "Os servidores que estão prestando serviços como Assistentes Parlamentares ficam com seus contratos de trabalho prorrogados por mais dois anos, a contar do final da presente legislatura.",
+            "E": "O recebimento de diárias por deslocamento a serviço fora da Capital é condicionado à prévia aprovação em concurso público."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O Art. 25 estabelece que o limite das diárias será fixado pela Mesa Diretora.\nB) INCORRETA. O Art. 26 prorrogou os contratos dos Assistentes Parlamentares por mais dois anos a contar do final da legislatura.\nC) INCORRETA. O Art. 25 assegura diárias ao servidor que se deslocar, a serviço, para fora da Capital (e não apenas fora do Estado).\nD) CORRETA. Transcreve com exatidão a regra e o prazo de prorrogação contidos no Art. 26.\nE) INCORRETA. O Art. 25 assegura a qualquer servidor que se deslocar a serviço fora da Capital o direito a diárias, sem essa restrição.",
+          "base_legal": {
+            "dispositivo": "Art. 26",
+            "texto": "Art. 26 - Os servidores que estão prestando serviços como Assistentes Parlamentares, ficam com seus contratos de trabalho prorrogados por mais dois anos, a contar do final da presente legislatura."
+          }
+        },
+        {
+          "enunciado": "A Gratificação de Nível Superior foi instituída no Art. 27 do Decreto Legislativo nº 70/1990. Sobre o percentual, base de cálculo e cumulação dessa vantagem, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "A gratificação é de 50% e incide sobre a remuneração total do servidor portador de diploma de nível superior.",
+            "B": "O percentual é de 100% sobre o vencimento-base, permitida a cumulação automática com adicionais de insalubridade e periculosidade.",
+            "C": "Concede-se a gratificação no percentual de 80% sobre a remuneração bruta a qualquer servidor estudante de curso superior.",
+            "D": "A gratificação é de 80% sobre o vencimento-base, devendo obrigatoriamente ser acumulada com outras gratificações de escolaridade.",
+            "E": "A gratificação é de 80% sobre o vencimento-base para servidores portadores de diploma de curso superior de 3º grau, sendo vedada a cumulação com qualquer outra gratificação, ressalvado o direito de opção."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O percentual legal é de 80% (oitenta por cento) e incide sobre o vencimento-base (Art. 27).\nB) INCORRETA. O percentual legal fixado no Art. 27 é de 80%.\nC) INCORRETA. Exige-se diploma de conclusão de curso (3º grau) e a base é o vencimento-base, e não a remuneração bruta.\nD) INCORRETA. O parágrafo único do Art. 27 proíbe expressamente a cumulação com qualquer outra gratificação, ressalvado o direito de opção.\nE) CORRETA. Reflete perfeitamente a base de 80% sobre o vencimento-base, a exigência de diploma de 3º grau e a regra de inacumulabilidade com direito de opção.",
+          "base_legal": {
+            "dispositivo": "Art. 27",
+            "texto": "Art. 27 - Fica instituída a Gratificação de Nível Superior, na base de oitenta por cento (80%) sobre o vencimento-base para os servidores portadores de diploma de conclusão de curso oficialmente reconhecido como de nível superior de ensino - 3° grau."
+          }
+        },
+        {
+          "enunciado": "No tocante ao adicional devido pelo exercício de atividades penosas, insalubres ou perigosas (Art. 28 do Decreto Legislativo nº 70/1990), o texto legal estabelece expressamente que:",
+          "alternativas": {
+            "A": "Considera-se, desde logo, atividade insalubre a de taquígrafo.",
+            "B": "A atividade de fotógrafo é enquadrada diretamente pela norma como atividade perigosa.",
+            "C": "O adicional por atividade penosa é vedado aos servidores ocupantes de cargos do Quadro Efetivo.",
+            "D": "A caracterização de insalubridade exige, em todos os casos sem exceção, laudo pericial individual prévio, descabendo presunção legal.",
+            "E": "O adicional de remuneração por insalubridade substitui integralmente o vencimento-base do servidor."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O Art. 28, parágrafo único dispõe textualmente: \"Considera-se, desde logo, atividade insalubre a de taquígrafo.\"\nB) INCORRETA. O texto legal prevê expressamente o enquadramento direto para a atividade de taquígrafo como insalubre, sem menção a fotógrafo como perigosa.\nC) INCORRETA. O Art. 28 assegura aos servidores que exercem atividades penosas, insalubres ou perigosas o adicional de remuneração.\nD) INCORRETA. O próprio texto da lei considerou \"desde logo\" a atividade de taquígrafo como insalubre, constituindo presunção/enquadramento legal direto.\nE) INCORRETA. Trata-se de adicional de remuneração na forma da lei, e não substituição do vencimento-base.",
+          "base_legal": {
+            "dispositivo": "Art. 28, Parágrafo Único",
+            "texto": "Parágrafo Único - Considera-se, desde logo, atividade insalubre a de taquígrafo."
+          }
+        },
+        {
+          "enunciado": "Nos termos do Art. 29 do Decreto Legislativo nº 70/1990, o preenchimento dos cargos efetivos criados por esse diploma legal sujeita-se a regras temporais e condicionantes. Assinale a alternativa correta.",
+          "alternativas": {
+            "A": "Os cargos efetivos criados puderam ser preenchidos livremente por portaria da Presidência antes da realização de concurso público.",
+            "B": "Os cargos efetivos criados não poderão ser preenchidos, a qualquer título, antes da realização do regular concurso público, que deverá ocorrer no prazo máximo de seis meses, a contar da publicação do Decreto, ressalvados aqueles para os quais já existiam aprovados no último concurso em vigor.",
+            "C": "O concurso público para provimento dos novos cargos efetivos deveria ocorrer no prazo improrrogável de dois anos da publicação do texto legal.",
+            "D": "Ficou vedado o aproveitamento de candidatos aprovados em concursos públicos anteriores que estivessem em vigor na data de publicação do Decreto.",
+            "E": "A realização do concurso público para os cargos criados era facultativa, podendo ser substituída por processo seletivo simplificado."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O Art. 29 proíbe o preenchimento a qualquer título antes do regular concurso público.\nB) CORRETA. Transcreve com exatidão o prazo máximo de 6 (seis) meses e a ressalva relativa aos aprovados no último concurso em vigor.\nC) INCORRETA. O prazo máximo fixado no Art. 29 é de seis (06) meses, e não dois anos.\nD) INCORRETA. O Art. 29 ressalvou expressamente os cargos para os quais já existiam aprovados no último concurso hoje em vigor.\nE) INCORRETA. Exige-se obrigatoriamente concurso público prévio.",
+          "base_legal": {
+            "dispositivo": "Art. 29",
+            "texto": "Art. 29 - Os cargos efetivos criados no presente Decreto Legislativo não poderão ser preenchidos, a qualquer título, antes da realização do regular concurso público, que deverá ocorrer no prazo máximo de seis (06) meses, a contar da publicação deste Decreto Legislativo, ressalvado aqueles para os quais já existem aprovados no último concurso hoje em vigor."
+          }
+        },
+        {
+          "enunciado": "Conforme estabelece o Art. 30 do Decreto Legislativo nº 70/1990, no que diz respeito à organização e realização de concurso público para provimento de cargos efetivos da ALEPA:",
+          "alternativas": {
+            "A": "A Mesa Diretora contratará preferencialmente empresas privadas especializadas em certames nacionais.",
+            "B": "A realização do concurso será de responsabilidade exclusiva do Departamento de Pessoal, vedada a participação de universidades.",
+            "C": "A Mesa Diretora, obrigatoriamente, solicitará a colaboração da Universidade Federal do Pará, da Universidade do Estado do Pará ou de outras entidades de ensino oficial de nível superior.",
+            "D": "A colaboração das universidades estaduais e federais é facultativa, a critério da comissão executiva do concurso.",
+            "E": "O concurso público deverá ser organizado obrigatoriamente por órgão técnico do Poder Executivo Estadual."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. A norma impõe a solicitação obrigatória de colaboração a entidades oficiais de ensino superior (UFPA, UEPA, etc.).\nB) INCORRETA. O Art. 30 impõe a solicitação obrigatória de colaboração de instituições públicas de ensino de nível superior.\nC) CORRETA. Fiel à exigência do Art. 30, que obriga a Mesa Diretora a solicitar a colaboração da UFPA, UEPA ou outras entidades de ensino oficial de nível superior.\nD) INCORRETA. A norma utiliza o advérbio \"obrigatoriamente\".\nE) INCORRETA. A competência é da Mesa Diretora do Legislativo, devendo solicitar colaboração das instituições oficiais de ensino superior listadas.",
+          "base_legal": {
+            "dispositivo": "Art. 30",
+            "texto": "Art. 30 - Quando da organização e realização de concurso público para provimento de cargos efetivos, a Mesa Diretora, obrigatoriamente, solicitará a colaboração da Universidade Federal do Pará, da Universidade do Estado do Pará ou de outras entidades de ensino oficial de nível superior."
+          }
+        },
+        {
+          "enunciado": "Sobre a extinção de cargos antigos e o regime de admissão de pessoal previsto nos Arts. 31 e 32 do Decreto Legislativo nº 70/1990, assinale a opção correta.",
+          "alternativas": {
+            "A": "Os antigos cargos de provimento efetivo foram mantidos em paralelo aos novos quadros criados.",
+            "B": "Permite-se a admissão de pessoal celetista temporário mediante autorização do Presidente da Assembleia.",
+            "C": "A extinção dos cargos antigos ocorreu de forma automática antes do enquadramento do pessoal.",
+            "D": "Os atuais cargos dos Quadros de Provimento Efetivo e em Comissão serão considerados extintos com o enquadramento do pessoal nos novos quadros, sendo vedada a admissão por regime diverso do previsto no Decreto.",
+            "E": "O Poder Legislativo poderá adotar o regime da Consolidação das Leis do Trabalho (CLT) para cargos de apoio operacional."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O Art. 31 estabelece que os atuais cargos serão considerados extintos com o enquadramento do pessoal.\nB) INCORRETA. O Art. 32 proíbe expressamente a admissão por regime diverso do previsto no Decreto Legislativo.\nC) INCORRETA. A extinção opera-se com o enquadramento do pessoal nos quadros criados (Art. 31).\nD) CORRETA. Une as regras do Art. 31 (extinção vinculada ao enquadramento) e do Art. 32 (vedação de admissão por regime diverso).\nE) INCORRETA. O Art. 32 veda expressamente a admissão por regime diverso do previsto no próprio Decreto Legislativo.",
+          "base_legal": {
+            "dispositivo": "Art. 32",
+            "texto": "Art. 32 - Fica vedada a admissão de pessoal, no âmbito do Poder Legislativo Estadual, por regime diverso do previsto no presente Decreto Legislativo."
+          }
+        },
+        {
+          "enunciado": "O Art. 33 do Decreto Legislativo nº 70/1990 fixa a estrutura de referências salariais para cada categoria funcional do Poder Legislativo do Pará. O número de referências e o percentual de variação entre elas são, respectivamente:",
+          "alternativas": {
+            "A": "10 referências, com variação de 10% no vencimento de uma para outra.",
+            "B": "12 referências, com variação de 2,5% no vencimento de uma para outra.",
+            "C": "15 referências, com variação de 5% no vencimento de uma para outra.",
+            "D": "20 referências, com variação de 3% no vencimento de uma para outra.",
+            "E": "18 referências, com variação de 5% no vencimento de uma para outra."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O número de referências é 18 e o percentual é 5%.\nB) INCORRETA. Os parâmetros legais do Art. 33 são 18 referências e 5% de variação.\nC) INCORRETA. O número correto de referências é 18 (e não 15).\nD) INCORRETA. Os parâmetros legais são 18 referências e variação de 5%.\nE) CORRETA. Transcreve com exatidão os números fixados no Art. 33: 18 referências com variação de 5% no vencimento de uma para outra.",
+          "base_legal": {
+            "dispositivo": "Art. 33",
+            "texto": "Art. 33 - Cada categoria funcional terá 18 referências, com variação de 5% no vencimento de uma para outra."
+          }
+        },
+        {
+          "enunciado": "Conforme estabelece o Art. 34 do Decreto Legislativo nº 70/1990, a classificação de servidores pelo sistema do mérito observará as seguintes condições:",
+          "alternativas": {
+            "A": "Será efetivada após dois anos, contados da data da publicação do Decreto Legislativo, mediante prévia avaliação de desempenho.",
+            "B": "Ocorrerá anualmente e de forma automática, independentemente de avaliação de desempenho.",
+            "C": "Será efetivada no prazo de trinta dias da publicação do Decreto, por ato exclusivo da Chefia de Gabinete.",
+            "D": "Aplica-se apenas aos servidores ocupantes do Quadro Suplementar que possuam mais de dez anos de serviço.",
+            "E": "Exige aprovação em novo concurso público de exames e títulos a cada cinco anos."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O Art. 34 dispõe textualmente que a classificação pelo sistema do mérito será efetivada após dois anos contados da publicação, mediante prévia avaliação de desempenho.\nB) INCORRETA. A norma exige o transcurso de dois anos e a realização de prévia avaliação de desempenho.\nC) INCORRETA. O prazo legal é de dois anos (e não trinta dias) e exige prévia avaliação de desempenho.\nD) INCORRETA. A classificação pelo sistema do mérito é norma geral para os servidores do quadro.\nE) INCORRETA. O sistema do mérito refere-se à evolução na carreira mediante avaliação de desempenho, e não prestação de novos concursos públicos.",
+          "base_legal": {
+            "dispositivo": "Art. 34",
+            "texto": "Art. 34 - A classificação de servidores pelo sistema do mérito será efetivada após dois anos, contados da data da publicação do presente Decreto legislativo, mediante prévia avaliação de desempenho."
+          }
+        },
+        {
+          "enunciado": "A Comissão de Enquadramento dos funcionários foi disciplinada no Art. 35 do Decreto Legislativo nº 70/1990. Sobre sua composição, prazos de nomeação e de trabalho, assinale a afirmativa correta.",
+          "alternativas": {
+            "A": "A comissão será nomeada no prazo de quinze dias pelo Primeiro Secretário, que exercerá sua presidência.",
+            "B": "O Presidente da Assembleia nomeará no prazo de cinco dias comissão sob a presidência do 1º Secretário da Mesa, para promover o enquadramento no prazo de quinze dias, prorrogável por igual período.",
+            "C": "O prazo para a comissão concluir os trabalhos de enquadramento é de trinta dias improrrogáveis.",
+            "D": "A comissão será composta exclusivamente por membros da Associação dos Servidores (ASALP).",
+            "E": "O prazo de nomeação da comissão é de vinte dias e seus trabalhos deverão ser concluídos em no máximo noventa dias."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. A nomeação é feita pelo Presidente da Assembleia no prazo de 5 dias (Art. 35).\nB) CORRETA. Sintetiza com precisão os prazos de 5 dias para nomeação, a presidência pelo 1º Secretário e o prazo de trabalho de 15 dias prorrogável por igual período (Art. 35).\nC) INCORRETA. O prazo é de 15 dias, prorrogável por igual período (totalizando até 30 dias com prorrogação, mas a regra nominal do texto é 15 dias prorrogável).\nD) INCORRETA. A comissão é heterogênea: 1º Secretário, 1 Procurador, 1 Consultor, Diretor de Pessoal, Chefe de Seleção, 1 da ASALP e 3 indicados pela Presidência.\nE) INCORRETA. Os prazos legais são 5 dias para nomeação e 15 dias (prorrogáveis) para conclusão dos trabalhos.",
+          "base_legal": {
+            "dispositivo": "Art. 35",
+            "texto": "Art. 35 - No prazo de cinco dias, a contar da publicação deste Decreto Legislativo, o Presidente da Assembléia nomeará uma Comissão composta do 1° Secretário da Mesa Diretora, 01 (um) Procurador, 01 (um) Consultor, o Diretor do Departamento de Pessoal, o Chefe do Serviço de Seleção, Treinamento e Lotação de Pessoal, 01 (um) representante da ASALP e três (03) funcionários a serem indicados pela Presidência, para, sob a Presidência do Primeiro, promover, no prazo de quinze (15) dias, prorrogável por igual período, o enquadramento dos funcionários de conformidade com os termos deste Decreto Legislativo."
+          }
+        },
+        {
+          "enunciado": "A revisão e atualização da tabela de vencimentos anexa ao Decreto Legislativo nº 70/1990 foi objeto do Art. 36. Quanto à competência, prazo e acompanhamento, é correto afirmar que:",
+          "alternativas": {
+            "A": "Será realizada pelo Governador do Estado no prazo de trinta dias da publicação do Decreto.",
+            "B": "Competirá à comissão de enquadramento no prazo prorrogável de trinta dias.",
+            "C": "Será realizada pela Mesa Diretora no prazo improrrogável de quinze dias, com acompanhamento das Lideranças Partidárias e da ASALP.",
+            "D": "A revisão da tabela independe do acompanhamento das Lideranças Partidárias e da ASALP.",
+            "E": "O prazo para a Mesa Diretora rever a tabela é de trinta dias, prorrogável por igual período."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. A competência é da Mesa Diretora da Assembleia (e não do Governador) no prazo de 15 dias.\nB) INCORRETA. A competência atribuída no Art. 36 é da Mesa Diretora.\nC) CORRETA. Fiel ao Art. 36: competência da Mesa Diretora, prazo improrrogável de 15 dias e acompanhamento das Lideranças Partidárias e da ASALP.\nD) INCORRETA. O Art. 36 exige expressamente o acompanhamento das Lideranças Partidárias e da ASALP.\nE) INCORRETA. O prazo legal é improrrogável de 15 dias.",
+          "base_legal": {
+            "dispositivo": "Art. 36",
+            "texto": "Art. 36 - A tabela de vencimentos anexa a este Decreto Legislativo será revista e atualizada pela Mesa Diretora no prazo improrrogável de quinze (15) dias, com acompanhamento das Lideranças Partidárias e da ASALP."
+          }
+        },
+        {
+          "enunciado": "O Art. 37 do Decreto Legislativo nº 70/1990 estipulou o prazo para a votação do regulamento de promoção e ascensão na carreira (referido no Art. 12). Esse regulamento deve ser votado:",
+          "alternativas": {
+            "A": "No prazo improrrogável de dez dias a contar da publicação do Decreto Legislativo.",
+            "B": "Juntamente com a Lei de Diretrizes Orçamentárias do exercício financeiro subsequente.",
+            "C": "No prazo de sessenta dias contados do encerramento dos trabalhos da Comissão de Enquadramento.",
+            "D": "Dentro do prazo de trinta dias, contados da instalação da próxima legislatura.",
+            "E": "No prazo de cinco dias a contar da escolha do Primeiro Secretário da Mesa Diretora."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O prazo é de trinta dias a contar da instalação da próxima legislatura (Art. 37).\nB) INCORRETA. O texto legal fixa prazo vinculado à instalação da próxima legislatura, sem menção à LDO.\nC) INCORRETA. O termo inicial é a instalação da próxima legislatura, e o prazo é de 30 dias.\nD) CORRETA. Transcreve com exatidão o prazo e o termo inicial definidos no Art. 37.\nE) INCORRETA. O prazo legal é de trinta (30) dias contados da instalação da próxima legislatura.",
+          "base_legal": {
+            "dispositivo": "Art. 37",
+            "texto": "Art. 37 - O regulamento a que se refere o art. 12 deste Decreto Legislativo deve ser votado dentro do prazo de trinta (30) dias, contados da instalação da próxima legislatura."
+          }
+        },
+        {
+          "enunciado": "No tocante às disposições orçamentárias e de vigência contidas nos Arts. 38 e 39 do Decreto Legislativo nº 70/1990, assinale a opção correta.",
+          "alternativas": {
+            "A": "As despesas decorrentes do Decreto correrão à conta de crédito suplementar a ser aberto pelo Poder Executivo no prazo de noventa dias.",
+            "B": "O Decreto Legislativo entrou em vigor noventa dias após sua publicação no Diário Oficial (vacatio legis).",
+            "C": "A revogação das normas anteriores dependia de regulamentação posterior por Ato da Presidência.",
+            "D": "As despesas de execução serão custeadas exclusivamente pelo Fundo de Reserva do Estado do Pará.",
+            "E": "As despesas com a execução do Decreto correrão à conta das dotações orçamentárias próprias, e a norma entrou em vigor na data de sua publicação, revogadas as disposições em contrário."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O Art. 38 estabelece que as despesas correrão à conta das dotações orçamentárias próprias.\nB) INCORRETA. O Art. 39 prevê entrada em vigor na data de sua publicação.\nC) INCORRETA. A revogação das resoluções/atos contrários operou-se na data da publicação pelo Art. 39.\nD) INCORRETA. As despesas correm à conta das dotações orçamentárias próprias (Art. 38).\nE) CORRETA. Reflete com exatidão a regra orçamentária do Art. 38 e a vigência imediata e cláusula revogatória do Art. 39.",
+          "base_legal": {
+            "dispositivo": "Art. 39",
+            "texto": "Art. 39 - O presente Decreto Legislativo entrará em vigor na data de sua publicação, revogada quaisquer resoluções ou Atos Legislativo que tenham tratado da matéria contida no presente Decreto Legislativo ou que dispuserem em contrário."
+          }
+        }
+      ]
     }
   ]
 }
