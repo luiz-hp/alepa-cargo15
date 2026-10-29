@@ -1,0 +1,932 @@
+{
+  "atualizado_em": "2026-10-29",
+  "normas": [
+    {
+      "id": "dl-70-1990",
+      "tipo": "Decreto Legislativo",
+      "numero": "70",
+      "ano": 1990,
+      "ementa": "Dispõe sobre os quadros de pessoal da Assembléia Legislativa do Estado do Pará e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei70_1990_62874.pdf"
+        }
+      ],
+      "material": "dados/normas/dl-70-1990.json"
+    },
+    {
+      "id": "dl-39-1991",
+      "tipo": "Decreto Legislativo",
+      "numero": "39",
+      "ano": 1991,
+      "ementa": "Dispõe sobre a transformação e extinção de cargos do Quadro de Provimento Efetivo da Assembléia Legislativa do Estado do Pará e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei39_1991_96558.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-32-1993",
+      "tipo": "Decreto Legislativo",
+      "numero": "32",
+      "ano": 1993,
+      "ementa": "TRANSFORMA CARGOS NO QUADRO DE PESSOAL DA ASSEMBLÉIA LEGISLATIVA PARA EFEITO DE POSSIBILITAR O REBAIXAMENTO OU RELOTAÇÃO DE SERVIDORES IRREGULARES OU ILEGAIS, E DÁ OUTRAS PROVIDÊNCIAS.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei32_1993_22614.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-53-1993",
+      "tipo": "Decreto Legislativo",
+      "numero": "53",
+      "ano": 1993,
+      "ementa": "Revoga dispositivos e acrescenta outros no Decreto Legislativo nº 68/90, de 13 de dezembro de 1990.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei53_1993_46216.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-29-1995",
+      "tipo": "Decreto Legislativo",
+      "numero": "29",
+      "ano": 1995,
+      "ementa": "DISPÕE SOBRE A ESTRUTURA BÁSICA DA ASSESSORIA POLICIAL-MILITAR DO GABINETE DA PRESIDÊNCIA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO PARÁ.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei29_1995_65871.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-06-1997",
+      "tipo": "Decreto Legislativo",
+      "numero": "06",
+      "ano": 1997,
+      "ementa": "DISPÕE SOBRE A CRIAÇÃO DE CARGO NO QUADRO DE PROVIMENTO EM COMISSÃO DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO PARÁ E DÁ OUTRAS PROVIDÊNCIAS.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei06_1997_74529.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-14-1997",
+      "tipo": "Decreto Legislativo",
+      "numero": "14",
+      "ano": 1997,
+      "ementa": "ALTERA O DECRETO LEGISLATIVO N° 29, DE 29 DE JUNHO DE 1995.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei14_1997_75574.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-36-1997",
+      "tipo": "Decreto Legislativo",
+      "numero": "36",
+      "ano": 1997,
+      "ementa": "Modifica a redação do § 1° do art. 5° do Decreto Legislativo n° 70, de 13 de dezembro de 1990.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei36_1997_28879.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-41-1997",
+      "tipo": "Decreto Legislativo",
+      "numero": "41",
+      "ano": 1997,
+      "ementa": "CONFERE NOVA ESTRUTURA FUNCIONAL AOS GABINETES DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO PARÁ E DÁ OUTRAS PROVIDÊNCIAS.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei41_1997_85369.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-04-2000",
+      "tipo": "Decreto Legislativo",
+      "numero": "04",
+      "ano": 2000,
+      "ementa": "Cria o cargo de Secretário Parlamentar e disciplina a verba de gabinete dos Senhores Deputados Estaduais.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2000_19721.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-22-2003",
+      "tipo": "Decreto Legislativo",
+      "numero": "22",
+      "ano": 2003,
+      "ementa": "Confere nova redação ao § 1º do art. 3º do Decreto Legislativo nº 29, de 29 de junho de 1995.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei22_2003_79555.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-01-2006",
+      "tipo": "Decreto Legislativo",
+      "numero": "01",
+      "ano": 2006,
+      "ementa": "Dispõe sobre a transformação e criação de cargos no Quadro de Pessoal da Assembléia Legislativa do Estado do Pará e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei01_2006_25554.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-01-2007",
+      "tipo": "Decreto Legislativo",
+      "numero": "01",
+      "ano": 2007,
+      "ementa": "Dispõe sobre a adequação da estrutura organo-funcional da Assembléia Legislativa do Estado do Pará e da outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei01_2007_94946.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-04-2007",
+      "tipo": "Decreto Legislativo",
+      "numero": "04",
+      "ano": 2007,
+      "ementa": "Dispõe sobre o subsídio dos Membros da Assembléia Legislativa do Estado do Pará à 16ª Legislatura e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2007_65497.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-10-2007",
+      "tipo": "Decreto Legislativo",
+      "numero": "10",
+      "ano": 2007,
+      "ementa": "Altera o Decreto Legislativo n°. 01/2007, de 21 de março de 2007, que dispõe sobre a estrutura organo-funcional da Assembléia Legislativa do Estado do Pará.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei10_2007_97894.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-04-2008",
+      "tipo": "Decreto Legislativo",
+      "numero": "04",
+      "ano": 2008,
+      "ementa": "Altera dispositivo do Decreto Legislativo nº 01/2007 e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2008_92227.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-45-2009",
+      "tipo": "Decreto Legislativo",
+      "numero": "45",
+      "ano": 2009,
+      "ementa": "Cria o Departamento de Gestão de Pessoas na estrutura dos serviços administrativos da Assembléia Legislativa do Pará e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei45_2009_48841.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-06-2010",
+      "tipo": "Decreto Legislativo",
+      "numero": "06",
+      "ano": 2010,
+      "ementa": "Institui o Plano de Cargos, Carreira e Salários – PCCS, da Assembléia Legislativa do Estado do Pará, e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei06_2010_32151.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-03-2012",
+      "tipo": "Decreto Legislativo",
+      "numero": "03",
+      "ano": 2012,
+      "ementa": "Altera dispositivos dos Decretos Legislativos nº 01/2006, de 04 de janeiro de 2006 e nº 45/2009, de 18 de novembro de 2009.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei03_2012_45663.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-04-2012",
+      "tipo": "Decreto Legislativo",
+      "numero": "04",
+      "ano": 2012,
+      "ementa": "Altera o Decreto Legislativo nº 06, de 17 de junho de 2010, transformando, adequando e modernizando o Quadro de Pessoal de Servidores de Provimento Efetivo da Assembléia Legislativa do Estado do Pará, e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2012_76612.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-106-2012",
+      "tipo": "Decreto Legislativo",
+      "numero": "106",
+      "ano": 2012,
+      "ementa": "Dispõe nos termos da Emenda Constitucional n° 52, de 21 de março de 2012, sobre a Coordenadoria Técnico-Legislativa na estrutura organo-funcional da Assembleia Legislativa do Estado do Pará, altera os Decretos Legislativos 45/2009, 06/2010 e 04/2012.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei106_2012_71441.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-18-2013",
+      "tipo": "Decreto Legislativo",
+      "numero": "18",
+      "ano": 2013,
+      "ementa": "Altera o Decreto Legislativo nº 29, de 29 de junho de 1995.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei18_2013_39374.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-27-2014",
+      "tipo": "Decreto Legislativo",
+      "numero": "27",
+      "ano": 2014,
+      "ementa": "Cria a Coordenadoria da Seguridade Parlamentar.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei27_2014_47997.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-05-2015",
+      "tipo": "Decreto Legislativo",
+      "numero": "05",
+      "ano": 2015,
+      "ementa": "Altera os dispositivos dos Decretos Legislativos n°s 10/2007, de 19 de setembro de 2007 e 03/2012, de 04 de abril de 2012, que dispõe sobre a estrutura organo-funcional da Assembleia Legislativa do Estado do Pará.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei05_2015_27695.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-35-2015",
+      "tipo": "Decreto Legislativo",
+      "numero": "35",
+      "ano": 2015,
+      "ementa": "Altera a redação do Decreto Legislativo nº 04, de 04 de abril de 2012, que trata do Plano de Cargos Carreira e Remuneração dos Servidores Efetivos da Assembleia Legislativa do Estado do Pará, conferindo reprodução integral em novo texto, na forma do que dispõe o inciso I, do artigo 12, da Lei Complementar Nacional nº 95, de 26 de fevereiro de 1998; revoga o Decreto Legislativo nº 32, de 05 de maio de 1993; altera dispositivos do Decreto Legislativo nº 70, de 13 de dezembro de 1990, e do Decreto Legislativo nº 06, de 17 de junho de 2010; e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei35_2015_68432.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-02-2017",
+      "tipo": "Decreto Legislativo",
+      "numero": "02",
+      "ano": 2017,
+      "ementa": "CRIA O DEPARTAMENTO DE MEMORIAL DO LEGISLATIVO DO ESTADO DO PARÁ, NA ESTRUTURA DA ASSEMBLEIA LEGISLATIVA, DISPÕE SOBRE AS COMISSÕES DE EDUCAÇÃO E CULTURA.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei02_2017_94378.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-11-2017",
+      "tipo": "Decreto Legislativo",
+      "numero": "11",
+      "ano": 2017,
+      "ementa": "ACRECENTA O ART. 5º - A, NO TEXTO DO DECRETO LEGISLATIVO Nº 35, DE 15 DE DEZEMBRO DE 2015.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei11_2017_37896.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-111-2020",
+      "tipo": "Decreto Legislativo",
+      "numero": "111",
+      "ano": 2020,
+      "ementa": "Altera e dá nova redação ao art. 3º, do Decreto Legislativo nº 60/95 e ao art. 8º do Decreto Legislativo nº 03/2012.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei111_2020_74235.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-15-2021",
+      "tipo": "Decreto Legislativo",
+      "numero": "15",
+      "ano": 2021,
+      "ementa": "Altera e dá nova redação ao art. 3° do Decrete Legislativo nº 60/95 e revoga o Decreto Legislativo n° 111/20.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei15_2021_17341.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-36-2021",
+      "tipo": "Decreto Legislativo",
+      "numero": "36",
+      "ano": 2021,
+      "ementa": "Regulamenta o inciso II, do art.132, da Lei n° 5.810/94.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei36_2021_73361.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-02-2022",
+      "tipo": "Decreto Legislativo",
+      "numero": "02",
+      "ano": 2022,
+      "ementa": "Dispõe sobre a indenização das férias e conversão em pecúnia das licenças-prêmio dos servidores da Assembleia Legislativa do Estado do Pará.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei02_2022_83737.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-23-2022",
+      "tipo": "Decreto Legislativo",
+      "numero": "23",
+      "ano": 2022,
+      "ementa": "Reformula o Diário Oficial da Assembleia Legislativa do Estado do Pará, instituindo a versão digital, e revoga o Decreto Legislativo nº 20/85.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei23_2022_72934.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-05-2023",
+      "tipo": "Decreto Legislativo",
+      "numero": "05",
+      "ano": 2023,
+      "ementa": "Cria o cargo de Ouvidor Geral e cargos para a Procuradoria da Mulher.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei05_2023_97485.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-13-2024",
+      "tipo": "Decreto Legislativo",
+      "numero": "13",
+      "ano": 2024,
+      "ementa": "Altera o número de vagas para os cargos de Secretário e Assistente de Comissão Técnica deste Poder Legislativo.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei13_2024_71324.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-14-2024",
+      "tipo": "Decreto Legislativo",
+      "numero": "14",
+      "ano": 2024,
+      "ementa": "Dispõe sobre a Criação do Cargo de Provimento em Comissão de Agente de Contratação - DAS.201.5, que passa a integrar o Quadro de Cargos de Provimento em Comissão, disposto no Anexo IV, e alterações posteriores, do Decreto Legislativo nº 06, de 17 de junho de 2010, que institui o Plano de Cargos, Carreiras e Salaries (PCCS), da Assembleia Legislativa do Estado do Pará, a fim de se adequar as disposições da Lei Federal nº 14.133, de 19 de abril de 2021, que estabelece normas gerais de Licitações e Contratos Administrativos, além de extinguir a Comissão Permanente de Licitação.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei14_2024_31382.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-11-2025",
+      "tipo": "Decreto Legislativo",
+      "numero": "11",
+      "ano": 2025,
+      "ementa": "Dispõe sobre a adequação da estrutura organofuncional da Assembleia Legislativa do Estado do Pará.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei11_2025_14265.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-12-2025",
+      "tipo": "Decreto Legislativo",
+      "numero": "12",
+      "ano": 2025,
+      "ementa": "Dispõe sobre a organização dos Gabinetes Parlamentares e institui as funções de apoio legislativo no âmbito da Assembleia Legislativa do Estado do Pará.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei12_2025_17388.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "dl-13-2025",
+      "tipo": "Decreto Legislativo",
+      "numero": "13",
+      "ano": 2025,
+      "ementa": "Revoga os Decretos Legislativos nºs. 04, de 26 de abril de 2000; 01, de 15 de março de 2007; 10, de 19 de setembro de 2007 e o art. 2º do Decreto Legislativo nº 05, de 02 de junho de 2015.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei13_2025_75494.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-11-1991",
+      "tipo": "Resolução",
+      "numero": "11",
+      "ano": 1991,
+      "ementa": "A representação dos cargos de Procurador – PL.AL.105, Consultor – PL.AL.104, Supervisor de Planejamento – PL.AL.104, Técnico em Manutenção de Patrimônio – PL.AL.104, Contador – PL.AL.104, Técnico em Assessoramento Legislativo- PL.AL.105, Técnico em Direção e Assistência Legislativa – PL.AL.104, Consultor Técnico Legislativo- DAS.202.3, Assessor Legislativo – PL.AL.104, Assessor de Contabilidade – PL.AL.104, Técnico em Serviços – PL.AL.104 e Chefe de Pessoal – PL.AL.104, corresponderá a uma vez os respectivos vencimentos.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei11_1991_82692.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-13-1991",
+      "tipo": "Resolução",
+      "numero": "13",
+      "ano": 1991,
+      "ementa": "Cria o Museu Legislativo do Estado do Pará e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei13_1991_11788.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-18-1991",
+      "tipo": "Resolução",
+      "numero": "18",
+      "ano": 1991,
+      "ementa": "Fica atribuído aos praças que integram a Assessoria Militar da Assembléia Legislativa, a Gratificação de Representação no valor correspondente a remuneração de seus respectivos soldos.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei18_1991_51522.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-62-1991",
+      "tipo": "Resolução",
+      "numero": "62",
+      "ano": 1991,
+      "ementa": "APROVA O REGULAMENTO DO DEPARTAMENTO DO BEM-ESTAR SOCIAL DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO PARÁ.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei62_1991_97211.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-14-1992",
+      "tipo": "Resolução",
+      "numero": "14",
+      "ano": 1992,
+      "ementa": "APROVA O REGIMENTO INTERNO DA PROCURADORIA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO PARÁ.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei14_1992_66175.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-02-1993",
+      "tipo": "Resolução",
+      "numero": "02",
+      "ano": 1993,
+      "ementa": "Há dois atos com este número no Banco de Leis da ALEPA. Confira qual é o cobrado.",
+      "pdfs": [
+        {
+          "rotulo": "Institui o Festival de Arte e Poesia da Assembléia Legislativa do Estado do Pará e dá outras providências.",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei02%20-%201_1993_41236.pdf"
+        },
+        {
+          "rotulo": "FIXA NORMAS PARA O CUMPRIMENTO, NA ASSEMBLÉIA LEGISLATIVA, DO ART. 20 DA CONSTITUIÇÃO DO ESTADO DO PARÁ, \"DO ATO DAS DIS",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei02%20-%202_1993_31378.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-04-1993",
+      "tipo": "Resolução",
+      "numero": "04",
+      "ano": 1993,
+      "ementa": "Há dois atos com este número no Banco de Leis da ALEPA. Confira qual é o cobrado.",
+      "pdfs": [
+        {
+          "rotulo": "APROVA O REGIMENTO INTERNO DA CONSULTORIA TÉCNICA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO PARÁ.",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04%20-%201_1993_53496.pdf"
+        },
+        {
+          "rotulo": "DENOMINA “CELINO RODRIGUES DA SILVA” A SALA DESTINADA À SEÇÃO DE OPERAÇÃO DE SOM DO PLENÁRIO E DÁ OUTRAS PROVIDÊNCIAS.",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04%20-%202_1993_58239.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-05-1993",
+      "tipo": "Resolução",
+      "numero": "05",
+      "ano": 1993,
+      "ementa": "Dispõe sobre a gratificação de Dedicação Legislativa e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei05_1993_98376.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-18-1993",
+      "tipo": "Resolução",
+      "numero": "18",
+      "ano": 1993,
+      "ementa": "Acrescenta no Art. 3° uma alínea e modifica o Art. 5° e 10 do Regimento Interno da Consultoria Técnica e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei18_1993_77338.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-29-1993",
+      "tipo": "Resolução",
+      "numero": "29",
+      "ano": 1993,
+      "ementa": "Edita normas de procedimento para a Procuradoria da Assembléia Legislativa do Estado do Pará.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei29_1993_71415.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-04-1995",
+      "tipo": "Resolução",
+      "numero": "04",
+      "ano": 1995,
+      "ementa": "Há dois atos com este número no Banco de Leis da ALEPA. Confira qual é o cobrado.",
+      "pdfs": [
+        {
+          "rotulo": "Aprova e Institui o Regimento Interno da Assessoria Técnica da Assembléia Legislativa do Estado do Pará.",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04%20-%201_1995_76865.pdf"
+        },
+        {
+          "rotulo": "ACRESCENTA ALÍNEA M, AO INCISO II, DO ART. 19 E SUPRIME O ART. 284, QUE ACRESCENTA O § 4°, AO ART. 23, E SUPRIME O ART. ",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04%20-%202_1995_84446.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-11-1997",
+      "tipo": "Resolução",
+      "numero": "11",
+      "ano": 1997,
+      "ementa": "INSTITUI O CÓDIGO DE ÉTICA E DECORO PARLAMENTAR DA ASSEMBLÉIA LEGISLATIVA DO ESTADO E DÁ OUTRAS PROVIDÊNCIAS.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei11_1997_78267.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-01-1999",
+      "tipo": "Resolução",
+      "numero": "01",
+      "ano": 1999,
+      "ementa": "Denomina a Escola-Creche da Assembléia Legislativa do Estado do Pará de \"Núcleo Educacional Eng° Waldemar Chaves\" e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei01_1999_69952.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-03-2007",
+      "tipo": "Resolução",
+      "numero": "03",
+      "ano": 2007,
+      "ementa": "Institui A Ouvidoria Permanente da Assembléia Legislativa para encaminhar denúncias de preconceitos e discriminações. * Esta RESOLUÇÃO foi alterada integralmente pela Resolução nº 04, de 29 de maio de 2012, publicada no DOAL Nº1746, de 25/05 a 01/06/2012, mediante reprodução integral da matéria em novo texto ora acrescido à Resolução nº 02/94 – Regimento Interno da Assembleia Legislativa do Pará.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei03_2007_33961.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-04-2012",
+      "tipo": "Resolução",
+      "numero": "04",
+      "ano": 2012,
+      "ementa": "Altera integralmente a Resolução nº 03, de 11 de abril de 2007, que institui a Ouvidoria da Assembleia Legislativa.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2012_35231.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-08-2012",
+      "tipo": "Resolução",
+      "numero": "08",
+      "ano": 2012,
+      "ementa": "Aprova o Regimento Interno da Coordenadoria Técnico-Legislativa da Assembleia Legislativa do Estado do Pará e dá outras providências.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei08_2012_99737.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-03-2013",
+      "tipo": "Resolução",
+      "numero": "03",
+      "ano": 2013,
+      "ementa": "Modifica a Resolução n° 02/95, publicada no Diário Oficial do Estado n° 27.893, de 31 de janeiro de 1995, elaborada com amparo nas disposições do Decreto Legislativo n° 18, de 13 de dezembro de 1994, e, nos termos do Decreto Legislativo n° 68, de 13 de dezembro de 1990, com as alterações dadas pelo Decreto Legislativo n° 53, de 1° de dezembro de 1993; e com fiel observância das disposições do art. Art. 27 §2°, da Constituição Federal, e, ainda, ao art. 39 § 2° da Constituição Estadual.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei03_2013_55941.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-01-2017",
+      "tipo": "Resolução",
+      "numero": "01",
+      "ano": 2017,
+      "ementa": "Dispõe sobre os arts. 30 e 31 da Resolução 02/94 – Regimento Interno da ALEPA, desmembrando a Comissão Permanente de Educação, Cultura e Saúde.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei01_2017_17525.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-05-2017",
+      "tipo": "Resolução",
+      "numero": "05",
+      "ano": 2017,
+      "ementa": "ALTERA A RESOLUÇÃO Nº 02, DE 27 DE MARÇO DE 2013, (ENQUADRA NO PLANO DE CARGOS, CARREIRA E REMUNERAÇÃO DE QUE TRATA O DECRETO LEGISLATIVO Nº 04, DE 2012, OS SERVIDORES DA ASSEMBLEIA LEGISLATIVA), PARA EFEITO DE CUMPRIMENTO DO QUE PRECEITUA O § 1º, DO ART. 5º, DO DECRETO LEGISLATIVO Nº 35, DE 15 DE DEZEMBRO DE 2015, QUE ALTERA A REDAÇÃO DO DECRETO LEGISLATIVO Nº 04, DE 04 DE ABRIL DE 2012.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei05_2017_53363.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-04-2019",
+      "tipo": "Resolução",
+      "numero": "04",
+      "ano": 2019,
+      "ementa": "DISPÕE SOBRE A CRIAÇÃO DA PROCURADORIA ESPECIAL DA MULHER NO ÂMBITO DO ESTADO DO PARÁ",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2019_14164.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-02-2021",
+      "tipo": "Resolução",
+      "numero": "02",
+      "ano": 2021,
+      "ementa": "Institui o Programa de Formação Continuada e Modernização do Poder Legislativo denominado \"FORMA ALEPA/ELEPA ITINERANTE\", a ser coordenado pela Escola do Legislativo do Estado do Pará, criada pela Resolução n° 01, de 23 de dezembro de 2002, mediante a difusão de conhecimentos, feita no âmbito dos municípios e suas respectivas regiões de integração.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei02_2021_92911.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-03-2021",
+      "tipo": "Resolução",
+      "numero": "03",
+      "ano": 2021,
+      "ementa": "Institui a Rede Estadual de Ouvidorias Legislativas do Estado do Pará, composta pela Ouvidoria da Assembleia Legislativa e as Ouvidorias das Câmaras Municipais que se disponham a fazer parte, mediante a subscrição do respectivo termo de adesão.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei03_2021_85696.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-04-2021",
+      "tipo": "Resolução",
+      "numero": "04",
+      "ano": 2021,
+      "ementa": "Dispõe sobre a reorganização, ampliação e funcionamento do Poder do Legislativo do Estado do Pará, revoga as Resoluções n°s. 01, de 22 de junho de 1993 e 01, de 23 de dezembro de 2002.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2021_74464.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-02-2023",
+      "tipo": "Resolução",
+      "numero": "02",
+      "ano": 2023,
+      "ementa": "Altera e acrescenta dispositivos do Regimento Interno da Assembleia Legislativa do Estado do Pará, instituído por meio da Resolução nº 02, de 20 de dezembro de 2022.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei02_2023_26934.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-01-2025",
+      "tipo": "Resolução",
+      "numero": "01",
+      "ano": 2025,
+      "ementa": "Dispõe sobre a criação do Programa ALEPA Itinerante COP 30.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei01_2025_51751.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-02-2025",
+      "tipo": "Resolução",
+      "numero": "02",
+      "ano": 2025,
+      "ementa": "Acrescenta os §§ 1º e 2º no art. 1º da Resolução nº 01/25, que dispõe sobre a criação do programa “ALEPA Itinerante COP 30”.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei02_2025_34223.pdf"
+        }
+      ],
+      "material": null
+    },
+    {
+      "id": "res-18-1989",
+      "tipo": "Resolução",
+      "numero": "18",
+      "ano": 1989,
+      "ementa": "Dispõe sobre a participação de funcionário da Assembléia Legislativa em Congressos, Seminários e outros eventos culturais.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial (cadastro 1)",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260924131404_7dc9ce2b.pdf"
+        },
+        {
+          "rotulo": "Texto oficial (cadastro 2)",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260930131756_a4dd61ab_RESOLU_O_N_18_DE_09_DE_JUNHO_DE_1989.pdf"
+        }
+      ],
+      "material": null,
+      "observacao": "O edital original citava 18/2026; a Retificação nº 002/2026 corrigiu para 18/1989."
+    }
+  ]
+}
