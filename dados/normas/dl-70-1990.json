@@ -192,6 +192,134 @@
             "dispositivo": "Art. 10",
             "texto": "Art. 10 - Referência - indica a posição do ocupante do cargo na escala de vencimento da classe."
           }
+        },
+        {
+          "enunciado": "Nos termos das Disposições Preliminares contidas no Art. 1º do Decreto Legislativo nº 70/1990, as atividades desenvolvidas no âmbito do Poder Legislativo do Estado do Pará distribuem-se em:",
+          "alternativas": {
+            "A": "cargos públicos.",
+            "B": "empregos públicos regidos pela CLT.",
+            "C": "funções comissionadas puras.",
+            "D": "contratos temporários de prestação de serviços.",
+            "E": "grupos de trabalho estatutários intersecretariais."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Conforme o Art. 1º do Decreto Legislativo nº 70/1990, as atividades desenvolvidas no âmbito do Poder Legislativo distribuem-se, para os efeitos deste diploma, em cargos públicos.\nB) INCORRETA. A norma estabelece a distribuição em cargos públicos, não em empregos públicos regidos pela CLT.\nC) INCORRETA. O dispositivo fixa a distribuição em cargos públicos, abrangendo os quadros previstos no diploma.\nD) INCORRETA. A norma não condiciona nem limita a distribuição primária das atividades a contratos temporários.\nE) INCORRETA. O termo técnico e legal correto adotado no Art. 1º é 'cargos públicos'.",
+          "base_legal": {
+            "dispositivo": "Art. 1°",
+            "texto": "Art. 1° - As atividades desenvolvidas no âmbito do Poder Legislativo, distribuem-se, para os efeitos deste Decreto Legislativo, em cargos públicos."
+          }
+        },
+        {
+          "enunciado": "A respeito da definição e forma de provimento originário do cargo efetivo, nos termos do Art. 3º do Decreto Legislativo nº 70/1990, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "Cargo efetivo é aquele cujo provimento originário depende exclusivamente da livre escolha e nomeação da Mesa Diretora.",
+            "B": "Cargo efetivo é aquele para cujo provimento originário é exigida prévia aprovação em concurso público de provas ou de provas e títulos.",
+            "C": "O provimento originário de cargo efetivo exige, em todos os casos, concurso público exclusivamente de provas e títulos, vedada a modalidade de provas simples.",
+            "D": "Cargo efetivo é aquele destinado exclusivamente às funções de assessoramento e direção superior.",
+            "E": "O concurso público para cargo efetivo terá validade permanente, sendo desnecessária nova aprovação após 5 anos de exercício."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. A livre escolha e nomeação refere-se a cargos em comissão (como certas exceções do Art. 5º, § 4º), não ao provimento originário de cargo efetivo.\nB) CORRETA. Transcreve com precisão o conceito legal de cargo efetivo do Art. 3º.\nC) INCORRETA. O Art. 3º prevê concurso de 'provas ou de provas e títulos', e não exclusivamente de 'provas e títulos'.\nD) INCORRETA. Funções de assessoramento e direção superior são típicas de cargos em comissão (Art. 7º).\nE) INCORRETA. O Art. 3º fixa que para o provimento originário exige-se prévia aprovação em concurso público de provas ou de provas e títulos, sem estabelecer essa regra de validade permanente.",
+          "base_legal": {
+            "dispositivo": "Art. 3°",
+            "texto": "Art. 3° - Cargo efetivo é aquele para cujo o provimento originário é exigida prévia aprovação em concurso público de provas ou de provas e títulos."
+          }
+        },
+        {
+          "enunciado": "No tocante às naturezas dos cargos de provimento efetivo especificadas no Art. 4º do Decreto Legislativo nº 70/1990, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O cargo de natureza operacional é aquele para cujo provimento é exigida escolaridade de até 1° grau, ou estudos equivalentes.",
+            "B": "Cargo de natureza técnica é aquele para cujo provimento é exigida habilitação profissional em curso legalmente classificado como de 3° grau.",
+            "C": "O cargo de natureza técnica destina-se a atividades operacionais de suporte básico cujo provimento exige apenas escolaridade de até 1º grau.",
+            "D": "Os cargos efetivos classificam-se, quanto à natureza, em operacional, profissional e técnico.",
+            "E": "A exigência de curso legalmente classificado como de 3º grau é característica do cargo de natureza técnica."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O Art. 4º, § 1º estabelece que o cargo operacional exige escolaridade de até 1º grau ou equivalente.\nB) CORRETA (opção verdadeira). O Art. 4º, § 3º dispõe que o cargo técnico exige habilitação profissional em curso legalmente classificado como de 3º grau.\nC) INCORRETA (gabarito). Inverte os conceitos: o cargo que exige escolaridade de até 1º grau é o de natureza operacional (Art. 4º, § 1º). O cargo de natureza técnica exige curso de 3º grau (Art. 4º, § 3º).\nD) CORRETA (opção verdadeira). O Art. 4º, incisos I, II e III lista as três naturezas dos cargos efetivos: Operacional, Profissional e Técnico.\nE) CORRETA (opção verdadeira). O Art. 4º, § 3º exige exatamente a habilitação profissional em curso de 3º grau para o cargo de natureza técnica.",
+          "base_legal": {
+            "dispositivo": "Art. 4°, § 3°",
+            "texto": "§ 3° - Cargo de natureza técnica é aquele para cujo provimento é exigida habilitação profissional em curso legalmente classificado como de 3° grau."
+          }
+        },
+        {
+          "enunciado": "Sobre a definição e a destinação funcional do cargo em comissão, nos termos do Art. 5º, caput do Decreto Legislativo nº 70/1990, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "Cargo em comissão é aquele para cujo provimento originário exige-se aprovação em concurso público de provas e títulos e estabilidade de cinco anos.",
+            "B": "Cargo em comissão destina-se exclusivamente às atividades operacionais de conservação, limpeza e telefonia.",
+            "C": "Cargo em comissão é o conjunto de classes da mesma natureza funcional escalonadas hierarquicamente segundo a complexidade de suas atribuições.",
+            "D": "Cargo em comissão é aquele que, em virtude de lei, depende da confiança pessoal para seu provimento e se destina ao atendimento das atividades legislativas e administrativas do Poder Legislativo.",
+            "E": "Cargo em comissão depende de aprovação prévia em processo seletivo simplificado para atendimento de necessidade temporária do Poder Executivo."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. A aprovação em concurso público é exigência de provimento originário de cargo efetivo (Art. 3º).\nB) INCORRETA. Atividades de limpeza e conservação integram as Atividades Operacionais (AO) do Quadro Efetivo (Art. 6º, I).\nC) INCORRETA. Essa é a definição legal de Categoria Funcional (Art. 9º).\nD) CORRETA. Transcreve com exatidão a definição do Art. 5º, caput do Decreto Legislativo nº 70/1990.\nE) INCORRETA. O Art. 5º, caput define cargo em comissão como de confiança pessoal voltado às atividades legislativas e administrativas do Poder Legislativo.",
+          "base_legal": {
+            "dispositivo": "Art. 5°",
+            "texto": "Art. 5° - Cargo em comissão é aquele que, em virtude de lei, depende da confiança pessoal para seu provimento e se destina ao atendimento das atividades legislativas e administrativas do Poder Legislativo."
+          }
+        },
+        {
+          "enunciado": "O Art. 5º, § 2º do Decreto Legislativo nº 70/1990 traz uma ressalva em relação às exigências de escolaridade previstas no parágrafo anterior para os cargos do Quadro de Provimento em Comissão. Assinale a alternativa que reflete essa disposição legal.",
+          "alternativas": {
+            "A": "A publicação do Decreto anulou automaticamente todos os provimentos em comissão realizados sem escolaridade de nível superior.",
+            "B": "Os servidores comissionados sem a nova escolaridade exigida deveriam ser exonerados no prazo improrrogável de trinta dias.",
+            "C": "A exigência de escolaridade para os cargos em comissão retroagiu para atingir as nomeações feitas na legislatura anterior.",
+            "D": "A adequação de escolaridade aplicou-se apenas aos cargos de provimento efetivo, mantendo-se os comissionados sem exigência de grau escolar.",
+            "E": "O disposto no parágrafo anterior (exigências de escolaridade) não prejudicará o provimento efetuado até a data da publicação deste Decreto Legislativo."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O § 2º ressalva expressamente os provimentos efetuados até a publicação, impedindo sua anulação.\nB) INCORRETA. A norma ressalvou a situação dos já nomeados, sem impor exoneração por escolaridade.\nC) INCORRETA. A lei não retroagiu para prejudicar provimentos passados, haja vista a ressalva do § 2º.\nD) INCORRETA. O § 1º estabeleceu exigências de escolaridade para os cargos do Quadro de Provimento em Comissão, e o § 2º garantiu o provimento já efetuado.\nE) CORRETA. Transcreve o texto literal do Art. 5º, § 2º.",
+          "base_legal": {
+            "dispositivo": "Art. 5°, § 2°",
+            "texto": "§ 2° - O disposto no parágrafo anterior não prejudicará o provimento efetuado até a data da publicação deste Decreto Legislativo."
+          }
+        },
+        {
+          "enunciado": "Segundo a regra geral estipulada no Art. 5º, § 3º do Decreto Legislativo nº 70/1990, os cargos em comissão e as funções de confiança, de livre provimento e exoneração, serão exercidos:",
+          "alternativas": {
+            "A": "preferencialmente, por servidores ocupantes de cargos do quadro de provimento efetivo, de carreira técnica ou profissional.",
+            "B": "obrigatoriamente, por servidores concursados portadores de diploma de curso superior de 3º grau.",
+            "C": "exclusivamente, por cidadãos sem vínculo anterior com o serviço público estadual.",
+            "D": "prioritariamente, por integrantes do Quadro Suplementar inscritos no grupo de Atividades Operacionais.",
+            "E": "exclusivamente, por servidores colocados à disposição pela Administração Pública Federal."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O Art. 5º, § 3º estabelece expressamente que o exercício ocorrerá 'preferencialmente, por servidores ocupantes de cargos do quadro de provimento efetivo, de carreira técnica ou profissional'.\nB) INCORRETA. O advérbio utilizado na regra geral do § 3º é 'preferencialmente', e não 'obrigatoriamente' (a obrigatoriedade restringe-se aos cargos listados no § 4º).\nC) INCORRETA. A preferência dada pela lei é exatamente aos servidores ocupantes de cargos efetivos do quadro.\nD) INCORRETA. A preferência é dada aos efetivos de carreira técnica ou profissional.\nE) INCORRETA. Não há essa restrição ou preferência direcionada a servidores federais no § 3º.",
+          "base_legal": {
+            "dispositivo": "Art. 5°, § 3°",
+            "texto": "§ 3° - Os cargos em comissão e as funções de confiança, de livre provimento e exoneração, serão exercidos, preferencialmente, por servidores ocupantes de cargos do quadro de provimento efetivo, de carreira técnica ou profissional."
+          }
+        },
+        {
+          "enunciado": "A estrutura básica dos cargos de provimento efetivo desdobra-se em grupos operacionais (Art. 6º, I a IV). A respeito da abrangência de cada grupo, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Atividades Operacionais - AO abrangem as de preparo e distribuição de alimentos, limpeza e conservação, operação de xerox e elevadores e controle de entrada e saída de pessoas e bens.",
+            "B": "Atividades de Apoio Geral - AG abrangem o assessoramento direto ao Plenário e a organização de registro taquigráfico de pronunciamentos de interesse legislativo.",
+            "C": "Atividades de Nível Médio - NM abrangem as da área de profissionalização de caráter administrativo, contábil e serviços diversos.",
+            "D": "Atividades de Nível Superior - NS compreendem as relacionadas às áreas de ciências humanas e sociais e de ciência e tecnologia, indispensáveis ao pleno funcionamento dos diversos órgãos que integram a estrutura da Assembleia Legislativa.",
+            "E": "O transporte de passageiros e a telefonia integram o grupo Atividades de Apoio Geral - AG."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O Art. 6º, I descreve exatamente essa abrangência para o grupo AO.\nB) INCORRETA (gabarito). O assessoramento ao Plenário e o registro taquigráfico integram o grupo Atividades de Apoio Legislativo - AL (Art. 6º, V). O grupo AG compreende apoio à administração, manutenção, documentação fotográfica, transporte de passageiros e telefonia (Art. 6º, II).\nC) CORRETA (opção verdadeira). Transcreve fielmente a definição de NM do Art. 6º, III.\nD) CORRETA (opção verdadeira). Transcreve com exatidão o conceito de NS do Art. 6º, IV.\nE) CORRETA (opção verdadeira). O transporte de passageiros e telefonia constam expressamente no grupo AG (Art. 6º, II).",
+          "base_legal": {
+            "dispositivo": "Art. 6°, II",
+            "texto": "II - Atividades de Apoio Geral - AG, compreendendo as de apoio à administração, manutenção, documentação fotográfica, transporte de passageiros e telefonia."
+          }
+        },
+        {
+          "enunciado": "Considerando as definições constantes do Art. 7º, II e do Art. 8º do Decreto Legislativo nº 70/1990, assinale a afirmativa correta.",
+          "alternativas": {
+            "A": "Atividades de Assessoramento Superior - AS compreendem apenas a operação de xerox, elevadores e controle de entrada e saída de bens.",
+            "B": "Grupo Ocupacional é a linha de acesso do funcionário na categoria funcional a que pertencer até o cargo de referência inicial mais elevada.",
+            "C": "Atividades de Assessoramento Superior - AS compreendem as de planejamento, exame, emissão de parecer técnico, orientação, execução de atividades delegadas e outras de interesse da administração; e Grupo Ocupacional é o conjunto de categorias funcionais agrupadas segundo as correlações e afinidades entre as atividades laborais.",
+            "D": "Grupo Ocupacional é o conjunto de classes da mesma natureza funcional integradas por classe única.",
+            "E": "As Atividades de Assessoramento Superior - AS integram exclusivamente a estrutura do Quadro Suplementar em extinção."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. Operação de xerox e elevadores são Atividades Operacionais - AO do Quadro Efetivo (Art. 6º, I).\nB) INCORRETA. Essa é a definição legal de Carreira (Art. 11).\nC) CORRETA. Articula com exatidão o conceito do grupo AS do Quadro em Comissão (Art. 7º, II) e o conceito de Grupo Ocupacional do Art. 8º.\nD) INCORRETA. Conjunto de classes da mesma natureza funcional é a definição de Categoria Funcional (Art. 9º).\nE) INCORRETA. O grupo AS integra a estrutura básica do Quadro de Provimento em Comissão (Art. 7º, II).",
+          "base_legal": {
+            "dispositivo": "Art. 8°",
+            "texto": "Art. 8° - Grupo Ocupacional é o conjunto de categorias funcionais agrupadas segundo as correlações e afinidades entre as atividades laborais, a natureza do trabalho e o grau de conhecimento necessário ao exercício das respectivas atribuições."
+          }
         }
       ]
     }
