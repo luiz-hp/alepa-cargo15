@@ -693,6 +693,102 @@
             "dispositivo": "Art. 39",
             "texto": "Art. 39 - O presente Decreto Legislativo entrará em vigor na data de sua publicação, revogada quaisquer resoluções ou Atos Legislativo que tenham tratado da matéria contida no presente Decreto Legislativo ou que dispuserem em contrário."
           }
+        },
+        {
+          "enunciado": "Nos termos do Art. 11 do Decreto Legislativo nº 70/1990, o conceito legal de Carreira é definido como:",
+          "alternativas": {
+            "A": "a linha de acesso do funcionário na categoria funcional a que pertencer e desta para cargo de referência inicial de categoria funcional hierarquicamente mais elevada.",
+            "B": "a transposição automática do funcionário do Quadro Suplementar para o Quadro de Provimento em Comissão.",
+            "C": "o conjunto de classes da mesma natureza funcional escalonadas hierarquicamente segundo a complexidade das atribuições.",
+            "D": "a elevação do funcionário à referência imediatamente superior na escala de vencimento dentro do mesmo grupo operacional.",
+            "E": "a posição ocupada pelo servidor na escala de vencimento da classe segundo a avaliação de desempenho."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Transcreve fielmente a definição legal constante do Art. 11 do Decreto Legislativo nº 70/1990.\nB) INCORRETA. A carreira não consiste em transposição automática para cargos comissionados.\nC) INCORRETA. Esse é o conceito de Categoria Funcional (Art. 9º).\nD) INCORRETA. Essa é a definição de Promoção (Art. 13).\nE) INCORRETA. Essa é a definição de Referência (Art. 10).",
+          "base_legal": {
+            "dispositivo": "Art. 11",
+            "texto": "Art. 11 - Carreira é a linha de acesso do funcionário na categoria funcional a que pertencer e desta para cargo de referência inicial de categoria funcional hierarquicamente mais elevada."
+          }
+        },
+        {
+          "enunciado": "Acerca das diferenças entre os institutos da Promoção (Art. 13, caput) e da Ascensão (Art. 14) no âmbito do Plano de Cargos da ALEPA, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A promoção caracteriza-se pela elevação do funcionário à referência imediatamente superior na escala de vencimento da classe.",
+            "B": "A ascensão consiste na elevação do funcionário de cargo do grupo operacional a que pertencer para cargo de grupo ocupacional hierarquicamente mais elevado.",
+            "C": "A ascensão exige o respeito à habilitação profissional exigida para o provimento do novo cargo e às normas do regulamento próprio.",
+            "D": "Tanto a promoção quanto a ascensão acarretam obrigatoriamente a mudança de categoria funcional com transposição automática para o Quadro em Comissão.",
+            "E": "A promoção ocorre dentro da escala de vencimento da classe, enquanto a ascensão envolve a passagem para cargo de grupo ocupacional hierarquicamente mais elevado."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O Art. 13, caput define promoção exatamente como a elevação à referência imediatamente superior na escala de vencimento da classe.\nB) CORRETA (opção verdadeira). O Art. 14 conceitua a ascensão como a elevação de cargo do grupo operacional para cargo de grupo ocupacional mais elevado.\nC) CORRETA (opção verdadeira). O Art. 14 prevê expressamente o respeito à habilitação profissional exigida e ao regulamento de acesso.\nD) INCORRETA (gabarito). Nem a promoção nem a ascensão realizam transposição para o Quadro em Comissão. A promoção ocorre dentro da mesma classe (Art. 13) e a ascensão ocorre entre grupos operacionais/ocupacionais do Quadro Efetivo (Art. 14).\nE) CORRETA (opção verdadeira). Reflete com exatidão a distinção estrutural entre os dois institutos prevista nos Arts. 13 e 14.",
+          "base_legal": {
+            "dispositivo": "Art. 13",
+            "texto": "Art. 13 - Promoção é a elevação do funcionário à referência imediatamente superior na escala de vencimento da classe."
+          }
+        },
+        {
+          "enunciado": "Conforme estabelece o Art. 15 do Decreto Legislativo nº 70/1990 no tocante ao Sistema de Classificação, os elementos integrantes dos Quadros de Provimento Efetivo e em Comissão acham-se estruturados da seguinte forma:",
+          "alternativas": {
+            "A": "A composição, as especificações e os valores de vencimento dos cargos constam expressamente do anexo ao presente Decreto Legislativo.",
+            "B": "Os valores de vencimento são definidos semestralmente por ato do Poder Executivo Estadual.",
+            "C": "As especificações e atribuições dos cargos comissionados constam de decreto do Governador do Estado.",
+            "D": "A composição dos quadros efetivos é fixada em lei orgânica municipal aplicável subsidiariamente.",
+            "E": "Os valores de vencimento dos cargos efetivos são revisados quadrimestralmente por portaria individual de cada chefia de departamento."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O Art. 15 dispõe textualmente: \"A composição, as especificações e os valores de vencimento dos cargos que integram os Quadros de Provimento Efetivo e em Comissão são os constantes do anexo ao presente Decreto Legislativo.\"\nB) INCORRETA. Os valores e especificações constam do anexo do próprio Decreto Legislativo (Art. 15).\nC) INCORRETA. As especificações constam do anexo do Decreto Legislativo, sem interferência do Poder Executivo.\nD) INCORRETA. A norma é um Decreto Legislativo estadual aplicável ao Poder Legislativo do Estado do Pará.\nE) INCORRETA. A composição e vencimentos estão fixados no anexo do Decreto Legislativo.",
+          "base_legal": {
+            "dispositivo": "Art. 15",
+            "texto": "Art. 15 - A composição, as especificações e os valores de vencimento dos cargos que integram os Quadros de Provimento Efetivo e em Comissão são os constantes do anexo ao presente Decreto Legislativo."
+          }
+        },
+        {
+          "enunciado": "O Art. 17, parágrafo único, do Decreto Legislativo nº 70/1990 disciplina o aproveitamento do tempo de serviço dos servidores considerados estáveis por força da Constituição Federal. De acordo com o texto legal, esse tempo de serviço:",
+          "alternativas": {
+            "A": "será contado como título quando se submeterem a concurso para fins de efetivação, na forma da Lei.",
+            "B": "importará na efetivação automática do servidor, dispensada qualquer submissão a concurso público.",
+            "C": "será convertido em gratificação financeira de permanência no valor de 80% do vencimento-base.",
+            "D": "acarretará a promoção imediata para a última referência da categoria funcional técnica.",
+            "E": "é computado exclusivamente para fins de aposentadoria, sendo vedado seu uso em provas de títulos em concursos."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Transcreve com exatidão o Art. 17, parágrafo único.\nB) INCORRETA. A norma exige a submissão a concurso para fins de efetivação, contando o tempo como título.\nC) INCORRETA. A norma não prevê conversão em gratificação de permanência de 80%.\nD) INCORRETA. O dispositivo determina a contagem como título em concurso público para efetivação, e não promoção imediata.\nE) INCORRETA. O texto legal autoriza expressamente que o tempo seja contado como título quando o servidor se submeter a concurso para efetivação.",
+          "base_legal": {
+            "dispositivo": "Art. 17, Parágrafo Único",
+            "texto": "Parágrafo Único - O tempo de serviço dos servidores referidos neste artigo será contado como título quando se submeterem a concurso para fins de efetivação, na forma da Lei."
+          }
+        },
+        {
+          "enunciado": "Analise as regras aplicáveis aos integrantes do Quadro Suplementar e a determinados cargos específicos no Decreto Legislativo nº 70/1990 (Arts. 19, 20, 22 e 23) e assinale a alternativa correta.",
+          "alternativas": {
+            "A": "É vedado aos servidores do Quadro Suplementar a nomeação para cargos em comissão.",
+            "B": "Os integrantes do Quadro Suplementar poderão ser enquadrados no Quadro Efetivo a qualquer tempo, desde que satisfeitos os requisitos da Lei e respeitada a disponibilidade de vaga.",
+            "C": "Aos ocupantes do cargo efetivo de Técnico em Assessoramento Legislativo (PL-03) do Quadro Suplementar foi assegurada a remuneração de Procuradores, permitindo-se novas inclusões posteriores a critério da Presidência.",
+            "D": "A categoria de Secretário de Comissão Técnica teve asseguradas as vantagens do cargo de Diretor do Departamento Administrativo.",
+            "E": "O enquadramento dos servidores do Quadro Suplementar no Quadro de Provimento Efetivo ocorrerá de modo compulsório, independente de vaga existente."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O Art. 20 permite expressamente que os servidores do Quadro Suplementar sejam nomeados para cargos em comissão.\nB) CORRETA. Reflete com exatidão os requisitos estipulados no Art. 19 (satisfação dos requisitos da lei e respeitada a disponibilidade de vaga).\nC) INCORRETA. O Art. 22 veda expressamente quaisquer inclusões posteriores (\"vedadas quaisquer inclusões posteriores\").\nD) INCORRETA. O Art. 23 assegura as vantagens atribuídas ao cargo equivalente de Secretários - DAS.202.1 (e não Diretor Administrativo).\nE) INCORRETA. O Art. 19 exige expressamente a disponibilidade de vaga.",
+          "base_legal": {
+            "dispositivo": "Art. 19",
+            "texto": "Art. 19 - Os integrantes do Quadro de Pessoal Suplementar, a qualquer tempo e desde que satisfeitos os requisitos da Lei poderão ser enquadrados no Quadro de Provimento Efetivo, respeitada a disponibilidade de vaga."
+          }
+        },
+        {
+          "enunciado": "O Decreto Legislativo nº 70/1990 estabeleceu diversos prazos para a implementação de suas medidas institucionais, regras transitórias e procedimentos. Assinale a alternativa em que a relação entre o ato e o respectivo prazo legal está CORRETA.",
+          "alternativas": {
+            "A": "Votação do regulamento de promoção e ascensão (Art. 37) – prazo de trinta (30) dias, contados da instalação da próxima legislatura.",
+            "B": "Extinção do Gabinete do ex-Presidente (Art. 24) – prazo de seis (6) meses a contar da promulgação.",
+            "C": "Realização do regular concurso público para preenchimento de cargos criados (Art. 29) – prazo máximo de dois (2) anos a contar da publicação.",
+            "D": "Nomeação da Comissão de Enquadramento pelo Presidente (Art. 35) – prazo de quinze (15) dias a contar da publicação.",
+            "E": "Revisão e atualização da tabela de vencimentos pela Mesa Diretora (Art. 36) – prazo prorrogável de noventa (90) dias."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Conforme o Art. 37, o regulamento a que se refere o art. 12 deve ser votado dentro do prazo de trinta (30) dias, contados da instalação da próxima legislatura.\nB) INCORRETA. O Art. 24 fixa a extinção dentro de dois (2) anos, e não 6 meses.\nC) INCORRETA. O Art. 29 estabelece prazo máximo de seis (06) meses, e não 2 anos.\nD) INCORRETA. O Art. 35 estabelece que o Presidente nomeará a Comissão no prazo de cinco dias (e não 15 dias).\nE) INCORRETA. O Art. 36 fixa prazo improrrogável de quinze (15) dias (e não 90 dias).",
+          "base_legal": {
+            "dispositivo": "Art. 37",
+            "texto": "Art. 37 - O regulamento a que se refere o art. 12 deste Decreto Legislativo deve ser votado dentro do prazo de trinta (30) dias, contados da instalação da próxima legislatura."
+          }
         }
       ]
     }
