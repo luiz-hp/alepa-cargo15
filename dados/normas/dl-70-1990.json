@@ -8,5 +8,192 @@
     "Art. 5º, § 4º: redação dada pelo Decreto Legislativo nº 39/1991."
   ],
   "partes": [
+    {
+      "titulo": "Quadros, cargos e estrutura básica",
+      "artigos": "Arts. 1º a 10",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "O Decreto Legislativo nº 70/1990 organiza a estrutura de cargos do Poder Legislativo do Estado do Pará. As atividades distribuem-se em cargos públicos integrados em três quadros principais: Quadro de Provimento Efetivo, Quadro de Provimento em Comissão e Quadro Suplementar."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Quadro / Categoria",
+            "Escolaridade Exigida",
+            "Regras e Particularidades"
+          ],
+          "linhas": [
+            [
+              "Efetivo: Operacional",
+              "Até 1º grau (ou equivalente)",
+              "Vale para todo cargo efetivo: o provimento originário exige concurso público de provas ou de provas e títulos (art. 3º)."
+            ],
+            [
+              "Efetivo: Profissional",
+              "2º grau (ou equivalente)",
+              "Exige habilitação profissional em curso legalmente classificado."
+            ],
+            [
+              "Efetivo: Técnico",
+              "3º grau",
+              "Exige habilitação profissional de nível superior."
+            ],
+            [
+              "Comissão: DAS.1 e DAS.2",
+              "2º grau",
+              "Cargo em comissão depende da confiança pessoal para o provimento (art. 5º, caput)."
+            ],
+            [
+              "Comissão: DAS.3 a DAS.6",
+              "3º grau (Superior)",
+              "Dispensado o 3º grau para Chefe de Gabinete da Presidência e de Liderança (DAS.201.3) e Chefe de Gabinete Militar e Civil (DAS.201.4) (art. 5º, § 1º)."
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "Regra geral (art. 5º, § 3º): cargos em comissão e funções de confiança são exercidos PREFERENCIALMENTE por servidores efetivos de carreira técnica ou profissional. EXCEÇÕES OBRIGATÓRIAS (Art. 5º, § 4º): Têm provimento EXCLUSIVO por servidores efetivos os cargos de Secretário Legislativo, Procurador-Geral, Coordenador da Consultoria/Assessoria Técnica, Diretores de Departamento (EXCETO Financeiro e Administrativo, que são de livre nomeação), Chefes de Divisão e Chefes de Seção (EXCETO Cerimonial, de livre nomeação)."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Grupos do Quadro Efetivo: AO (Operacionais), AG (Apoio Geral), NM (Nível Médio), NS (Nível Superior) e AL (Apoio Legislativo - voltado exclusivamente para Plenário, Comissões, Gabinetes e Mesa Diretora).",
+            "Grupos do Quadro em Comissão: DS (Direção Superior - planejamento, comando, controle, avaliação) e AS (Assessoramento Superior - pareceres, orientação, atividades delegadas).",
+            "Conceitos Essenciais: Grupo Ocupacional (conjunto de categorias funcionais correlatas); Categoria Funcional (conjunto de classes, integradas por classe única neste Plano); Referência (posição na escala de vencimento da classe)."
+          ]
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "No tocante à classificação e organização dos cargos públicos no âmbito do Poder Legislativo do Estado do Pará, nos termos do Decreto Legislativo nº 70/1990, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "Os cargos públicos que integram a estrutura da Assembleia Legislativa distribuem-se nos quadros de Provimento Efetivo, de Provimento em Comissão e Suplementar.",
+            "B": "As atividades do Poder Legislativo distribuem-se exclusivamente em funções de confiança e empregos públicos temporários.",
+            "C": "O Quadro Suplementar foi extinto pelo Decreto Legislativo nº 70/1990, subsistindo apenas os quadros de provimento efetivo e em comissão.",
+            "D": "Os cargos de provimento em comissão integram o Quadro Suplementar, juntamente com as funções de confiança de livre exoneração.",
+            "E": "A distribuição das atividades em cargos públicos aplica-se obrigatoriamente a todos os Poderes do Estado, por expressa disposição do Art. 1º."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Conforme o Art. 2º, os cargos públicos integram três quadros: I - Quadro de Provimento Efetivo; II - Quadro de Provimento em Comissão; III - Quadro Suplementar.\nB) INCORRETA. O Art. 1º estabelece que as atividades distribuem-se em cargos públicos, e não em funções de confiança/empregos temporários.\nC) INCORRETA. O Quadro Suplementar é expressamente previsto como o inciso III do Art. 2º.\nD) INCORRETA. Os cargos em comissão integram quadro próprio (Quadro de Provimento em Comissão - Art. 2º, II), e não o Quadro Suplementar.\nE) INCORRETA. O Art. 1º limita a aplicação das regras do Decreto Legislativo às atividades desenvolvidas no âmbito do Poder Legislativo.",
+          "base_legal": {
+            "dispositivo": "Art. 2°",
+            "texto": "Art. 2° - Os cargos públicos, classificados na forma do presente Decreto Legislativo, integram os seguintes quadros:\n\nI - Quadro de Provimento Efetivo\n\nII - Quadro de Provimento em Comissão\n\nIII - Quadro Suplementar"
+          }
+        },
+        {
+          "enunciado": "Quanto aos cargos de provimento efetivo e sua natureza, estabelece o Decreto Legislativo nº 70/1990 que:",
+          "alternativas": {
+            "A": "O provimento originário de cargo efetivo exige aprovação prévia em concurso público exclusivamente de provas e títulos, vedado o concurso de provas simples.",
+            "B": "O cargo de natureza profissional é aquele para cujo provimento é exigida habilitação profissional em curso legalmente classificado como de 2° grau, ou escolaridade equivalente.",
+            "C": "Cargo de natureza técnica é aquele destinado aos servidores com escolaridade de até 1° grau ou estudos equivalentes.",
+            "D": "Para o provimento de cargo de natureza operacional, exige-se diploma de curso superior legalmente reconhecido.",
+            "E": "A classificação quanto à natureza compreende os cargos operacionais, administrativos e comissionados."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O Art. 3º exige aprovação em concurso público \"de provas ou de provas e títulos\", e não exclusivamente de provas e títulos.\nB) CORRETA. O Art. 4º, § 2º define exatamente que o cargo de natureza profissional exige habilitação em curso de 2º grau ou equivalente.\nC) INCORRETA. Essa escolaridade (até 1º grau) refere-se aos cargos de natureza operacional (Art. 4º, § 1º). O cargo de natureza técnica exige 3º grau (Art. 4º, § 3º).\nD) INCORRETA. O cargo operacional exige escolaridade de até 1º grau (Art. 4º, § 1º), e não diploma superior.\nE) INCORRETA. Segundo o Art. 4º, a natureza dos cargos efetivos divide-se em: Operacional, Profissional e Técnico.",
+          "base_legal": {
+            "dispositivo": "Art. 4°, § 2°",
+            "texto": "§ 2° - Cargo de natureza profissional é aquele para cujo provimento é exigida habilitação profissional em curso legalmente classificado como de 2° grau, ou escolaridade equivalente."
+          }
+        },
+        {
+          "enunciado": "Sobre os requisitos de escolaridade para os cargos do Quadro de Provimento em Comissão, de acordo com a redação vigente do Art. 5º, § 1º do Decreto Legislativo nº 70/1990, assinale a afirmativa correta.",
+          "alternativas": {
+            "A": "Exige-se escolaridade de nível superior para todos os níveis do Quadro de Provimento em Comissão (DAS.1 a DAS.6).",
+            "B": "Para os cargos de níveis DAS.1 a DAS.2 exige-se diploma de 3º Grau, enquanto para DAS.3 a DAS.6 exige-se 2º Grau.",
+            "C": "Para os cargos de níveis DAS.1 a DAS.2 exige-se habilitação de escolaridade de 2° Grau e para os de DAS.3 a DAS.6 o diploma de Nível Superior, ressalvada a dispensa de 3° Grau para Chefes de Gabinete da Presidência, de Liderança, Militar e Civil.",
+            "D": "Fica dispensada a exigência de escolaridade de 2º Grau para os cargos de Chefe de Divisão e Chefe de Seção.",
+            "E": "A dispensa de nível superior para o cargo de Chefe de Gabinete da Presidência aplica-se apenas caso o ocupante seja servidor público estável."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. Exige-se 2º Grau para DAS.1 a DAS.2 e Nível Superior para DAS.3 a DAS.6 (Art. 5º, § 1º).\nB) INCORRETA. A exigência está invertida: DAS.1 a DAS.2 é 2º Grau; DAS.3 a DAS.6 é Nível Superior.\nC) CORRETA. O Art. 5º, § 1º traz expressamente esta regra e ressalva a dispensa de 3º Grau para Chefe de Gabinete da Presidência (DAS.201.3), de Liderança (DAS.201.3), Militar (DAS.201.4) e Civil (DAS.201.4).\nD) INCORRETA. A ressalva de dispensa de 3º Grau refere-se especificamente aos Chefes de Gabinete da Presidência, Liderança, Militar e Civil.\nE) INCORRETA. O texto da norma não impõe a condição de estabilidade para a dispensa da exigência de 3º grau nesses cargos de Chefe de Gabinete.",
+          "base_legal": {
+            "dispositivo": "Art. 5°, § 1°",
+            "texto": "§ 1° - Será exigida para provimento dos cargos do Quadro de Provimento em Comissão, de níveis DAS.1 a DAS.2, a habilitação de escolaridade de 2° Grau e para os de níveis DAS.3 a DAS.6 o diploma ou documento equivalente à conclusão e recebimento do Grau de Nível Superior, ressalvados os cargos de Chefe de Gabinete da Presidência - DAS.201.3; Chefe de Gabinete de Liderança - DAS.201.3; Chefe de Gabinete Militar - DAS.201.4 e Chefe de Gabinete Civil - DAS.201.4, para os quais fica dispensada a exigência da escolaridade de 3° Grau."
+          }
+        },
+        {
+          "enunciado": "Acerca do provimento dos cargos em comissão no âmbito da Assembleia Legislativa do Pará, analise as regras contidas no Art. 5º, §§ 3º e 4º e assinale a alternativa correta.",
+          "alternativas": {
+            "A": "Os cargos em comissão serão exercidos obrigatoriamente por servidores estatutários ocupantes de cargos de provimento efetivo de nível superior.",
+            "B": "Todos os cargos de Diretor de Departamento e de Chefe de Seção são de livre escolha e nomeação da Mesa Diretora, sem restrição a servidores efetivos.",
+            "C": "O cargo de Procurador-Geral da Assembleia Legislativa é de livre nomeação e exoneração, podendo ser provido por pessoa sem vínculo prévio com o Quadro Efetivo.",
+            "D": "Serão providos obrigatoriamente por servidores do Quadro de Provimento Efetivo os cargos de Secretário Legislativo, Procurador-Geral, Coordenador da Consultoria Técnica, Coordenador da Assessoria Técnica, Diretores de Departamento (exceto Financeiro e Administrativo), Chefes de Divisão e Chefe de Seção (exceto Cerimonial).",
+            "E": "O Chefe da Seção do Cerimonial deve ser obrigatoriamente servidor efetivo ocupante de cargo da carreira profissional."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. A regra geral do § 3º estabelece que o exercício ocorrerá PREFERENCIALMENTE (e não obrigatoriamente) por servidores efetivos.\nB) INCORRETA. Apenas os Diretores do Departamento Financeiro e Administrativo, e o Chefe da Seção do Cerimonial são de livre escolha. Os demais Diretores e Chefes de Seção devem ser servidores efetivos (§ 4º).\nC) INCORRETA. O cargo de Procurador-Geral consta expressamente da lista do § 4º como de provimento obrigatório por servidor efetivo.\nD) CORRETA. Transcreve com exatidão o rol taxativo de cargos em comissão de provimento exclusivo por servidores efetivos do Art. 5º, § 4º.\nE) INCORRETA. O Chefe da Seção do Cerimonial é exceção expressa do § 4º, sendo cargo de livre escolha e nomeação.",
+          "base_legal": {
+            "dispositivo": "Art. 5°, § 4°",
+            "texto": "§ 4° - Os seguintes cargos em Comissão, entretanto, serão providos por servidores ocupantes de cargos do Quadro de Provimento Efetivo: Secretário Legislativo, Procurador-Geral, Coordenador da Consultoria Técnica, Coordenador da Assessoria Técnica, Diretores de Departamento, exceto os Diretores do Departamento Financeiro e do Departamento Administrativo, que são de livre escolha e nomeação, Chefes de Divisão e Chefe de Seção, exceto o Chefe da Seção do Cerimonial, que é de livre escolha e nomeação."
+          }
+        },
+        {
+          "enunciado": "A estrutura básica dos cargos de provimento efetivo é constituída por grupos operacionais. As atividades voltadas exclusivamente para os trabalhos em Plenário, Comissões, Gabinetes e Mesa Diretora enquadram-se no grupo de:",
+          "alternativas": {
+            "A": "Atividades Operacionais - AO.",
+            "B": "Atividades de Apoio Geral - AG.",
+            "C": "Atividades de Nível Superior - NS.",
+            "D": "Atividades de Assessoramento Superior - AS.",
+            "E": "Atividades de Apoio Legislativo - AL."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O grupo AO abrange preparo/distribuição de alimentos, limpeza, xerox, elevadores, controle de pessoas/bens (Art. 6º, I).\nB) INCORRETA. O grupo AG abrange apoio à administração, manutenção, fotografia, transporte e telefonia (Art. 6º, II).\nC) INCORRETA. O grupo NS abrange ciências humanas/sociais e ciência/tecnologia (Art. 6º, IV).\nD) INCORRETA. O grupo AS integra o Quadro em Comissão (Art. 7º, II), e não o Quadro Efetivo.\nE) CORRETA. Segundo o Art. 6º, V, as Atividades de Apoio Legislativo - AL abrangem as áreas operacional, profissional e técnica voltadas exclusivamente para Plenário, Comissões, Gabinetes e Mesa Diretora.",
+          "base_legal": {
+            "dispositivo": "Art. 6°, V",
+            "texto": "V - Atividades de Apoio Legislativo - AL, abrangendo as áreas operacional, profissional e técnica voltadas exclusivamente para os trabalhos em Plenário, Comissões, Gabinetes e Mesa Diretora, destacando-se dentre elas as de assistência técnica, pesquisa e análise na formulação de proposição e documentos parlamentares; supervisão, revisão, redação final e organização de registro taquigráfico de debates e pronunciamentos de interesse legislativo e outras relacionadas com o atendimento aos serviços de plenário."
+          }
+        },
+        {
+          "enunciado": "Nos termos do Art. 7º do Decreto Legislativo nº 70/1990, a estrutura básica do Quadro de Provimento em Comissão é constituída por grupos operacionais específicos. As atividades de planejamento, programação, comando, coordenação, controle e avaliação definem o grupo de:",
+          "alternativas": {
+            "A": "Atividades de Direção Superior - DS.",
+            "B": "Atividades de Assessoramento Superior - AS.",
+            "C": "Atividades de Nível Superior - NS.",
+            "D": "Atividades de Apoio Geral - AG.",
+            "E": "Atividades de Coordenação Legislativa - CL."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Conforme o Art. 7º, I, Atividades de Direção Superior - DS compreendem as de planejamento, programação, comando, coordenação, controle e avaliação.\nB) INCORRETA. O grupo AS compreende planejamento, exame, emissão de parecer técnico, orientação e atividades delegadas (Art. 7º, II).\nC) INCORRETA. O grupo NS integra a estrutura dos cargos efetivos (Art. 6º, IV).\nD) INCORRETA. O grupo AG também integra o Quadro de Efetivos (Art. 6º, II).\nE) INCORRETA. O grupo \"Atividades de Coordenação Legislativa - CL\" não existe no Decreto Legislativo nº 70/1990.",
+          "base_legal": {
+            "dispositivo": "Art. 7°, I",
+            "texto": "I - Atividades de Direção Superior - DS, compreendendo as de planejamento, programação, comando, coordenação, controle e avaliação."
+          }
+        },
+        {
+          "enunciado": "A respeito dos conceitos de Grupo Ocupacional e Categoria Funcional definidos nos Arts. 8º e 9º do Plano de Cargos da ALEPA, assinale a afirmativa correta.",
+          "alternativas": {
+            "A": "Grupo Ocupacional é o conjunto de classes da mesma natureza funcional, escalonadas hierarquicamente.",
+            "B": "Para efeito do Plano de Cargos da ALEPA, as categorias funcionais serão integradas por classe única.",
+            "C": "As categorias funcionais são divididas obrigatoriamente em pelo menos três classes escalonadas por antiguidade.",
+            "D": "Categoria Funcional é o conjunto de grupos operacionais reunidos conforme o valor do vencimento básico.",
+            "E": "Classe Única refere-se ao agrupamento de cargos efetivos e em comissão que possuem o mesmo nível de escolaridade."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. Esse é o conceito de Categoria Funcional (Art. 9º). Grupo Ocupacional é o conjunto de categorias funcionais agrupadas segundo correlações de atividades (Art. 8º).\nB) CORRETA. O parágrafo único do Art. 9º estabelece expressamente que, para efeito deste Plano, as categorias funcionais serão integradas por classe única.\nC) INCORRETA. A norma estabelece classe única (Art. 9º, parágrafo único), não havendo divisão em três ou mais classes escalonadas.\nD) INCORRETA. Categoria Funcional é o conjunto de classes da mesma natureza funcional escalonadas hierarquicamente (Art. 9º).\nE) INCORRETA. Não há essa definição no diploma legal; Classe Única decorre da integração direta das categorias funcionais no âmbito do Plano.",
+          "base_legal": {
+            "dispositivo": "Art. 9°, parágrafo único",
+            "texto": "Parágrafo Único - Para efeito deste Plano, as categorias funcionais serão integradas por classe única."
+          }
+        },
+        {
+          "enunciado": "No sistema de classificação estabelecido pelo Decreto Legislativo nº 70/1990, o termo que indica especificamente a posição do ocupante do cargo na escala de vencimento da classe é denominado:",
+          "alternativas": {
+            "A": "Carreira.",
+            "B": "Nível Operacional.",
+            "C": "Referência.",
+            "D": "Padrão de Função.",
+            "E": "Categoria Efetiva."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. Carreira é a linha de acesso do funcionário na categoria funcional (Art. 11).\nB) INCORRETA. Nível Operacional não é o termo legal que define a posição remuneratória na escala de vencimento.\nC) CORRETA. O Art. 10 define expressamente: \"Referência - indica a posição do ocupante do cargo na escala de vencimento da classe.\"\nD) INCORRETA. A expressão \"Padrão de Função\" não é utilizada no artigo 10 para conceituar a posição na escala de vencimento.\nE) INCORRETA. \"Categoria Efetiva\" não é conceito legal previsto no Decreto Legislativo nº 70/1990.",
+          "base_legal": {
+            "dispositivo": "Art. 10",
+            "texto": "Art. 10 - Referência - indica a posição do ocupante do cargo na escala de vencimento da classe."
+          }
+        }
+      ]
+    }
   ]
 }
