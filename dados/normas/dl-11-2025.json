@@ -5,8 +5,7 @@
   "fonte": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei11_2025_14265.pdf",
   "alteracoes": [
     "Publicado no DOAL nº 2552, de 31/07 a 01/08/2025; vigência na data da publicação (art. 43).",
-    "Revoga integralmente a Resolução nº 01, de 23 de dezembro de 2002 (art. 41).",
-    "Parte 3 (arts. 23 a 43 e Anexo Único) em preparação."
+    "Revoga integralmente a Resolução nº 01, de 23 de dezembro de 2002 (art. 41)."
   ],
   "partes": [
     {
@@ -594,6 +593,326 @@
           "base_legal": {
             "dispositivo": "Arts. 12, 13, 14, 15, 18, 19 e 20",
             "texto": "Art. 12. O Departamento de Bem-estar Social, fica transformado em Diretoria de Bem-estar Social, vinculada à Secretaria Administrativa.\nArt. 13. O Departamento Administrativo, fica transformado em Diretoria Administrativa e Infraestrutura, vinculada à Secretaria Administrativa, que terá como atribuições dirigir e supervisionar as atividades das Divisões de Apoio Administrativo e de Manutenção e Serviços.\nArt. 14. O Departamento de Gestão de Pessoas, fica transformado em Diretoria de Gestão de Pessoas, vinculada à Secretaria Administrativa.\nArt. 15. O Departamento Financeiro, fica transformado em Diretoria de Planejamento, Orçamento e Finanças, vinculada à Secretaria Administrativa, com as seguintes atribuições:\nArt. 18. Fica criado o Núcleo de Fiscalização e Controle de Verbas Indenizatórias Parlamentar, vinculada à Diretoria de Planejamento, Orçamento e Finanças, tendo como atribuições promover verificações formais da documentação comprobatória, bem como de orientar os parlamentares quanto às providências pertinentes para o regular processamento da documentação.\nArt. 19. O Departamento de Memorial Legislativo, fica transformado em Diretoria de Memorial Legislativo, vinculada à Secretaria Legislativa.\nArt. 20. O Departamento Legislativo, fica transformado em Diretoria Legislativa, vinculada à Secretaria Legislativa."
+          }
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Cargos em comissão, revogação, vigência e Anexo Único",
+      "artigos": "Arts. 23 a 43 e Anexo Único",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A Parte 3 trata dos **cargos em comissão**: **4 criados** (art. 23), **15 transformações** (arts. 24 a 38), codificação e quantificação alteradas (arts. 39 e 40), a **revogação integral da Resolução nº 01/2002** (art. 41), o **Anexo Único** (art. 42) e a **vigência na publicação** (art. 43). O Anexo Único soma **104** cargos de direção, **764** de assessoramento e **63** de liderança."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "**Criados (art. 23):** Chefe Substituto do Gabinete Civil; Chefe Substituto do Gabinete da Presidência; **Assessor Especializado**; Assistente de Comissão Legislativa (que também resulta da transformação do art. 30).",
+            "**Art. 39:** muda a **codificação DAS** do Chefe de Gabinete Civil, do Chefe de Gabinete da Presidência e do Chefe de Gabinete Militar.",
+            "**Art. 40:** muda a **quantificação** do cargo de Chefe de Divisão."
+          ]
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Cargo antigo",
+            "Cargo novo",
+            "Art."
+          ],
+          "linhas": [
+            [
+              "Oficial de Gabinete da Presidência",
+              "Secretário Especial de Gabinete",
+              "24"
+            ],
+            [
+              "Consultor Técnico Legislativo",
+              "**Consultor Especializado**",
+              "25"
+            ],
+            [
+              "Assessor Especial",
+              "Assessor Legislativo",
+              "26"
+            ],
+            [
+              "Assessor de Imprensa",
+              "Assessor de Comunicação Institucional",
+              "27"
+            ],
+            [
+              "Redator; Operador de Rede do Sistema de Informática do Plenário",
+              "Assistente de Apoio Legislativo",
+              "28"
+            ],
+            [
+              "Administrador de Rede de Sistema de Informática de Plenário; Analista Desenvolvimento de Software Manutenção de Sistema de Informática do Plenário",
+              "Assessor de Apoio Legislativo",
+              "29"
+            ],
+            [
+              "Assistente de Comissão Técnica",
+              "Assistente de Comissão Legislativa",
+              "30"
+            ],
+            [
+              "Agente de Segurança Legislativa",
+              "Inspetor de Segurança",
+              "31"
+            ],
+            [
+              "Agente Parlamentar de Serviços Externos",
+              "Assistente de Serviços Externos",
+              "32"
+            ],
+            [
+              "Secretário",
+              "Assistente da Mesa Diretora",
+              "33"
+            ],
+            [
+              "Fotógrafo; Operador de Áudio; Auxiliar do Sistema de Informática do Plenário",
+              "Assistente de Plenário",
+              "34"
+            ],
+            [
+              "Agente Operacional de Serviços Internos",
+              "Assistente de Serviços Internos",
+              "35"
+            ],
+            [
+              "Oficial de Gabinete de Liderança",
+              "Secretário de Liderança",
+              "36"
+            ],
+            [
+              "Chefe de Gabinete de Liderança",
+              "Supervisor de Liderança",
+              "37"
+            ],
+            [
+              "Assistente Técnico de Liderança",
+              "Assistente de Liderança",
+              "38"
+            ]
+          ]
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Referência",
+            "Cargos (exemplos)",
+            "Grupo"
+          ],
+          "linhas": [
+            [
+              "DAS.201.6",
+              "Secretários Legislativo, Administrativo e de Instrução Técnica e Controle Externo; Procurador Geral",
+              "Direção"
+            ],
+            [
+              "DAS.201.5",
+              "Chefes de Gabinete (Presidência, Civil e Militar); Subprocurador Geral; Subsecretários; Diretores; Controlador Geral; Ouvidor Geral; Agente de Contratação",
+              "Direção"
+            ],
+            [
+              "DAS.201.4",
+              "Chefes Substitutos de Gabinete; Subchefe do Gabinete Militar; Chefe de Gabinete do Procurador Geral; Supervisor do CAC",
+              "Direção"
+            ],
+            [
+              "DAS.201.3",
+              "Chefes de Divisão; Subinspetor de Segurança",
+              "Direção"
+            ],
+            [
+              "DAS.201.2",
+              "Chefes de Seção; Núcleo de Fiscalização e Controle de Verbas Indenizatórias Parlamentar",
+              "Direção"
+            ],
+            [
+              "DAS.201.1",
+              "Secretário Especial de Gabinete",
+              "Direção"
+            ],
+            [
+              "DAS.202.4",
+              "Assessor Estratégico; Assessor de Gestão",
+              "Assessoramento"
+            ],
+            [
+              "DAS.202.1 a 202.3",
+              "Secretário de Liderança (202.1) e Supervisor de Liderança (202.2), ambos de **Direção**; Assistente de Liderança (202.3), de Assessoramento",
+              "Liderança"
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) **Assessor Especializado** foi criado (art. 23); **Consultor Especializado** veio da transformação do Consultor Técnico Legislativo (art. 25). 2) O art. 39 muda a **codificação** dos Chefes de Gabinete; o art. 40, a **quantificação** do Chefe de Divisão. 3) A Resolução nº 01/2002 foi revogada **por inteiro**. 4) Nem todo cargo de direção é DAS.201: Secretário e Supervisor de Liderança são de direção e têm código **DAS.202**. 5) O decreto é de **24/06/2025**, mas vigora desde a **publicação** (DOAL nº 2552, de 31/07 a 01/08/2025)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Nos termos do art. 23 do Decreto Legislativo nº 11/2025 da ALEPA, assinale a alternativa que indica EXCLUSIVAMENTE cargos de provimento em comissão que foram criados por este dispositivo legal.",
+          "alternativas": {
+            "A": "Consultor Especializado, Assessor Legislativo, Assessor de Comunicação Institucional e Secretário Especial de Gabinete.",
+            "B": "Chefe Substituto do Gabinete Civil, Chefe Substituto do Gabinete da Presidência, Assessor Especializado e Assistente de Comissão Legislativa.",
+            "C": "Inspetor de Segurança, Assistente de Serviços Externos, Assistente da Mesa Diretora e Assistente de Plenário.",
+            "D": "Secretário de Liderança, Supervisor de Liderança, Assistente de Liderança e Assistente de Serviços Internos.",
+            "E": "Assessor de Apoio Legislativo, Assistente de Apoio Legislativo, Agente de Contratação e Ouvidor Geral."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. Os cargos citados resultam de transformações de cargos antigos previstas nos arts. 24 a 27, e não de criação pelo art. 23.\nB) CORRETA. O art. 23 prevê expressamente a criação dos quatro cargos mencionados em seu texto e constante no Anexo Único.\nC) INCORRETA. Os cargos de Inspetor de Segurança, Assistente de Serviços Externos, da Mesa e de Plenário resultam de transformações previstas nos arts. 31 a 34.\nD) INCORRETA. Os cargos de Liderança citados resultam da transformação de cargos de gabinete de liderança previstos nos arts. 36 a 38.\nE) INCORRETA. Assessor e Assistente de Apoio Legislativo resultam das transformações dos arts. 28 e 29; Agente de Contratação e Ouvidor Geral constam do Anexo Único, mas não estão entre os cargos criados pelo art. 23.",
+          "base_legal": {
+            "dispositivo": "Art. 23",
+            "texto": "Art. 23. Ficam criados os seguintes cargos de provimento em comissão: Chefe Substituto do Gabinete Civil; Chefe Substituto do Gabinete da Presidência; Assessor Especializado; Assistente de Comissão Legislativa, conforme Anexo Único deste Decreto."
+          }
+        },
+        {
+          "enunciado": "De acordo com as regras de transformação de cargos em comissão estabelecidas nos artigos 24 a 27 do Decreto Legislativo nº 11/2025, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "O cargo de Oficial de Gabinete da Presidência fica transformado em Chefe de Gabinete da Presidência.",
+            "B": "O cargo de Consultor Técnico Legislativo fica transformado em Assessor Especializado de Gabinete.",
+            "C": "O cargo de Assessor Especial fica transformado em Consultor Especializado da Mesa Diretora.",
+            "D": "O cargo de Assessor de Imprensa fica transformado em Assessor de Comunicação Institucional.",
+            "E": "O cargo de Oficial de Gabinete da Presidência fica transformado em Assessor Especial da Ouvidoria."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O cargo de Oficial de Gabinete da Presidência foi transformado em Secretário Especial de Gabinete, nos termos do art. 24.\nB) INCORRETA. O cargo de Consultor Técnico Legislativo foi transformado em Consultor Especializado, nos termos do art. 25.\nC) INCORRETA. O cargo de Assessor Especial foi transformado em Assessor Legislativo, nos termos do art. 26.\nD) CORRETA. O art. 27 estabelece expressamente que o cargo de Assessor de Imprensa fica transformado em Assessor de Comunicação Institucional.\nE) INCORRETA. A transformação do cargo de Oficial de Gabinete da Presidência deu origem ao cargo de Secretário Especial de Gabinete, nos termos do art. 24.",
+          "base_legal": {
+            "dispositivo": "Arts. 24 a 27",
+            "texto": "Art. 24. O cargo de provimento em comissão de Oficial de Gabinete da Presidência, fica transformado em Secretário Especial de Gabinete.\nArt. 25. O cargo de provimento em comissão de Consultor Técnico Legislativo, fica transformado em Consultor Especializado, com codificação DAS e quantidade conforme Anexo Único deste Decreto.\nArt. 26. O cargo de provimento em comissão de Assessor Especial, fica transformado em Assessor Legislativo, com codificação DAS e quantidade conforme Anexo Único deste Decreto.\nArt. 27. O cargo de provimento em comissão de Assessor de Imprensa, fica transformado em Assessor de Comunicação Institucional, com codificação DAS e quantidade conforme Anexo Único deste Decreto."
+          }
+        },
+        {
+          "enunciado": "Com base nas transformações de cargos comissionados disciplinadas nos artigos 28 a 31 do Decreto Legislativo nº 11/2025, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os cargos de Redator e Operador de Rede do Sistema de Informática do Plenário ficam transformados em Assistente de Apoio Legislativo.",
+            "B": "Os cargos de Administrador de Rede de Sistema de Informática de Plenário e de Analista Desenvolvimento de Software Manutenção de Sistema de Informática do Plenário ficam transformados em Assessor de Apoio Legislativo.",
+            "C": "O cargo de Assistente de Comissão Técnica fica transformado em Assistente de Comissão Legislativa.",
+            "D": "O cargo de Agente de Segurança Legislativa fica transformado em Inspetor de Segurança.",
+            "E": "O cargo de Agente de Segurança Legislativa fica transformado em Subinspetor de Segurança do Quadro Especial."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). A transformação está expressamente prevista no art. 28.\nB) CORRETA (opção verdadeira). A transformação está expressamente prevista no art. 29.\nC) CORRETA (opção verdadeira). A transformação está expressamente prevista no art. 30.\nD) CORRETA (opção verdadeira). A transformação está expressamente prevista no art. 31.\nE) INCORRETA (gabarito). O art. 31 estabelece que o cargo de Agente de Segurança Legislativa fica transformado em Inspetor de Segurança, e não em Subinspetor de Segurança.",
+          "base_legal": {
+            "dispositivo": "Arts. 28 a 31",
+            "texto": "Art. 28. Os cargos de provimento em comissão de Redator e Operador de Rede do Sistema de Informática do Plenário, ficam transformados em Assistente de Apoio Legislativo, com codificação DAS e quantidade conforme Anexo Único deste Decreto.\nArt. 29. Os cargos de provimento em comissão de Administrador de Rede de Sistema de Informática de Plenário e Analista Desenvolvimento de Software Manutenção de Sistema de Informática do Plenário, ficam transformados em Assessor de Apoio Legislativo, com codificação DAS e quantidade conforme Anexo Único deste Decreto.\nArt. 30. O cargo de provimento em comissão de Assistente de Comissão Técnica, fica transformado em Assistente de Comissão Legislativa, com codificação DAS e quantidade conforme Anexo Único deste Decreto.\nArt. 31. O cargo de provimento em comissão de Agente de Segurança Legislativa, fica transformado em Inspetor de Segurança, com codificação DAS e quantidade conforme Anexo Único deste Decreto."
+          }
+        },
+        {
+          "enunciado": "Segundo os artigos 32 a 35 do Decreto Legislativo nº 11/2025, assinale a alternativa que indica a denominação resultante da transformação dos cargos de Fotógrafo, Operador de Áudio e Auxiliar do Sistema de Informática do Plenário.",
+          "alternativas": {
+            "A": "Assistente de Plenário.",
+            "B": "Assistente da Mesa Diretora.",
+            "C": "Assistente de Serviços Externos.",
+            "D": "Assistente de Serviços Internos.",
+            "E": "Assistente de Apoio Legislativo."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 34 dispõe expressamente que os cargos de Fotógrafo, Operador de Áudio e Auxiliar do Sistema de Informática do Plenário ficam transformados em Assistente de Plenário.\nB) INCORRETA. O cargo de Assistente da Mesa Diretora resulta da transformação do cargo de Secretário, nos termos do art. 33.\nC) INCORRETA. O cargo de Assistente de Serviços Externos resulta da transformação de Agente Parlamentar de Serviços Externos, nos termos do art. 32.\nD) INCORRETA. O cargo de Assistente de Serviços Internos resulta da transformação de Agente Operacional de Serviços Internos, nos termos do art. 35.\nE) INCORRETA. O cargo de Assistente de Apoio Legislativo resulta da transformação dos cargos previstos no art. 28.",
+          "base_legal": {
+            "dispositivo": "Arts. 28 e 32 a 35",
+            "texto": "Art. 28. Os cargos de provimento em comissão de Redator e Operador de Rede do Sistema de Informática do Plenário, ficam transformados em Assistente de Apoio Legislativo, com codificação DAS e quantidade conforme Anexo Único deste Decreto.\nArt. 32. O cargo de provimento em comissão de Agente Parlamentar de Serviços Externos, fica transformado em Assistente de Serviços Externos, com codificação DAS e quantidade conforme Anexo Único deste Decreto.\nArt. 33. O cargo de provimento em comissão de Secretário, fica transformado em Assistente da Mesa Diretora, com codificação DAS e quantidade conforme Anexo Único deste Decreto.\nArt. 34. Os cargos de provimento em comissão de Fotógrafo, Operador de Áudio e Auxiliar do Sistema de Informática do Plenário, ficam transformados em Assistente de Plenário, com codificação DAS e quantidade conforme Anexo Único deste Decreto.\nArt. 35. O cargo de provimento em comissão de Agente Operacional de Serviços Internos, fica transformado em Assistente de Serviços Internos, com codificação DAS e quantidade conforme Anexo Único deste Decreto."
+          }
+        },
+        {
+          "enunciado": "Acerca das transformações dos cargos em comissão de Liderança previstas nos artigos 36 a 38 do Decreto Legislativo nº 11/2025, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O cargo de Oficial de Gabinete de Liderança fica transformado em Secretário de Liderança.",
+            "B": "O cargo de Chefe de Gabinete de Liderança fica transformado em Supervisor de Liderança.",
+            "C": "O cargo de Chefe de Gabinete de Liderança fica transformado em Coordenador Geral de Liderança.",
+            "D": "O cargo de Assistente Técnico de Liderança fica transformado em Assistente de Liderança.",
+            "E": "Nas transformações dos cargos de Liderança, a codificação DAS e a quantidade seguem o Anexo Único."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). A transformação está expressa no art. 36.\nB) CORRETA (opção verdadeira). A transformação está expressa no art. 37.\nC) INCORRETA (gabarito). O art. 37 dispõe que o cargo de Chefe de Gabinete de Liderança fica transformado em Supervisor de Liderança, e não em Coordenador Geral de Liderança.\nD) CORRETA (opção verdadeira). A transformação está expressa no art. 38.\nE) CORRETA (opção verdadeira). Os arts. 36 a 38 remetem a codificação DAS e a quantidade ao Anexo Único.",
+          "base_legal": {
+            "dispositivo": "Arts. 36 a 38",
+            "texto": "Art. 36. O cargo de provimento em comissão de Oficial de Gabinete de Liderança, fica transformado em Secretário de Liderança, com codificação DAS e quantidade conforme Anexo Único deste Decreto.\nArt. 37. O cargo de provimento em comissão de Chefe de Gabinete de Liderança, fica transformado em Supervisor de Liderança, com codificação DAS e quantidade conforme Anexo Único deste Decreto.\nArt. 38. O cargo de provimento em comissão de Assistente Técnico de Liderança, fica transformado em Assistente de Liderança, com codificação DAS e quantidade conforme Anexo Único deste Decreto."
+          }
+        },
+        {
+          "enunciado": "Nos termos dos artigos 39 e 40 do Decreto Legislativo nº 11/2025, assinale a alternativa correta quanto às alterações promovidas nos cargos de provimento em comissão.",
+          "alternativas": {
+            "A": "Foi alterada a quantificação dos cargos de Chefe de Gabinete Civil, Chefe de Gabinete da Presidência e Chefe de Gabinete Militar.",
+            "B": "Foi alterada a codificação DAS do cargo de Chefe de Divisão, mantendo-se inalterada a sua quantificação.",
+            "C": "Foram extintos os cargos de Chefe de Gabinete Civil e Chefe de Gabinete Militar.",
+            "D": "Foi alterada a remuneração de todos os cargos de Chefe de Seção para o nível DAS.201.5.",
+            "E": "Foi alterada a codificação DAS dos cargos de Chefe de Gabinete Civil, da Presidência e Militar, e alterada a quantificação do cargo de Chefe de Divisão."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. Para os cargos de Chefe de Gabinete Civil, da Presidência e Militar, o art. 39 alterou a codificação DAS, e não a quantificação.\nB) INCORRETA. Para o cargo de Chefe de Divisão, o art. 40 alterou expressamente a quantificação, e não a codificação DAS.\nC) INCORRETA. Os cargos de Chefe de Gabinete Civil e Militar não foram extintos, mas tiveram sua codificação DAS alterada, nos termos do art. 39.\nD) INCORRETA. Não há essa previsão nos artigos 39 e 40; os Chefes de Seção são codificados como DAS.201.2 no Anexo Único.\nE) CORRETA. Os artigos 39 e 40 estabelecem expressamente a alteração da codificação DAS dos três Chefes de Gabinete e a alteração da quantificação do cargo de Chefe de Divisão.",
+          "base_legal": {
+            "dispositivo": "Art. 39 e Art. 40",
+            "texto": "Art. 39. Fica alterada a codificação DAS dos seguintes cargos de provimento em comissão, conforme Anexo Único deste Decreto: Chefe de Gabinete Civil; Chefe de Gabinete da Presidência; Chefe de Gabinete Militar.\nArt. 40. Fica alterada a quantificação do cargo de provimento em comissão de Chefe de Divisão, conforme Anexo Único deste Decreto."
+          }
+        },
+        {
+          "enunciado": "Em relação às disposições finais, revogação e vigência estabelecidas nos artigos 41 a 43 do Decreto Legislativo nº 11/2025, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Fica revogada parcialmente a Resolução nº 01, de 23 de dezembro de 2002, mantendo-se em vigor seus artigos de natureza remuneratória.",
+            "B": "A revogação da Resolução nº 01, de 23 de dezembro de 2002, operou-se de forma integral.",
+            "C": "Integra o Decreto Legislativo o Quadro consolidado de cargos de provimento em comissão constante no Anexo Único.",
+            "D": "Embora datado de 24 de junho de 2025, o Decreto Legislativo entra em vigor na data de sua publicação.",
+            "E": "A adequação organofuncional promovida visa atender às necessidades atuais da Assembleia Legislativa do Estado do Pará."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 41 estabelece a revogação INTEGRAL, e não parcial, da Resolução nº 01, de 23 de dezembro de 2002.\nB) CORRETA (opção verdadeira). O art. 41 expressamente revoga integralmente a referida Resolução.\nC) CORRETA (opção verdadeira). O art. 42 dispõe que o Quadro consolidado do Anexo Único integra o Decreto Legislativo.\nD) CORRETA (opção verdadeira). O decreto é de 24/06/2025, mas o art. 43 fixa a vigência na data da publicação, ocorrida no DOAL nº 2552 (de 31/07 a 01/08/2025).\nE) CORRETA (opção verdadeira). A finalidade de adequar a estrutura às necessidades atuais consta do art. 41.",
+          "base_legal": {
+            "dispositivo": "Arts. 41 a 43",
+            "texto": "Art. 41. A fim de adequar a estrutura organofuncional as necessidades atuais, revoga-se integralmente a Resolução nº 01, de 23 de dezembro de 2002.\nArt. 42. Integra este Decreto Legislativo o Quadro consolidado de cargos de provimento em comissão constante no Anexo Único.\nArt. 43. Este Decreto Legislativo entra em vigor na data de sua publicação.\nDECRETO LEGISLATIVO Nº 11, DE 24 DE JUNHO DE 2025.\nDOAL Nº 2552, de 31 de julho a 01 de agosto de 2025."
+          }
+        },
+        {
+          "enunciado": "Com base no Quadro de Cargos de Provimento em Comissão (Anexo Único) do Decreto Legislativo nº 11/2025, assinale a alternativa que indica os cargos de Direção com a referência DAS.201.6.",
+          "alternativas": {
+            "A": "Chefe de Gabinete da Presidência, Chefe de Gabinete Civil, Chefe de Gabinete Militar e Controlador Geral.",
+            "B": "Secretário Legislativo, Secretário Administrativo, Secretário de Instrução Técnica e Controle Externo e Procurador Geral.",
+            "C": "Diretor de Tecnologia da Informação, Diretor de Comunicação Institucional, Diretor Legislativo e Diretor de Gestão de Pessoas.",
+            "D": "Ouvidor Geral, Coordenador da Assessoria Técnica, Subprocurador Geral e Subsecretário Legislativo.",
+            "E": "Agente de Contratação, Inspetor Chefe de Segurança, Supervisor do CAC e Chefe de Gabinete do Procurador Geral."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. Os cargos de Chefe de Gabinete e Controlador Geral possuem referência DAS.201.5 no Anexo Único.\nB) CORRETA. O Anexo Único prevê exatamente o nível DAS.201.6 para os cargos de Secretário Legislativo, Secretário Administrativo, Secretário de Instrução Técnica e Controle Externo e Procurador Geral.\nC) INCORRETA. Os cargos de Diretor possuem referência DAS.201.5 no Anexo Único.\nD) INCORRETA. Os cargos de Ouvidor Geral, Coordenadores, Subprocurador e Subsecretários possuem referência DAS.201.5 no Anexo Único.\nE) INCORRETA. Os cargos de Agente de Contratação e Inspetor Chefe possuem referência DAS.201.5, e Supervisor do CAC possui DAS.201.4 no Anexo Único.",
+          "base_legal": {
+            "dispositivo": "Anexo Único",
+            "texto": "SECRETÁRIO LEGISLATIVO 1 DAS.201.6\nSECRETÁRIO ADMINISTRATIVO 1 DAS.201.6\nSECRETÁRIO DE INSTRUÇÃO TÉCNICA E CONTROLE EXTERNO 1 DAS.201.6\nPROCURADOR GERAL 1 DAS.201.6"
+          }
+        },
+        {
+          "enunciado": "Conforme o Anexo Único do Decreto Legislativo nº 11/2025, no que se refere especificamente ao grupo de Cargos de Liderança, assinale a alternativa correta quanto à codificação e ao número de vagas.",
+          "alternativas": {
+            "A": "Secretário de Liderança (DAS.201.1; 10 vagas), Supervisor de Liderança (DAS.201.2; 10 vagas) e Assistente de Liderança (DAS.201.3; 10 vagas).",
+            "B": "Secretário de Liderança (DAS.201.5; 5 vagas), Supervisor de Liderança (DAS.201.4; 5 vagas) e Assistente de Liderança (DAS.201.3; 5 vagas).",
+            "C": "Secretário de Liderança (Direção, DAS.202.1; 21 vagas), Supervisor de Liderança (Direção, DAS.202.2; 21 vagas) e Assistente de Liderança (Assessoramento, DAS.202.3; 21 vagas).",
+            "D": "Secretário de Liderança (DAS.201.6; 50 vagas), Supervisor de Liderança (DAS.201.5; 50 vagas) e Assistente de Liderança (DAS.201.4; 50 vagas).",
+            "E": "Secretário de Liderança (DAS.202.4; 15 vagas), Supervisor de Liderança (DAS.202.4; 15 vagas) e Assistente de Liderança (DAS.202.4; 15 vagas)."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. As codificações de Liderança são da série DAS.202 e possuem 21 vagas cada, nos termos do Anexo Único.\nB) INCORRETA. As referências não são DAS.201 e o quantitativo é de 21 vagas para cada cargo, conforme o Anexo Único.\nC) CORRETA. O Anexo Único estabelece expressamente para os Cargos de Liderança: Secretário de Liderança (DAS.202.1, 21 vagas), Supervisor de Liderança (DAS.202.2, 21 vagas) e Assistente de Liderança (DAS.202.3, 21 vagas).\nD) INCORRETA. Os cargos de Liderança não pertencem ao nível DAS.201 nem possuem 50 vagas, conforme o Anexo Único.\nE) INCORRETA. A referência DAS.202.4 destina-se aos cargos de Assessor Estratégico e Assessor de Gestão, nos termos do Anexo Único.",
+          "base_legal": {
+            "dispositivo": "Anexo Único",
+            "texto": "CARGOS DE LIDERANÇA\nCARGO Nº DE VAGAS REFERÊNCIA\nSECRETÁRIO DE LIDERANÇA (DIREÇÃO) 21 DAS.202.1\nSUPERVISOR DE LIDERANÇA (DIREÇÃO) 21 DAS.202.2\nASSISTENTE DE LIDERANÇA (ASSESSORAMENTO) 21 DAS.202.3"
+          }
+        },
+        {
+          "enunciado": "A respeito do Quadro de Cargos de Provimento em Comissão consolidado no Anexo Único do Decreto Legislativo nº 11/2025, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os cargos de Diretor (como Diretor de TI, Diretor de Comunicação e Diretor Legislativo) possuem a referência DAS.201.5.",
+            "B": "O cargo de Chefe de Seção possui a referência DAS.201.2.",
+            "C": "O cargo de Chefe de Divisão possui a referência DAS.201.3.",
+            "D": "Todos os cargos de Direção da Assembleia Legislativa do Pará sem exceção possuem obrigatoriamente a codificação do grupo DAS.201.",
+            "E": "O cargo de Secretário Especial de Gabinete, resultante da transformação do art. 24, possui a referência DAS.201.1."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). Os cargos de Diretor constam do Anexo Único na referência DAS.201.5.\nB) CORRETA (opção verdadeira). Os Chefes de Seção constam do Anexo Único na referência DAS.201.2.\nC) CORRETA (opção verdadeira). Os Chefes de Divisão constam do Anexo Único na referência DAS.201.3.\nD) INCORRETA (gabarito). Existem cargos de Direção com codificação DAS.202, a exemplo do Secretário de Liderança (Direção - DAS.202.1) e do Supervisor de Liderança (Direção - DAS.202.2), no Quadro de Cargos de Liderança do Anexo Único.\nE) CORRETA (opção verdadeira). O Secretário Especial de Gabinete consta do Anexo Único na referência DAS.201.1.",
+          "base_legal": {
+            "dispositivo": "Anexo Único (trechos)",
+            "texto": "DIRETOR DE TECNOLOGIA DA INFORMAÇÃO 1 DAS.201.5\nCHEFE DE DIVISÃO DE ATENDIMENTO 1 DAS.201.3\nCHEFE DE SEÇÃO DE SUPORTE 1 DAS.201.2\nSECRETÁRIO ESPECIAL DE GABINETE 3 DAS.201.1\nSECRETÁRIO DE LIDERANÇA (DIREÇÃO) 21 DAS.202.1\nSUPERVISOR DE LIDERANÇA (DIREÇÃO) 21 DAS.202.2"
           }
         }
       ]
