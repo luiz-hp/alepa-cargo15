@@ -104,28 +104,47 @@ function desenharInicio() {
 }
 
 function itemNorma(n) {
-  const titulo = n.material
-    ? el("a", { href: `#/norma/${n.id}` }, rotuloNorma(n))
-    : el("span", {}, rotuloNorma(n));
-  const situacao = n.material ? "Resumo e questões" : "Sem material ainda";
+  const situacao = n.material ? "Resumo e questões" : "Texto oficial; resumo e questões em preparação";
   return el("li", { class: n.material ? "tem-material" : "" },
-    el("div", { class: "num" }, titulo),
+    el("div", { class: "num" }, el("a", { href: `#/norma/${n.id}` }, rotuloNorma(n))),
     el("div", { class: "desc" },
       inline(n.ementa),
       n.observacao ? el("span", { class: "situacao" }, n.observacao) : null,
-      el("span", { class: "situacao" }, situacao),
-      n.pdfs.length > 1
-        ? el("span", { class: "situacao" }, n.pdfs.map((p, i) => [i ? " | " : "", el("a", { href: p.url, target: "_blank", rel: "noopener" }, p.rotulo)]))
-        : null
+      el("span", { class: "situacao" }, situacao)
     )
   );
+}
+
+function tituloNorma(n) {
+  return `${n.tipo} nº ${n.numero}/${n.ano}`;
+}
+
+/* Página de norma ainda sem resumo e questões: ementa e links para o texto oficial. */
+function conteudoSemMaterial(n) {
+  return [
+    el("a", { class: "voltar", href: "#/" }, "Todas as normas"),
+    el("h1", {}, tituloNorma(n)),
+    el("p", { class: "ementa" }, inline(n.ementa)),
+    n.observacao ? el("p", { class: "atencao" }, el("strong", {}, "Atenção: "), inline(n.observacao)) : null,
+    el("ul", { class: "meta" }, n.pdfs.map((p) =>
+      el("li", {}, el("a", { href: p.url, target: "_blank", rel: "noopener" },
+        n.pdfs.length > 1 ? p.rotulo : "Texto oficial (PDF do Banco de Leis da ALEPA)")))),
+    el("p", { class: "aviso" }, "Resumo e questões em preparação.")
+  ];
 }
 
 /* ---------- página da norma ---------- */
 
 async function desenharNorma(id, ancora) {
   const meta = registro.normas.find((n) => n.id === id);
-  if (!meta || !meta.material) return mostrarErro(`A norma "${id}" não tem material cadastrado em dados/normas.json.`);
+  if (!meta) return mostrarErro(`A norma "${id}" não consta de dados/normas.json.`);
+  if (!meta.material) {
+    normaAtual = id;
+    document.title = `${rotuloNorma(meta)}: texto oficial`;
+    main.replaceChildren(...conteudoSemMaterial(meta).filter(Boolean));
+    window.scrollTo(0, 0); main.focus({ preventScroll: true });
+    return;
+  }
 
   if (normaAtual !== id) {
     main.replaceChildren(el("p", { class: "carregando" }, "Carregando…"));
