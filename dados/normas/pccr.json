@@ -277,6 +277,22 @@
           }
         },
         {
+          "enunciado": "A respeito da estruturação dos Anexos do Decreto Legislativo nº 35/2015 e da dinâmica entre o Quadro de Provimento Efetivo e o Quadro Suplementar (art. 4º, § 1º, e art. 5º, § 1º), assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Os cargos do Quadro Efetivo mantêm-se com Nível, Grupo Ocupacional, Carreira, Nomenclatura, Especialidade e Código constantes do Anexo II, com atribuições no Anexo III, e os cargos que haviam migrado do Quadro Suplementar para o Efetivo no DL 04/2012 são revertidos ao Quadro Suplementar.",
+            "B": "O Anexo II disciplina exclusivamente a relação descritiva de atribuições dos cargos, enquanto o Anexo III especifica a tabela de vencimento base dos servidores da ALEPA.",
+            "C": "Os cargos que haviam migrado do Quadro Suplementar para o Quadro de Provimento Efetivo por força do DL 04/2012 foram definitivamente incorporados ao Quadro Efetivo, vedada qualquer reversão.",
+            "D": "A reversão dos cargos ao Quadro Suplementar prevista no art. 5º, § 1º, extinguiu automaticamente o pagamento da Gratificação de Dedicação Legislativa para seus ocupantes.",
+            "E": "As atribuições descritas no Anexo III aplicam-se exclusivamente aos cargos do Quadro Suplementar, ficando os cargos do Quadro Efetivo sem descrição regimental."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Expressa com precisão o disposto no art. 4º, § 1º (Anexos II e III) e no art. 5º, § 1º (reversão dos cargos migrados pelo DL 04/2012 ao Quadro Suplementar).\nB) INCORRETA. O Anexo II contém o Quadro de Provimento Efetivo e o Anexo III contém a Relação Descritiva das Atribuições, segundo o art. 4º, § 1º, e art. 22.\nC) INCORRETA. O art. 5º, § 1º, determina expressamente que os cargos que haviam migrado para o Quadro Efetivo pelo DL 04/2012 são revertidos para o Quadro Suplementar.\nD) INCORRETA. O art. 5º, § 3º, assegura expressamente a percepção da Gratificação de Dedicação Legislativa aos servidores do Quadro Suplementar que não comprovem nível superior.\nE) INCORRETA. As atribuições descritas no Anexo III referem-se aos cargos do Quadro de Provimento Efetivo, conforme estabelece o art. 4º, § 1º.",
+          "base_legal": {
+            "dispositivo": "Art. 4º, § 1º, e art. 5º, § 1º",
+            "texto": "Art. 4º, § 1º Os cargos do Quadro de Provimento Efetivo da Assembleia Legislativa do Estado do Pará mantêm-se com o Nível, Grupo Ocupacional, Carreira, Nomenclatura, Especialidade e Código, constantes do Anexo II, com as atribuições descritas no Anexo III.\nArt. 5º, § 1º Os cargos que haviam migrado do Quadro Suplementar para o Quadro de Provimento Efetivo, por força dos incisos I e II, do § 1º, do artigo 3º, do Decreto Legislativo nº 04, de 2012, são, doravante, revertidos para àquele Quadro, ao qual pertenciam anteriormente, observando-se o que dispõe o caput deste artigo."
+          }
+        },
+        {
           "enunciado": "A respeito da Gratificação de Nível Superior (NS) e da Gratificação de Dedicação Legislativa (DL) previstas no art. 4º do Decreto Legislativo nº 35/2015, assinale a alternativa CORRETA.",
           "alternativas": {
             "A": "A Gratificação de Nível Superior (NS) é concedida aos servidores de nível superior mediante a simples nomeação para o cargo, independente de diploma.",
