@@ -6,7 +6,7 @@
   "alteracoes": [
     "Publicado no DOAL nº 2552, de 31/07 a 01/08/2025; vigência na data da publicação (art. 43).",
     "Revoga integralmente a Resolução nº 01, de 23 de dezembro de 2002 (art. 41).",
-    "Partes 2 (arts. 12 a 22) e 3 (arts. 23 a 43 e Anexo Único) em preparação."
+    "Parte 3 (arts. 23 a 43 e Anexo Único) em preparação."
   ],
   "partes": [
     {
@@ -319,6 +319,281 @@
           "base_legal": {
             "dispositivo": "Arts. 1º, 4º, 6º, 8º e 10",
             "texto": "Art. 1º Ficam criadas na estrutura organofuncional da Assembleia Legislativa a Secretaria Administrativa e a Secretaria de Instrução Técnica e Controle Externo, e alteradas as atribuições da Secretaria Legislativa, vinculadas à Presidência.\nArt. 4º O Centro de Processamento de Dados, fica transformado em Diretoria de Tecnologia da Informação, vinculada à Presidência.\nArt. 6º Fica criada a Diretoria de Comunicação Institucional, vinculada à Presidência.\nArt. 8º Passa a integrar a estrutura organofuncional da Assembleia Legislativa, o Centro de Atendimento ao Cidadão (Ato da Mesa 114-A/99), constituído dos seguintes cargos: Supervisor do CAC, DAS 201.4; Chefe da Divisão de Planejamento Operacional, DAS 201.3; Chefe da Divisão de Expedição de Documentos, DAS 201.3; e Divisão de Orientação e Assistência Sociojurídica, DAS 201.3, vinculado à Presidência.\nArt. 10. A Auditoria, fica transformada em Controladoria Geral, vinculada à Presidência."
+          }
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Diretorias, divisões e seções",
+      "artigos": "Arts. 12 a 22",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A Parte 2 mostra **a que órgão cada Diretoria ficou vinculada**. Pelo art. 11, todo Departamento virou Diretoria; os arts. 12 a 20 dizem a qual Secretaria cada uma se vincula e o que mudou nas suas Divisões e Seções. Os arts. 21 e 22 mudam a vinculação do Cerimonial e do Núcleo Educacional."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Órgão",
+            "O que aconteceu",
+            "Vinculação"
+          ],
+          "linhas": [
+            [
+              "Diretoria de Bem-estar Social",
+              "Transformada: era Departamento (art. 12)",
+              "Secretaria Administrativa"
+            ],
+            [
+              "Diretoria Administrativa e Infraestrutura",
+              "Transformada: era o Departamento Administrativo (art. 13)",
+              "Secretaria Administrativa"
+            ],
+            [
+              "Diretoria de Gestão de Pessoas",
+              "Transformada: era Departamento (art. 14)",
+              "Secretaria Administrativa"
+            ],
+            [
+              "Diretoria de Planejamento, Orçamento e Finanças",
+              "Transformada: era o Departamento Financeiro (art. 15)",
+              "Secretaria Administrativa"
+            ],
+            [
+              "Núcleo de Fiscalização e Controle de Verbas Indenizatórias Parlamentar",
+              "**Criado** (art. 18)",
+              "Diretoria de Planejamento, Orçamento e Finanças"
+            ],
+            [
+              "Diretoria de Memorial Legislativo",
+              "Transformada: era Departamento (art. 19)",
+              "Secretaria Legislativa"
+            ],
+            [
+              "Diretoria Legislativa",
+              "Transformada: era o Departamento Legislativo (art. 20)",
+              "Secretaria Legislativa"
+            ],
+            [
+              "Divisão de Cerimonial",
+              "Passa a ser vinculada diretamente (art. 21)",
+              "**Presidência**"
+            ],
+            [
+              "Núcleo Educacional Eng. Waldemar Chaves",
+              "Passa a ser vinculado diretamente (art. 22)",
+              "**Chefia do Gabinete Civil**"
+            ]
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "**Bem-estar Social (art. 12):** Divisão de Serviço Social → **Divisão Psicossocial**.",
+            "**Administrativa e Infraestrutura (art. 13):** dirige as Divisões de **Apoio Administrativo** e de **Manutenção e Serviços** (ex-Serviços Gerais). Seção de Comunicação → **Telecomunicação**; Seção de Compra e Aquisição de Material → **Aquisição de Material** (atribuições da Res. 05/1987); **Reprografia** passa à Divisão de Manutenção e Serviços; **criadas** as Seções de Gestão Documental e de Controle de Processos de Compras de Bens e Serviços; Seção de Portaria e Zeladoria → **Portaria**; Seção de Transporte **extinta**.",
+            "**Gestão de Pessoas (art. 14):** Divisão de Desenvolvimento Pessoal → **Desenvolvimento de Pessoas**; Seção de Capacitação → **Capacitação e Valorização Profissional**; Divisão de Administração de Pessoal → **Administração de Pessoas**; **criada** a Seção de Estágio.",
+            "**Planejamento, Orçamento e Finanças (arts. 15 a 17):** Divisão de **Contabilidade** (Seções de Escrituração, Prestação de Contas e Controle Orçamentário) e Divisão de **Finanças** (Seções de Planejamento Financeiro, Finanças, Pagamento e Controle Bancário).",
+            "**Memorial (art. 19):** Seção de Arquivo → **Seção de Arquivo do Memorial**.",
+            "**Ligação com o PCCR:** o Departamento de Gestão de Pessoas e a Divisão de Desenvolvimento Pessoal, citados na Comissão de avaliação do art. 6º, § 2º, do PCCR, hoje são a Diretoria de Gestão de Pessoas e a Divisão de Desenvolvimento de Pessoas."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) O Núcleo Educacional vai para a **Chefia do Gabinete Civil**; o Cerimonial, para a **Presidência**. 2) A Seção de Transporte foi **extinta**, não transformada. 3) As quatro Diretorias administrativas ficam na **Secretaria Administrativa**; Memorial e Legislativa, na **Secretaria Legislativa**. 4) Conciliação bancária aparece em várias unidades, mas \"identificar discrepâncias\" só na **Seção de Controle Bancário**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Nos termos do art. 12 do Decreto Legislativo nº 11/2025 da ALEPA, a respeito da reorganização do Departamento de Bem-estar Social, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "O Departamento de Bem-estar Social foi extinto e suas funções repassadas diretamente ao Centro de Atendimento ao Cidadão.",
+            "B": "O Departamento de Bem-estar Social fica transformado em Diretoria de Bem-estar Social, vinculada à Secretaria Administrativa, e a Divisão de Serviço Social fica transformada em Divisão Psicossocial.",
+            "C": "A Divisão de Serviço Social foi mantida inalterada na estrutura da Diretoria de Gestão de Pessoas.",
+            "D": "A Diretoria de Bem-estar Social ficou vinculada diretamente à Presidência da Assembleia Legislativa.",
+            "E": "A Divisão Psicossocial passou a ser subordinada à Secretaria de Instrução Técnica e Controle Externo."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O Departamento de Bem-estar Social não foi extinto, mas transformado em Diretoria, nos termos do art. 12.\nB) CORRETA. O art. 12 estabelece que o Departamento de Bem-estar Social fica transformado em Diretoria de Bem-estar Social, vinculada à Secretaria Administrativa, e o parágrafo único transforma a Divisão de Serviço Social em Divisão Psicossocial.\nC) INCORRETA. A Divisão de Serviço Social não foi mantida: foi transformada em Divisão Psicossocial (art. 12, parágrafo único).\nD) INCORRETA. A Diretoria de Bem-estar Social é vinculada à Secretaria Administrativa, e não à Presidência, nos termos do art. 12.\nE) INCORRETA. A Divisão Psicossocial é tratada no art. 12, que cuida da Diretoria de Bem-estar Social, vinculada à Secretaria Administrativa; não há subordinação à Secretaria de Instrução Técnica e Controle Externo.",
+          "base_legal": {
+            "dispositivo": "Art. 12, caput e parágrafo único",
+            "texto": "Art. 12. O Departamento de Bem-estar Social, fica transformado em Diretoria de Bem-estar Social, vinculada à Secretaria Administrativa.\nParágrafo único. A Divisão de Serviço Social, fica transformada em Divisão Psicossocial, com as seguintes atribuições:"
+          }
+        },
+        {
+          "enunciado": "Conforme o art. 13 do Decreto Legislativo nº 11/2025, no tocante às unidades da Diretoria Administrativa e Infraestrutura, assinale a alternativa correta quanto à Seção de Transporte.",
+          "alternativas": {
+            "A": "A Seção de Transporte foi transformada em Seção de Logística e Frotas.",
+            "B": "A Seção de Transporte foi transferida para a Divisão de Apoio Administrativo.",
+            "C": "A Seção de Transporte fica extinta na estrutura organofuncional da Assembleia Legislativa.",
+            "D": "A Seção de Transporte passou a vincular-se diretamente ao Gabinete Militar.",
+            "E": "A Seção de Transporte foi mantida sob a denominação de Seção de Veículos Oficiais."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. A norma não transformou a seção em Logística e Frotas, mas a extinguiu expressamente, nos termos do art. 13, § 8º.\nB) INCORRETA. A Seção de Transporte não foi transferida de divisão, mas extinta da estrutura, nos termos do art. 13, § 8º.\nC) CORRETA. O art. 13, § 8º, determina expressamente que a Seção de Transporte fica extinta na estrutura organofuncional da Assembleia Legislativa.\nD) INCORRETA. Não houve vinculação ao Gabinete Militar; o texto legal decreta a extinção da seção, nos termos do art. 13, § 8º.\nE) INCORRETA. Não houve manutenção de nomenclatura nem criação de Seção de Veículos Oficiais, nos termos do art. 13, § 8º.",
+          "base_legal": {
+            "dispositivo": "Art. 13, § 8º",
+            "texto": "§8º A Seção de Transporte fica extinta na estrutura organofuncional da Assembleia Legislativa."
+          }
+        },
+        {
+          "enunciado": "Com relação às alterações nas Seções e Divisões da Diretoria Administrativa e Infraestrutura previstas no art. 13 do Decreto Legislativo nº 11/2025, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Seção de Comunicação, vinculada à Divisão de Apoio Administrativo, fica transformada em Seção de Telecomunicação.",
+            "B": "Fica criada a Seção de Gestão Documental, vinculada à Divisão de Apoio Administrativo.",
+            "C": "Fica criada a Seção de Controle de Processos de Compras de Bens e Serviços, vinculada à Divisão de Apoio Administrativo.",
+            "D": "A Seção de Reprografia passa a ser vinculada à Divisão de Manutenção e Serviços.",
+            "E": "A Seção de Compra e Aquisição de Material foi transformada em Seção de Licitações e Contratos, com atribuições da Lei Federal nº 14.133/2021."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). A transformação em Seção de Telecomunicação está prevista expressamente no art. 13, § 2º.\nB) CORRETA (opção verdadeira). A criação da Seção de Gestão Documental consta expressamente do art. 13, § 5º.\nC) CORRETA (opção verdadeira). A criação da Seção de Controle de Processos de Compras está expressa no art. 13, § 6º.\nD) CORRETA (opção verdadeira). A vinculação da Seção de Reprografia à Divisão de Manutenção e Serviços está disposta no art. 13, § 4º.\nE) INCORRETA (gabarito). A Seção de Compra e Aquisição de Material foi transformada em Seção de Aquisição de Material, com as mesmas atribuições disciplinadas pela Resolução nº 05/1987 (art. 13, § 3º); o DL não menciona Seção de Licitações e Contratos.",
+          "base_legal": {
+            "dispositivo": "Art. 13, §§ 2º a 6º",
+            "texto": "§2º A Seção de Comunicação, vinculada a Divisão de Apoio Administrativo, fica transformada em Seção de Telecomunicação, com as seguintes atribuições:\n§3º A Seção de Compra e Aquisição de Material, vinculada a Divisão de Apoio Administrativo, fica transformada em Seção de Aquisição de Material, com as mesmas atribuições disciplinadas pela Resolução nº 05/1987.\n§4º A Seção de Reprografia passa a ser vinculada a Divisão de Manutenção e Serviços.\n§5º Fica criada a Seção de Gestão Documental, vinculada a Divisão de Apoio Administrativo, com as seguintes atribuições:\n§6º Fica criada a Seção de Controle de Processos de Compras de Bens e Serviços, vinculada a Divisão de Apoio Administrativo, com as seguintes atribuições:"
+          }
+        },
+        {
+          "enunciado": "Segundo o art. 13, caput e § 7º, do Decreto Legislativo nº 11/2025, a Diretoria Administrativa e Infraestrutura dirige e supervisiona quais Divisões, e qual alteração de denominação ocorreu na Divisão de Serviços Gerais?",
+          "alternativas": {
+            "A": "Supervisiona as Divisões de Protocolo e de Arquivo, tendo a Divisão de Serviços Gerais sido extinta.",
+            "B": "Supervisiona as Divisões de Compras e de Patrimônio, tendo a Divisão de Serviços Gerais sido transformada em Divisão de Logística.",
+            "C": "Supervisiona as Divisões de Transportes e de Zeladoria, tendo a Divisão de Serviços Gerais sido mantida sem alterações.",
+            "D": "Supervisiona as Divisões de Apoio Administrativo e de Manutenção e Serviços, tendo a Divisão de Serviços Gerais sido transformada em Divisão de Manutenção e Serviços.",
+            "E": "Supervisiona as Divisões de Engenharia e de Obras, tendo a Divisão de Serviços Gerais sido transformada em Divisão de Infraestrutura Física."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. A Divisão de Serviços Gerais não foi extinta, mas sim transformada em Divisão de Manutenção e Serviços, nos termos do art. 13, § 7º.\nB) INCORRETA. As divisões supervisionadas são Apoio Administrativo e Manutenção e Serviços, e não Compras e Patrimônio, nos termos do art. 13, caput e § 7º.\nC) INCORRETA. A Divisão de Serviços Gerais foi transformada em Divisão de Manutenção e Serviços, nos termos do art. 13, § 7º.\nD) CORRETA. O caput do art. 13 indica que a diretoria dirige e supervisiona as Divisões de Apoio Administrativo e de Manutenção e Serviços, e o § 7º dispõe que a Divisão de Serviços Gerais fica transformada em Divisão de Manutenção e Serviços.\nE) INCORRETA. A alteração nomeou a unidade como Divisão de Manutenção e Serviços, nos termos do art. 13, § 7º.",
+          "base_legal": {
+            "dispositivo": "Art. 13, caput e § 7º",
+            "texto": "Art. 13. O Departamento Administrativo, fica transformado em Diretoria Administrativa e Infraestrutura, vinculada à Secretaria Administrativa, que terá como atribuições dirigir e supervisionar as atividades das Divisões de Apoio Administrativo e de Manutenção e Serviços.\n§7º A Divisão de Serviços Gerais fica transformada em Divisão de Manutenção e Serviços, com as seguintes atribuições: organizar, coordenar e dirigir as atividades dos Serviços de Portaria, Material e Patrimônio, Administração do Plenário, Controle de Patrimônio e Reprografia."
+          }
+        },
+        {
+          "enunciado": "No âmbito da Diretoria de Gestão de Pessoas, de acordo com o art. 14, § 4º, do Decreto Legislativo nº 11/2025, qual unidade foi criada e a qual divisão ela se encontra vinculada?",
+          "alternativas": {
+            "A": "Foi criada a Seção de Estágio, vinculada à Divisão de Administração de Pessoal, que o § 3º renomeou como Divisão de Administração de Pessoas.",
+            "B": "Foi criada a Seção de Seleção e Concursos, vinculada à Divisão de Desenvolvimento de Pessoas.",
+            "C": "Foi criada a Seção de Benefícios e Aposentadoria, vinculada à Diretoria de Bem-estar Social.",
+            "D": "Foi criada a Seção de Avaliação de Desempenho, vinculada à Secretaria Administrativa.",
+            "E": "Foi criada a Seção de Recursos Humanos Digital, vinculada à Diretoria de TI."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 14, § 4º, cria a Seção de Estágio, vinculada à Divisão de Administração de Pessoal; o § 3º transformou essa Divisão em Divisão de Administração de Pessoas, mas o § 4º manteve o nome antigo.\nB) INCORRETA. A unidade criada no § 4º do art. 14 é a Seção de Estágio, e não Seção de Seleção e Concursos.\nC) INCORRETA. A criação no art. 14, § 4º, trata da Seção de Estágio na estrutura de Gestão de Pessoas.\nD) INCORRETA. A unidade criada foi a Seção de Estágio, vinculada à Divisão de Administração de Pessoal, nos termos do art. 14, § 4º.\nE) INCORRETA. O dispositivo trata da Seção de Estágio na área de gestão de pessoas, nos termos do art. 14, § 4º.",
+          "base_legal": {
+            "dispositivo": "Art. 14, §§ 3º e 4º",
+            "texto": "§3º A Divisão de Administração de Pessoal, fica transformada em Divisão de Administração de Pessoas.\n§4º Fica criada a Seção de Estágio, vinculada a Divisão de Administração de Pessoal, com as seguintes atribuições:"
+          }
+        },
+        {
+          "enunciado": "Sobre a reestruturação promovida na Diretoria de Gestão de Pessoas pelo art. 14 do Decreto Legislativo nº 11/2025, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Departamento de Gestão de Pessoas fica transformado em Diretoria de Gestão de Pessoas, vinculada à Secretaria Administrativa.",
+            "B": "A Divisão de Desenvolvimento Pessoal fica transformada em Divisão de Desenvolvimento de Pessoas.",
+            "C": "A Diretoria de Gestão de Pessoas passou a vincular-se diretamente ao Gabinete da Presidência da ALEPA.",
+            "D": "A Divisão de Administração de Pessoal fica transformada em Divisão de Administração de Pessoas.",
+            "E": "A Seção de Capacitação fica transformada em Seção de Capacitação e Valorização Profissional."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). A transformação e vinculação à Secretaria Administrativa estão dispostas no art. 14, caput.\nB) CORRETA (opção verdadeira). A alteração de denominação da divisão consta expressamente do art. 14, § 1º.\nC) INCORRETA (gabarito). O art. 14, caput, determina que a Diretoria de Gestão de Pessoas é vinculada à Secretaria Administrativa, e não ao Gabinete da Presidência.\nD) CORRETA (opção verdadeira). A alteração de denominação da divisão consta expressamente do art. 14, § 3º.\nE) CORRETA (opção verdadeira). A transformação da seção consta expressamente do art. 14, § 2º.",
+          "base_legal": {
+            "dispositivo": "Art. 14, caput e §§ 1º a 3º",
+            "texto": "Art. 14. O Departamento de Gestão de Pessoas, fica transformado em Diretoria de Gestão de Pessoas, vinculada à Secretaria Administrativa.\n§1º A Divisão de Desenvolvimento Pessoal, fica transformada em Divisão de Desenvolvimento de Pessoas.\n§2º A Seção de Capacitação, vinculada a Divisão de Desenvolvimento de Pessoas, fica transformada em Seção de Capacitação e Valorização Profissional, com as seguintes atribuições:\n§3º A Divisão de Administração de Pessoal, fica transformada em Divisão de Administração de Pessoas."
+          }
+        },
+        {
+          "enunciado": "Nos termos do art. 15 do Decreto Legislativo nº 11/2025, o Departamento Financeiro passou por qual transformação estrutural?",
+          "alternativas": {
+            "A": "Fica transformado em Tesouraria Geral da Assembleia Legislativa, vinculada à Presidência.",
+            "B": "Fica transformado em Diretoria de Planejamento, Orçamento e Finanças, vinculada à Secretaria Administrativa.",
+            "C": "Fica extinto, sendo suas atribuições absorvidas pela Controladoria Geral.",
+            "D": "Fica transformado em Diretoria de Contabilidade e Finanças, vinculada à Mesa Diretora.",
+            "E": "Fica mantido como Departamento, vinculado à Secretaria de Instrução Técnica e Controle Externo."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. A norma não criou Tesouraria Geral, mas transformou o órgão em Diretoria de Planejamento, Orçamento e Finanças, nos termos do art. 15.\nB) CORRETA. O art. 15 dispõe expressamente que o Departamento Financeiro fica transformado em Diretoria de Planejamento, Orçamento e Finanças, vinculada à Secretaria Administrativa.\nC) INCORRETA. Não houve extinção do departamento, mas sua transformação em Diretoria, nos termos do art. 15.\nD) INCORRETA. A denominação correta é Diretoria de Planejamento, Orçamento e Finanças, vinculada à Secretaria Administrativa, nos termos do art. 15.\nE) INCORRETA. O departamento foi transformado em Diretoria e vincula-se à Secretaria Administrativa, nos termos do art. 15.",
+          "base_legal": {
+            "dispositivo": "Art. 15, caput",
+            "texto": "Art. 15. O Departamento Financeiro, fica transformado em Diretoria de Planejamento, Orçamento e Finanças, vinculada à Secretaria Administrativa, com as seguintes atribuições:"
+          }
+        },
+        {
+          "enunciado": "Considerando as atribuições específicas das Seções integrantes da Divisão de Finanças previstas no art. 17 do Decreto Legislativo nº 11/2025, assinale a alternativa que indica a unidade responsável por realizar a conciliação bancária e identificar discrepâncias.",
+          "alternativas": {
+            "A": "Seção de Planejamento Financeiro.",
+            "B": "Seção de Finanças.",
+            "C": "Seção de Pagamento.",
+            "D": "Seção de Controle Bancário.",
+            "E": "Seção de Prestação de Contas."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. A Seção de Planejamento Financeiro é responsável por desenvolver planos financeiros e modelos de simulação, nos termos do art. 17, § 1º.\nB) INCORRETA. A Seção de Finanças gerencia as atividades financeiras e a execução orçamentária geral, nos termos do art. 17, § 2º.\nC) INCORRETA. A Seção de Pagamento realiza pagamentos e verifica a conformidade dos documentos de pagamento, nos termos do art. 17, § 3º.\nD) CORRETA. O art. 17, § 4º, I, atribui à Seção de Controle Bancário realizar a conciliação bancária e identificar discrepâncias. Atenção: conciliações bancárias também aparecem nas Divisões de Contabilidade e de Finanças e na Seção de Escrituração (arts. 16 e 17), mas \"identificar discrepâncias\" só consta da Seção de Controle Bancário.\nE) INCORRETA. A Seção de Prestação de Contas integra a Divisão de Contabilidade, nos termos do art. 16, § 2º.",
+          "base_legal": {
+            "dispositivo": "Art. 17, § 4º, I, e art. 16, § 1º, III",
+            "texto": "§4º A Seção de Controle Bancário tem as seguintes atribuições:\nI - realizar a conciliação bancária e identificar discrepâncias;\n§1º A Seção de Escrituração tem as seguintes atribuições:\nIII - realizar conciliações bancárias e outras reconciliações;"
+          }
+        },
+        {
+          "enunciado": "A respeito do Núcleo de Fiscalização e Controle de Verbas Indenizatórias Parlamentar, criado pelo art. 18 do Decreto Legislativo nº 11/2025, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "É vinculado à Procuradoria-Geral com atribuição de aplicar sanções pecuniárias aos parlamentares.",
+            "B": "É vinculado diretamente à Presidência e exerce o julgamento de mérito das contas dos Deputados Estaduais.",
+            "C": "É vinculado à Diretoria de Planejamento, Orçamento e Finanças e tem como atribuições promover verificações formais da documentação comprobatória e orientar os parlamentares.",
+            "D": "É vinculado à Controladoria Geral e realiza auditorias operacionais nas empresas fornecedoras dos gabinetes.",
+            "E": "É vinculado à Secretaria Legislativa e atua no processamento das propostas de emendas parlamentares impositivas."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O Núcleo é vinculado à Diretoria de Planejamento, Orçamento e Finanças, e o art. 18 não lhe dá atribuição de aplicar sanções.\nB) INCORRETA. O Núcleo é vinculado à Diretoria de Planejamento, Orçamento e Finanças, e suas verificações são formais, não de julgamento de mérito (art. 18).\nC) CORRETA. O art. 18 prevê expressamente que o Núcleo é vinculado à Diretoria de Planejamento, Orçamento e Finanças, cabendo-lhe promover verificações formais da documentação comprobatória e orientar os parlamentares.\nD) INCORRETA. O Núcleo vincula-se à Diretoria de Planejamento, Orçamento e Finanças para verificações formais e orientação, nos termos do art. 18.\nE) INCORRETA. A vinculação é com a Diretoria de Planejamento, Orçamento e Finanças para verbas indenizatórias, nos termos do art. 18.",
+          "base_legal": {
+            "dispositivo": "Art. 18",
+            "texto": "Art. 18. Fica criado o Núcleo de Fiscalização e Controle de Verbas Indenizatórias Parlamentar, vinculada à Diretoria de Planejamento, Orçamento e Finanças, tendo como atribuições promover verificações formais da documentação comprobatória, bem como de orientar os parlamentares quanto às providências pertinentes para o regular processamento da documentação."
+          }
+        },
+        {
+          "enunciado": "Com base nos artigos 19 e 20 do Decreto Legislativo nº 11/2025, assinale a alternativa INCORRETA sobre a reestruturação das unidades vinculadas à Secretaria Legislativa.",
+          "alternativas": {
+            "A": "O Departamento de Memorial Legislativo fica transformado em Diretoria de Memorial Legislativo.",
+            "B": "A Diretoria de Memorial Legislativo é vinculada à Secretaria Legislativa.",
+            "C": "A Seção de Arquivo fica transformada em Seção de Arquivo do Memorial.",
+            "D": "A Diretoria de Memorial Legislativo e a Diretoria Legislativa ficaram vinculadas à Secretaria Administrativa.",
+            "E": "O Departamento Legislativo fica transformado em Diretoria Legislativa, vinculada à Secretaria Legislativa."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 19, caput, prevê expressamente essa transformação.\nB) CORRETA (opção verdadeira). O art. 19, caput, estabelece a vinculação à Secretaria Legislativa.\nC) CORRETA (opção verdadeira). O art. 19, parágrafo único, prevê a transformação da Seção de Arquivo em Seção de Arquivo do Memorial.\nD) INCORRETA (gabarito). Os artigos 19 e 20 vinculam expressamente a Diretoria de Memorial Legislativo e a Diretoria Legislativa à Secretaria Legislativa, e não à Secretaria Administrativa.\nE) CORRETA (opção verdadeira). O art. 20 prevê a transformação do Departamento Legislativo em Diretoria Legislativa, vinculada à Secretaria Legislativa.",
+          "base_legal": {
+            "dispositivo": "Art. 19 e Art. 20",
+            "texto": "Art. 19. O Departamento de Memorial Legislativo, fica transformado em Diretoria de Memorial Legislativo, vinculada à Secretaria Legislativa.\nParágrafo único. A Seção de Arquivo, fica transformada em Seção de Arquivo do Memorial.\nArt. 20. O Departamento Legislativo, fica transformado em Diretoria Legislativa, vinculada à Secretaria Legislativa."
+          }
+        },
+        {
+          "enunciado": "Conforme disposto nos artigos 21 e 22 do Decreto Legislativo nº 11/2025, a respeito da vinculação da Divisão de Cerimonial e do Núcleo Educacional Eng. Waldemar Chaves, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "A Divisão de Cerimonial passa a ser vinculada diretamente à Presidência, e o Núcleo Educacional Eng. Waldemar Chaves passa a ser vinculado diretamente à Chefia do Gabinete Civil.",
+            "B": "A Divisão de Cerimonial e o Núcleo Educacional Eng. Waldemar Chaves passam a ser vinculados diretamente à Presidência.",
+            "C": "A Divisão de Cerimonial passa a ser vinculada à Secretaria Legislativa, e o Núcleo Educacional à Secretaria Administrativa.",
+            "D": "A Divisão de Cerimonial foi transformada em Diretoria de Cerimonial, e o Núcleo Educacional foi extinto.",
+            "E": "A Divisão de Cerimonial passa a integrar a Mesa Diretora, e o Núcleo Educacional vincula-se à Escola do Poder Legislativo."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 21 vincula a Divisão de Cerimonial diretamente à Presidência, e o art. 22 vincula o Núcleo Educacional Eng. Waldemar Chaves diretamente à Chefia do Gabinete Civil.\nB) INCORRETA. O Núcleo Educacional Eng. Waldemar Chaves é vinculado à Chefia do Gabinete Civil, e não à Presidência, nos termos do art. 22.\nC) INCORRETA. A norma estabelece a vinculação à Presidência (Cerimonial) e à Chefia do Gabinete Civil (Núcleo Educacional), nos termos dos arts. 21 e 22.\nD) INCORRETA. Não houve transformação em diretoria nem extinção das unidades, nos termos dos arts. 21 e 22.\nE) INCORRETA. As vinculações expressas em lei são à Presidência (art. 21) e à Chefia do Gabinete Civil (art. 22).",
+          "base_legal": {
+            "dispositivo": "Art. 21 e Art. 22",
+            "texto": "Art. 21. A Divisão de Cerimonial passa a ser vinculada diretamente à Presidência.\nArt. 22. O Núcleo Educacional Eng. Waldemar Chaves passa a ser vinculado diretamente à Chefia do Gabinete Civil."
+          }
+        },
+        {
+          "enunciado": "Com base nas vinculações estabelecidas nos arts. 12 a 20 do Decreto Legislativo nº 11/2025, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Diretoria de Bem-estar Social e a Diretoria de Gestão de Pessoas são vinculadas à Secretaria Administrativa.",
+            "B": "A Diretoria Administrativa e Infraestrutura é vinculada à Secretaria Administrativa e dirige a Divisão de Apoio Administrativo.",
+            "C": "A Diretoria de Memorial Legislativo e a Diretoria Legislativa são vinculadas à Secretaria Legislativa.",
+            "D": "O Núcleo de Fiscalização e Controle de Verbas Indenizatórias Parlamentar é vinculado à Diretoria de Planejamento, Orçamento e Finanças.",
+            "E": "A Diretoria de Planejamento, Orçamento e Finanças é vinculada à Secretaria de Instrução Técnica e Controle Externo."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). Ambas são vinculadas à Secretaria Administrativa (arts. 12 e 14).\nB) CORRETA (opção verdadeira). O art. 13 a vincula à Secretaria Administrativa e lhe atribui dirigir e supervisionar as Divisões de Apoio Administrativo e de Manutenção e Serviços.\nC) CORRETA (opção verdadeira). Ambas são vinculadas à Secretaria Legislativa (arts. 19 e 20).\nD) CORRETA (opção verdadeira). É a vinculação prevista no art. 18.\nE) INCORRETA (gabarito). Pelo art. 15, a Diretoria de Planejamento, Orçamento e Finanças é vinculada à Secretaria Administrativa.",
+          "base_legal": {
+            "dispositivo": "Arts. 12, 13, 14, 15, 18, 19 e 20",
+            "texto": "Art. 12. O Departamento de Bem-estar Social, fica transformado em Diretoria de Bem-estar Social, vinculada à Secretaria Administrativa.\nArt. 13. O Departamento Administrativo, fica transformado em Diretoria Administrativa e Infraestrutura, vinculada à Secretaria Administrativa, que terá como atribuições dirigir e supervisionar as atividades das Divisões de Apoio Administrativo e de Manutenção e Serviços.\nArt. 14. O Departamento de Gestão de Pessoas, fica transformado em Diretoria de Gestão de Pessoas, vinculada à Secretaria Administrativa.\nArt. 15. O Departamento Financeiro, fica transformado em Diretoria de Planejamento, Orçamento e Finanças, vinculada à Secretaria Administrativa, com as seguintes atribuições:\nArt. 18. Fica criado o Núcleo de Fiscalização e Controle de Verbas Indenizatórias Parlamentar, vinculada à Diretoria de Planejamento, Orçamento e Finanças, tendo como atribuições promover verificações formais da documentação comprobatória, bem como de orientar os parlamentares quanto às providências pertinentes para o regular processamento da documentação.\nArt. 19. O Departamento de Memorial Legislativo, fica transformado em Diretoria de Memorial Legislativo, vinculada à Secretaria Legislativa.\nArt. 20. O Departamento Legislativo, fica transformado em Diretoria Legislativa, vinculada à Secretaria Legislativa."
           }
         }
       ]
