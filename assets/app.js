@@ -175,15 +175,19 @@ function conteudoNorma(meta, norma) {
     return nodos;
   }
 
+  /* "numero" no JSON permite publicar uma parte antes da anterior (ex.: Parte 3 antes da 2). */
+  const numeroParte = (p, i) => Number(p.numero) || i + 1;
   nodos.push(el("nav", { class: "sumario", "aria-label": "Partes desta norma" },
     el("strong", {}, "Nesta página"),
-    el("ol", {}, partes.map((p, i) =>
-      el("li", {},
-        el("a", { href: `#/norma/${meta.id}/parte-${i + 1}` }, p.titulo || `Parte ${i + 1}`),
+    el("ol", {}, partes.map((p, i) => {
+      const n = numeroParte(p, i);
+      return el("li", { value: n },
+        el("a", { href: `#/norma/${meta.id}/parte-${n}` }, p.titulo || `Parte ${n}`),
         p.artigos ? ` (${p.artigos})` : ""
-      )))
+      );
+    }))
   ));
-  partes.forEach((p, i) => nodos.push(...conteudoParte(p, i + 1)));
+  partes.forEach((p, i) => nodos.push(...conteudoParte(p, numeroParte(p, i))));
   return nodos;
 }
 
