@@ -5,7 +5,8 @@
   "fonte": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei70_1990_62874.pdf",
   "alteracoes": [
     "Art. 5º, § 1º: redação dada pelo Decreto Legislativo nº 36/1997.",
-    "Art. 5º, § 4º: redação dada pelo Decreto Legislativo nº 39/1991."
+    "Art. 5º, § 4º: redação dada pelo Decreto Legislativo nº 39/1991.",
+    "Art. 27, parágrafo único: revogado pelo art. 23 do Decreto Legislativo nº 35/2015."
   ],
   "partes": [
     {
@@ -344,7 +345,7 @@
             ],
             [
               "Gratificação Nível Superior",
-              "80% sobre vencimento-base (diploma de 3º grau); inacumulável (direito de opção)."
+              "80% sobre o vencimento-base, para portadores de diploma de 3º grau (art. 27). O parágrafo único, que proibia acumular com outra gratificação, foi revogado pelo DL 35/2015; hoje, o PCCR (art. 4º, § 4º) torna inacumuláveis a gratificação de Nível Superior e a de Dedicação Legislativa."
             ],
             [
               "Adicional de Insalubridade",
@@ -519,16 +520,16 @@
           }
         },
         {
-          "enunciado": "A Gratificação de Nível Superior foi instituída no Art. 27 do Decreto Legislativo nº 70/1990. Sobre o percentual, base de cálculo e cumulação dessa vantagem, assinale a alternativa correta.",
+          "enunciado": "A Gratificação de Nível Superior foi instituída no Art. 27 do Decreto Legislativo nº 70/1990. Sobre o percentual, a base de cálculo e os destinatários dessa vantagem, assinale a alternativa correta.",
           "alternativas": {
             "A": "A gratificação é de 50% e incide sobre a remuneração total do servidor portador de diploma de nível superior.",
-            "B": "O percentual é de 100% sobre o vencimento-base, permitida a cumulação automática com adicionais de insalubridade e periculosidade.",
+            "B": "O percentual é de 100% sobre o vencimento-base e é devido a todos os servidores do Quadro de Provimento Efetivo, independentemente de escolaridade.",
             "C": "Concede-se a gratificação no percentual de 80% sobre a remuneração bruta a qualquer servidor estudante de curso superior.",
-            "D": "A gratificação é de 80% sobre o vencimento-base, devendo obrigatoriamente ser acumulada com outras gratificações de escolaridade.",
-            "E": "A gratificação é de 80% sobre o vencimento-base para servidores portadores de diploma de curso superior de 3º grau, sendo vedada a cumulação com qualquer outra gratificação, ressalvado o direito de opção."
+            "D": "A gratificação é de 80% sobre o vencimento-base e é devida aos servidores portadores de certificado de conclusão do 2º grau.",
+            "E": "A gratificação é de 80% sobre o vencimento-base para os servidores portadores de diploma de conclusão de curso oficialmente reconhecido como de nível superior de ensino (3º grau)."
           },
           "gabarito": "E",
-          "comentario": "A) INCORRETA. O percentual legal é de 80% (oitenta por cento) e incide sobre o vencimento-base (Art. 27).\nB) INCORRETA. O percentual legal fixado no Art. 27 é de 80%.\nC) INCORRETA. Exige-se diploma de conclusão de curso (3º grau) e a base é o vencimento-base, e não a remuneração bruta.\nD) INCORRETA. O parágrafo único do Art. 27 proíbe expressamente a cumulação com qualquer outra gratificação, ressalvado o direito de opção.\nE) CORRETA. Reflete perfeitamente a base de 80% sobre o vencimento-base, a exigência de diploma de 3º grau e a regra de inacumulabilidade com direito de opção.",
+          "comentario": "A) INCORRETA. O percentual legal é de 80% (oitenta por cento), e a base de cálculo é o vencimento-base, não a remuneração total.\nB) INCORRETA. O percentual é de 80%, e a gratificação é restrita aos portadores de diploma de nível superior.\nC) INCORRETA. Exige-se diploma de conclusão de curso de nível superior, não a condição de estudante, e a base é o vencimento-base, não a remuneração bruta.\nD) INCORRETA. A gratificação é destinada aos portadores de diploma de nível superior (3º grau), não de 2º grau.\nE) CORRETA. Reproduz o caput do Art. 27: 80% sobre o vencimento-base para os portadores de diploma de nível superior (3º grau). Atenção: o parágrafo único do Art. 27, que vedava a cumulação com outra gratificação (ressalvado o direito de opção), foi revogado pelo art. 23 do Decreto Legislativo nº 35/2015. Hoje, o PCCR (art. 4º, § 4º, do DL 04/2012, na redação do DL 35/2015) dispõe que a gratificação de Nível Superior e a Gratificação de Dedicação Legislativa são inacumuláveis.",
           "base_legal": {
             "dispositivo": "Art. 27",
             "texto": "Art. 27 - Fica instituída a Gratificação de Nível Superior, na base de oitenta por cento (80%) sobre o vencimento-base para os servidores portadores de diploma de conclusão de curso oficialmente reconhecido como de nível superior de ensino - 3° grau."
