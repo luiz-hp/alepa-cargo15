@@ -1,0 +1,327 @@
+{
+  "id": "dl-11-2025",
+  "titulo": "Decreto Legislativo nº 11, de 24 de junho de 2025",
+  "ementa": "Dispõe sobre a adequação da estrutura organofuncional da Assembleia Legislativa do Estado do Pará.",
+  "fonte": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei11_2025_14265.pdf",
+  "alteracoes": [
+    "Publicado no DOAL nº 2552, de 31/07 a 01/08/2025; vigência na data da publicação (art. 43).",
+    "Revoga integralmente a Resolução nº 01, de 23 de dezembro de 2002 (art. 41).",
+    "Partes 2 (arts. 12 a 22) e 3 (arts. 23 a 43 e Anexo Único) em preparação."
+  ],
+  "partes": [
+    {
+      "numero": 1,
+      "titulo": "Secretarias e órgãos vinculados à Presidência",
+      "artigos": "Arts. 1º a 11",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "O **DL 11/2025** é de **24/06/2025**, foi publicado no **DOAL nº 2552** (de 31/07 a 01/08/2025) e vigora desde a **publicação** (art. 43). Ele reorganizou a estrutura da ALEPA. A Parte 1 trata do que ficou **vinculado à Presidência**: três Secretarias, duas Diretorias, o Centro de Atendimento ao Cidadão, a Assessoria Estratégica e a Controladoria Geral."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Órgão",
+            "O que aconteceu",
+            "Vinculação"
+          ],
+          "linhas": [
+            [
+              "Secretaria Administrativa",
+              "**Criada** (art. 1º)",
+              "Presidência"
+            ],
+            [
+              "Secretaria de Instrução Técnica e Controle Externo",
+              "**Criada** (art. 1º)",
+              "Presidência"
+            ],
+            [
+              "Secretaria Legislativa",
+              "**Atribuições alteradas** (art. 1º)",
+              "Presidência"
+            ],
+            [
+              "Subsecretaria Administrativa",
+              "Criada (art. 2º)",
+              "Secretaria Administrativa"
+            ],
+            [
+              "Subsecretaria de Instrução Técnica e Controle Externo",
+              "Criada (art. 3º)",
+              "Secretaria de Instrução Técnica e Controle Externo"
+            ],
+            [
+              "Diretoria de Tecnologia da Informação",
+              "**Transformada**: era o Centro de Processamento de Dados (art. 4º)",
+              "Presidência"
+            ],
+            [
+              "Diretoria de Comunicação Institucional",
+              "Criada (art. 6º)",
+              "Presidência"
+            ],
+            [
+              "Centro de Atendimento ao Cidadão",
+              "**Passa a integrar** a estrutura (art. 8º)",
+              "Presidência"
+            ],
+            [
+              "Assessoria Estratégica",
+              "Criada (art. 9º)",
+              "Presidência"
+            ],
+            [
+              "Controladoria Geral",
+              "**Transformada**: era a Auditoria (art. 10)",
+              "Presidência"
+            ]
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "**Secretaria Administrativa (art. 1º, § 1º):** 5 competências, entre elas coordenar as diretorias subordinadas e **consolidar a proposta anual do plano diretor**.",
+            "**Secretaria de Instrução Técnica e Controle Externo (§ 2º):** assessora **técnica e contabilmente** a função fiscalizadora; inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial; orientação nos processos de contas **sem prejuízo** da competência do TCE e da Procuradoria-Geral da ALEPA; estudos por **determinação da Presidência**; requisição de dados com **devido processo legal**; fluxos disciplinados por **Resolução**.",
+            "**Secretaria Legislativa (§ 3º):** 13 competências, como coordenar o processo legislativo, **determinar a publicação de atos oficiais**, providenciar a publicação de leis, decretos legislativos e resoluções no Diário Oficial e prestar assistência à Mesa Diretora.",
+            "**Subsecretarias (arts. 2º e 3º):** substituem o Secretário nos impedimentos e licenças e despacham o que ele não despachou.",
+            "**Tecnologia da Informação (arts. 4º e 5º):** Divisão de **Atendimento** (Seções de Suporte e de Redes, antigas Desenvolvimento e Produção) e Divisão de **Sistemas** (Seções de Projetos e de Segurança da Informação, esta criada pelo § 2º).",
+            "**Comunicação Institucional (arts. 6º e 7º):** Divisões de **Notícias** (portal oficial), **Mídias Digitais** e **Assessoria de Imprensa**.",
+            "**Códigos DAS (art. 1º, § 4º, e art. 9º):** Assessor de Gestão (antes Chefe de Gabinete da Secretaria Legislativa) e Assessoria Estratégica têm codificação **DAS 202.4**, com remuneração do **DAS 201.4**.",
+            "**Art. 11:** todos os Departamentos passam a se chamar **Diretorias**. Por isso, o Departamento de Gestão de Pessoas citado no PCCR hoje é a **Diretoria de Gestão de Pessoas** (art. 14)."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) Foram **criadas duas** Secretarias; a Legislativa só teve as **atribuições alteradas**. 2) O Centro de Processamento de Dados e a Auditoria foram **transformados**, e não extintos. 3) As Subsecretarias ficam vinculadas às **respectivas Secretarias**, não à Presidência. 4) Os fluxos da Secretaria de Instrução Técnica e Controle Externo serão disciplinados por **Resolução**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Nos termos do art. 1º, caput, do Decreto Legislativo nº 11/2025 da Assembleia Legislativa do Estado do Pará, assinale a alternativa correta quanto à alteração na estrutura organofuncional da Casa.",
+          "alternativas": {
+            "A": "Foram criadas a Secretaria Administrativa e a Secretaria de Instrução Técnica e Controle Externo, e alteradas as atribuições da Secretaria Legislativa, todas vinculadas à Presidência.",
+            "B": "Foram criadas a Secretaria Administrativa e a Secretaria Legislativa, e alteradas as atribuições da Secretaria de Instrução Técnica e Controle Externo, vinculadas à Mesa Diretora.",
+            "C": "Foram transformadas a Secretaria Administrativa e a Secretaria Legislativa em órgãos autônomos, mantida a Secretaria de Instrução Técnica e Controle Externo sem alterações.",
+            "D": "Foram extintas a Secretaria Administrativa e a Secretaria Legislativa para a criação da Secretaria de Instrução Técnica e Controle Externo, vinculada à Controladoria Geral.",
+            "E": "Foram criadas a Secretaria Legislativa e a Secretaria de Instrução Técnica e Controle Externo, e alteradas as atribuições da Secretaria Administrativa, vinculadas ao Gabinete Civil."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O dispositivo estabelece expressamente a criação da Secretaria Administrativa e da Secretaria de Instrução Técnica e Controle Externo, além da alteração das atribuições da Secretaria Legislativa, todas vinculadas à Presidência, nos termos do art. 1º, caput.\nB) INCORRETA. A Secretaria Legislativa não foi criada, mas teve suas atribuições alteradas, e a vinculação é à Presidência, não à Mesa Diretora, nos termos do art. 1º, caput.\nC) INCORRETA. A norma criou duas secretarias e alterou as atribuições de uma terceira, não havendo transformação em órgãos autônomos, nos termos do art. 1º, caput.\nD) INCORRETA. Não houve extinção de secretarias no caput do art. 1º, mas sim criação da Secretaria Administrativa e da Secretaria de Instrução Técnica e Controle Externo, nos termos do art. 1º, caput.\nE) INCORRETA. A Secretaria Legislativa teve suas atribuições alteradas e não criada, e a Secretaria Administrativa foi criada, todas vinculadas à Presidência, nos termos do art. 1º, caput.",
+          "base_legal": {
+            "dispositivo": "Art. 1º, caput",
+            "texto": "Art. 1º Ficam criadas na estrutura organofuncional da Assembleia Legislativa a Secretaria Administrativa e a Secretaria de Instrução Técnica e Controle Externo, e alteradas as atribuições da Secretaria Legislativa, vinculadas à Presidência."
+          }
+        },
+        {
+          "enunciado": "Com base no art. 1º, § 1º, do Decreto Legislativo nº 11/2025, assinale a alternativa que apresenta corretamente uma das competências expressas da Secretaria Administrativa.",
+          "alternativas": {
+            "A": "Realizar inspeções e auditorias de natureza contábil, financeira e orçamentária nas entidades da administração direta e indireta.",
+            "B": "Consolidar a proposta anual do plano diretor da Assembleia Legislativa.",
+            "C": "Determinar a publicação de leis, decretos legislativos e resoluções no Diário Oficial do Estado.",
+            "D": "Prestar assistência direta e exclusiva aos parlamentares na elaboração de pareceres das comissões técnicas.",
+            "E": "Exercer a fiscalização financeira sobre as verbas indenizatórias de gabinete dos deputados estaduais."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. Inspeções e auditorias cabem à Secretaria de Instrução Técnica e Controle Externo (art. 1º, § 2º, I).\nB) CORRETA. É a competência do art. 1º, § 1º, V.\nC) INCORRETA. Providenciar a publicação de leis, decretos legislativos e resoluções no Diário Oficial é competência da Secretaria Legislativa (art. 1º, § 3º, X).\nD) INCORRETA. Essa atribuição não consta do rol do art. 1º, § 1º.\nE) INCORRETA. Essa atribuição não consta do art. 1º, § 1º; o art. 18 cria o Núcleo de Fiscalização e Controle de Verbas Indenizatórias Parlamentar, vinculado à Diretoria de Planejamento, Orçamento e Finanças.",
+          "base_legal": {
+            "dispositivo": "Art. 1º, § 1º",
+            "texto": "§1° A Secretaria Administrativa terá como atribuições coordenar, orientar, supervisionar, controlar e avaliar as atividades administrativas da Assembleia Legislativa em conformidade com as deliberações da Mesa Diretora, da Presidência e do Regimento Interno da Casa e suas competências são:\nI - planejar, coordenar, orientar e executar as atividades ligadas diretamente à área administrativa;\nII - propor políticas e diretrizes administrativas a serem adotadas pela ALEPA;\nIII - administrar e responder pela execução dos programas, projetos e ações da ALEPA;\nIV - coordenar as diretorias subordinadas;\nV - consolidar a proposta anual do plano diretor."
+          }
+        },
+        {
+          "enunciado": "Em relação à Secretaria de Instrução Técnica e Controle Externo, disciplinada no art. 1º, § 2º, do Decreto Legislativo nº 11/2025, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Compete à Secretaria assessorar e subsidiar técnica e contabilmente a Assembleia Legislativa em sua função fiscalizadora no exercício do controle externo.",
+            "B": "A prestação de orientação técnica nos processos de contas ocorre sem prejuízo da competência do Tribunal de Contas do Estado e da Procuradoria-Geral da ALEPA.",
+            "C": "Os fluxos, processos e atribuições dessa Secretaria serão disciplinados de forma autônoma por Portaria do Secretário de Controle Externo.",
+            "D": "As competências de realizar atividades e estudos técnicos para subsidiar a atuação fiscalizadora são exercidas por determinação da Presidência da Assembleia Legislativa.",
+            "E": "A requisição de dados, informações e documentos essenciais aos agentes e órgãos sujeitos à fiscalização deve observar o devido processo legal."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). A norma estabelece expressamente essa competência de assessorar e subsidiar técnica e contabilmente, nos termos do art. 1º, § 2º, caput.\nB) CORRETA (opção verdadeira). A orientação técnica ocorre sem prejuízo da competência do Tribunal de Contas do Estado e da Procuradoria-Geral da Assembleia Legislativa (art. 1º, § 2º, II).\nC) INCORRETA (gabarito). O dispositivo determina expressamente que os fluxos, processos e atribuições da Secretaria serão disciplinados por Resolução, e não por Portaria do Secretário, nos termos do art. 1º, § 2º, III, c.\nD) CORRETA (opção verdadeira). As competências do inciso III são exercidas por determinação da Presidência, à qual a Secretaria é diretamente vinculada (art. 1º, § 2º, III, a).\nE) CORRETA (opção verdadeira). A requisição de dados e documentos exige a observância do devido processo legal, nos termos do art. 1º, § 2º, III, b.",
+          "base_legal": {
+            "dispositivo": "Art. 1º, § 2º",
+            "texto": "§2º À Secretaria de Instrução Técnica e Controle Externo compete assessorar e subsidiar técnica e contabilmente a Assembleia Legislativa e seus órgãos em sua função fiscalizadora no exercício do controle externo do Estado, descrita nos arts. 115 e parágrafos c/c 116, II, 122 e 123, todos da Constituição Estadual, em especial:\nII - prestar orientação técnica nos processos de prestação de contas sujeitos a análise e julgamento da Assembleia Legislativa, sem prejuízo da competência do Tribunal de Contas do Estado e da Procuradoria-Geral da Assembleia Legislativa;\na) as competências previstas no inciso III serão exercidas por determinação da Presidência da Assembleia Legislativa, à qual a Secretaria é diretamente vinculada;\nb) a Secretaria requisitará dados, informações e documentos essenciais ao exercício de suas competências a agentes, órgãos e entidades públicas ou privadas, sujeitos à atividade fiscalizatória da Assembleia Legislativa, observado o devido processo legal;\nc) os fluxos, processos e atribuições dessa Secretaria serão disciplinados por Resolução."
+          }
+        },
+        {
+          "enunciado": "Segundo o art. 1º, § 2º, I, do Decreto Legislativo nº 11/2025, no exercício de sua competência exclusiva de controle externo, a Assembleia Legislativa realizará inspeções e auditorias sob quais aspectos de natureza analítica?",
+          "alternativas": {
+            "A": "Exclusivamente sobre a conveniência e oportunidade política dos atos administrativos editados pelos Poderes Executivo e Judiciário.",
+            "B": "Apenas sobre a legalidade formal e a pontualidade no pagamento de fornecedores da administração direta municipal.",
+            "C": "Restritamente quanto ao cumprimento das metas fiscais fixadas no Plano Plurianual do Governo Federal.",
+            "D": "De natureza contábil, financeira, orçamentária, operacional e patrimonial, no Estado e nas entidades da administração direta e indireta.",
+            "E": "Sobre a contratação de pessoal temporário efetuada exclusivamente no âmbito do Tribunal de Justiça do Estado."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. As inspeções e auditorias abrangem aspectos de natureza contábil, financeira, orçamentária, operacional e patrimonial, e não conveniência e oportunidade política, nos termos do art. 1º, § 2º, I.\nB) INCORRETA. O inciso I alcança o Estado e as entidades da administração direta e indireta, e não fornecedores municipais, e vai além da legalidade formal (legitimidade, economicidade, subvenções e renúncia de receitas).\nC) INCORRETA. A competência refere-se ao Estado e suas entidades, abrangendo legalidade, legitimidade, economicidade, subvenções e renúncia de receitas, nos termos do art. 1º, § 2º, I.\nD) CORRETA. O art. 1º, § 2º, I, estabelece expressamente a realização de inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, no Estado e nas entidades da administração direta e indireta.\nE) INCORRETA. A norma abrange o Estado e as entidades da administração direta e indireta quanto à legalidade, legitimidade, economicidade, subvenções e renúncia de receitas, nos termos do art. 1º, § 2º, I.",
+          "base_legal": {
+            "dispositivo": "Art. 1º, § 2º, I",
+            "texto": "I - a Assembleia Legislativa, no uso de sua competência exclusiva, disposta no art. 92, XV, XXVI, XXVII e XXX da Constituição Estadual, realizará inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, no Estado e nas entidades da administração direta e indireta, no que se refere à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas;"
+          }
+        },
+        {
+          "enunciado": "Sobre as competências da Secretaria Legislativa previstas no art. 1º, § 3º, do Decreto Legislativo nº 11/2025, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Compete à Secretaria Legislativa coordenar e executar as atividades relacionadas ao processo legislativo dentro da Assembleia Legislativa.",
+            "B": "Cabe à Secretaria Legislativa providenciar a publicação de leis, decretos legislativos e resoluções no Diário Oficial.",
+            "C": "Compete à Secretaria Legislativa secretariar e prestar suporte técnico às sessões e reuniões da Assembleia Legislativa.",
+            "D": "Cabe à Secretaria Legislativa colaborar com o Presidente na elaboração de seu relatório anual.",
+            "E": "Compete à Secretaria Legislativa exercer o julgamento definitivo das contas anuais prestadas pelos Governadores do Estado."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). A atribuição está prevista expressamente no art. 1º, § 3º, I.\nB) CORRETA (opção verdadeira). A atribuição está prevista expressamente no art. 1º, § 3º, X.\nC) CORRETA (opção verdadeira). A atribuição está prevista expressamente no art. 1º, § 3º, VIII.\nD) CORRETA (opção verdadeira). A atribuição está prevista expressamente no art. 1º, § 3º, VII.\nE) INCORRETA (gabarito). Julgar contas não consta do rol de competências da Secretaria Legislativa no art. 1º, § 3º.",
+          "base_legal": {
+            "dispositivo": "Art. 1º, § 3º",
+            "texto": "§3° A Secretaria Legislativa compete assessorar e subsidiar tecnicamente a Assembleia Legislativa e seus órgãos, em especial:\nI - coordenar e executar as atividades relacionadas ao processo legislativo dentro da Assembleia Legislativa;\nII - determinar a publicação de atos oficiais;\nIII - prestar informações que lhe forem solicitadas pela Mesa Diretora;\nIV - transmitir, executar ou fazer executar as determinações da Presidência ou da Mesa Diretora;\nV - encaminhar à Mesa Diretora as informações prestadas pelos órgãos da Assembleia Legislativa, sob sua responsabilidade;\nVI - prestar assistência à Mesa Diretora, no decurso de suas reuniões;\nVII - colaborar com o Presidente na elaboração de seu relatório anual;\nVIII - secretariar e prestar suporte técnico às sessões e reuniões;\nIX - publicar atas, pareceres e demais documentos legislativos;\nX - providenciar a publicação de leis, decretos legislativos e resoluções no Diário Oficial;\nXI - garantir a conformidade legal dos atos legislativos;\nXII - auxiliar o corpo técnico dos parlamentares na preparação das sessões e reuniões;\nXIII - cumprir suas atribuições expressas no Regimento Interno da Assembleia Legislativa, bem como, executar outras tarefas correlatas."
+          }
+        },
+        {
+          "enunciado": "Segundo o art. 1º, § 3º, do Decreto Legislativo nº 11/2025, compete à Secretaria Legislativa, entre outras atribuições:",
+          "alternativas": {
+            "A": "prestar as informações que lhe forem solicitadas pela Mesa Diretora e prestar assistência à Mesa Diretora no decurso de suas reuniões.",
+            "B": "consolidar a proposta anual do plano diretor e coordenar as diretorias subordinadas à área administrativa.",
+            "C": "realizar inspeções e auditorias de natureza contábil e patrimonial nas entidades da administração direta e indireta.",
+            "D": "substituir o Secretário Administrativo nos seus impedimentos e licenças e despachar as matérias por ele não despachadas.",
+            "E": "requisitar dados e documentos a entidades privadas sujeitas à atividade fiscalizatória, observado o devido processo legal."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. São as competências dos incisos III e VI do art. 1º, § 3º.\nB) INCORRETA. São competências da Secretaria Administrativa (art. 1º, § 1º, IV e V).\nC) INCORRETA. Inspeções e auditorias estão no rol da Secretaria de Instrução Técnica e Controle Externo (art. 1º, § 2º, I).\nD) INCORRETA. Essas são as atribuições da Subsecretaria Administrativa (art. 2º).\nE) INCORRETA. A requisição de dados é prevista para a Secretaria de Instrução Técnica e Controle Externo (art. 1º, § 2º, III, b).",
+          "base_legal": {
+            "dispositivo": "Art. 1º, § 3º, III e VI",
+            "texto": "§3° A Secretaria Legislativa compete assessorar e subsidiar tecnicamente a Assembleia Legislativa e seus órgãos, em especial:\nIII - prestar informações que lhe forem solicitadas pela Mesa Diretora;\nVI - prestar assistência à Mesa Diretora, no decurso de suas reuniões;"
+          }
+        },
+        {
+          "enunciado": "De acordo com o art. 1º, § 4º, e o art. 9º do Decreto Legislativo nº 11/2025, quais estruturas/cargos possuem a codificação DAS 202.4 com remuneração correspondente ao DAS 201.4?",
+          "alternativas": {
+            "A": "A Subsecretaria Administrativa e o cargo de Supervisor do CAC.",
+            "B": "A Diretoria de Tecnologia da Informação e o cargo de Chefe de Gabinete Civil.",
+            "C": "O cargo de Assessor de Gestão e a Assessoria Estratégica.",
+            "D": "O cargo de Secretário Especial de Gabinete e a Subsecretaria de Instrução Técnica.",
+            "E": "A Controladoria Geral e o cargo de Chefe de Divisão de Atendimento."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 8º codifica o Supervisor do CAC como DAS 201.4; a combinação DAS 202.4 com remuneração do DAS 201.4 é a do art. 1º, § 4º, e do art. 9º.\nB) INCORRETA. Nem o art. 4º (Diretoria de Tecnologia da Informação) nem o Anexo Único (Chefe de Gabinete Civil, DAS.201.5) atribuem a eles essa combinação.\nC) CORRETA. O art. 1º, § 4º (transformação do cargo de Chefe de Gabinete da Secretaria Legislativa em Assessor de Gestão) e o art. 9º (criação da Assessoria Estratégica) estabelecem para ambos a codificação DAS 202.4 com remuneração do DAS 201.4.\nD) INCORRETA. O cargo de Secretário Especial de Gabinete possui a codificação DAS 201.1, nos termos do art. 24 c/c Anexo Único.\nE) INCORRETA. A Controladoria Geral é dirigida por Controlador Geral DAS 201.5, nos termos do Anexo Único.",
+          "base_legal": {
+            "dispositivo": "Art. 1º, § 4º, e art. 9º, caput",
+            "texto": "§4º Fica transformado o cargo de Chefe de Gabinete da Secretaria Legislativa em Assessor de Gestão, com a codificação DAS 202.4, com remuneração correspondente ao DAS 201.4.\nArt. 9º Fica criada a Assessoria Estratégica com a codificação DAS 202.4, com a remuneração correspondente ao DAS 201.4, vinculada à Presidência, com as seguintes atribuições:"
+          }
+        },
+        {
+          "enunciado": "Considerando o que dispõem os arts. 2º e 3º do Decreto Legislativo nº 11/2025 sobre as Subsecretarias criadas, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Foi criada a Subsecretaria Administrativa, vinculada à Secretaria Administrativa.",
+            "B": "Foi criada a Subsecretaria Legislativa, vinculada diretamente à Mesa Diretora com função de fiscalização financeira.",
+            "C": "Foi criada a Subsecretaria de Instrução Técnica e Controle Externo, vinculada à Secretaria de Instrução Técnica e Controle Externo.",
+            "D": "Cabe à Subsecretaria Administrativa substituir o Secretário Administrativo nos seus impedimentos e licenças.",
+            "E": "Cabe à Subsecretaria de Instrução Técnica e Controle Externo despachar as matérias que não tenham sido despachadas pelo respectivo Secretário."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). A criação e a vinculação da Subsecretaria Administrativa estão previstas no art. 2º.\nB) INCORRETA (gabarito). Os arts. 2º e 3º criam apenas a Subsecretaria Administrativa e a Subsecretaria de Instrução Técnica e Controle Externo, e nenhuma delas tem função de fiscalização financeira.\nC) CORRETA (opção verdadeira). A criação e a vinculação da Subsecretaria de Instrução Técnica e Controle Externo estão previstas no art. 3º.\nD) CORRETA (opção verdadeira). A atribuição de substituição em impedimentos e licenças consta do art. 2º.\nE) CORRETA (opção verdadeira). A atribuição de despachar matérias não despachadas pelo Secretário consta do art. 3º.",
+          "base_legal": {
+            "dispositivo": "Arts. 2º e 3º",
+            "texto": "Art. 2º Fica criada a Subsecretaria Administrativa, vinculada à Secretaria Administrativa, com atribuições de substituir o Secretário nos seus impedimentos e licenças, e despachar as matérias que não tenham sido despachadas pelo Secretário.\nArt. 3º Fica criada a Subsecretaria de Instrução Técnica e Controle Externo, vinculada à Secretaria de Instrução Técnica e Controle Externo, com atribuições de substituir o Secretário nos seus impedimentos e licenças, e despachar as matérias que não tenham sido despachadas pelo Secretário."
+          }
+        },
+        {
+          "enunciado": "Nos termos dos arts. 4º e 5º do Decreto Legislativo nº 11/2025, no tocante à reorganização da área de Tecnologia da Informação da ALEPA, é correto afirmar que:",
+          "alternativas": {
+            "A": "O Centro de Processamento de Dados foi extinto sem a criação de unidade sucessora na estrutura organofuncional.",
+            "B": "A Diretoria de Tecnologia da Informação foi criada com vinculação subordinada à Secretaria Administrativa.",
+            "C": "As Seções de Desenvolvimento e de Produção foram transformadas nas Seções de Projetos e de Infraestrutura.",
+            "D": "O Centro de Processamento de Dados foi transformado em Diretoria de Tecnologia da Informação, vinculada à Presidência.",
+            "E": "A Seção de Segurança da Informação foi criada como unidade diretamente subordinada à Diretoria de Comunicação Institucional."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O Centro de Processamento de Dados não foi simplesmente extinto, mas transformado em Diretoria de Tecnologia da Informação, nos termos do art. 4º.\nB) INCORRETA. A DTI é vinculada diretamente à Presidência, e não à Secretaria Administrativa, nos termos do art. 4º.\nC) INCORRETA. As Seções de Desenvolvimento e de Produção foram transformadas, respectivamente, em Seções de Suporte e de Redes, nos termos do art. 5º, § 1º.\nD) CORRETA. O art. 4º estabelece expressamente que o Centro de Processamento de Dados fica transformado em Diretoria de Tecnologia da Informação, vinculada à Presidência.\nE) INCORRETA. A Seção de Segurança da Informação foi criada no âmbito da Divisão de Sistemas da DTI, nos termos do art. 5º, § 2º.",
+          "base_legal": {
+            "dispositivo": "Art. 4º",
+            "texto": "Art. 4º O Centro de Processamento de Dados, fica transformado em Diretoria de Tecnologia da Informação, vinculada à Presidência."
+          }
+        },
+        {
+          "enunciado": "De acordo com o art. 5º do Decreto Legislativo nº 11/2025, assinale a alternativa que relaciona corretamente as Seções às Divisões da Diretoria de Tecnologia da Informação.",
+          "alternativas": {
+            "A": "As Seções de Telecomunicações e de Imprensa Oficial, vinculadas à Divisão de Atendimento.",
+            "B": "As Seções de Programação e de Banco de Dados, vinculadas à Divisão de Sistemas.",
+            "C": "As Seções de Reprografia e de Manutenção Geral, vinculadas à Divisão de Atendimento.",
+            "D": "As Seções de Auditoria e de Ouvidoria Digital, vinculadas à Divisão de Sistemas.",
+            "E": "As Seções de Suporte e de Redes ligam-se à Divisão de Atendimento; as Seções de Projetos e de Segurança da Informação, à Divisão de Sistemas."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. A Seção de Telecomunicação está na Diretoria Administrativa e Infraestrutura (art. 13, § 2º), e o art. 5º não prevê Seção de Imprensa Oficial.\nB) INCORRETA. Na Divisão de Sistemas, o art. 5º, II, menciona as Seções de Projetos e de Segurança da Informação, e não de Programação e de Banco de Dados.\nC) INCORRETA. A Seção de Reprografia passa a ser vinculada à Divisão de Manutenção e Serviços (art. 13, § 4º), fora da Diretoria de Tecnologia da Informação.\nD) INCORRETA. O art. 5º não prevê Seções de Auditoria nem de Ouvidoria Digital.\nE) CORRETA. O § 1º transforma as Seções de Desenvolvimento e de Produção em Seções de Suporte e de Redes, na Divisão de Atendimento; na Divisão de Sistemas estão as Seções de Projetos e de Segurança da Informação (art. 5º, II, “a”, e § 2º).",
+          "base_legal": {
+            "dispositivo": "Art. 5º, II, “a”, §§ 1º e 2º",
+            "texto": "a) Gestão Estratégica da Divisão, que visa coordenar as atividades das Seções de Projetos e Segurança da Informação, assegurando a modernização e segurança dos sistemas da ALEPA;\n§1º As Seções de Desenvolvimento e de Produção, vinculadas à Divisão de Atendimento da Diretoria de Tecnologia da Informação, ficam transformadas respectivamente, em Seções de Suporte e de Redes, com suas atribuições:\n§2º Fica criada a Seção de Segurança da Informação, vinculada à Divisão de Sistemas da Diretoria de Tecnologia da Informação, com as seguintes atribuições:"
+          }
+        },
+        {
+          "enunciado": "Com base nos arts. 6º e 7º do Decreto Legislativo nº 11/2025, acerca da Diretoria de Comunicação Institucional e suas Divisões, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Diretoria de Comunicação Institucional foi criada com vinculação hierárquica direta à Secretaria Legislativa.",
+            "B": "Ficaram criadas a Divisão de Notícias, a Divisão de Mídias Digitais e a Divisão de Assessoria de Imprensa.",
+            "C": "Compete à Divisão de Notícias a gestão, atualização e manutenção do portal oficial da Assembleia Legislativa do Pará na internet.",
+            "D": "Cabe à Divisão de Mídias Digitais criar posts, vídeos, reels e campanhas de mídia digital alinhadas aos objetivos institucionais.",
+            "E": "Compete à Divisão de Assessoria de Imprensa fornecer apoio e orientação aos parlamentares em suas relações com a imprensa."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 6º estabelece expressamente que a Diretoria de Comunicação Institucional fica criada vinculada à Presidência, e não à Secretaria Legislativa.\nB) CORRETA (opção verdadeira). O art. 7º prevê expressamente a criação das três divisões mencionadas vinculadas à Diretoria de Comunicação Institucional.\nC) CORRETA (opção verdadeira). A atribuição do portal oficial é da Divisão de Notícias, conforme prevê o art. 7º, I, a.\nD) CORRETA (opção verdadeira). A criação de conteúdo para mídias digitais é da Divisão de Mídias Digitais, conforme o art. 7º, II, a.\nE) CORRETA (opção verdadeira). A orientação a parlamentares é atribuição da Divisão de Assessoria de Imprensa, nos termos do art. 7º, III, b.",
+          "base_legal": {
+            "dispositivo": "Arts. 6º e 7º",
+            "texto": "Art. 6º Fica criada a Diretoria de Comunicação Institucional, vinculada à Presidência.\nArt. 7º Ficam criadas as seguintes Divisões, vinculadas à Diretoria de Comunicação Institucional, com suas respectivas atribuições:\nI - Divisão de Notícias:\na) responsável pela gestão, atualização e manutenção do portal oficial da Assembleia Legislativa do Pará na internet, garantindo que o mesmo seja uma fonte confiável e completa de informações sobre as atividades legislativas, bem como um canal de interação com a sociedade:\nII - Divisão de Mídias Digitais:\na) criar posts, vídeos, reels e campanhas de mídia digital alinhadas com os objetivos institucionais;\nIII - Divisão de Assessoria de Imprensa:\nb) fornecer apoio e orientação aos parlamentares em suas relações com a imprensa;"
+          }
+        },
+        {
+          "enunciado": "Nos termos do art. 8º do Decreto Legislativo nº 11/2025, sobre a incorporação do Centro de Atendimento ao Cidadão (CAC) à estrutura organofuncional da ALEPA, assinale a alternativa correta.",
+          "alternativas": {
+            "A": "O Centro de Atendimento ao Cidadão foi extinto e suas atribuições repassadas para a Ouvidoria Geral.",
+            "B": "O CAC passa a integrar a estrutura organofuncional, vinculado à Presidência, sendo o cargo de Supervisor do CAC codificado como DAS 201.4.",
+            "C": "As divisões do CAC foram transformadas em diretorias autônomas com codificação DAS 201.6.",
+            "D": "O CAC ficou vinculado diretamente à Secretaria de Instrução Técnica e Controle Externo.",
+            "E": "O cargo de Supervisor do CAC foi transformado em Assessor Especial de Gabinete com remuneração DAS 202.1."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 8º estabelece que o CAC passa a integrar a estrutura organofuncional, e não que foi extinto.\nB) CORRETA. O art. 8º prevê que o CAC passa a integrar a estrutura organofuncional vinculado à Presidência, constituído pelo Supervisor do CAC (DAS 201.4) e três divisões (DAS 201.3).\nC) INCORRETA. As divisões do CAC são codificadas como DAS 201.3 e não como diretorias DAS 201.6, nos termos do art. 8º.\nD) INCORRETA. O CAC é vinculado à Presidência e não à Secretaria de Instrução Técnica, nos termos do art. 8º.\nE) INCORRETA. O cargo de Supervisor do CAC é DAS 201.4, conforme expressamente disposto no art. 8º.",
+          "base_legal": {
+            "dispositivo": "Art. 8º",
+            "texto": "Art. 8º Passa a integrar a estrutura organofuncional da Assembleia Legislativa, o Centro de Atendimento ao Cidadão (Ato da Mesa 114-A/99), constituído dos seguintes cargos: Supervisor do CAC, DAS 201.4; Chefe da Divisão de Planejamento Operacional, DAS 201.3; Chefe da Divisão de Expedição de Documentos, DAS 201.3; e Divisão de Orientação e Assistência Sociojurídica, DAS 201.3, vinculado à Presidência."
+          }
+        },
+        {
+          "enunciado": "No que tange às alterações estruturais previstas nos arts. 4º, 10 e 11 do Decreto Legislativo nº 11/2025, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Auditoria fica transformada em Controladoria Geral, vinculada à Presidência.",
+            "B": "Os Departamentos constantes na estrutura organofuncional passam a ser denominados Diretorias.",
+            "C": "A Auditoria foi extinta, e suas atribuições passaram à Secretaria de Instrução Técnica e Controle Externo.",
+            "D": "Por força do art. 11, o Departamento de Gestão de Pessoas passa a ser denominado Diretoria.",
+            "E": "A Controladoria Geral e a Diretoria de Tecnologia da Informação são vinculadas à Presidência."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). É o texto do art. 10.\nB) CORRETA (opção verdadeira). É o texto do art. 11.\nC) INCORRETA (gabarito). A Auditoria não foi extinta: foi transformada em Controladoria Geral, vinculada à Presidência (art. 10).\nD) CORRETA (opção verdadeira). O art. 11 alcança todos os Departamentos da estrutura; o art. 14 confirma a transformação em Diretoria de Gestão de Pessoas.\nE) CORRETA (opção verdadeira). Ambas são vinculadas à Presidência (arts. 4º e 10).",
+          "base_legal": {
+            "dispositivo": "Arts. 4º, 10 e 11",
+            "texto": "Art. 4º O Centro de Processamento de Dados, fica transformado em Diretoria de Tecnologia da Informação, vinculada à Presidência.\nArt. 10. A Auditoria, fica transformada em Controladoria Geral, vinculada à Presidência.\nArt. 11. Os Departamentos constantes na estrutura organofuncional passam a ser denominados “Diretorias”."
+          }
+        },
+        {
+          "enunciado": "Com base na organização estrutural estabelecida nos artigos 1º a 11 do Decreto Legislativo nº 11/2025, assinale a alternativa que indica EXCLUSIVAMENTE órgãos ou unidades vinculados diretamente à Presidência da Assembleia Legislativa do Estado do Pará.",
+          "alternativas": {
+            "A": "Subsecretaria Administrativa, Divisão de Notícias e Seção de Suporte.",
+            "B": "Subsecretaria de Instrução Técnica e Controle Externo, Divisão de Mídias Digitais e Seção de Segurança da Informação.",
+            "C": "Divisão de Assessoria de Imprensa, Seção de Redes e Divisão de Sistemas.",
+            "D": "Secretaria Administrativa, Diretoria de Tecnologia da Informação, Diretoria de Comunicação Institucional, Centro de Atendimento ao Cidadão e Controladoria Geral.",
+            "E": "Seção de Suporte, Seção de Redes, Divisão de Atendimento e Divisão de Serviços Gerais."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. A Subsecretaria Administrativa vincula-se à Secretaria Administrativa (art. 2º), e a Divisão de Notícias e a Seção de Suporte vinculam-se a Diretorias específicas (arts. 5º e 7º).\nB) INCORRETA. A Subsecretaria de Instrução Técnica vincula-se à Secretaria de Instrução Técnica (art. 3º), e não diretamente à Presidência.\nC) INCORRETA. A Divisão de Assessoria de Imprensa vincula-se à Diretoria de Comunicação Institucional (art. 7º), e não diretamente à Presidência.\nD) CORRETA. A Secretaria Administrativa (art. 1º), a Diretoria de Tecnologia da Informação (art. 4º), a Diretoria de Comunicação Institucional (art. 6º), o Centro de Atendimento ao Cidadão (art. 8º) e a Controladoria Geral (art. 10) são expressamente vinculados à Presidência.\nE) INCORRETA. As Seções de Suporte e Redes e a Divisão de Atendimento vinculam-se à Diretoria de TI (arts. 4º e 5º).",
+          "base_legal": {
+            "dispositivo": "Arts. 1º, 4º, 6º, 8º e 10",
+            "texto": "Art. 1º Ficam criadas na estrutura organofuncional da Assembleia Legislativa a Secretaria Administrativa e a Secretaria de Instrução Técnica e Controle Externo, e alteradas as atribuições da Secretaria Legislativa, vinculadas à Presidência.\nArt. 4º O Centro de Processamento de Dados, fica transformado em Diretoria de Tecnologia da Informação, vinculada à Presidência.\nArt. 6º Fica criada a Diretoria de Comunicação Institucional, vinculada à Presidência.\nArt. 8º Passa a integrar a estrutura organofuncional da Assembleia Legislativa, o Centro de Atendimento ao Cidadão (Ato da Mesa 114-A/99), constituído dos seguintes cargos: Supervisor do CAC, DAS 201.4; Chefe da Divisão de Planejamento Operacional, DAS 201.3; Chefe da Divisão de Expedição de Documentos, DAS 201.3; e Divisão de Orientação e Assistência Sociojurídica, DAS 201.3, vinculado à Presidência.\nArt. 10. A Auditoria, fica transformada em Controladoria Geral, vinculada à Presidência."
+          }
+        }
+      ]
+    }
+  ]
+}
