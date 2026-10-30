@@ -74,7 +74,7 @@ h3 { font: 600 1.05rem/1.3 var(--sans); margin: 2rem 0 .75rem; }
 .lista-normas .num { font: 600 .95rem/1.5 var(--sans); }
 .lista-normas .num a { color: var(--acai); }
 .lista-normas .num span { color: var(--tinta-suave); font-weight: 500; }
-.lista-normas .desc { font-size: 1rem; line-height: 1.5; }
+.lista-normas .desc { font-size: 1rem; line-height: 1.5; overflow-wrap: anywhere; }
 .lista-normas .situacao { display: block; font: 400 .8rem/1.4 var(--sans); color: var(--tinta-suave); margin-top: .2rem; }
 .lista-normas li.tem-material .situacao { color: var(--acai); font-weight: 600; }
 @media (max-width: 30rem) { .lista-normas li { grid-template-columns: 1fr; } }
