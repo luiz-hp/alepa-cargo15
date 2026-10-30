@@ -6,8 +6,7 @@
   "alteracoes": [
     "Texto do DL 04/2012 integralmente alterado pelo DL 35/2015 (art. 1º).",
     "Art. 5º-A acrescentado pelo DL 11/2017, com efeitos retroativos à publicação do DL 35/2015.",
-    "Esta página reúne o material das três normas: DL 04/2012, DL 35/2015 e DL 11/2017.",
-    "Parte 2 (arts. 6º a 11) em preparação."
+    "Esta página reúne o material das três normas: DL 04/2012, DL 35/2015 e DL 11/2017."
   ],
   "partes": [
     {
@@ -386,6 +385,365 @@
           "base_legal": {
             "dispositivo": "Art. 3º, II; Art. 4º, § 3º; Art. 5º-A",
             "texto": "Art. 3º, II - o servidor aprovado e nomeado para o cargo de provimento efetivo ficará sujeito a estágio probatório pelo período de três anos, na forma da Lei.\nArt. 4º, § 3º - No caso da não comprovação de nível superior referida no § 2º, os servidores ocupantes de cargo de nível superior perceberão a Gratificação de Dedicação Legislativa – DL, no percentual de 80% (oitenta por cento) sobre o vencimento base, juntamente com os ocupantes de cargo de nível médio.\nArt. 5º-A - “Art. 5º - A Ficam automaticamente enquadrados no Quadro Suplementar em extinção, a partir da data do pedido de aposentadoria, garantidos os direitos já adquiridos, os servidores que solicitam sua passagem para a inatividade, por quaisquer dos motivos estabelecidos no art.40 da Constituição Federal, e que não preencherem os requisitos de escolaridade exigidos para permanecer no cargo em que se encontram no Quadro Efetivo”."
+          }
+        }
+      ],
+      "numero": 1
+    },
+    {
+      "numero": 2,
+      "titulo": "Progressão funcional e vantagens pecuniárias",
+      "artigos": "Arts. 6º a 11",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A Parte 2 trata da **progressão funcional horizontal** (arts. 6º e 7º) e das **vantagens pecuniárias** (arts. 8º a 11). Os cargos do Quadro de Provimento Efetivo e do Quadro Suplementar têm **18 referências** de vencimento. Para o Cargo 15, o ponto central é o art. 11: a **Gratificação por Desempenho de Atividade Legislativa de 90%**, própria do Analista Legislativo."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Item",
+            "Antiguidade (caput)",
+            "Merecimento (§ 1º)"
+          ],
+          "linhas": [
+            [
+              "Avanço",
+              "**1** referência, no mesmo cargo",
+              "**1** referência, no mesmo cargo"
+            ],
+            [
+              "Interstício",
+              "Não fixado no PCCR: segue a legislação em vigor",
+              "**2 anos**"
+            ],
+            [
+              "Avaliação",
+              "Não mencionada no art. 6º",
+              "Avaliação de desempenho, escala de **0 a 100** pontos"
+            ]
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "**Comissão (art. 6º, § 2º):** constituída por Ato da Mesa Diretora, com **9 membros**, presidida pelo **representante da Mesa Diretora**. Os demais: Procurador, Consultor, Assessor Técnico, Técnico Legislativo, Diretor do DGP, Chefe de Divisão de Desenvolvimento Pessoal, Chefe da Escola do Legislativo e representante do SINDALEPA.",
+            "**Critérios (art. 6º, § 3º):** fixados pela Comissão por Ato Próprio, sujeito à aprovação da Mesa. Rol **exemplificativo** (\"dentre outros\"): assiduidade, iniciativa, produtividade, relacionamento interpessoal e qualificação, com cursos de no mínimo **30 h** (nível médio) e **90 h** (nível superior), cada um valendo para **uma única** avaliação.",
+            "**Qualificação (art. 7º):** o DGP e a Escola do Legislativo planejam e implementam, **semestralmente**, programas de qualificação e de titulação, por convênios e parcerias.",
+            "**Vencimento base (art. 8º):** é o do Anexo I, já com a incorporação do art. 10, atualizado a partir da data base de **2016**."
+          ]
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Adicional (art. 9º)",
+            "Percentual",
+            "Regra específica"
+          ],
+          "linhas": [
+            [
+              "Titulação: especialização",
+              "**15%**",
+              "Reconhecida pelo MEC (§ 1º) e com no mínimo **360 h** (§ 2º)"
+            ],
+            [
+              "Titulação: mestrado",
+              "**20%**",
+              "Reconhecido pelo MEC (§ 1º)"
+            ],
+            [
+              "Titulação: doutorado",
+              "**25%**",
+              "Reconhecido pelo MEC (§ 1º)"
+            ],
+            [
+              "Aperfeiçoamento de Pós-doutorado",
+              "**35%**",
+              "Adicional próprio (inciso II)"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "O **Adicional de Titulação** é só para servidor com formação de **nível superior**, incide sobre o **vencimento do cargo**, em parcela destacada, e segue a correlação do **Anexo IV** (Assistência Legislativa: qualquer área). É devido pelo **maior título**, vedada a cumulatividade em qualquer hipótese. Para recebê-lo, o servidor entrega **cópia autenticada** do título ao **DGP**, e a percepção ocorre após Ato Administrativo da Mesa Diretora."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Gratificação incorporada (art. 10)",
+            "Cargo"
+          ],
+          "linhas": [
+            [
+              "I – Desempenho da Atividade Legislativa",
+              "Analista Legislativo"
+            ],
+            [
+              "II – Representação Judicial",
+              "Procurador"
+            ],
+            [
+              "III – Interiorização do Poder Legislativo (Res. 37/1991)",
+              "Consultor"
+            ],
+            [
+              "IV – Banco de Leis (Ato da Mesa 52/1996)",
+              "Assessor Técnico"
+            ],
+            [
+              "V – Ouvidoria Legislativa (DL 106/2012)",
+              "Técnico Legislativo"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "As cinco gratificações eram de **10%**, percebidas desde janeiro de 2015. Foram **incorporadas ao vencimento base**, com efeitos financeiros a partir de **1º/01/2016**, vedadas novas concessões sob o mesmo fundamento. Em seguida, o **art. 11** concedeu ao **Analista Legislativo** uma nova gratificação de **90%** sobre o vencimento, de forma gradual (**10% ao ano**, na data base, a partir de 2016), para quem está no exercício de cargo de **nível superior** há **mais de cinco anos**."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) O interstício de **2 anos** e a escala de **0 a 100** são do **merecimento**; a antiguidade segue a legislação em vigor. 2) **360 h** é a carga da especialização (art. 9º); **30 h e 90 h** são os cursos da avaliação de desempenho (art. 6º). 3) A gratificação de desempenho de **10%** foi **incorporada** (art. 10, I); a de **90%** é **nova** (art. 11) e exige **mais de 5 anos** em cargo de nível superior. 4) A Comissão é presidida pelo **representante da Mesa**, não pelo Diretor do DGP. 5) O texto não diz se o adicional de pós-doutorado se acumula com o de titulação."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Nos termos do artigo 6º, caput e § 1º, do Decreto Legislativo nº 35/2015, os cargos previstos no Quadro de Provimento Efetivo e no Quadro Suplementar possuem dezoito referências de vencimento. Assinale a alternativa CORRETA referente às regras de progressão horizontal por antiguidade e por merecimento.",
+          "alternativas": {
+            "A": "A progressão por antiguidade ocorre na forma da legislação em vigor, enquanto a progressão por merecimento exige avaliação de desempenho de 0 a 100 pontos e interstício de dois anos.",
+            "B": "A progressão por antiguidade exige obrigatoriamente o interstício de dois anos e aprovação em avaliação de desempenho realizada pelo Sindicato.",
+            "C": "A progressão por merecimento permite o salto de até três referências de vencimento de uma só vez, dispensando interstício temporal.",
+            "D": "Os cargos do Quadro Suplementar estão excluídos da estrutura de dezoito referências e do direito à progressão horizontal.",
+            "E": "A progressão por antiguidade e a progressão por merecimento possuem a mesma escala de pontuação de 0 a 50 pontos."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Expressa exatamente a diferenciação entre o caput (antiguidade na forma da legislação em vigor) e o § 1º (merecimento com escala de 0 a 100 pontos e interstício de dois anos).\nB) INCORRETA. A lei não fixa o interstício de dois anos para a antiguidade, pertencendo este requisito à progressão por merecimento.\nC) INCORRETA. O § 1º prevê a progressão de uma referência, dentro do mesmo cargo, e exige o interstício de dois anos.\nD) INCORRETA. O caput estende expressamente as dezoito referências de vencimento e a progressão aos cargos do Quadro Suplementar.\nE) INCORRETA. A escala de 0 a 100 pontos aplica-se à avaliação de desempenho para a progressão por merecimento.",
+          "base_legal": {
+            "dispositivo": "Art. 6º, caput e § 1º",
+            "texto": "Art. 6º Os cargos previstos no Quadro de Provimento Efetivo e no Quadro Suplementar do presente Decreto Legislativo, são compostos de dezoito referências de vencimento, procedendo-se a progressão funcional horizontal por antiguidade, de uma referência para outra, dentro do mesmo cargo, na forma da legislação em vigor.\n§ 1º Haverá progressão horizontal, por merecimento, de uma referência, dentro do mesmo cargo, após avaliação de desempenho, na escala de 0 (zero) a 100 (cem) pontos, obedecido o interstício de dois anos."
+          }
+        },
+        {
+          "enunciado": "A respeito do regramento da progressão funcional horizontal disposto no art. 6º do Decreto Legislativo nº 35/2015, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Tanto os cargos do Quadro Efetivo quanto os do Quadro Suplementar integram a estrutura de dezoito referências de vencimento.",
+            "B": "A progressão por antiguidade ocorre de uma referência para outra com interstício fixado obrigatoriamente em três anos no próprio texto do art. 6º.",
+            "C": "A progressão horizontal por merecimento dá-se de uma referência dentro do mesmo cargo.",
+            "D": "A avaliação de desempenho para a progressão por merecimento utiliza uma escala gradativa que varia de 0 a 100 pontos.",
+            "E": "O interstício temporal exigido para a progressão horizontal por merecimento é de dois anos."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O caput do art. 6º abrange expressamente os cargos do Quadro Efetivo e do Quadro Suplementar.\nB) INCORRETA (gabarito). O caput do art. 6º estabelece que a progressão por antiguidade ocorre 'na forma da legislação em vigor', sem fixar o prazo de três anos em seu texto.\nC) CORRETA (opção verdadeira). O § 1º estabelece o avanço de uma referência dentro do mesmo cargo.\nD) CORRETA (opção verdadeira). O § 1º fixa a escala de avaliação de desempenho de 0 a 100 pontos.\nE) CORRETA (opção verdadeira). O § 1º condiciona o merecimento ao interstício de dois anos.",
+          "base_legal": {
+            "dispositivo": "Art. 6º, caput e § 1º",
+            "texto": "Art. 6º Os cargos previstos no Quadro de Provimento Efetivo e no Quadro Suplementar do presente Decreto Legislativo, são compostos de dezoito referências de vencimento, procedendo-se a progressão funcional horizontal por antiguidade, de uma referência para outra, dentro do mesmo cargo, na forma da legislação em vigor.\n§ 1º Haverá progressão horizontal, por merecimento, de uma referência, dentro do mesmo cargo, após avaliação de desempenho, na escala de 0 (zero) a 100 (cem) pontos, obedecido o interstício de dois anos."
+          }
+        },
+        {
+          "enunciado": "João, servidor efetivo da ALEPA, completou exatamente dois anos de efetivo exercício em sua referência atual. Pretendendo obter a progressão horizontal por merecimento para a referência imediatamente superior, submeteu-se ao processo de avaliação de desempenho. Com base no Decreto Legislativo nº 35/2015, assinale a alternativa que indica a condição necessária para a concessão dessa progressão.",
+          "alternativas": {
+            "A": "João deve ser automaticamente promovido por antiguidade, prescindindo de pontuação mínima na avaliação de desempenho.",
+            "B": "João precisa atingir a pontuação máxima de 100 pontos, sob pena de reiniciar o interstício de dois anos.",
+            "C": "A progressão, de uma referência, depende de avaliação de desempenho na escala de 0 a 100 pontos, obedecido o interstício de dois anos.",
+            "D": "João pode avançar duas referências de vencimento caso comprove a conclusão de estágio probatório de três anos.",
+            "E": "João dependerá do aval exclusivo do Sindicato dos Servidores para homologação do resultado sem necessidade de comissão oficial."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. A progressão por merecimento requer obrigatoriamente a realização da avaliação de desempenho prevista no § 1º.\nB) INCORRETA. A lei exige submissão à avaliação na escala de 0 a 100 pontos, sem impor a exigência de nota máxima 100.\nC) CORRETA. São os requisitos do art. 6º, § 1º: avaliação de desempenho na escala de 0 a 100 pontos, interstício de dois anos e avanço de uma referência. Os critérios da avaliação são fixados pela Comissão (§ 3º).\nD) INCORRETA. O avanço é de apenas uma referência por vez, conforme estabelece o § 1º do art. 6º.\nE) INCORRETA. A avaliação de desempenho é conduzida por Comissão instituída por Ato da Mesa Diretora, e não isoladamente pelo Sindicato.",
+          "base_legal": {
+            "dispositivo": "Art. 6º, § 1º",
+            "texto": "§ 1º Haverá progressão horizontal, por merecimento, de uma referência, dentro do mesmo cargo, após avaliação de desempenho, na escala de 0 (zero) a 100 (cem) pontos, obedecido o interstício de dois anos."
+          }
+        },
+        {
+          "enunciado": "O artigo 6º, § 2º, do Decreto Legislativo nº 35/2015 estabelece a estrutura e a liderança da Comissão de Avaliação de Desempenho. Assinale a alternativa INCORRETA quanto à sua composição e presidência.",
+          "alternativas": {
+            "A": "A Comissão é constituída por meio de Ato da Mesa Diretora da Assembleia Legislativa.",
+            "B": "A Comissão possui nove membros, entre os quais estão o Diretor do DGP, o Chefe da Divisão de Desenvolvimento Pessoal e o Chefe da Escola do Legislativo.",
+            "C": "Integram o colegiado um Procurador, um Consultor, um Assessor Técnico, um Técnico Legislativo e um representante do SINDALEPA.",
+            "D": "A Presidência do órgão colegiado é exercida privativamente pelo Procurador integrante da Comissão.",
+            "E": "A Comissão atua sob a Presidência do representante da Mesa Diretora."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O § 2º determina expressamente a constituição por meio de Ato da Mesa Diretora.\nB) CORRETA (opção verdadeira). Todos esses ocupantes de cargos administrativos e de chefia integram a lista de nove membros do § 2º.\nC) CORRETA (opção verdadeira). Reflete exatamente o rol de membros especificado no texto do § 2º.\nD) INCORRETA (gabarito). A parte final do § 2º estabelece que a comissão atuará 'sob a Presidência do primeiro', ou seja, do representante da Mesa Diretora.\nE) CORRETA (opção verdadeira). Fiel à determinação legal de que a presidência cabe ao representante da Mesa Diretora (primeiro citado no rol).",
+          "base_legal": {
+            "dispositivo": "Art. 6º, § 2º",
+            "texto": "§ 2º A avaliação de desempenho para fins da progressão horizontal, prevista no § 1º, será feita por uma Comissão constituída por meio de Ato da Mesa Diretora, composta pelos seguintes membros: um representante da Mesa Diretora; um Procurador; um Consultor; um Assessor Técnico; um Técnico Legislativo; o Diretor do Departamento de Gestão de Pessoas; o Chefe de Divisão de Desenvolvimento Pessoal; o Chefe da Escola do Legislativo; e um representante do SINDALEPA – Sindicato dos Servidores da Assembleia Legislativa do Estado do Pará, sob a Presidência do primeiro."
+          }
+        },
+        {
+          "enunciado": "Com relação aos critérios da avaliação de desempenho para fins de progressão por merecimento (artigo 6º, § 3º, do Decreto Legislativo nº 35/2015), assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Os critérios de avaliação são definidos por Decreto do Poder Executivo Estadual, sem interferência dos órgãos internos da ALEPA.",
+            "B": "O rol de itens previstos nos incisos I a V do § 3º é taxativo, sendo vedada a inclusão de qualquer outro critério de avaliação.",
+            "C": "A qualificação exige curso de aperfeiçoamento com carga horária mínima de 60 horas para o nível médio e 180 horas para o nível superior.",
+            "D": "Um mesmo curso de aperfeiçoamento pode ser reaproveitado pelo servidor em até três avaliações de desempenho sucessivas.",
+            "E": "A Comissão fixará os critérios por Ato Próprio, sujeito à aprovação da Mesa Diretora, observando, dentre outros itens, assiduidade, iniciativa, produtividade, relacionamento interpessoal e qualificação."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. Cabe à própria Comissão fixar os critérios por Ato Próprio, sujeito à aprovação da Mesa Diretora da ALEPA.\nB) INCORRETA. O caput do § 3º estabelece que a comissão observará os itens listados 'dentre outros', possuindo caráter exemplificativo.\nC) INCORRETA. O inciso V exige carga horária mínima de 30 horas para o nível médio e 90 horas para o nível superior.\nD) INCORRETA. A parte final do inciso V ressalva expressamente que o curso cabe 'apenas para uma única avaliação'.\nE) CORRETA. Transcreve com exatidão as regras de competência e a relação exemplificativa de critérios contidas no art. 6º, § 3º.",
+          "base_legal": {
+            "dispositivo": "Art. 6º, § 3º",
+            "texto": "§ 3º A Comissão de que trata o § 2º fixará, por meio de Ato Próprio, sujeito à aprovação da Mesa Diretora, os critérios a serem aplicados na avaliação de desempenho com vistas à progressão horizontal, por merecimento, dos servidores ocupantes dos cargos do Quadro de Provimento Efetivo e do Quadro Suplementar, observando-se, dentre outros, os seguintes itens:\nI - assiduidade;\nII - iniciativa;\nIII - produtividade;\nIV - relacionamento interpessoal;\nV - qualificação com valorização de cursos de atualização e/ou qualificação através de cursos de aperfeiçoamento de no mínimo 30 horas para o nível médio e 90 horas para o nível superior, cabendo apenas para uma única avaliação."
+          }
+        },
+        {
+          "enunciado": "A respeito das regras relativas aos cursos de qualificação e aperfeiçoamento para a avaliação de desempenho (art. 6º, § 3º, V, do DL 35/2015), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os cursos de aperfeiçoamento exigem carga horária mínima de 360 horas tanto para os cargos de nível médio quanto de nível superior.",
+            "B": "Para os cargos de nível médio, exige-se curso de aperfeiçoamento de no mínimo 30 horas.",
+            "C": "Para os cargos de nível superior, exige-se curso de aperfeiçoamento de no mínimo 90 horas.",
+            "D": "O mesmo curso de qualificação cabe apenas para uma única avaliação de desempenho.",
+            "E": "A qualificação é um dos itens previstos na legislação, juntamente com assiduidade, iniciativa, produtividade e relacionamento interpessoal."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O inciso V exige no mínimo 30 horas para nível médio e 90 horas para nível superior. A carga de 360 horas aplica-se ao Adicional de Titulação (art. 9º, § 2º).\nB) CORRETA (opção verdadeira). Reflete exatamente o piso de 30 horas fixado no inciso V para o nível médio.\nC) CORRETA (opção verdadeira). Fiel à exigência de no mínimo 90 horas estabelecida no inciso V para o nível superior.\nD) CORRETA (opção verdadeira). Corresponde à restrição expressa 'cabendo apenas para uma única avaliação' no inciso V.\nE) CORRETA (opção verdadeira). São os cinco itens dos incisos I a V do § 3º.",
+          "base_legal": {
+            "dispositivo": "Art. 6º, § 3º",
+            "texto": "§ 3º A Comissão de que trata o § 2º fixará, por meio de Ato Próprio, sujeito à aprovação da Mesa Diretora, os critérios a serem aplicados na avaliação de desempenho com vistas à progressão horizontal, por merecimento, dos servidores ocupantes dos cargos do Quadro de Provimento Efetivo e do Quadro Suplementar, observando-se, dentre outros, os seguintes itens:\nI - assiduidade;\nII - iniciativa;\nIII - produtividade;\nIV - relacionamento interpessoal;\nV - qualificação com valorização de cursos de atualização e/ou qualificação através de cursos de aperfeiçoamento de no mínimo 30 horas para o nível médio e 90 horas para o nível superior, cabendo apenas para uma única avaliação."
+          }
+        },
+        {
+          "enunciado": "O artigo 7º do Decreto Legislativo nº 35/2015 trata do planejamento e da implementação de programas de qualificação profissional e de titulação para os servidores da ALEPA. Assinale a alternativa CORRETA quanto à periodicidade, órgãos responsáveis e instrumentos adotados.",
+          "alternativas": {
+            "A": "O Sindicato dos Servidores planeja anualmente os programas mediante convênio exclusivo com Universidades Públicas Estaduais.",
+            "B": "O Departamento de Gestão de Pessoas e a Escola do Legislativo têm a missão de planejar e implementar, semestralmente, programas de qualificação e titulação por meio de convênios e parcerias com outros Órgãos ou IES.",
+            "C": "A Procuradoria Geral da ALEPA implementa trimestralmente cursos obrigatórios de graduação para os servidores do Quadro Suplementar.",
+            "D": "A realização de programas de qualificação por meio de parcerias com Instituições de Ensino Superior privadas é expressamente vedada.",
+            "E": "Os programas de qualificação são planejados bienalmente pela Comissão do art. 6º, § 2º, destinados apenas a ocupantes de cargos em comissão."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. A atribuição é do DGP e da Escola do Legislativo, a periodicidade é semestral e admite convênios com outros órgãos ou IES.\nB) CORRETA. Transcreve com exatidão todos os elementos constitutivos do art. 7º do Decreto Legislativo nº 35/2015.\nC) INCORRETA. A competência não é da Procuradoria e a periodicidade fixada na lei é semestral.\nD) INCORRETA. O art. 7º prevê convênios e parcerias com outros Órgãos ou Instituições de Ensino Superior, sem excluir as privadas.\nE) INCORRETA. A missão institucional cabe ao DGP e à Escola do Legislativo, com periodicidade semestral, em favor dos servidores da Casa.",
+          "base_legal": {
+            "dispositivo": "Art. 7º",
+            "texto": "Art. 7º O Departamento de Gestão de Pessoas e a Escola do Legislativo terão a missão de planejar e implementar, semestralmente, programas de qualificação profissional e de titulação por meio de convênios e parcerias com outros Órgãos ou Instituições de Ensino Superior, em favor dos servidores da Assembleia Legislativa do Estado do Pará."
+          }
+        },
+        {
+          "enunciado": "Sobre a disciplina do vencimento base dos servidores ocupantes de cargos dos Níveis Médio e Superior constante do artigo 8º do Decreto Legislativo nº 35/2015, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Os valores constantes do Anexo I referem-se ao vencimento base bruto sem a inclusão da incorporação do artigo 10.",
+            "B": "A atualização do vencimento base ocorre quadrimestralmente de acordo com a variação do índice inflacionário oficial do Estado.",
+            "C": "O valor do vencimento base constante da tabela do Anexo I apensada ao Decreto Legislativo contempla os valores após a incorporação prevista no Art. 10, devendo ser atualizado a partir da data base do exercício de 2016.",
+            "D": "O vencimento base dos servidores de nível médio e superior é unificado em uma única faixa salarial sem distinção de escolaridade.",
+            "E": "A recomposição da tabela do Anexo I retroage a 01 de janeiro de 2012 por expressa determinação do caput do artigo 8º."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 8º estabelece expressamente que os valores do Anexo I são os obtidos 'depois da incorporação prevista no Art. 10'.\nB) INCORRETA. A atualização está atrelada à data base do exercício de 2016, sem previsão de reajustes quadrimestrais automáticos.\nC) CORRETA. Expressa exatamente o teor do art. 8º do Decreto Legislativo nº 35/2015.\nD) INCORRETA. O art. 8º fala em cargos dos Níveis Médio e Superior, e a tabela do Anexo I traz um valor para cada nível.\nE) INCORRETA. O marco de atualização fixado no artigo 8º é a partir da data base do exercício de 2016.",
+          "base_legal": {
+            "dispositivo": "Art. 8º",
+            "texto": "Art. 8º O valor do vencimento base dos servidores ocupantes de cargos que integram os Níveis Médio e Superior, que deverão ser atualizados a partir da data base do exercício de 2016, são os constantes da tabela do Anexo I, apensada a este Decreto Legislativo, depois da incorporação prevista no Art. 10."
+          }
+        },
+        {
+          "enunciado": "Maria, Analista Legislativo da especialidade Assistência Legislativa, concluiu uma Especialização com carga horária de 300 horas, reconhecida pelo MEC, e depois obteve o título de Mestre em Administração Pública, também reconhecido pelo MEC. Ao requerer o Adicional de Titulação ao Departamento de Gestão de Pessoas, pediu 15% pela Especialização e 20% pelo Mestrado, cumulativamente. Com base no art. 9º e no Anexo IV do Decreto Legislativo nº 35/2015, assinale a alternativa que indica o direito da servidora.",
+          "alternativas": {
+            "A": "Maria tem direito a acumular os percentuais de Especialização e Mestrado, perfazendo o total de 35% de adicional.",
+            "B": "Maria fará jus ao adicional de 15% pela Especialização e terá o pedido de Mestrado indeferido por falta de previsão legal.",
+            "C": "Maria não tem direito a nenhum adicional, pois a carga horária da Especialização inferior a 360 horas anula o título de Mestrado.",
+            "D": "Maria não faz jus ao adicional pela Especialização, por ter carga inferior a 360 horas, mas tem direito a 20% pelo Mestrado, devido pelo maior título e vedada a cumulatividade.",
+            "E": "Maria receberá automaticamente o Adicional de Aperfeiçoamento de Pós-doutorado no percentual de 35% por ter dois títulos pós-graduados."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O § 3º veda a cumulatividade em qualquer hipótese e o § 2º exige carga mínima de 360h para a Especialização.\nB) INCORRETA. A Especialização não preenche o requisito de 360h (§ 2º), enquanto o Mestrado garante 20% (art. 9º, I, 'b').\nC) INCORRETA. A insuficiência de carga horária na Especialização não prejudica a concessão do adicional pelo título autônomo de Mestrado.\nD) CORRETA. Aplica o § 2º (especialização exige no mínimo 360 horas), o inciso I, alínea “b” (mestrado, 20%) e o § 3º (maior título, vedada a cumulatividade). Para a especialidade Assistência Legislativa, o Anexo IV aceita título em qualquer área.\nE) INCORRETA. O Adicional de Aperfeiçoamento de Pós-doutorado (35%) é modalidade autônoma (inciso II) e exige a titulação específica de Pós-doutorado.",
+          "base_legal": {
+            "dispositivo": "Art. 9º, I, “b”, §§ 2º e 3º, e Anexo IV",
+            "texto": "I - Adicional de Titulação, concedido ao Servidor com formação de Nível Superior, observada a correlação constante da Tabela de Relacionamento de Titulação no Anexo IV a este Decreto Legislativo, com percentual calculado sobre o vencimento do referido cargo, em parcela destacada:\nb) Mestrado – 20% (vinte por cento);\n§ 2º Para concessão do Adicional de Titulação previsto no inciso I, alínea “a”, serão considerados os cursos com carga horária igual e/ou superior a 360 horas;\n§ 3º O Adicional de Titulação será devido pelo maior título obtido pelo servidor, vedada a cumulatividade, em qualquer hipótese;\nAnexo IV: Superior Analista Legislativo Assistência Legislativa Qualquer área"
+          }
+        },
+        {
+          "enunciado": "Sobre o Adicional de Titulação e o Adicional de Aperfeiçoamento de Pós-doutorado disciplinados no artigo 9º do Decreto Legislativo nº 35/2015, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os percentuais do Adicional de Titulação para formação de nível superior são: Especialização 15%, Mestrado 20% e Doutorado 25%.",
+            "B": "O Adicional de Aperfeiçoamento de Pós-doutorado é fixado no percentual de 35%.",
+            "C": "Os cursos de Especialização, Mestrado e Doutorado são considerados somente quando devidamente reconhecidos pelo MEC.",
+            "D": "Para a concessão do Adicional de Titulação, o servidor apresenta cópia autenticada do título ao DGP, e a percepção ocorre após a publicação de Ato Administrativo próprio da Mesa Diretora.",
+            "E": "O Adicional de Titulação é calculado sobre a remuneração bruta total do servidor e pode ser acumulado quando os títulos forem de áreas distintas."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). Transcreve fielmente as alíneas 'a', 'b' e 'c' do inciso I do art. 9º.\nB) CORRETA (opção verdadeira). Corresponde ao percentual exato estabelecido no inciso II do art. 9º.\nC) CORRETA (opção verdadeira). Fiel à exigência de reconhecimento pelo MEC contida no § 1º do art. 9º.\nD) CORRETA (opção verdadeira). Reproduz com precisão o procedimento de requerimento e concessão previsto no § 4º do art. 9º.\nE) INCORRETA (gabarito). O inciso I estabelece que o percentual é calculado sobre o vencimento do cargo (e não remuneração bruta) e o § 3º veda a cumulatividade em qualquer hipótese.",
+          "base_legal": {
+            "dispositivo": "Art. 9º",
+            "texto": "Art. 9º Além do vencimento e de outras vantagens pecuniárias previstas em Lei, o servidor do Poder Legislativo perceberá:\nI - Adicional de Titulação, concedido ao Servidor com formação de Nível Superior, observada a correlação constante da Tabela de Relacionamento de Titulação no Anexo IV a este Decreto Legislativo, com percentual calculado sobre o vencimento do referido cargo, em parcela destacada:\na) Especialização – 15% (quinze por cento);\nb) Mestrado – 20% (vinte por cento);\nc) Doutorado – 25% (vinte e cinco por cento).\nII - Adicional de Aperfeiçoamento de Pós-doutorado – 35% (trinta e cinco por cento).\n§ 1º Para fins de concessão do Adicional de Titulação, previsto no inciso I, os cursos de Especialização, Mestrado e Doutorado serão considerados somente quando devidamente reconhecidos pelo Ministério da Educação – MEC;\n§ 2º Para concessão do Adicional de Titulação previsto no inciso I, alínea “a”, serão considerados os cursos com carga horária igual e/ou superior a 360 horas;\n§ 3º O Adicional de Titulação será devido pelo maior título obtido pelo servidor, vedada a cumulatividade, em qualquer hipótese;\n§ 4º Para a concessão do Adicional de Titulação o servidor deverá apresentar cópia autenticada do respectivo título ao Departamento de Gestão de Pessoas, para fins de análise e posterior percepção da vantagem pecuniária, após a publicação do Ato Administrativo próprio pela Mesa Diretora."
+          }
+        },
+        {
+          "enunciado": "No tocante aos requisitos procedimentais e de cálculo das vantagens por titulação (art. 9º do Decreto Legislativo nº 35/2015), assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O Adicional de Titulação incide sobre o vencimento do cargo, sendo pago em parcela destacada ao servidor com formação de Nível Superior.",
+            "B": "A comprovação do título de Doutorado exige defesa presencial perante banca examinadora da Escola do Legislativo.",
+            "C": "Cursos de Especialização sem reconhecimento formal do MEC garantem o pagamento do percentual de 15% caso aprovados pelo Diretor do DGP.",
+            "D": "O Adicional de Titulação também é concedido ao servidor com formação de nível médio que conclua curso técnico de 360 horas.",
+            "E": "A apresentação de cópia simples do diploma ao Sindicato é suficiente para gerar efeitos financeiros imediatos no contracheque do servidor."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. É a regra do inciso I do art. 9º: percentual calculado sobre o vencimento do cargo, em parcela destacada, para servidor com formação de nível superior.\nB) INCORRETA. A legislação exige o reconhecimento do curso pelo MEC (§ 1º) e apresentação de cópia autenticada ao DGP (§ 4º), sem bancas internas.\nC) INCORRETA. O § 1º veda expressamente a concessão do adicional para cursos não reconhecidos pelo MEC.\nD) INCORRETA. O inciso I concede o Adicional de Titulação ao servidor com formação de nível superior; as 360 horas do § 2º referem-se à especialização.\nE) INCORRETA. O § 4º exige a entrega de cópia autenticada ao DGP e publicação de Ato da Mesa Diretora.",
+          "base_legal": {
+            "dispositivo": "Art. 9º, I, §§ 1º, 2º e 4º",
+            "texto": "I - Adicional de Titulação, concedido ao Servidor com formação de Nível Superior, observada a correlação constante da Tabela de Relacionamento de Titulação no Anexo IV a este Decreto Legislativo, com percentual calculado sobre o vencimento do referido cargo, em parcela destacada:\n§ 1º Para fins de concessão do Adicional de Titulação, previsto no inciso I, os cursos de Especialização, Mestrado e Doutorado serão considerados somente quando devidamente reconhecidos pelo Ministério da Educação – MEC;\n§ 2º Para concessão do Adicional de Titulação previsto no inciso I, alínea “a”, serão considerados os cursos com carga horária igual e/ou superior a 360 horas;\n§ 4º Para a concessão do Adicional de Titulação o servidor deverá apresentar cópia autenticada do respectivo título ao Departamento de Gestão de Pessoas, para fins de análise e posterior percepção da vantagem pecuniária, após a publicação do Ato Administrativo próprio pela Mesa Diretora."
+          }
+        },
+        {
+          "enunciado": "O artigo 10 do Decreto Legislativo nº 35/2015 disciplinou a incorporação ao vencimento base de cinco gratificações criadas pelo DL 04/2012. Assinale a alternativa INCORRETA quanto à correlação entre a gratificação e o respectivo cargo beneficiário.",
+          "alternativas": {
+            "A": "A Gratificação por Desempenho da Atividade Legislativa de 10% foi incorporada ao vencimento base dos ocupantes do cargo de Analista Legislativo.",
+            "B": "A Gratificação de Representação pelo Exercício de Atividade Exclusiva de atualização e manutenção do Banco de Leis foi incorporada aos ocupantes do cargo de Procurador.",
+            "C": "A Gratificação de Representação Judicial de 10% foi incorporada ao vencimento base dos ocupantes do cargo de Procurador.",
+            "D": "A Gratificação pelo projeto de interiorização do Poder Legislativo foi incorporada ao vencimento base dos ocupantes do cargo de Consultor.",
+            "E": "A Gratificação pela análise de informações da Ouvidoria Legislativa foi incorporada ao vencimento base dos ocupantes do cargo de Técnico Legislativo."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). Fiel à redação do inciso I do art. 10.\nB) INCORRETA (gabarito). O inciso IV do art. 10 atribui a gratificação de manutenção do Banco de Leis aos ocupantes do cargo de Assessor Técnico (e não Procurador).\nC) CORRETA (opção verdadeira). Fiel à redação do inciso II do art. 10.\nD) CORRETA (opção verdadeira). Fiel à redação do inciso III do art. 10.\nE) CORRETA (opção verdadeira). Fiel à redação do inciso V do art. 10.",
+          "base_legal": {
+            "dispositivo": "Art. 10, I a V",
+            "texto": "I - Gratificação por Desempenho da Atividade Legislativa aos ocupantes do cargo de Analista Legislativo;\nII - Gratificação de Representação Judicial aos ocupantes do cargo de Procurador;\nIII - Gratificação de Representação pelo Exercício de Atividade Exclusiva de coordenação e instalação dos trabalhos relativos ao projeto de interiorização do Poder Legislativo, de acordo com a Resolução nº 37, de 7 de agosto de 1991, aos ocupantes do cargo de Consultor;\nIV - Gratificação de Representação pelo Exercício de Atividade Exclusiva de atualização e manutenção do Banco de Leis da Assembleia Legislativa do Estado do Pará, criado pelo Ato da Mesa nº 52, de 18 de setembro de 1996, aos ocupantes do cargo de Assessor Técnico; e\nV - Gratificação de Representação pelo Exercício da Atividade Exclusiva de análise, seleção e sistematização de informações recebidas do Banco de Dados da Ouvidoria Legislativa com o objetivo de converter as proposições da sociedade, no que for oportuno, em proposições legislativas, conforme dispõe o Decreto Legislativo nº 106, de 24 de outubro de 2012, aos ocupantes do cargo de Técnico Legislativo."
+          }
+        },
+        {
+          "enunciado": "A respeito dos parâmetros temporais, percentuais e vedações aplicáveis à incorporação tratada no caput do artigo 10 do Decreto Legislativo nº 35/2015, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "As gratificações eram percebidas no percentual de 20% e foram incorporadas com efeitos financeiros retroativos a 2012.",
+            "B": "A incorporação das gratificações autoriza a concessão de novos adicionais idênticos para os servidores que ingressarem futuramente.",
+            "C": "As gratificações de 10% percebidas a partir de janeiro de 2015 ficam incorporadas ao vencimento base com efeitos financeiros a partir de 1º de janeiro de 2016, vedadas novas concessões sob o mesmo fundamento.",
+            "D": "A incorporação produziu efeitos financeiros a partir de 15 de dezembro de 2015, data do decreto.",
+            "E": "A incorporação ao vencimento base aplicou-se exclusivamente aos servidores ocupantes de cargos do Quadro Suplementar."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O percentual era de 10% (percebido a partir de janeiro de 2015) e os efeitos financeiros iniciam-se em 01/01/2016.\nB) INCORRETA. O caput do art. 10 estabelece a vedação expressa a 'novas concessões sob o mesmo fundamento'.\nC) CORRETA. Reproduz na íntegra a regra e as datas estipuladas no caput do art. 10 do Decreto Legislativo nº 35/2015.\nD) INCORRETA. O caput do art. 10 fixa os efeitos financeiros a partir de 1º de janeiro de 2016. O decreto é de 15/12/2015 e foi publicado no DOAL nº 1934 (de 25/12/2015 a 01/01/2016).\nE) INCORRETA. A incorporação abrangeu os ocupantes dos cargos de provimento efetivo especificados nos incisos I a V do art. 10.",
+          "base_legal": {
+            "dispositivo": "Art. 10, caput",
+            "texto": "Art. 10. As seguintes gratificações criadas pelo Art. 13, do Decreto Legislativo nº 04, de 2012, já percebidas mensalmente, no percentual de 10% (dez por cento), a partir de janeiro de 2015, ficam incorporadas ao vencimento base dos ocupantes dos respectivos cargos, com efeitos financeiros a partir do dia 1º de janeiro de 2016, vedadas novas concessões sob o mesmo fundamento:"
+          }
+        },
+        {
+          "enunciado": "Carlos ocupa o cargo de Analista Legislativo da ALEPA e, em 2016, contava com quatro anos de exercício em cargo de nível superior. Nesse ano, requereu a Gratificação por Desempenho de Atividade Legislativa prevista no art. 11 do Decreto Legislativo nº 35/2015. Assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O pedido não pode ser atendido naquele momento, porque a gratificação é concedida a quem está no exercício de cargo de nível superior há mais de cinco anos.",
+            "B": "Carlos faz jus imediatamente a 90% sobre o vencimento, porque o requisito temporal se aplica apenas ao Quadro Suplementar.",
+            "C": "Carlos faz jus à gratificação, pois basta ocupar o cargo de Analista Legislativo, independentemente do tempo de exercício.",
+            "D": "Carlos recebe a gratificação em percentual proporcional ao tempo de exercício, vedada a concessão gradual.",
+            "E": "Carlos só poderá receber a gratificação se for nomeado para o cargo de Assessor Técnico."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O parágrafo único do art. 11 exige exercício de cargo de nível superior há mais de cinco anos; com quatro anos, Carlos ainda não preenche o requisito.\nB) INCORRETA. O art. 11 não restringe o requisito temporal ao Quadro Suplementar, e a concessão é gradual, de 10% ao ano.\nC) INCORRETA. Além de ocupar o cargo de Analista Legislativo, é preciso estar no exercício de cargo de nível superior há mais de cinco anos.\nD) INCORRETA. A gratificação é de 90% sobre o vencimento, concedida de forma gradual (10% ao ano, na data base, a partir de 2016); não há proporcionalidade ao tempo de exercício.\nE) INCORRETA. A gratificação do art. 11 é destinada aos ocupantes do cargo de Analista Legislativo.",
+          "base_legal": {
+            "dispositivo": "Art. 11, caput e parágrafo único",
+            "texto": "Art. 11. Fica concedida a Gratificação por Desempenho de Atividade Legislativa aos ocupantes do cargo de Analista Legislativo, no valor equivalente a 90% (noventa por cento), calculada sobre o vencimento, na forma gradual, no percentual de 10% (dez por cento) ao ano, na respectiva data base, a partir do exercício de 2016.\nParágrafo único. A gratificação de que trata o caput será concedida aos servidores que estejam no exercício de cargo de nível superior há mais de cinco anos."
+          }
+        },
+        {
+          "enunciado": "Os artigos 10 e 11 do Decreto Legislativo nº 35/2015 tratam de vantagens aplicáveis aos servidores da ALEPA, com destaque para a carreira de Analista Legislativo. Assinale a alternativa CORRETA que correlaciona adequadamente as regras de incorporação do artigo 10 com a concessão da nova gratificação do artigo 11.",
+          "alternativas": {
+            "A": "A Gratificação de Desempenho do art. 10 foi extinta sem incorporação, enquanto a do art. 11 é devida exclusivamente aos cargos de nível médio.",
+            "B": "O art. 10 incorporou ao vencimento base a gratificação de 10% já percebida desde 2015, enquanto o art. 11 extinguiu o vencimento base substituindo-o por parcela única de 90%.",
+            "C": "A gratificação incorporada pelo art. 10 exige mais de cinco anos no cargo, enquanto a gratificação do art. 11 independe de tempo de serviço.",
+            "D": "Tanto a incorporação do art. 10 quanto a concessão do art. 11 produzem efeitos financeiros retroativos a 04 de abril de 2012.",
+            "E": "O art. 10 incorporou ao vencimento base dos Analistas Legislativos a Gratificação por Desempenho de 10% (percebida a partir de jan/2015, com efeitos a 01/01/2016), ao passo que o art. 11 concedeu uma nova Gratificação por Desempenho de 90% (gradual a 10% a.a. a partir de 2016) para Analistas com mais de cinco anos no exercício de cargo de nível superior."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. A gratificação de 10% foi incorporada ao vencimento base (art. 10, I) e a de 90% destina-se a Analista Legislativo (nível superior).\nB) INCORRETA. O art. 11 concedeu gratificação sobre o vencimento, sem extinguir o vencimento base do cargo.\nC) INCORRETA. O requisito de mais de cinco anos no exercício de cargo de nível superior pertence à gratificação do art. 11 (parágrafo único).\nD) INCORRETA. O art. 10 produz efeitos financeiros a partir de 1º/01/2016, e o art. 11 é aplicado de forma gradual a partir do exercício de 2016; nenhum retroage a 2012.\nE) CORRETA. Correlaciona a incorporação do art. 10, I (gratificação de 10%), com a nova gratificação de 90% do art. 11, caput e parágrafo único.",
+          "base_legal": {
+            "dispositivo": "Art. 10, caput e I, e art. 11",
+            "texto": "Art. 10. As seguintes gratificações criadas pelo Art. 13, do Decreto Legislativo nº 04, de 2012, já percebidas mensalmente, no percentual de 10% (dez por cento), a partir de janeiro de 2015, ficam incorporadas ao vencimento base dos ocupantes dos respectivos cargos, com efeitos financeiros a partir do dia 1º de janeiro de 2016, vedadas novas concessões sob o mesmo fundamento:\nI - Gratificação por Desempenho da Atividade Legislativa aos ocupantes do cargo de Analista Legislativo;\nArt. 11. Fica concedida a Gratificação por Desempenho de Atividade Legislativa aos ocupantes do cargo de Analista Legislativo, no valor equivalente a 90% (noventa por cento), calculada sobre o vencimento, na forma gradual, no percentual de 10% (dez por cento) ao ano, na respectiva data base, a partir do exercício de 2016.\nParágrafo único. A gratificação de que trata o caput será concedida aos servidores que estejam no exercício de cargo de nível superior há mais de cinco anos."
           }
         }
       ]
