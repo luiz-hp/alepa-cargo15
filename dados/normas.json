@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-29",
+  "atualizado_em": "2026-10-30",
   "normas": [
     {
       "id": "dl-70-1990",
@@ -279,7 +279,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2012_76612.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/pccr.json"
     },
     {
       "id": "dl-106-2012",
@@ -349,7 +349,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei35_2015_68432.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/pccr.json"
     },
     {
       "id": "dl-02-2017",
@@ -377,7 +377,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei11_2017_37896.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/pccr.json"
     },
     {
       "id": "dl-111-2020",
