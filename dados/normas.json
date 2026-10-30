@@ -503,7 +503,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei11_2025_14265.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-11-2025.json"
     },
     {
       "id": "dl-12-2025",
