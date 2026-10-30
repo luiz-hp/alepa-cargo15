@@ -4,8 +4,7 @@
   "ementa": "Institui o Código de Ética e Decoro Parlamentar da Assembléia Legislativa do Estado e dá outras providências.",
   "fonte": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei11_1997_78267.pdf",
   "alteracoes": [
-    "Publicada no DOE nº 28.632, de 13/01/1998; vigência na data da publicação (art. 26).",
-    "Parte 2 (arts. 6º a 27) em preparação."
+    "Publicada no DOE nº 28.632, de 13/01/1998; vigência na data da publicação (art. 26)."
   ],
   "partes": [
     {
@@ -283,6 +282,361 @@
           "base_legal": {
             "dispositivo": "Art. 3º, caput e incisos V, VI e VIII; Art. 5º, caput e incisos III e VII",
             "texto": "Art. 3° - Consideram-se deveres fundamentais do deputado:\nV - não usar de suas prerrogativas parlamentares para proveito próprio ou de terceiros;\nVI - denunciar e combater o clientelismo, o empreguismo e a corrupção, em todas as suas formas;\nVIII - tratar as autoridades, os servidores da Assembléia Legislativa e a todos os demais membros da sociedade com respeito, discrição e urbanidade, compatíveis com a dignidade parlamentar;\nArt. 5° - Consideram-se procedimentos contrários à Ética e ao Decoro Parlamentar, puníveis na forma regimental e constitucional:\nIII - o envolvimento com o crime;\nVII - retardar injustificadamente a tramitação de processos administrativos ou proposições legislativas que estejam sob sua responsabilidade;"
+          }
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Comissão de Ética, medidas disciplinares e processo disciplinar",
+      "artigos": "Arts. 6º a 27",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A Parte 2 trata da **Comissão de Ética e Decoro Parlamentar** (arts. 6º a 12), das **penalidades** (arts. 13 a 17) e do **processo disciplinar** (arts. 18 a 23). A Comissão zela pela observância das Constituições Federal e do Estado, do Regimento Interno e do Código (art. 7º) e segue, na organização, as normas regimentais das demais comissões (art. 8º)."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "**Composição (art. 6º):** **7 titulares e 3 suplentes**, com proporcionalidade entre partidos e blocos; indicados à Mesa pelos **líderes**; deputado **investigado** por ato de ética **não** pode integrar; a Mesa nomeia **15 dias após a sua posse**.",
+            "**Direção (art. 9º):** presidente e vice eleitos **dentre os membros**. O presidente dirige as reuniões, distribui as matérias a relator, zela pelo bom nome da comissão e **solicita servidores à Presidência da ALEPA**. O vice substitui o presidente nos impedimentos.",
+            "**Reuniões (art. 10):** **podem** ser secretas, por deliberação dos membros; delas participam só os membros e quem o presidente designar para assessoramento.",
+            "**Decisões (art. 12):** vão à **Mesa Diretora**, com as providências de cada caso. Cabe **recurso com efeito suspensivo ao Plenário**, só por **parte interessada**."
+          ]
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Penalidade",
+            "Quando se aplica",
+            "Artigo"
+          ],
+          "linhas": [
+            [
+              "Advertência escrita",
+              "**Residual**: casos que não se enquadram nos arts. 15 e 16",
+              "14"
+            ],
+            [
+              "Censura escrita",
+              "Deixar de observar os deveres do mandato, **salvo motivo justificado**; perturbar a ordem das sessões ou reuniões",
+              "15"
+            ],
+            [
+              "Perda do mandato",
+              "Infringir as proibições do **art. 96 da Constituição Estadual**",
+              "16"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "As penalidades são anotadas nas **fichas de assentamento** pelo setor competente da ALEPA (art. 17), e toda punição respeita a **ampla defesa** (art. 13)."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Prazo",
+            "O quê",
+            "Artigo"
+          ],
+          "linhas": [
+            [
+              "**15 dias**",
+              "Mesa nomeia os membros, contados da posse da Mesa",
+              "6º, § 4º"
+            ],
+            [
+              "**5 dias úteis**",
+              "Parecer do relator, contados do dia **posterior** ao recebimento",
+              "11"
+            ],
+            [
+              "**2 dias úteis**",
+              "Parecer do novo relator, se o primeiro for rejeitado",
+              "11, parágrafo único"
+            ],
+            [
+              "**30 dias** (máximo)",
+              "Comissão aprecia representação de parlamentar, autoridade ou cidadão",
+              "13, parágrafo único"
+            ],
+            [
+              "**30 dias**",
+              "Instalação da primeira Comissão, contados da **publicação**",
+              "25"
+            ]
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "**Perda do mandato (art. 18):** a representação é recebida pela **Mesa Diretora**, que a envia à Comissão de Ética **e à CCJ** (salvo processos nascidos na própria Comissão de Ética). Decide o **Plenário, em escrutínio secreto**, desde que as **duas comissões** a acatem (art. 97 da Constituição Estadual). A Comissão segue o **art. 108 do Regimento Interno** (art. 19).",
+            "**Quem pode representar (arts. 20 e 21):** qualquer deputado, autoridade, cidadão ou **entidade representativa de classe**, por denúncia **devidamente comprovada**; **denúncia anônima não é recebida**. O deputado ofendido em sua honra pode representar contra o ofensor, inclusive por debates no plenário.",
+            "**Garantias (arts. 22 e 23):** a **renúncia não interrompe** o processo; há **contraditório e ampla defesa** em qualquer processo.",
+            "**Disposições finais (arts. 24 a 27):** presidente da Comissão de Ética ou da CCJ acusado é substituído pelos membros **mais idosos**, convocando-se suplente; vigência na **publicação**; revogação genérica das disposições em contrário."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) Recurso das decisões: **com efeito suspensivo**, ao **Plenário**, só por **parte interessada**. 2) Prazos do relator em dias **úteis** (5 e 2); os demais (15 e 30) não dizem \"úteis\". 3) Substituição de presidente acusado: pelos **mais idosos**, não pelo vice. 4) Fora da letra da Resolução: a EC 76/2013 aboliu a votação secreta na perda de mandato de Deputado ou Senador (CF, art. 55, § 2º), e o STF já decidiu que os Estados devem seguir o modelo federal quanto à forma de votação (ADI 3208, 2005, com base no art. 27, § 1º, da CF). Mesmo assim, se a questão disser \"segundo a Resolução nº 11/1997\", a resposta é **escrutínio secreto**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), a respeito da criação, composição e princípios organizacionais da Comissão de Ética e Decoro Parlamentar, assinale a alternativa correta:",
+          "alternativas": {
+            "A": "É criada a Comissão de Ética e Decoro Parlamentar, composta de 7 membros titulares e 3 suplentes, respeitada a proporcionalidade entre os partidos políticos e blocos parlamentares.",
+            "B": "A Comissão de Ética e Decoro Parlamentar é formada por 5 membros titulares e 2 suplentes, escolhidos por sorteio aberto em Plenário.",
+            "C": "Os membros da comissão são nomeados pelo Governador do Estado no prazo de 30 dias após a posse dos parlamentares.",
+            "D": "Deputados que estejam sendo investigados por atos referentes à Ética Parlamentar podem integrar a comissão desde que não sejam relatores.",
+            "E": "A indicação dos membros cabe exclusivamente ao Presidente do Tribunal de Justiça do Estado do Pará."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Dispositivo expressa a criação da comissão com 7 membros titulares e 3 suplentes, com respeito à proporcionalidade partidária, conforme o art. 6º, § 1º.\nB) INCORRETA. A comissão é composta de 7 membros titulares e 3 suplentes, indicados pelos líderes, nos termos do art. 6º, §§ 1º e 2º.\nC) INCORRETA. A nomeação cabe à Mesa Diretora da Assembleia Legislativa, segundo o art. 6º, § 4º.\nD) INCORRETA. Deputados investigados por atos referentes à Ética Parlamentar não podem integrar a comissão, nos termos do art. 6º, § 3º.\nE) INCORRETA. Compete aos líderes indicar e à Mesa Diretora nomear os membros, de acordo com o art. 6º, §§ 2º e 4º.",
+          "base_legal": {
+            "dispositivo": "Art. 6º",
+            "texto": "Art. 6° - É criada a Comissão de Ética e Decoro Parlamentar.\n§ 1° - A comissão de que trata este artigo será composta de 7 (sete) membros titulares e 3 (três) suplentes, respeitada a proporcionalidade entre os partidos políticos e blocos parlamentares com representação na Assembléia Legislativa;\n§ 2° - Os membros da comissão serão indicados à Mesa Diretora por seus respectivos líderes, em conformidade com as vagas que couberem ao partido ou bloco parlamentar;\n§ 3° - Não poderão integrar a comissão, deputados que estejam sendo investigados por atos referentes à Ética Parlamentar;\n§ 4° - Cabe à Mesa Diretora providenciar, 15 (quinze) dias após a sua posse, a nomeação dos membros da comissão, atendendo, no que for cabível, as normas regimentais."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), sobre as vedações para integrar a Comissão de Ética e Decoro Parlamentar e o prazo para sua composição, considere a situação do Deputado Estadual Marcos, que responde a processo investigativo formal por ato atinente à ética parlamentar. Em relação às regras de organização da comissão, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "Os membros da comissão serão indicados à Mesa Diretora por seus respectivos líderes partidários.",
+            "B": "Cabe à Mesa Diretora providenciar a nomeação dos membros da comissão no prazo de 15 dias após a sua posse.",
+            "C": "O Deputado Marcos pode ser nomeado membro titular da comissão desde que a indicação seja subscrita pela maioria dos líderes.",
+            "D": "Não poderão integrar a comissão deputados que estejam sendo investigados por atos referentes à Ética Parlamentar.",
+            "E": "Na composição da comissão, deve ser respeitada a proporcionalidade entre os partidos políticos e blocos parlamentares."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). A indicação cabe aos respectivos líderes partidários ou de blocos, segundo o art. 6º, § 2º.\nB) CORRETA (opção verdadeira). O prazo de 15 dias após a posse da Mesa Diretora para nomeação está previsto no art. 6º, § 4º.\nC) INCORRETA (gabarito). A proibição de integrar a comissão para deputados investigados é absoluta e expressa no art. 6º, § 3º, sem ressalva de apoio da maioria dos líderes.\nD) CORRETA (opção verdadeira). Trata-se de vedação expressa contida no art. 6º, § 3º.\nE) CORRETA (opção verdadeira). A proporcionalidade partidária e dos blocos parlamentares deve ser respeitada, conforme o art. 6º, § 1º.",
+          "base_legal": {
+            "dispositivo": "Art. 6º, §§ 1º a 4º",
+            "texto": "§ 1° - A comissão de que trata este artigo será composta de 7 (sete) membros titulares e 3 (três) suplentes, respeitada a proporcionalidade entre os partidos políticos e blocos parlamentares com representação na Assembléia Legislativa;\n§ 2° - Os membros da comissão serão indicados à Mesa Diretora por seus respectivos líderes, em conformidade com as vagas que couberem ao partido ou bloco parlamentar;\n§ 3° - Não poderão integrar a comissão, deputados que estejam sendo investigados por atos referentes à Ética Parlamentar;\n§ 4° - Cabe à Mesa Diretora providenciar, 15 (quinze) dias após a sua posse, a nomeação dos membros da comissão, atendendo, no que for cabível, as normas regimentais."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), no que tange à competência da Comissão de Ética e Decoro Parlamentar e às normas adotadas em sua organização, assinale a alternativa correta:",
+          "alternativas": {
+            "A": "Compete à Comissão de Ética substituir o Tribunal de Contas na fiscalização das contas dos gabinetes.",
+            "B": "A escolha de relatores na Comissão de Ética segue rito próprio sem qualquer relação com o Regimento Interno.",
+            "C": "A Comissão tem como atribuição exclusiva julgar infrações penais praticadas por prefeitos municipais.",
+            "D": "A Comissão de Ética e Decoro Parlamentar adotará em sua organização e na ordem de seus trabalhos, inclusive na eleição de seu presidente e na escolha de relatores, as normas regimentais relativas às demais comissões.",
+            "E": "Na eleição de seu presidente, a Comissão aplica exclusivamente as disposições do Código Eleitoral."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. A competência da comissão é zelar pela observância das normas éticas, regimento e constituições, segundo o art. 7º.\nB) INCORRETA. A escolha de relatores segue expressamente as normas regimentais relativas às demais comissões, nos termos do art. 8º.\nC) INCORRETA. A comissão atua na preservação da dignidade do mandato parlamentar e da Assembleia, segundo o art. 7º.\nD) CORRETA. A comissão adota em sua organização, ordem dos trabalhos, eleição do presidente e escolha de relatores as normas regimentais relativas às demais comissões, conforme o art. 8º.\nE) INCORRETA. A eleição do presidente segue as normas regimentais relativas às demais comissões, de acordo com o art. 8º.",
+          "base_legal": {
+            "dispositivo": "Arts. 7º e 8º",
+            "texto": "Art. 7° - Compete à Comissão de Ética e Decoro Parlamentar zelar pela observância das Constituições Federal e do Estado, do Regimento Interno da Assembléia Legislativa e deste Código, atuando na preservação da dignidade do mandato parlamentar e da Assembléia Legislativa.\nArt. 8° - A Comissão de Ética e Decoro Parlamentar adotará em sua organização e na ordem de seus trabalhos, inclusive na eleição de seu presidente e na escolha de relatores, as normas regimentais relativas às demais comissões."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), em relação à estrutura diretiva da Comissão de Ética e Decoro Parlamentar e às suas respectivas atribuições, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "O presidente e o vice-presidente da Comissão de Ética e Decoro Parlamentar são eleitos dentre os seus membros.",
+            "B": "Ao presidente da comissão compete dirigir suas reuniões e zelar pelo bom nome do colegiado.",
+            "C": "Ao vice-presidente compete substituir o presidente em seus impedimentos.",
+            "D": "O presidente da comissão tem a prerrogativa de contratar diretamente servidores externos sem interferência da Presidência da Assembleia.",
+            "E": "Compete ao presidente distribuir a um relator as matérias que sejam encaminhadas ao colegiado."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). A eleição ocorre dentre os membros da comissão, segundo o art. 9º, caput.\nB) CORRETA (opção verdadeira). São atribuições do presidente expressas no art. 9º, § 1º, incisos I e III.\nC) CORRETA (opção verdadeira). O vice-presidente substitui o presidente em seus impedimentos, conforme o art. 9º, § 2º.\nD) INCORRETA (gabarito). Cabe ao presidente solicitar da Presidência da Assembléia Legislativa os servidores necessários, segundo o art. 9º, § 1º, inciso IV, não havendo contratação direta.\nE) CORRETA (opção verdadeira). A distribuição a relator é atribuição do presidente, nos termos do art. 9º, § 1º, inciso II.",
+          "base_legal": {
+            "dispositivo": "Art. 9º",
+            "texto": "Art. 9° - A Comissão de Ética e Decoro Parlamentar terá um presidente e um vice- presidente, eleitos dentre seus membros.\n§ 1° - Ao presidente da comissão compete:\nI - dirigir suas reuniões;\nII - distribuir a um relator as matérias que sejam encaminhadas ao colegiado;\nIII - zelar pelo bom nome da comissão;\nIV - solicitar da Presidência da Assembléia Legislativa os servidores que entender necessários para o seu assessoramento e para os trabalhos de secretaria;\n§ 2° - Ao vice-presidente compete substituir o presidente em seus impedimentos."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), sobre o caráter das reuniões da Comissão de Ética e Decoro Parlamentar e os participantes autorizados, assinale a alternativa correta:",
+          "alternativas": {
+            "A": "As reuniões da comissão serão obrigatoriamente públicas em todas as hipóteses, vedado o sigilo.",
+            "B": "As reuniões da comissão poderão ser secretas em razão do assunto a ser apreciado, de acordo com a deliberação de seus membros.",
+            "C": "Nas reuniões secretas, é livre o acesso a qualquer deputado estadual, mesmo que não seja membro da comissão.",
+            "D": "A deliberação por reunião secreta exige autorização prévia por maioria absoluta do Plenário da Assembleia.",
+            "E": "Qualquer cidadão pode assistir às reuniões secretas desde que assine termo de confidencialidade."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. A norma admite expressamente que as reuniões sejam secretas, de acordo com o art. 10.\nB) CORRETA. O dispositivo prevê que as reuniões poderão ser secretas em razão do assunto, conforme deliberação dos membros, nos termos do art. 10.\nC) INCORRETA. Das reuniões secretas só participam os membros e as pessoas determinadas pelo presidente para assessoramento, segundo o art. 10, parágrafo único.\nD) INCORRETA. A deliberação sobre o caráter secreto cabe aos próprios membros da comissão, conforme o art. 10.\nE) INCORRETA. A participação é restrita aos membros e assessores determinados pelo presidente, de acordo com o art. 10, parágrafo único.",
+          "base_legal": {
+            "dispositivo": "Art. 10, caput e parágrafo único",
+            "texto": "Art. 10 - As reuniões da comissão poderão ser secretas em razão do assunto a ser apreciado, de acordo com a deliberação de seus membros.\nParágrafo Único - Das reuniões secretas só poderão participar os membros da comissão e as pessoas determinadas pelo presidente para o seu assessoramento."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), quanto aos prazos para a apresentação de parecer pelo relator na Comissão de Ética e Decoro Parlamentar, assinale a alternativa correta:",
+          "alternativas": {
+            "A": "O prazo para o relator oferecer parecer é de 10 dias corridos, contados da data de publicação no Diário Oficial.",
+            "B": "Rejeitado o parecer, o primeiro relator terá o prazo suplementar de 5 dias úteis para reformular seu voto.",
+            "C": "O prazo para o relator oferecer parecer é de 5 dias úteis, contado do dia posterior ao do recebimento da matéria.",
+            "D": "A contagem do prazo do relator inicia-se no próprio dia do recebimento da matéria na secretaria da comissão.",
+            "E": "Caso o parecer seja rejeitado, o processo é arquivado sumariamente pelo presidente."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O prazo é de 5 dias úteis contados do dia posterior ao recebimento, segundo o art. 11.\nB) INCORRETA. Rejeitado o parecer, designa-se outro relator com prazo de 2 dias úteis, nos termos do art. 11, parágrafo único.\nC) CORRETA. O dispositivo fixa expressamente o prazo de 5 dias úteis contados do dia posterior ao recebimento, conforme o art. 11.\nD) INCORRETA. A contagem inicia-se expressamente no 'dia posterior ao do recebimento', de acordo com o art. 11.\nE) INCORRETA. Rejeitado o parecer, o presidente designará outro relator para emitir novo parecer, segundo o art. 11, parágrafo único.",
+          "base_legal": {
+            "dispositivo": "Art. 11, caput e parágrafo único",
+            "texto": "Art. 11 - O prazo para o relator oferecer parecer é de 5 (cinco) dias úteis, contado do dia posterior ao do recebimento da matéria.\nParágrafo Único - Rejeitado o parecer, o presidente designará outro relator que terá o prazo de 2 (dois) dias úteis para oferecer novo parecer, refletindo a decisão contrária ao primeiro parecer."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), sobre o encaminhamento das decisões da Comissão de Ética e a disciplina dos recursos, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "As decisões da comissão serão encaminhadas à Mesa Diretora.",
+            "B": "As decisões da comissão indicam as providências que devem ser adotadas em cada caso.",
+            "C": "Das decisões da comissão cabe recurso com efeito suspensivo ao Plenário da Assembleia Legislativa.",
+            "D": "O recurso contra a decisão da comissão só pode ser interposto por parte interessada.",
+            "E": "O recurso interposto contra a decisão da comissão possui apenas efeito devolutivo, sem suspender a medida."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). As decisões são encaminhadas à Mesa Diretora (art. 12, caput).\nB) CORRETA (opção verdadeira). As decisões indicam as providências que devem ser adotadas em cada caso (art. 12, caput).\nC) CORRETA (opção verdadeira). O recurso ao Plenário possui expressamente efeito suspensivo, conforme o art. 12, parágrafo único.\nD) CORRETA (opção verdadeira). O recurso só pode ser interposto por parte interessada, de acordo com o art. 12, parágrafo único.\nE) INCORRETA (gabarito). A norma prevê expressamente que o recurso ao Plenário tem 'efeito suspensivo', conforme o art. 12, parágrafo único.",
+          "base_legal": {
+            "dispositivo": "Art. 12, caput e parágrafo único",
+            "texto": "Art. 12 - As decisões da comissão serão encaminhadas à Mesa Diretora, indicando as providências que devem ser adotadas em cada caso, que não poderão ser objetos de questionamentos por este colegiado.\nParágrafo Único - Das decisões da comissão cabe recurso, com efeito suspensivo, ao Plenário da Assembléia Legislativa, só podendo ser interposto por parte interessada."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), no que tange ao prazo para apreciação de representações formuladas contra deputado estadual, assinale a alternativa correta:",
+          "alternativas": {
+            "A": "A comissão se obriga a apreciar em um prazo máximo de 30 dias representação formulada por outro parlamentar, autoridade ou qualquer cidadão contra o deputado estadual.",
+            "B": "Representações formuladas por cidadãos comuns têm prazo de apreciação de 90 dias úteis na comissão.",
+            "C": "A aplicação de qualquer sanção disciplinar independe da garantia do contraditório e da ampla defesa ao parlamentar.",
+            "D": "As medidas disciplinares do Código dividem-se em advertência verbal, multa pecuniária e suspensão temporária.",
+            "E": "A perda do mandato é a única penalidade expressamente prevista no texto do Código de Ética."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O dispositivo prevê a obrigação de apreciar em prazo máximo de 30 dias a representação contra deputado, formulada por parlamentar, autoridade ou cidadão, conforme o art. 13, parágrafo único.\nB) INCORRETA. O prazo é de no máximo 30 dias para qualquer representação recebida, nos termos do art. 13, parágrafo único.\nC) INCORRETA. É assegurado o direito da ampla defesa na sujeição às medidas disciplinares, segundo o art. 13, caput.\nD) INCORRETA. As penalidades previstas no art. 13 são: advertência escrita, censura escrita e perda do mandato.\nE) INCORRETA. A norma estabelece três penalidades: advertência escrita, censura escrita e perda do mandato, de acordo com o art. 13, incisos I, II e III.",
+          "base_legal": {
+            "dispositivo": "Art. 13, caput, incisos I a III e parágrafo único",
+            "texto": "Art. 13 - Os deputados que infringirem as normas contidas na Constituição Estadual, no Regimento Interno e neste Código, respeitado o direito da ampla defesa, sujeitar-se-á:\nI - advertência escrita;\nII - censura escrita;\nIII - perda do mandato.\nParágrafo Único - A comissão se obriga a apreciar em um prazo máximo de 30 (trinta) dias representação formulada por outro parlamentar, autoridade ou qualquer cidadão contra o deputado estadual."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), a respeito das hipóteses de aplicação das penalidades de advertência escrita, censura escrita e perda do mandato, assinale a alternativa correta:",
+          "alternativas": {
+            "A": "A advertência escrita aplica-se exclusivamente aos casos de infração ao art. 96 da Constituição Estadual.",
+            "B": "A pena de perda do mandato será aplicada quando o deputado deixar de apresentar declaração de bens no prazo regimental.",
+            "C": "A censura escrita será aplicada nos casos em que o deputado deixe de observar, salvo motivo justificado, os deveres inerentes ao mandato ou perturbe a ordem das sessões ou reuniões.",
+            "D": "As anotações das penalidades são feitas na ficha do parlamentar diretamente pelos membros da Comissão de Ética.",
+            "E": "A pena de censura escrita aplica-se como sanção residual genérica para qualquer infração ao Código."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. A advertência escrita é residual, aplicada aos casos não enquadrados nos arts. 15 e 16, conforme o art. 14.\nB) INCORRETA. A perda do mandato é aplicada em caso de infração às proibições do art. 96 da Constituição Estadual, de acordo com o art. 16.\nC) CORRETA. A censura escrita aplica-se nos casos de inobservância de deveres ou quando o deputado perturbar a ordem das sessões/reuniões, nos termos do art. 15, incisos I e II.\nD) INCORRETA. As penalidades são encaminhadas ao setor competente da Assembleia, que fará as anotações, segundo o art. 17.\nE) INCORRETA. A penalidade residual é a advertência escrita, conforme o art. 14.",
+          "base_legal": {
+            "dispositivo": "Arts. 14, 15, 16 e 17",
+            "texto": "Art. 14 - A advertência escrita será aplicada em casos que não se enquadrem dentre os tipificados nos artigos 15 e 16 deste Código.\nArt. 15 - A censura escrita será aplicada nos casos em que o deputado:\nI - deixe de observar, salvo motivo justificado, os deveres inerentes ao mandato e os preceitos a ele referidos no Regimento Interno;\nII - pertubar a ordem das sessões ou das reuniões da Assembléia Legislativa.\nArt. 16 - O deputado será punido com a perda de mandato em caso de infringir a qualquer das proibições contidas no artigo 96 da Constituição Estadual.\nArt. 17 - As penalidades previstas neste capítulo serão encaminhadas ao setor competente da Assembléia Legislativa, que fará as anotações nas fichas de assentamento dos deputados punidos."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), considere o caso da Deputada Estadual Juliana. Durante uma reunião de comissão, sem justificativa, ela provocou graves perturbações à ordem dos trabalhos e deixou de observar deveres inerentes ao mandato. Diante das regras sobre medidas disciplinares, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "A conduta da Deputada Juliana de perturbar a ordem das reuniões sujeita-a à aplicação da pena de censura escrita.",
+            "B": "A inobservância não justificada dos deveres inerentes ao mandato enquadra-se nas hipóteses de censura escrita.",
+            "C": "A advertência escrita possui caráter residual, sendo aplicável em casos não enquadrados nos artigos 15 e 16.",
+            "D": "A penalidade de censura escrita decorrente da conduta de Juliana acarretará anotação em sua ficha de assentamento pelo setor competente da Assembleia.",
+            "E": "A perturbação da ordem provocada pela Deputada Juliana gera automaticamente a pena de perda do mandato decidida pela Mesa Diretora."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). Perturbar a ordem das reuniões sujeita à censura escrita, segundo o art. 15, inciso II.\nB) CORRETA (opção verdadeira). Deixar de observar deveres do mandato acarreta censura escrita, conforme o art. 15, inciso I.\nC) CORRETA (opção verdadeira). A advertência escrita aplica-se nos casos não enquadrados nos arts. 15 e 16, nos termos do art. 14.\nD) CORRETA (opção verdadeira). As penalidades são encaminhadas para anotação nas fichas de assentamento pelo setor competente, segundo o art. 17.\nE) INCORRETA (gabarito). Perturbar a ordem atrai a censura escrita (art. 15, II), não acarretando perda do mandato nem sanção aplicada sumariamente pela Mesa.",
+          "base_legal": {
+            "dispositivo": "Arts. 14, 15, 16 e 17",
+            "texto": "Art. 14 - A advertência escrita será aplicada em casos que não se enquadrem dentre os tipificados nos artigos 15 e 16 deste Código.\nArt. 15 - A censura escrita será aplicada nos casos em que o deputado:\nI - deixe de observar, salvo motivo justificado, os deveres inerentes ao mandato e os preceitos a ele referidos no Regimento Interno;\nII - pertubar a ordem das sessões ou das reuniões da Assembléia Legislativa.\nArt. 16 - O deputado será punido com a perda de mandato em caso de infringir a qualquer das proibições contidas no artigo 96 da Constituição Estadual.\nArt. 17 - As penalidades previstas neste capítulo serão encaminhadas ao setor competente da Assembléia Legislativa, que fará as anotações nas fichas de assentamento dos deputados punidos."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), quanto ao órgão competente para receber a representação por fato sujeito à pena de perda do mandato e à tramitação pelas comissões, assinale a alternativa correta:",
+          "alternativas": {
+            "A": "A representação contra deputado por fato sujeito à perda do mandato é recebida pela Mesa Diretora, que a encaminha à Comissão de Ética e Decoro Parlamentar e à Comissão de Constituição e Justiça, exceto os processos originados na própria Comissão de Ética.",
+            "B": "A representação é encaminhada exclusivamente à Corregedoria Geral do Poder Legislativo para parecer irrecorrível.",
+            "C": "A representação recebida pela Mesa Diretora é julgada em única e definitiva instância pela Comissão de Constituição e Justiça.",
+            "D": "Os processos originados na Comissão de Ética devem ser obrigatoriamente submetidos ao Pleno do Tribunal de Justiça.",
+            "E": "Ao receber a representação, a Comissão de Ética adota os procedimentos estabelecidos no Código de Processo Penal."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. A representação é recebida pela Mesa Diretora e encaminhada a ambas as comissões (Ética e CCJ), ressalvados os processos originados na própria Comissão de Ética, conforme o art. 18, caput.\nB) INCORRETA. A representação é encaminhada às duas comissões permanentes indicadas na norma, segundo o art. 18, caput.\nC) INCORRETA. A decisão final sobre a perda do mandato cabe ao Plenário da Assembleia, de acordo com o art. 18, parágrafo único.\nD) INCORRETA. Os processos são apreciados no âmbito do próprio Poder Legislativo, nos termos do art. 18.\nE) INCORRETA. A comissão adota os procedimentos estabelecidos no art. 108 do Regimento Interno, conforme o art. 19.",
+          "base_legal": {
+            "dispositivo": "Art. 18, caput; Art. 19",
+            "texto": "Art. 18 - A representação contra deputado estadual por fato sujeito à pena de perda do mandato, será recebida pela Mesa Diretora, que a encaminhará à Comissão de Ética e Decoro Parlamentar e à Comissão de Constituição e Justiça, exceto os processos que tiverem origem na própria Comissão de Ética e Decoro Parlamentar.\nArt. 19 - Recebida a representação, a Comissão de Ética e Decoro Parlamentar adotará os procedimentos estabelecidos no art. 108 do Regimento Interno."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), referente às regras do processo disciplinar por conduta sujeita à perda do mandato, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "A representação por fato sujeito à perda do mandato é recebida formalmente pela Mesa Diretora.",
+            "B": "A perda do mandato será decidida pelo Plenário da Assembleia Legislativa em escrutínio secreto.",
+            "C": "A apreciação do Plenário exige o acatamento prévio da representação pela Comissão de Ética e pela Comissão de Constituição e Justiça, na forma do art. 97 da Constituição Estadual.",
+            "D": "Os processos disciplinares que tiverem origem na própria Comissão de Ética e Decoro Parlamentar devem obrigatoriamente ser reexaminados pela Mesa Diretora antes de irem às comissões.",
+            "E": "Ao receber a representação, a Comissão de Ética e Decoro Parlamentar adotará os procedimentos estabelecidos no art. 108 do Regimento Interno."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O recebimento da representação cabe à Mesa Diretora, segundo o art. 18, caput.\nB) CORRETA (opção verdadeira). A decisão sobre a perda do mandato é do Plenário, em escrutínio secreto, conforme o art. 18, parágrafo único.\nC) CORRETA (opção verdadeira). A norma condiciona a decisão do Plenário ao acatamento pelas duas Comissões, nos termos do art. 18, parágrafo único.\nD) INCORRETA (gabarito). O art. 18 excetua do encaminhamento pela Mesa os processos que tiverem origem na própria Comissão de Ética; não há reexame prévio pela Mesa.\nE) CORRETA (opção verdadeira). A comissão aplica o art. 108 do Regimento Interno, de acordo com o art. 19.",
+          "base_legal": {
+            "dispositivo": "Art. 18, caput e parágrafo único; Art. 19",
+            "texto": "Art. 18 - A representação contra deputado estadual por fato sujeito à pena de perda do mandato, será recebida pela Mesa Diretora, que a encaminhará à Comissão de Ética e Decoro Parlamentar e à Comissão de Constituição e Justiça, exceto os processos que tiverem origem na própria Comissão de Ética e Decoro Parlamentar.\nParágrafo Único - A perda do mandato será decidida pelo Plenário da Assembléia Legislativa, em escrutínio secreto, desde que acatada pela Comissão de Ética e Decoro Parlamentar e pela Comissão de Constituição e Justiça, na forma do art. 97 da Constituição Estadual.\nArt. 19 - Recebida a representação, a Comissão de Ética e Decoro Parlamentar adotará os procedimentos estabelecidos no art. 108 do Regimento Interno."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), em relação à legitimação para representar e às denúncias por descumprimento de preceitos éticos, assinale a alternativa correta:",
+          "alternativas": {
+            "A": "Denúncias anônimas são admitidas no processo disciplinar desde que instruídas com provas fotográficas.",
+            "B": "Apenas os partidos políticos com representação na Casa possuem legitimidade para representar perante a comissão.",
+            "C": "Representação por ofensa à honra de parlamentar somente pode ser formulada pelo Procurador-Geral de Justiça.",
+            "D": "O relator indicado na denúncia apura os fatos segundo os ritos do Código de Processo Civil.",
+            "E": "É facultado a qualquer deputado, autoridade, cidadão ou entidades representativas de classe representar à Comissão de Ética e Decoro Parlamentar, através de denúncia devidamente comprovada, sendo vedadas denúncias anônimas."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. É vedado expressamente o recebimento de denúncias anônimas, segundo o art. 20, § 1º.\nB) INCORRETA. A faculdade de representar estende-se a qualquer deputado, autoridade, cidadão ou entidades de classe, conforme o art. 20, caput.\nC) INCORRETA. Qualquer deputado estadual pode representar contra outro membro por ofensa à sua honra, de acordo com o art. 21.\nD) INCORRETA. A apuração dos fatos pelo relator segue os critérios do art. 108 do Regimento Interno, segundo o art. 20, § 2º.\nE) CORRETA. O diploma prevê a ampla legitimidade para representação mediante denúncia comprovada e veda expressamente denúncias anônimas, nos termos do art. 20, caput e § 1º.",
+          "base_legal": {
+            "dispositivo": "Arts. 20 e 21",
+            "texto": "Art. 20 - É facultado a qualquer deputado, autoridade, cidadão ou entidades representativas de classe, representar à Comissão de Ética e Decoro Parlamentar, através de denúncia devidamente comprovada, o descumprimento de preceitos neste Código por deputado estadual.\n§ 1° - Não serão recebidas denúncias anônimas;\n§ 2° - Recebida a denúncia, a Comissão de Ética e Decoro Parlamentar indicará relator e o promoverá a apuração dos fatos, seguindo os critérios estabelecidos no art. 108 do Regimento Interno.\nArt. 21 - Qualquer deputado estadual poderá representar à Comissão de Ética e Decoro Parlamentar contra outro membro do Poder Legislativo Estadual que o tenha ofendido em sua honra, por qualquer meio, inclusive em debates no plenário."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), a respeito do processo disciplinar, da renúncia do parlamentar e do princípio do contraditório, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "A renúncia do deputado estadual acarreta a imediata e automática interrupção do processo disciplinar em curso perante a Comissão de Ética.",
+            "B": "O processo disciplinar previsto neste Código não será interrompido com a renúncia do deputado.",
+            "C": "Em qualquer processo instaurado na Comissão de Ética e Decoro Parlamentar é assegurado o contraditório.",
+            "D": "A ampla defesa é assegurada em qualquer processo instaurado na Comissão de Ética e Decoro Parlamentar.",
+            "E": "Recebida a denúncia, a Comissão indica relator e apura os fatos segundo os critérios do art. 108 do Regimento Interno."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). A renúncia do deputado não interrompe o processo disciplinar, conforme dispõe expressamente o art. 22.\nB) CORRETA (opção verdadeira). Trata-se da regra literal insculpida no art. 22.\nC) CORRETA (opção verdadeira). O contraditório é assegurado em qualquer processo na comissão, nos termos do art. 23.\nD) CORRETA (opção verdadeira). O art. 23 assegura o contraditório e a ampla defesa em qualquer processo instaurado na Comissão.\nE) CORRETA (opção verdadeira). É o que prevê o art. 20, § 2º.",
+          "base_legal": {
+            "dispositivo": "Arts. 20, § 2º, 22 e 23",
+            "texto": "§ 2° - Recebida a denúncia, a Comissão de Ética e Decoro Parlamentar indicará relator e o promoverá a apuração dos fatos, seguindo os critérios estabelecidos no art. 108 do Regimento Interno.\nArt. 22 - O processo disciplinar previsto neste Código não será interrompido com a renúncia do deputado.\nArt. 23 - Em qualquer processo instaurado na Comissão de Ética e Decoro Parlamentar é assegurado o contraditório e a ampla defesa."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), sobre a substituição do Presidente da Comissão de Ética ou da CCJ quando imputada a eles infração às regras do Código, assinale a alternativa correta:",
+          "alternativas": {
+            "A": "Eles serão substituídos automaticamente pelos Vice-Presidentes da Mesa Diretora.",
+            "B": "A instrução processual é transferida para a Corregedoria Parlamentar da Assembleia.",
+            "C": "O processo é trancado até a eleição de uma nova comissão no biênio seguinte.",
+            "D": "A substituição é feita pelo Líder do maior bloco parlamentar da Casa.",
+            "E": "Eles serão substituídos pelos membros mais idosos, enquanto perdurarem os atos processuais, convocando-se suplente."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. A substituição é feita pelos membros mais idosos, e não pelos Vice-Presidentes da Mesa Diretora (art. 24).\nB) INCORRETA. A norma estipula a substituição interna na comissão, nos termos do art. 24.\nC) INCORRETA. O processo prossegue com o membro mais idoso assumindo a presidência e a convocação de suplente, segundo o art. 24.\nD) INCORRETA. O critério do art. 24 é a idade (membros mais idosos), e não a liderança de bloco.\nE) CORRETA. O texto estipula a substituição do Presidente da Comissão de Ética ou da CCJ pelo membro mais idoso e a convocação de suplente, nos termos do art. 24, caput e parágrafo único.",
+          "base_legal": {
+            "dispositivo": "Art. 24, caput e parágrafo único",
+            "texto": "Art. 24 - Nos casos em que a infringência das regras deste Código for imputada ao Presidente da Comissão de Ética e Decoro Parlamentar ou ao Presidente da Comissão de Constituição e Justiça, estes serão substituídos pelos membros mais idosos, enquanto perdurarem os atos processuais.\nParágrafo Único - No caso previsto neste artigo, será convocado suplente."
+          }
+        },
+        {
+          "enunciado": "Segundo a Resolução nº 11/1997 (Código de Ética e Decoro Parlamentar da ALEPA), no que se refere ao sistema de prazos fixados no diploma legal, assinale a alternativa correta:",
+          "alternativas": {
+            "A": "O relator dispõe de 15 dias úteis para parecer, a Mesa nomeia a comissão em 30 dias após a posse e a primeira comissão instala-se em 5 dias.",
+            "B": "A nomeação da comissão pela Mesa ocorre em 15 dias após a posse, o parecer do relator é oferecido em 5 dias úteis, o novo relator tem 2 dias úteis, e a comissão aprecia representações em no máximo 30 dias.",
+            "C": "O prazo máximo para a comissão apreciar representações é de 15 dias corridos, contados da autuação.",
+            "D": "O parecer do segundo relator, caso rejeitado o primeiro, deve ser oferecido no prazo de 10 dias úteis.",
+            "E": "A instalação da primeira Comissão de Ética foi fixada para 60 dias após a promulgação da Resolução."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O parecer é em 5 dias úteis (art. 11) e a nomeação em 15 dias (art. 6º, § 4º).\nB) CORRETA. Síntese exata dos prazos previstos na norma: 15 dias (art. 6º, § 4º), 5 dias úteis (art. 11), 2 dias úteis (art. 11, parágrafo único) e 30 dias (art. 13, parágrafo único).\nC) INCORRETA. O prazo máximo para apreciar representação é de 30 dias, nos termos do art. 13, parágrafo único.\nD) INCORRETA. O novo relator dispõe de 2 dias úteis para oferecer o novo parecer, segundo o art. 11, parágrafo único.\nE) INCORRETA. O prazo de instalação da primeira comissão foi de 30 dias após a publicação, de acordo com o art. 25.",
+          "base_legal": {
+            "dispositivo": "Art. 6º, § 4º; art. 11 e parágrafo único; art. 13, parágrafo único; art. 25",
+            "texto": "§ 4° - Cabe à Mesa Diretora providenciar, 15 (quinze) dias após a sua posse, a nomeação dos membros da comissão, atendendo, no que for cabível, as normas regimentais.\nArt. 11 - O prazo para o relator oferecer parecer é de 5 (cinco) dias úteis, contado do dia posterior ao do recebimento da matéria.\nParágrafo Único - Rejeitado o parecer, o presidente designará outro relator que terá o prazo de 2 (dois) dias úteis para oferecer novo parecer, refletindo a decisão contrária ao primeiro parecer.\nParágrafo Único - A comissão se obriga a apreciar em um prazo máximo de 30 (trinta) dias representação formulada por outro parlamentar, autoridade ou qualquer cidadão contra o deputado estadual.\nArt. 25 - A Primeira Comissão de Ética e Decoro Parlamentar será instalada 30 (trinta) dias após a publicação desta Resolução."
           }
         }
       ]
