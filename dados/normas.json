@@ -711,7 +711,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei11_1997_78267.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/res-11-1997.json"
     },
     {
       "id": "res-01-1999",
