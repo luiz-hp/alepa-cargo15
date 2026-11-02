@@ -293,7 +293,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei106_2012_71441.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/coordenadoria.json"
     },
     {
       "id": "dl-18-2013",
@@ -767,7 +767,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei08_2012_99737.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/coordenadoria.json"
     },
     {
       "id": "res-03-2013",
