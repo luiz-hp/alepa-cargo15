@@ -1,0 +1,249 @@
+{
+  "id": "dl-23-2022",
+  "titulo": "Decreto Legislativo nº 23, de 06 de dezembro de 2022 (Diário Oficial digital)",
+  "ementa": "Reformula o Diário Oficial da Assembleia Legislativa do Estado do Pará, instituindo a versão digital, e revoga o Decreto Legislativo nº 20/85.",
+  "fonte": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei23_2022_72934.pdf",
+  "alteracoes": [
+    "Revoga o Decreto Legislativo nº 20, de 27 de junho de 1985 (art. 8º); vigência na data da publicação (art. 9º)."
+  ],
+  "partes": [
+    {
+      "numero": 1,
+      "titulo": "Diário Oficial digital da ALEPA",
+      "artigos": "Arts. 1º a 9º",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "O **DL 23/2022** (de 06/12/2022, em vigor na publicação) reformula o **Diário Oficial da ALEPA**, órgão oficial de publicação e divulgação dos atos de interesse do Poder Legislativo, e o torna **exclusivamente digital**, no portal da Assembleia na internet. Revoga o **DL 20/1985**, que criara o Diário (art. 8º)."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Artigo",
+            "Regra",
+            "Palavra-chave"
+          ],
+          "linhas": [
+            [
+              "1º",
+              "Versão **exclusivamente digital**, no portal da ALEPA, com o nome \"Diário Oficial da Assembleia Legislativa do Estado do Pará\"",
+              "Exclusivamente digital"
+            ],
+            [
+              "2º",
+              "Publicação **semanal**, com o expediente da **semana anterior**",
+              "Semanal"
+            ],
+            [
+              "2º, parágrafo único",
+              "Data da publicação = data da **disponibilização no portal**",
+              "Disponibilização"
+            ],
+            [
+              "3º",
+              "Guarda **permanente**, com segurança de acesso, preservação e exatidão dos dados",
+              "Guarda permanente"
+            ],
+            [
+              "4º",
+              "Direitos autorais e de publicação reservados à **ALEPA**",
+              "Direitos autorais"
+            ],
+            [
+              "5º",
+              "Seções de Diário Oficial e de Diagramação vinculadas **diretamente à Secretaria Legislativa**; selecionam, diagramam e publicam conforme a Res. 05/87, sob **supervisão** da Secretaria Legislativa",
+              "Secretaria Legislativa"
+            ],
+            [
+              "6º",
+              "**Vedada** a modificação após a publicação; retificação só por **errata**",
+              "Errata"
+            ],
+            [
+              "7º",
+              "**Mesa Diretora**, por **Ato da Mesa**, designa servidores para assinar **digitalmente** (certificado **ICP-Brasil**)",
+              "Ato da Mesa"
+            ],
+            [
+              "8º e 9º",
+              "Revoga o DL 20/1985; vigência na **publicação**",
+              "Revogação"
+            ]
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "**Ligação com o DL 11/2025:** cabe à Secretaria Legislativa \"determinar a publicação de atos oficiais\" e \"providenciar a publicação de leis, decretos legislativos e resoluções no Diário Oficial\" (art. 1º, § 3º, II e X). O Anexo Único prevê um **Chefe de Seção de Diário Oficial** e um **Chefe de Seção de Diagramação**, ambos **DAS.201.2**."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) **Semanal**, sobre a **semana anterior**; não é diário. 2) Vale como data da publicação a da **disponibilização no portal**, não a da assinatura nem a do envio. 3) Erro descoberto depois de publicado: **errata**; não se altera o arquivo nem se republica a edição. 4) Quem designa os servidores que assinam é a **Mesa Diretora**, por **Ato da Mesa**; quem supervisiona as Seções é a **Secretaria Legislativa**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Nos termos do Decreto Legislativo nº 23/2022 do Estado do Pará, sobre a natureza e o formato do Diário Oficial da Assembleia Legislativa do Estado do Pará, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "O Diário Oficial da Assembleia Legislativa é o órgão oficial para publicação e divulgação dos atos oficiais de interesse do Poder Legislativo estadual.",
+            "B": "A publicação do Diário Oficial deve ser feita em formato impresso para arquivamento físico, mantendo-se a versão digital apenas como consulta secundária.",
+            "C": "O Diário Oficial passa a ser disponibilizado exclusivamente em versão digital.",
+            "D": "A versão digital do Diário Oficial fica vinculada diretamente ao portal da Assembleia Legislativa na internet.",
+            "E": "O veículo oficial possui a denominação oficial de 'DIÁRIO OFICIAL DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO PARÁ'."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O Diário Oficial é o órgão oficial para publicação dos atos de interesse do Poder Legislativo (Art. 1º).\nB) INCORRETA (gabarito). O Diário Oficial passa a ser exclusivamente em versão digital, não havendo previsão de formato impresso (Art. 1º).\nC) CORRETA (opção verdadeira). A norma estabelece expressamente que o jornal oficial passa a ser exclusivamente digital (Art. 1º).\nD) CORRETA (opção verdadeira). O Diário Oficial digital é vinculado ao portal da Assembleia Legislativa na internet (Art. 1º).\nE) CORRETA (opção verdadeira). A denominação oficial fixada pela norma é 'DIÁRIO OFICIAL DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO PARÁ' (Art. 1º).",
+          "base_legal": {
+            "dispositivo": "Art. 1º",
+            "texto": "Art. 1º O Diário Oficial da Assembleia Legislativa do Estado do Pará, órgão oficial para publicação e divulgação dos atos oficiais de interesse deste poder, previsto no Decreto Legislativo nº 20, de 27 de junho de 1985, passa a ser exclusivamente em versão digital, vinculado no portal da Assembleia Legislativa na internet com a denominação de “DIÁRIO OFICIAL DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO PARÁ”."
+          }
+        },
+        {
+          "enunciado": "Um cidadão protocolou requerimento na Assembleia Legislativa do Estado do Pará solicitando um exemplar impresso do Diário Oficial referente ao mês anterior. Ao analisar o pedido, o setor competente fundamentou o indeferimento com base no Decreto Legislativo nº 23/2022. Assinale a alternativa que apresenta a fundamentação jurídica CORRETA para a decisão do setor:",
+          "alternativas": {
+            "A": "O Diário Oficial impresso foi suspenso temporariamente, devendo ser fornecido mediante cópia reprográfica paga pelo requerente.",
+            "B": "A versão impressa do Diário Oficial é restrita à circulação interna entre os Deputados Estaduais e servidores da Casa.",
+            "C": "O Diário Oficial impresso exige prévio cadastramento do cidadão junto à Secretaria Administrativa da Assembleia Legislativa.",
+            "D": "O Diário Oficial da Assembleia Legislativa passa a ser disponibilizado exclusivamente em versão digital, vinculado ao portal do Poder Legislativo na internet.",
+            "E": "A publicação de atos oficiais impressos cabe exclusivamente ao Poder Executivo estadual por meio do Diário Oficial do Estado do Pará."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. A norma não prevê suspensão temporária nem fornecimento pago de versão impressa, mas sim a migração exclusiva para o formato digital (Art. 1º).\nB) INCORRETA. Não há previsão de versão impressa restrita à circulação interna; o Diário Oficial é exclusivamente digital (Art. 1º).\nC) INCORRETA. Não há requisito de cadastramento nem circulação impressa gerida pela Secretaria Administrativa (Art. 1º).\nD) CORRETA. Conforme o Art. 1º, o Diário Oficial passa a ser exclusivamente em versão digital, vinculado no portal da Assembleia Legislativa na internet.\nE) INCORRETA. A ALEPA possui seu próprio órgão oficial exclusivamente digital para divulgação de seus atos oficiais de interesse (Art. 1º).",
+          "base_legal": {
+            "dispositivo": "Art. 1º",
+            "texto": "Art. 1º O Diário Oficial da Assembleia Legislativa do Estado do Pará, órgão oficial para publicação e divulgação dos atos oficiais de interesse deste poder, previsto no Decreto Legislativo nº 20, de 27 de junho de 1985, passa a ser exclusivamente em versão digital, vinculado no portal da Assembleia Legislativa na internet com a denominação de “DIÁRIO OFICIAL DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO PARÁ”."
+          }
+        },
+        {
+          "enunciado": "Em relação à periodicidade de publicação e aos critérios temporais do Diário Oficial da Assembleia Legislativa do Estado do Pará, nos termos do Decreto Legislativo nº 23/2022, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "O Diário Oficial da Assembleia Legislativa do Estado do Pará será publicado diariamente, de segunda a sexta-feira, com referência ao expediente do dia anterior.",
+            "B": "A periodicidade de publicação do Diário Oficial da Assembleia Legislativa é semanal.",
+            "C": "A edição semanal do Diário Oficial é publicada com referência ao expediente da semana anterior na Assembleia Legislativa.",
+            "D": "Considera-se como data da publicação a data de disponibilização do Diário Oficial no portal da Assembleia Legislativa na internet.",
+            "E": "A data da publicação é a da disponibilização no portal, e não a da assinatura digital da edição."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O Diário Oficial será publicado semanalmente com referência ao expediente da semana anterior, e não diariamente (Art. 2º).\nB) CORRETA (opção verdadeira). O caput do Art. 2º estabelece expressamente a periodicidade semanal da publicação.\nC) CORRETA (opção verdadeira). O conteúdo do Diário Oficial faz referência ao expediente realizado na semana anterior (Art. 2º).\nD) CORRETA (opção verdadeira). O parágrafo único do Art. 2º define que a data da publicação é a data de disponibilização no portal na internet.\nE) CORRETA (opção verdadeira). O parágrafo único do Art. 2º fixa como data da publicação a da disponibilização no portal.",
+          "base_legal": {
+            "dispositivo": "Art. 2º",
+            "texto": "Art. 2º O Diário Oficial da Assembleia Legislativa do Estado do Pará, será publicado semanalmente com referência ao expediente da semana anterior na Assembleia Legislativa.\nParágrafo único. Considera-se como data da publicação a data de disponibilização do Diário Oficial da Assembleia Legislativa do Estado do Pará no portal da Assembleia Legislativa na internet."
+          }
+        },
+        {
+          "enunciado": "Determinada edição do Diário Oficial da Assembleia Legislativa do Estado do Pará continha matérias do expediente trabalhado entre os dias 5 e 9 de determinado mês. A edição foi assinada digitalmente pelos servidores responsáveis no dia 12 (segunda-feira), enviada ao sistema no dia 13 (terça-feira) e efetivamente disponibilizada no portal da ALEPA na internet no dia 14 (quarta-feira). De acordo com o Decreto Legislativo nº 23/2022, a data oficial de publicação dessa edição é o dia:",
+          "alternativas": {
+            "A": "5, correspondente ao primeiro dia do expediente de referência.",
+            "B": "12, correspondente à data em que foi realizada a assinatura digital da edição.",
+            "C": "14, correspondente à data em que ocorreu a disponibilização no portal da Assembleia Legislativa na internet.",
+            "D": "13, correspondente ao dia do envio dos arquivos eletrônicos ao servidor do sistema.",
+            "E": "16, correspondente ao término do prazo legal de disponibilização semanal."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. A data do início do expediente de referência não define a data oficial de publicação (Art. 2º, parágrafo único).\nB) INCORRETA. A data da assinatura digital não se confunde com a data legal da publicação (Art. 2º, parágrafo único).\nC) CORRETA. O parágrafo único do Art. 2º estabelece expressamente que considera-se como data da publicação a data de disponibilização do Diário Oficial no portal da Assembleia Legislativa na internet.\nD) INCORRETA. A data de envio ao sistema eletrônico não é o marco legal fixado para a publicação (Art. 2º, parágrafo único).\nE) INCORRETA. A lei fixa a data de publicação estritamente no momento da disponibilização no portal (Art. 2º, parágrafo único).",
+          "base_legal": {
+            "dispositivo": "Art. 2º",
+            "texto": "Art. 2º O Diário Oficial da Assembleia Legislativa do Estado do Pará, será publicado semanalmente com referência ao expediente da semana anterior na Assembleia Legislativa.\nParágrafo único. Considera-se como data da publicação a data de disponibilização do Diário Oficial da Assembleia Legislativa do Estado do Pará no portal da Assembleia Legislativa na internet."
+          }
+        },
+        {
+          "enunciado": "Sobre as regras relativas ao arquivamento, segurança dos dados e direitos de propriedade intelectual do Diário Oficial da Assembleia Legislativa do Estado do Pará, estipuladas nos artigos 3º e 4º do Decreto Legislativo nº 23/2022, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "As publicações do Diário Oficial da Assembleia Legislativa do Estado do Pará serão de guarda permanente.",
+            "B": "O arquivamento das edições digitais deve ser protegido por sistemas de segurança de acesso.",
+            "C": "O armazenamento das publicações deve ocorrer de maneira a garantir a preservação e a exatidão dos dados.",
+            "D": "Os direitos autorais e de publicação do Diário Oficial ficam reservados à Assembleia Legislativa do Estado do Pará.",
+            "E": "As publicações do Diário Oficial possuem guarda temporária pelo prazo de 5 anos, findo o qual as edições digitais podem ser descartadas do servidor."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O Art. 3º determina explicitamente que as publicações serão de guarda permanente para fins de arquivamento.\nB) CORRETA (opção verdadeira). O Art. 3º prevê que as publicações devem ser protegidas por sistemas de segurança de acesso.\nC) CORRETA (opção verdadeira). A norma exige armazenamento que garanta a preservação e a exatidão dos dados (Art. 3º).\nD) CORRETA (opção verdadeira). O Art. 4º estabelece que ficam reservados à Assembleia Legislativa os direitos autorais e de publicação do Diário Oficial.\nE) INCORRETA (gabarito). O Art. 3º disciplina que as publicações são de guarda permanente, sendo incorreta a afirmação de guarda temporária por 5 anos com posterior descarte.",
+          "base_legal": {
+            "dispositivo": "Arts. 3º e 4º",
+            "texto": "Art. 3º As publicações do Diário Oficial da Assembleia Legislativa do Estado do Pará serão de guarda permanente, para fins de arquivamento, protegidas por sistemas de segurança de acesso e armazenadas de maneira a garantir a preservação e exatidão dos dados.\nArt. 4º Ficam reservados a Assembleia Legislativa do Estado do Pará os direitos autorais e de publicação do Diário Oficial da Assembleia Legislativa do Estado do Pará."
+          }
+        },
+        {
+          "enunciado": "De acordo com o disposto no artigo 5º do Decreto Legislativo nº 23/2022 do Estado do Pará, as Seções de Diário Oficial e de Diagramação passam a ser vinculadas diretamente a qual órgão do Poder Legislativo?",
+          "alternativas": {
+            "A": "À Secretaria Administrativa da Assembleia Legislativa.",
+            "B": "À Secretaria Legislativa deste Poder Legislativo.",
+            "C": "À Presidência da Assembleia Legislativa.",
+            "D": "À Assessoria de Comunicação Social da Casa.",
+            "E": "À Mesa Diretora do Poder Legislativo Estadual."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. As Seções não foram vinculadas à Secretaria Administrativa, mas sim à Secretaria Legislativa (Art. 5º).\nB) CORRETA. O Art. 5º dispõe expressamente que 'As Seções de Diário Oficial e Diagramação passam a ser vinculadas diretamente à Secretaria Legislativa deste Poder Legislativo'.\nC) INCORRETA. A vinculação direta estipulada pela norma é com a Secretaria Legislativa, e não com a Presidência (Art. 5º).\nD) INCORRETA. Não há qualquer menção de vinculação das referidas Seções à Assessoria de Comunicação Social (Art. 5º).\nE) INCORRETA. A vinculação direta das Seções ocorre perante a Secretaria Legislativa (Art. 5º).",
+          "base_legal": {
+            "dispositivo": "Art. 5º",
+            "texto": "Art. 5º As Seções de Diário Oficial e Diagramação passam a ser vinculadas diretamente à Secretaria Legislativa deste Poder Legislativo.\nParágrafo Único. A seleção das matérias, a diagramação e a publicação do Diário Oficial da Assembleia Legislativa do Estado do Pará ficarão sob a responsabilidade das Seções de Diagramação e Diário Oficial, de acordo com que dispõe a Resolução nº 05/87, com a supervisão da Secretaria Legislativa do Poder Legislativo Estadual."
+          }
+        },
+        {
+          "enunciado": "Quanto às responsabilidades operacionais de seleção das matérias, diagramação, publicação e supervisão do Diário Oficial da ALEPA, nos termos do parágrafo único do artigo 5º do Decreto Legislativo nº 23/2022, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "A seleção das matérias a serem publicadas no Diário Oficial fica sob a responsabilidade das Seções de Diagramação e Diário Oficial.",
+            "B": "A diagramação do Diário Oficial é de responsabilidade das Seções de Diagramação e Diário Oficial.",
+            "C": "A execução das tarefas de publicação observa o que dispõe a Resolução nº 05/87.",
+            "D": "A supervisão direta dos trabalhos de seleção, diagramação e publicação do Diário Oficial compete à Secretaria Administrativa.",
+            "E": "A supervisão de todo o processo de edição do Diário Oficial cabe à Secretaria Legislativa do Poder Legislativo Estadual."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O parágrafo único do Art. 5º atribui às Seções de Diagramação e Diário Oficial a responsabilidade pela seleção das matérias.\nB) CORRETA (opção verdadeira). A diagramação do Diário Oficial fica a cargo das Seções de Diagramação e Diário Oficial (Art. 5º, parágrafo único).\nC) CORRETA (opção verdadeira). A norma estabelece que a responsabilidade das Seções ocorre de acordo com o disposto na Resolução nº 05/87 (Art. 5º, parágrafo único).\nD) INCORRETA (gabarito). A supervisão do processo compete à Secretaria Legislativa, e não à Secretaria Administrativa (Art. 5º, parágrafo único).\nE) CORRETA (opção verdadeira). O parágrafo único do Art. 5º prevê expressamente a supervisão da Secretaria Legislativa do Poder Legislativo Estadual.",
+          "base_legal": {
+            "dispositivo": "Art. 5º",
+            "texto": "Art. 5º As Seções de Diário Oficial e Diagramação passam a ser vinculadas diretamente à Secretaria Legislativa deste Poder Legislativo.\nParágrafo Único. A seleção das matérias, a diagramação e a publicação do Diário Oficial da Assembleia Legislativa do Estado do Pará ficarão sob a responsabilidade das Seções de Diagramação e Diário Oficial, de acordo com que dispõe a Resolução nº 05/87, com a supervisão da Secretaria Legislativa do Poder Legislativo Estadual."
+          }
+        },
+        {
+          "enunciado": "Após a publicação de determinada edição do Diário Oficial da Assembleia Legislativa do Estado do Pará, a equipe técnica identificou um erro de digitação no texto de um ato oficial já divulgado. O chefe da Seção de Diagramação sugeriu reabrir o arquivo digital original da edição no sistema para alterar diretamente a palavra incorreta. Diante das normas do Decreto Legislativo nº 23/2022, a conduta sugerida é:",
+          "alternativas": {
+            "A": "Ilegal, pois é vedada qualquer modificação no conteúdo do Diário Oficial após sua publicação, devendo a retificação ser realizada por meio de errata.",
+            "B": "Legal, desde que a alteração direta no arquivo publicado seja autorizada por portaria do Secretário Legislativo.",
+            "C": "Legal, haja vista que a versão digital permite edição em tempo real sem necessidade de formalização suplementar.",
+            "D": "Ilegal, devendo a edição inteira ser anulada e republicada integralmente com nova numeração.",
+            "E": "Legal, desde que a modificação ocorra dentro do prazo de até 24 horas contadas da disponibilização no portal."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O Art. 6º dispõe que fica vedada a modificação no conteúdo do Diário Oficial após a sua publicação e que qualquer retificação deverá ser feita por meio de errata.\nB) INCORRETA. A vedação de alteração direta no conteúdo publicado é absoluta; nem mesmo autorização por portaria pode contorná-la (Art. 6º).\nC) INCORRETA. O formato digital não autoriza a alteração do conteúdo já publicado (Art. 6º).\nD) INCORRETA. A norma não exige a anulação total da edição, mas sim a emissão de errata para proceder à retificação (Art. 6º).\nE) INCORRETA. Não há prazo de tolerância para modificação direta no texto já publicado no Diário Oficial (Art. 6º).",
+          "base_legal": {
+            "dispositivo": "Art. 6º",
+            "texto": "Art. 6º Fica vedada a modificação no conteúdo do Diário Oficial da Assembleia Legislativa do Estado do Pará após a sua publicação e, qualquer retificação deverá ser feita por meio de errata."
+          }
+        },
+        {
+          "enunciado": "Nos termos do artigo 7º do Decreto Legislativo nº 23/2022 do Estado do Pará, a assinatura digital do Diário Oficial da Assembleia Legislativa obedece a regras específicas. A esse respeito, assinale a alternativa CORRETA:",
+          "alternativas": {
+            "A": "A assinatura digital é realizada individualmente pelo Presidente da Assembleia Legislativa por meio de portaria pessoal.",
+            "B": "Qualquer servidor lotado na Secretaria Legislativa pode assinar a edição digital, independentemente de designação formal.",
+            "C": "A assinatura digital dispensa o uso de certificados credenciados pela Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).",
+            "D": "A designação dos servidores para a assinatura digital do Diário Oficial é feita pelo Secretário Administrativo mediante ordem de serviço.",
+            "E": "A Mesa Diretora, por meio de Ato da Mesa, designará servidores para assinarem digitalmente a edição digital, atrelados à competência funcional e com certificação digital emitida por autoridade credenciada pela ICP-Brasil."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. A designação dos servidores ocorre por Ato da Mesa Diretora, e não por decisão individual do Presidente (Art. 7º).\nB) INCORRETA. A assinatura exige prévia designação de servidores atrelada à competência funcional (Art. 7º).\nC) INCORRETA. A norma exige obrigatoriamente a utilização de certificação digital emitida por autoridade certificadora credenciada pela ICP-Brasil (Art. 7º).\nD) INCORRETA. A competência para designar os servidores é da Mesa Diretora via Ato da Mesa, e não do Secretário Administrativo (Art. 7º).\nE) CORRETA. O Art. 7º estabelece que 'A Mesa Diretora por meio de Ato da Mesa designara servidores para assinarem digitalmente, em nome da Assembleia Legislativa, a edição digital, atrelados à competência funcional, baseados nas normas da Certificação digital emitida por autoridade certificadora credenciada pela ICP – Brasil'.",
+          "base_legal": {
+            "dispositivo": "Art. 7º",
+            "texto": "Art. 7º A Mesa Diretora por meio de Ato da Mesa designara servidores para assinarem digitalmente, em nome da Assembleia Legislativa, a edição digital, atrelados à competência funcional, baseados nas normas da Certificação digital emitida por autoridade certificadora credenciada pela ICP – Brasil."
+          }
+        },
+        {
+          "enunciado": "Quanto à revogação de normas anteriores e ao início da vigência do Decreto Legislativo nº 23/2022 do Estado do Pará, assinale a alternativa CORRETA:",
+          "alternativas": {
+            "A": "O Decreto Legislativo nº 23/2022 entrou em vigor 45 dias após a sua publicação oficial, em razão do prazo geral de vacatio legis.",
+            "B": "O Decreto Legislativo nº 20, de 27 de junho de 1985, permanece em vigor de forma subsidiária para reger publicações impressas remanescentes.",
+            "C": "O Decreto Legislativo nº 23/2022 revogou expressamente o Decreto Legislativo nº 20, de 27 de junho de 1985, e entrou em vigor na data de sua publicação.",
+            "D": "A revogação do Decreto Legislativo nº 20/1985 ocorrerá somente após ato regulamentar da Secretaria Legislativa.",
+            "E": "O Decreto Legislativo nº 23/2022 estabelece prazo de vacatio legis de 180 dias para adaptação tecnológica do portal da ALEPA."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O Art. 9º fixa a vigência na data da publicação.\nB) INCORRETA. O Decreto Legislativo nº 20/1985 foi totalmente revogado pelo Art. 8º do Decreto Legislativo nº 23/2022.\nC) CORRETA. Os artigos 8º e 9º dispõem, respectivamente, que fica revogado o Decreto Legislativo nº 20/1985 e que o Decreto Legislativo nº 23/2022 entra em vigor na data de sua publicação.\nD) INCORRETA. A revogação é expressa e imediata, operada diretamente pelo artigo 8º da norma.\nE) INCORRETA. A lei entra em vigor na data de sua publicação (Art. 9º), sem previsão de vacatio legis de 180 dias.",
+          "base_legal": {
+            "dispositivo": "Arts. 8º e 9º",
+            "texto": "Art. 8º Fica revogado o Decreto Legislativo nº 20, de 27 de junho de 1985.\nArt. 9º - Este Decreto Legislativo entra em vigor na data de sua publicação."
+          }
+        }
+      ]
+    }
+  ]
+}
