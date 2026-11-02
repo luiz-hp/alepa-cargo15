@@ -517,7 +517,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei12_2025_17388.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-12-2025.json"
     },
     {
       "id": "dl-13-2025",
