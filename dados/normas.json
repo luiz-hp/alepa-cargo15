@@ -879,7 +879,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei02_2023_26934.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/res-02-2023.json"
     },
     {
       "id": "res-01-2025",
