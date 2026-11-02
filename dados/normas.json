@@ -447,7 +447,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei23_2022_72934.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-23-2022.json"
     },
     {
       "id": "dl-05-2023",
