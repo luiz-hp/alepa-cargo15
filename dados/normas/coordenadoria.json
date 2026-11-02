@@ -5,13 +5,12 @@
   "fonte": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei106_2012_71441.pdf",
   "alteracoes": [
     "Art. 7º do DL 106/2012 revogado pelo art. 23 do DL 35/2015; a gratificação nele prevista foi incorporada ao vencimento base (DL 35/2015, art. 10, V).",
-    "Esta página reúne o DL 106/2012 e a Resolução nº 08/2012, que aprova o Regimento Interno da Coordenadoria.",
-    "Parte 2 (Regimento Interno, Res. 08/2012) em preparação."
+    "Esta página reúne o DL 106/2012 e a Resolução nº 08/2012, que aprova o Regimento Interno da Coordenadoria."
   ],
   "partes": [
     {
       "numero": 1,
-      "titulo": "Criação da Coordenadoria Técnico-Legislativa (DL 106/2012)",
+      "titulo": "Criação da Coordenadoria Técnico-Legislativa",
       "artigos": "DL 106/2012, arts. 1º a 10",
       "resumo": [
         {
@@ -223,6 +222,332 @@
           "base_legal": {
             "dispositivo": "Arts. 8º a 10",
             "texto": "Art. 8° A Mesa Diretora da Assembleia Legislativa do Estado do Pará disponibilizará a devida estrutura física e recursos financeiros e humanos necessários à efetiva operacionalização do Órgão.\nArt. 9° As despesas decorrentes deste Decreto Legislativo ocorrerão à conta das dotações orçamentárias próprias do Poder Legislativo, obedecendo aos limites impostos pela Lei de Responsabilidade Fiscal - LRF.\nArt. 10. Este Decreto Legislativo entra em vigor na data da sua publicação."
+          }
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Regimento Interno da Coordenadoria",
+      "artigos": "Res. 08/2012 e Regimento Interno, arts. 1º a 17",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A **Resolução nº 08/2012** (de 24/10/2012, em vigor na publicação) aprova o **Regimento Interno da Coordenadoria Técnico-Legislativa**. Pelo art. 1º do Regimento, a Coordenadoria é **órgão colegiado de assessoramento legislativo superior**, subordinado **diretamente à Presidência**, composto pelos **Técnicos Legislativos** efetivos e pelo **Coordenador**, e auxiliado pelo **pessoal de apoio** (art. 2º)."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "**Técnicos Legislativos (art. 3º):** assessoram a Presidência, a Mesa e os Parlamentares (art. 90, parágrafo único, da Constituição do Estado); os demais setores e as Comissões, **quando solicitado**; propõem medidas internas ao Coordenador. Atuam **individualmente** ou **em conjunto, através do Colegiado**.",
+            "**Coordenador (arts. 4º a 6º):** livre nomeação e exoneração pelo **Presidente**, dentre Técnicos **efetivos**. Entre as 8 competências: submeter ao **Colegiado** os pareceres de que discordar; **avocar** processos **ainda que já distribuídos**; convocar e presidir as reuniões; requerer ao Departamento de Gestão de Pessoas o pessoal de apoio. Nas férias, licença ou impedimento, é substituído por Técnico **indicado antecipadamente por ele** e **referendado pelo Presidente**.",
+            "**Pessoal de apoio (art. 7º):** protocolo, digitação, distribuição e arquivamento, além de tarefas correlatas a critério do Coordenador.",
+            "**Atividades (art. 8º):** são **16**, entre elas assessorar a elaboração das **Leis Orçamentárias**, as **CPIs**, os membros da **UNALE** e revisar documentos **a requerimento**. **Exclusivas (art. 9º):** só **2**, a Ouvidoria Legislativa e as atas e pautas das Comissões Técnicas Permanentes e Temporárias."
+          ]
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Regra do Colegiado",
+            "Como funciona",
+            "Artigo"
+          ],
+          "linhas": [
+            [
+              "Composição",
+              "**Todos** os Técnicos Legislativos, ainda que lotados em outros setores ou gabinetes; **cedidos** ficam fora **temporariamente**",
+              "10"
+            ],
+            [
+              "Convocação",
+              "Antecedência mínima de **2 dias úteis**, com aviso e pauta afixados na sala; prazo menor em urgência **formalmente justificada**",
+              "11"
+            ],
+            [
+              "Presidência",
+              "Na ausência **justificada** do Coordenador, o Técnico **mais idoso presente**",
+              "12"
+            ],
+            [
+              "Voto",
+              "Todos os presentes votam; o Coordenador tem voto **de qualidade**, só no **empate**",
+              "13"
+            ],
+            [
+              "Quórum",
+              "**Maioria simples** e quórum de **um quinto**, salvo disposição em contrário",
+              "13, parágrafo único"
+            ],
+            [
+              "Competências",
+              "Ratificar ou modificar pareceres; dirimir conflitos (doutrina e jurisprudência); propor **à Mesa Diretora** a reforma do Regimento",
+              "14"
+            ],
+            [
+              "Secretário e atas",
+              "Técnico designado pelo Coordenador **antes do início**; atas sucintas, assinadas pelo Coordenador e pelos participantes",
+              "15"
+            ],
+            [
+              "Vista",
+              "**2 dias**; havendo divergência, parecer; decisão na **reunião seguinte**",
+              "16"
+            ],
+            [
+              "Urgência",
+              "Decidida pela maioria: próxima reunião em **24 horas**",
+              "16, parágrafo único"
+            ],
+            [
+              "Omissões",
+              "Resolvidas pelo Colegiado, por maioria simples e quórum de um quinto",
+              "17"
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) **Substituto do Coordenador** (férias, licença, impedimento): indicado por ele e referendado pelo Presidente. **Quem preside a reunião** na ausência justificada do Coordenador: o Técnico mais idoso presente. 2) **Vista** de 2 **dias**; **convocação** com 2 dias **úteis**; **urgência** em 24 horas. 3) O Regimento diz \"subordinada **diretamente** à Presidência\"; o DL 106/2012, só \"subordinada à Presidência\". 4) O \"Departamento de Gestão de Pessoas\" do art. 5º, VII, hoje é a **Diretoria de Gestão de Pessoas** (DL 11/2025, art. 14)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Nos termos da Resolução nº 08/2012 e dos artigos 1º e 2º do Regimento Interno da Coordenadoria Técnico-Legislativa anexo, assinale a alternativa CORRETA a respeito da aprovação, natureza e composição desse órgão:",
+          "alternativas": {
+            "A": "A Resolução nº 08/2012 aprovou o Regimento Interno da Coordenadoria Técnico-Legislativa, a qual é subordinada diretamente à Presidência da ALEPA.",
+            "B": "A Coordenadoria Técnico-Legislativa é um órgão subordinado hierarquicamente à Mesa Diretora da ALEPA, composto exclusivamente por cargos em comissão.",
+            "C": "O Regimento Interno estabelece que a Coordenadoria é uma comissão temporária de fiscalização vinculada ao Tribunal de Contas.",
+            "D": "A Coordenadoria Técnico-Legislativa é administrativamente auxiliada em seu expediente interno por consultores contratados por licitação pública.",
+            "E": "O órgão é composto por parlamentares estaduais eleitos e subordinado à Diretoria Geral da ALEPA."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 1º da Resolução aprova o Regimento, e o art. 1º do Regimento subordina a Coordenadoria diretamente à Presidência.\nB) INCORRETA. O art. 1º do Regimento prevê a subordinação direta à Presidência, e não à Mesa Diretora, além de ser composto por Técnicos Legislativos efetivos e o Coordenador.\nC) INCORRETA. O art. 1º do Regimento a define como órgão colegiado de assessoramento legislativo superior, subordinado diretamente à Presidência; não há vínculo com o Tribunal de Contas.\nD) INCORRETA. O art. 2º do Regimento estipula que a unidade é auxiliada administrativamente pelo pessoal de apoio.\nE) INCORRETA. É composta por Técnicos Legislativos efetivos e pelo Coordenador, subordinada à Presidência da ALEPA.",
+          "base_legal": {
+            "dispositivo": "Resolução nº 08/2012, art. 1º; Regimento Interno, arts. 1º e 2º",
+            "texto": "Art. 1° Fica aprovado o Regimento Interno da Coordenadoria Técnico-Legislativa, anexo a esta Resolução.\nArt. 1° A Coordenadoria Técnico-Legislativa, órgão colegiado de assessoramento legislativo superior é subordinada diretamente à Presidência da Assembléia Legislativa do Estado do Pará e é composta por Técnicos Legislativos, profissionais de diversos ramos do conhecimento científico, servidores do Quadro de Provimento Efetivo da Casa e pelo Coordenador Técnico-Legislativo.\nArt. 2° A Coordenadoria Técnico-Legislativa será administrativamente auxiliada em seu expediente interno pelo pessoal de apoio."
+          }
+        },
+        {
+          "enunciado": "Acerca das competências dos Técnicos Legislativos fixadas no art. 3º do Regimento Interno da Coordenadoria Técnico-Legislativa, aprovado pela Resolução nº 08/2012, assinale a alternativa CORRETA:",
+          "alternativas": {
+            "A": "É proibido aos Técnicos Legislativos propor ao Coordenador Técnico-Legislativo qualquer tipo de medida interna de trabalho.",
+            "B": "Compete aos Técnicos Legislativos prestar assessoramento técnico aos demais setores e Comissões Técnicas Permanentes, Temporárias e Especiais da Casa quando solicitado.",
+            "C": "O assessoramento técnico à Presidência prescinde de amparo na Constituição do Estado do Pará.",
+            "D": "Os Técnicos Legislativos atuam apenas individualmente, sendo vedado o desempenho de atividades em conjunto através do Colegiado.",
+            "E": "Aos Técnicos Legislativos compete privativamente homologar certames licitatórios promovidos pela Presidência da Casa."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O inciso III do art. 3º garante a faculdade de propor ao Coordenador medidas internas pertinentes.\nB) CORRETA. O inciso II do art. 3º do Regimento estabelece a competência de prestar assessoramento técnico aos demais setores e Comissões da Casa quando solicitado.\nC) INCORRETA. O inciso I do art. 3º fundamenta o assessoramento no art. 90, Parágrafo único da Constituição do Estado.\nD) INCORRETA. O parágrafo único do art. 3º prevê o desempenho individual ou em conjunto, através do Colegiado.\nE) INCORRETA. Homologar licitações não consta do art. 3º.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, art. 3º",
+            "texto": "Art. 3° Aos Técnicos Legislativos compete sem prejuízo das demais atribuições do cargo previstas em normas internas da Casa:\nI - prestar assessoramento técnico à Presidência, à Mesa Diretora e aos Parlamentares da ALEPA nos termos do art. 90, Parágrafo único da Constituição do Estado;\nII - prestar assessoramento técnico aos demais setores e Comissões Técnicas Permanentes, Temporárias e Especiais da Casa quando solicitado;\nIII - propor ao Coordenador Técnico-Legislativo medidas internas quando pertinentes para o melhor desenvolvimento dos trabalhos da Coordenadoria Técnico-Legislativa;\nIV - exercer outras atribuições e atividades necessárias e compatíveis ao desempenho do cargo.\nParágrafo único. Os Técnicos Legislativos desempenharão suas atividades de assessoramento individualmente junto à Coordenadoria Técnico-Legislativa, às Comissões Técnicas, Permanentes, Temporárias e Especiais, aos setores e aos gabinetes da Casa ou em conjunto, através do Colegiado."
+          }
+        },
+        {
+          "enunciado": "Mariana, servidora ocupante do cargo de Técnico Legislativo da ALEPA, foi designada para prestar assessoramento a uma Comissão Especial da Casa. Considerando as regras do Regimento Interno da Coordenadoria Técnico-Legislativa, aprovado pela Resolução nº 08/2012, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "Mariana pode prestar assessoramento técnico à Comissão Especial quando for solicitado.",
+            "B": "Mariana desempenhará suas atividades de assessoramento individualmente ou em conjunto, através do Colegiado.",
+            "C": "Por estar lotada em uma Comissão, Mariana deixa de integrar o Colegiado da Coordenadoria Técnico-Legislativa.",
+            "D": "Mariana deve exercer atribuições compatíveis com o desempenho do seu cargo de Técnico Legislativo.",
+            "E": "Mariana presta assessoramento técnico à Presidência nos termos do art. 90, Parágrafo único da Constituição do Estado."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 3º, II, prevê expressamente o assessoramento às Comissões Temporárias e Especiais quando solicitado.\nB) CORRETA (opção verdadeira). O parágrafo único do art. 3º prevê o desempenho individual ou em conjunto através do Colegiado.\nC) INCORRETA (gabarito). O art. 10 inclui no Colegiado todos os Técnicos Legislativos, ainda que lotados em outros setores ou gabinetes; só os cedidos a outros órgãos ou Poderes ficam excluídos, temporariamente.\nD) CORRETA (opção verdadeira). O art. 3º, IV, exige a execução de atribuições necessárias e compatíveis com o cargo.\nE) CORRETA (opção verdadeira). O art. 3º, I, contempla o assessoramento nos termos da Constituição Estadual.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, arts. 3º e 10",
+            "texto": "Art. 3° Aos Técnicos Legislativos compete sem prejuízo das demais atribuições do cargo previstas em normas internas da Casa:\nI - prestar assessoramento técnico à Presidência, à Mesa Diretora e aos Parlamentares da ALEPA nos termos do art. 90, Parágrafo único da Constituição do Estado;\nII - prestar assessoramento técnico aos demais setores e Comissões Técnicas Permanentes, Temporárias e Especiais da Casa quando solicitado;\nIII - propor ao Coordenador Técnico-Legislativo medidas internas quando pertinentes para o melhor desenvolvimento dos trabalhos da Coordenadoria Técnico-Legislativa;\nIV - exercer outras atribuições e atividades necessárias e compatíveis ao desempenho do cargo.\nParágrafo único. Os Técnicos Legislativos desempenharão suas atividades de assessoramento individualmente junto à Coordenadoria Técnico-Legislativa, às Comissões Técnicas, Permanentes, Temporárias e Especiais, aos setores e aos gabinetes da Casa ou em conjunto, através do Colegiado.\nArt. 10. O colegiado da Coordenadoria Técnico-Legislativa é composto por todos os Técnicos Legislativos, ainda que lotados em outros setores ou gabinetes parlamentares. Parágrafo único. Ficam excluídos temporariamente do colegiado, os Técnicos Legislativos cedidos a outros órgãos ou poderes durante o período que durar a cessão."
+          }
+        },
+        {
+          "enunciado": "Sobre a investidura no cargo de Coordenador Técnico-Legislativo conforme o art. 4º do Regimento Interno da Coordenadoria Técnico-Legislativa, aprovado pela Resolução nº 08/2012, assinale a alternativa CORRETA:",
+          "alternativas": {
+            "A": "O Coordenador é submetido à aprovação prévia em sabatina pública perante o Plenário da ALEPA.",
+            "B": "O cargo de Coordenador pode ser preenchido por qualquer cidadão que possua nível superior completo.",
+            "C": "O Coordenador é eleito pelo voto direto dos Técnicos Legislativos efetivos para mandato de dois anos.",
+            "D": "O cargo de Coordenador é de livre nomeação e exoneração pelo Presidente da ALEPA dentre ocupantes do cargo de Técnico Legislativo do Quadro Efetivo.",
+            "E": "O provimento do cargo de Coordenador é realizado mediante portaria assinada pelo Governador do Estado."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 4º não prevê sabatina: o cargo é de livre nomeação e exoneração pelo Presidente da ALEPA.\nB) INCORRETA. Exige-se indispensavelmente que o nomeado seja servidor ocupante do cargo de Técnico Legislativo efetivo.\nC) INCORRETA. Não há previsão de eleição ou mandato estipulado no dispositivo.\nD) CORRETA. O art. 4º do Regimento preconiza que o cargo é de livre nomeação e exoneração pelo Presidente da ALEPA dentre ocupantes do cargo de Técnico Legislativo do Quadro de Provimento Efetivo.\nE) INCORRETA. A nomeação é ato do Presidente da ALEPA e não do Governador.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, art. 4º",
+            "texto": "Art. 4° O cargo de Coordenador Técnico-Legislativo será de livre nomeação e exoneração pelo Presidente da ALEPA dentre ocupantes do cargo de Técnico Legislativo do Quadro de Provimento Efetivo."
+          }
+        },
+        {
+          "enunciado": "De acordo com o elenco de atribuições do Coordenador Técnico-Legislativo estipulado no art. 5º do Regimento Interno, aprovado pela Resolução nº 08/2012, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "Compete ao Coordenador planejar, coordenar, orientar, supervisionar e controlar as atividades dos Técnicos Legislativos lotados na Unidade.",
+            "B": "Compete ao Coordenador representar a Coordenadoria Técnico-Legislativa perante a Assembleia Legislativa e outras Instituições.",
+            "C": "Compete ao Coordenador avocar processos e expedientes, ainda que já distribuídos.",
+            "D": "Compete ao Coordenador requerer ao Departamento de Gestão de Pessoas a lotação de pessoal de apoio na Coordenadoria e a sua devolução.",
+            "E": "Compete ao Coordenador alterar unilateralmente a tabela remuneratória dos servidores efetivos da ALEPA."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O inciso I do art. 5º confere a gestão e supervisão dos Técnicos lotados na unidade ao Coordenador.\nB) CORRETA (opção verdadeira). O inciso II do art. 5º estabelece a representação institucional da Coordenadoria.\nC) CORRETA (opção verdadeira). O inciso IV do art. 5º atribui a competência de avocar processos e expedientes já distribuídos.\nD) CORRETA (opção verdadeira). O inciso VII do art. 5º prevê a requisição e devolução do pessoal de apoio ao DGP.\nE) INCORRETA (gabarito). Alterar tabela remuneratória não consta das competências do Coordenador no art. 5º.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, art. 5º",
+            "texto": "Art. 5° Compete ao Coordenador Técnico-Legislativo:\nI - planejar, coordenar, orientar, supervisionar e controlar as atividades dos Técnicos Legislativos lotados na Unidade;\nII - representar a Coordenadoria Técnico-Legislativa perante a Assembléia Legislativa e outras Instituições;\nIII - examinar os pareceres emitidos pelos Técnicos Legislativos e em caso de discordância submetê-los á apreciação do Colegiado;\nIV - avocar processos e expedientes, ainda que já distribuídos;\nV - convocar e presidir as reuniões do colegiado;\nVI - designar, quando necessário, Técnicos Legislativos para participarem de sindicâncias, comissões ou outras atividades legislativas quando solicitado pela Presidência da Casa;\nVII - requerer ao Departamento de Gestão de Pessoas a lotação de pessoal de apoio na Coordenadoria Técnica, bem como a sua devolução àquele Departamento quando não houver mais necessidade do serviço prestado;\nVIII - exercer outras atribuições compatíveis e necessárias ao desempenho de seu cargo."
+          }
+        },
+        {
+          "enunciado": "O Coordenador Técnico-Legislativo precisou afastar-se do cargo para gozo de licença de saúde. Considerando a regra de substituição contida no art. 6º do Regimento Interno, aprovado pela Resolução nº 08/2012, assinale a alternativa CORRETA:",
+          "alternativas": {
+            "A": "O Coordenador será substituído pelo Diretor Financeiro da ALEPA enquanto perdurar o afastamento.",
+            "B": "O Coordenador será substituído por um Técnico Legislativo por ele indicado antecipadamente e referendado pelo Presidente da ALEPA.",
+            "C": "A Presidência da Casa assume diretamente e de forma cumulativa as funções administrativas cotidianas da Coordenadoria.",
+            "D": "É realizada convocação extraordinária de concurso público para preenchimento imediato da vaga.",
+            "E": "O substituto deve ser nomeado pelo Governador do Estado mediante indicação da Mesa Diretora."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. A norma não prevê a substituição pelo Diretor Financeiro.\nB) CORRETA. O art. 6º preceitua expressamente que o Coordenador será substituído em férias, licença ou impedimento por um Técnico Legislativo por ele indicado antecipadamente e referendado pelo Presidente da ALEPA.\nC) INCORRETA. O Regimento estabelece regras próprias de substituição entre os Técnicos Legislativos.\nD) INCORRETA. O afastamento temporário enseja a substituição regimental e não abertura de concurso.\nE) INCORRETA. O ato de referendar cabe ao Presidente da ALEPA.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, art. 6º",
+            "texto": "Art. 6° O Coordenador Técnico-Legislativo será substituído em caso de férias, licença ou impedimento por um Técnico Legislativo por ele indicado antecipadamente e referendado pelo Presidente da ALEPA."
+          }
+        },
+        {
+          "enunciado": "Em conformidade com o art. 7º do Regimento Interno da Coordenadoria Técnico-Legislativa, aprovado pela Resolução nº 08/2012, assinale a alternativa INCORRETA no tocante às competências do pessoal de apoio:",
+          "alternativas": {
+            "A": "Ao pessoal de apoio compete receber, protocolar e registrar processos, projetos e documentos destinados à Coordenadoria.",
+            "B": "Ao pessoal de apoio compete digitar os pareceres, projetos, atas, documentos e demais trabalhos da Coordenadoria.",
+            "C": "Ao pessoal de apoio compete julgar os recursos administrativos impetrados contra pareceres dos Técnicos Legislativos.",
+            "D": "Ao pessoal de apoio compete auxiliar a Coordenadoria na distribuição, acompanhamento e arquivamento dos processos.",
+            "E": "Ao pessoal de apoio compete executar outras tarefas correlatas a critério do Coordenador de acordo com a necessidade do serviço."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O inciso I do art. 7º estipula a responsabilidade do pessoal de apoio quanto ao protocolo e registro.\nB) CORRETA (opção verdadeira). O inciso II do art. 7º atribui a digitação de pareceres, atas e documentos ao pessoal de apoio.\nC) INCORRETA (gabarito). O julgamento de recursos administrativos não pertence ao rol de atribuições do pessoal de apoio do art. 7º.\nD) CORRETA (opção verdadeira). O inciso III do art. 7º contempla o auxílio na distribuição, acompanhamento e arquivamento.\nE) CORRETA (opção verdadeira). O inciso IV do art. 7º prevê a execução de tarefas correlatas a critério do Coordenador.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, art. 7º",
+            "texto": "Art. 7° Ao pessoal de apoio, servidores da ALEPA lotados na Coordenadoria Técnico-Legislativa compete:\nI - receber, protocolar e registrar processos, projetos e documentos destinados à Coordenadoria;\nII - digitar os pareceres, projetos, atas, documentos è demais trabalhos da Coordenadoria;\nIII - auxiliar a Coordenadoria Técnico-Legislativa na distribuição, acompanhamento e arquivamento dos processos;\nIV - executar outras tarefas correlatas a critério do Coordenador de acordo com a necessidade de funcionamento da Coordenadoria e às atividades dos seus respectivos cargos junto ao Poder Legislativo."
+          }
+        },
+        {
+          "enunciado": "O art. 8º do Regimento Interno da Coordenadoria Técnico-Legislativa, aprovado pela Resolução nº 08/2012, estabelece um rol extenso de atividades operacionais da unidade. Assinale a alternativa CORRETA referente a essas atividades:",
+          "alternativas": {
+            "A": "A Coordenadoria é impedida de prestar assessoramento às Comissões Parlamentares de Inquérito.",
+            "B": "A elaboração das Leis Orçamentárias prescinde do assessoramento técnico da Coordenadoria.",
+            "C": "O assessoramento aos parlamentares membros da UNALE foi expressamente vedado pelo Regimento.",
+            "D": "A Coordenadoria é órgão responsável por conceder aposentadorias aos magistrados estaduais.",
+            "E": "É atividade da Coordenadoria proceder, a requerimento, à revisão de projetos, proposições e documentos emitidos pela ALEPA."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O inciso IX do art. 8º inclui expressamente o assessoramento às Comissões Parlamentares de Inquérito.\nB) INCORRETA. O inciso X do art. 8º prevê o assessoramento na elaboração das Leis Orçamentárias.\nC) INCORRETA. O inciso XVI do art. 8º estabelece o assessoramento aos parlamentares membros da UNALE.\nD) INCORRETA. A concessão de aposentadorias de magistrados não figura entre as atribuições do órgão.\nE) CORRETA. O inciso XI do art. 8º atribui expressamente à Coordenadoria a atividade de proceder, a requerimento, a revisão de projetos, proposições e documentos emitidos pela ALEPA.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, art. 8º",
+            "texto": "Art. 8° São atividades da Coordenadoria Técnico-Legislativa da Assembleia Legislativa do Estado do Pará:\nI - prestar assessoramento técnico legislativo à adoção de direcionadores estratégicos nas atividades desenvolvidas no âmbito da Assembleia Legislativa do Estado do Pará - ALEPA, quer seja, para a revisão de seus procedimentos legislativos e administrativos, quer seja, para a implementação e qualificação de seus canais de comunicação junto à sociedade;\nII - desenvolver pesquisas e estudos dirigidos à modernização da gestão institucional adequando-a ao profissionalismo, efetividade e resultados compatíveis com os encargos e atuação da ALEPA;\nIII - prestar assessoramento técnico legislativo ao processo administrativo e legislativo, inclusive, quanto à adoção de novas práticas de trabalho, estratégias de gestão do conhecimento, tecnologias de informação e comunicação, conceitos de gestão de pessoas e estratégias de ampliação da presença da função parlamentar regionalizada;\nIV - prestar assessoramento técnico legislativo no desenvolvimento de programas, projetos e/ou ações administrativas relacionadas à responsabilidade sócio ambiental, criadas e implantadas pela ALEPA;\nV - prestar assessoramento permanente à Presidência e à Mesa Diretora em questões de natureza administrativa e legislativa.\nVI - auxiliar os Parlamentares e as Comissões Técnicas Permanentes e Temporárias com a análise e emissão de pareceres técnicos em processos e proposições legislativas, bem como outros atos de cunho administrativo.\nVII - elaborar ofícios, moções, requerimentos, memorandos e outros documentos necessários ao trabalho legislativo quando se fizer necessário conhecimento técnico e jurídico e quando solicitado por qualquer parlamentar ou setor da Assembleia Legislativa;\nVIII - coordenar e realizar pesquisas, estudos técnico-científicos e análises destinadas a subsidiar o processo legislativo e aprimoramento da produção legislativa por solicitação de gabinetes parlamentares ou outros setores da Casa;\nIX - prestar assessoramento às Comissões Parlamentares de Inquéritos e às destinadas a representar a Assembleia Legislativa em congressos, solenidades e outros eventos e atos públicos;\nX - assessorar o Parlamento na elaboração das Leis Orçamentárias;\nXI - proceder, a requerimento, a revisão de projetos, proposições e documentos emitidos pela Assembleia Legislativa;\nXII - acompanhar planos, programas e projetos de interesse das Comissões da Assembleia Legislativa, em matérias compatíveis com o âmbito de atuação de cada qual;\nXIII - emitir pareceres em processos que lhe forem encaminhados.;\nXIV - assessoramento técnico à sistematização das ações finalísticas do Poder Legislativo dirigida à melhoria da qualidade das proposições voltadas para o desenvolvimento sustentável do Estado, especialmente, quando da proposição de planos, programas e projetos a serem conduzidos pelo Poder Público Estadual;\nXV - prestar assessoramento técnico ao programa social comunitário da Assembleia Legislativa;\nXVI - assessorar os parlamentares membros da UNALE."
+          }
+        },
+        {
+          "enunciado": "Analisando o rol de 16 atividades descritas no art. 8º do Regimento Interno da Coordenadoria Técnico-Legislativa, aprovado pela Resolução nº 08/2012, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "A Coordenadoria presta assessoramento técnico ao programa social comunitário da Assembleia Legislativa.",
+            "B": "A Coordenadoria realiza pesquisas e estudos dirigidos à modernização da gestão institucional da Casa.",
+            "C": "A Coordenadoria exerce privativamente a fiscalização contábil dos órgãos municipais de saúde.",
+            "D": "A Coordenadoria presta assessoramento permanente à Presidência e à Mesa Diretora em questões administrativas e legislativas.",
+            "E": "A Coordenadoria elabora ofícios, moções e memorandos quando necessário conhecimento técnico e solicitado por parlamentar."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O inciso XV do art. 8º contempla o assessoramento ao programa social comunitário da ALEPA.\nB) CORRETA (opção verdadeira). O inciso II do art. 8º determina o desenvolvimento de pesquisas e estudos para modernização institucional.\nC) INCORRETA (gabarito). A fiscalização contábil de órgãos municipais não consta nas atividades regimentais da Coordenadoria.\nD) CORRETA (opção verdadeira). O inciso V do art. 8º fixa o assessoramento permanente à Presidência e à Mesa Diretora.\nE) CORRETA (opção verdadeira). O inciso VII do art. 8º lista a confecção de ofícios, moções, requerimentos e memorandos.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, art. 8º, II, V, VII e XV",
+            "texto": "Art. 8° São atividades da Coordenadoria Técnico-Legislativa da Assembleia Legislativa do Estado do Pará:\nII - desenvolver pesquisas e estudos dirigidos à modernização da gestão institucional adequando-a ao profissionalismo, efetividade e resultados compatíveis com os encargos e atuação da ALEPA;\nV - prestar assessoramento permanente à Presidência e à Mesa Diretora em questões de natureza administrativa e legislativa.\nVII - elaborar ofícios, moções, requerimentos, memorandos e outros documentos necessários ao trabalho legislativo quando se fizer necessário conhecimento técnico e jurídico e quando solicitado por qualquer parlamentar ou setor da Assembleia Legislativa;\nXV - prestar assessoramento técnico ao programa social comunitário da Assembleia Legislativa;"
+          }
+        },
+        {
+          "enunciado": "O Regimento Interno da Coordenadoria Técnico-Legislativa, aprovado pela Resolução nº 08/2012, distingue as atividades da Coordenadoria (art. 8º) das atividades exclusivas dos Técnicos Legislativos e da Coordenadoria (art. 9º). Assinale a alternativa que apresenta uma atividade EXCLUSIVA.",
+          "alternativas": {
+            "A": "Assessorar o Parlamento na elaboração das Leis Orçamentárias.",
+            "B": "Análise, seleção e sistematização de informações do banco de dados da Ouvidoria Legislativa, para converter as proposições da sociedade, no que for oportuno, em proposições legislativas.",
+            "C": "Prestar assessoramento às Comissões Parlamentares de Inquérito.",
+            "D": "Emitir pareceres em processos que lhe forem encaminhados.",
+            "E": "Assessorar os parlamentares membros da UNALE."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. É atividade da Coordenadoria (art. 8º, X), mas não está entre as exclusivas do art. 9º.\nB) CORRETA. É a atividade exclusiva do art. 9º, I.\nC) INCORRETA. É atividade da Coordenadoria (art. 8º, IX), mas não está entre as exclusivas do art. 9º.\nD) INCORRETA. É atividade da Coordenadoria (art. 8º, XIII), mas não está entre as exclusivas do art. 9º.\nE) INCORRETA. É atividade da Coordenadoria (art. 8º, XVI), mas não está entre as exclusivas do art. 9º.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, arts. 8º, IX, X, XIII e XVI, e 9º",
+            "texto": "Art. 8° São atividades da Coordenadoria Técnico-Legislativa da Assembleia Legislativa do Estado do Pará:\nIX - prestar assessoramento às Comissões Parlamentares de Inquéritos e às destinadas a representar a Assembleia Legislativa em congressos, solenidades e outros eventos e atos públicos;\nX - assessorar o Parlamento na elaboração das Leis Orçamentárias;\nXIII - emitir pareceres em processos que lhe forem encaminhados.;\nXVI - assessorar os parlamentares membros da UNALE.\nArt. 9° São atividades exclusivas a serem desempenhadas pelos Técnicos Legislativos e Coordenadoria Técnico-Legislativa: I - análise, seleção e sistematização de informações recebidas do banco de dados da Ouvidoria Legislativa com o objetivo de converter as proposições da sociedade no que for oportuno em proposições legislativas. II - registro, memória e publicação em meios eletrônicos das atas e pautas das Comissões Técnicas Permanentes e Temporárias."
+          }
+        },
+        {
+          "enunciado": "João é Técnico Legislativo efetivo da ALEPA e foi temporariamente cedido para exercer atribuições no Tribunal de Justiça do Estado do Pará. Com base nos artigos 10 e 11 do Regimento Interno da Coordenadoria Técnico-Legislativa, aprovado pela Resolução nº 08/2012, assinale a alternativa CORRETA:",
+          "alternativas": {
+            "A": "João permanece integrando o Colegiado e participando normalmente das deliberações durante o período da cessão.",
+            "B": "João perde em caráter irrevogável o seu cargo efetivo de Técnico Legislativo na ALEPA.",
+            "C": "A convocação das reuniões do Colegiado exige antecedência mínima de trinta dias úteis.",
+            "D": "João fica excluído temporariamente do colegiado durante o período em que durar a cessão a outro órgão ou poder.",
+            "E": "As reuniões ordinárias do Colegiado independem de pauta ou de aviso fixado na sala da Coordenadoria."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O parágrafo único do art. 10 expressamente exclui temporariamente do colegiado os servidores cedidos.\nB) INCORRETA. O parágrafo único do art. 10 prevê apenas a exclusão temporária do Colegiado, enquanto durar a cessão.\nC) INCORRETA. O art. 11 estabelece o prazo mínimo de antecedência de dois dias úteis.\nD) CORRETA. O parágrafo único do art. 10 estipula que ficam excluídos temporariamente do colegiado os Técnicos Legislativos cedidos a outros órgãos ou poderes durante a cessão.\nE) INCORRETA. O art. 11 exige a fixação de aviso de convocação na sala da Coordenadoria com a informação da pauta.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, arts. 10 e 11",
+            "texto": "Art. 10. O colegiado da Coordenadoria Técnico-Legislativa é composto por todos os Técnicos Legislativos, ainda que lotados em outros setores ou gabinetes parlamentares.\nParágrafo único. Ficam excluídos temporariamente do colegiado, os Técnicos Legislativos cedidos a outros órgãos ou poderes durante o período que durar a cessão.\nArt. 11. As reuniões do colegiado serão convocadas com antecedência mínima de dois dias úteis com afixação de aviso de convocação na sala da Coordenadoria Técnico Legislativa com informação da pauta, podendo esse prazo ser menor em casos de urgência sendo a mesma formalmente justificada."
+          }
+        },
+        {
+          "enunciado": "Em relação à presidência das reuniões e ao direito de voto no Colegiado Técnico-Legislativo (artigos 12 e 13 do Regimento Interno, aprovado pela Resolução nº 08/2012), assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "Na ausência justificada do Coordenador, a reunião do Colegiado será presidida pelo Técnico Legislativo mais idoso presente.",
+            "B": "Todos os presentes à reunião colegiada têm direito à manifestação e ao voto.",
+            "C": "O voto do Coordenador Técnico-Legislativo é de qualidade e utilizado apenas em caso de empate.",
+            "D": "O Coordenador vota em primeiro lugar em todas as deliberações, exercendo dois votos de forma permanente.",
+            "E": "Em todas as deliberações será utilizada a maioria simples dos votos e o quórum de um quinto do Colegiado."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 12 preconiza que na ausência justificada do Coordenador a reunião será presidida pelo Técnico mais idoso presente.\nB) CORRETA (opção verdadeira). O caput do art. 13 prevê direito à manifestação e ao voto para todos os presentes.\nC) CORRETA (opção verdadeira). O caput do art. 13 determina que o voto do Coordenador é de qualidade e usado apenas em empate.\nD) INCORRETA (gabarito). O voto de qualidade do Coordenador é utilizado tão somente no caso de empate (art. 13), não cabendo voto duplo permanente.\nE) CORRETA (opção verdadeira). O parágrafo único do art. 13 estipula deliberação por maioria simples e quórum de um quinto.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, arts. 12 e 13",
+            "texto": "Art. 12. Na ausência justificada do Coordenador, a reunião será presidida pelo Técnico Legislativo mais idoso presente.\nArt. 13. Todos os presentes à reunião colegiada terão direito à manifestação e a voto sendo o do Coordenador Técnico-Legislativo, de qualidade e utilizado apenas em caso de empate.\nParágrafo único. Será utilizada em todas as deliberações a maioria simples dos votos e o quorum de um quinto do Colegiado, salvo as disposições em contrário previstas neste Regimento."
+          }
+        },
+        {
+          "enunciado": "No tocante às competências do Colegiado e ao secretariado das reuniões (artigos 14 e 15 do Regimento Interno, aprovado pela Resolução nº 08/2012), assinale a alternativa CORRETA:",
+          "alternativas": {
+            "A": "Compete ao Colegiado propor à Mesa Diretora a reforma parcial ou total do Regimento Interno.",
+            "B": "As reuniões são secretariadas pelo Procurador Geral do Estado, que assina a ata em separado.",
+            "C": "É vedado ao Colegiado apreciar ou modificar parecer elaborado por Técnico Legislativo.",
+            "D": "As atas das reuniões devem omitir o resultado das votações e os nomes dos participantes presentes.",
+            "E": "A escolha do secretário ocorre obrigatoriamente dez dias após o encerramento da sessão colegiada."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O inciso IV do art. 14 atribui a competência de propor à Mesa Diretora a reforma parcial ou total do Regimento.\nB) INCORRETA. O art. 15 estabelece que as reuniões são secretariadas por Técnico Legislativo designado pelo Coordenador antes do início.\nC) INCORRETA. O inciso I do art. 14 prevê expressamente apreciar, debater, ratificar ou modificar parecer levado à sua deliberação.\nD) INCORRETA. O parágrafo único do art. 15 determina que as atas conterão as decisões com referência aos votos e presentes.\nE) INCORRETA. O art. 15 determina a designação do secretário antes do início da reunião.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, arts. 14 e 15",
+            "texto": "Art. 14. Compete ao Colegiado Técnico-Legislativo:\nI - apreciar, debater, ratificar ou modificar parecer de Técnico Legislativo levado à sua deliberação;\nII - dirimir conflitos nos entendimentos e aplicações de leis no seu âmbito interno, observando para tanto a doutrina e a jurisprudência;\nIII - apreciar e decidir sobre todos os assuntos levados a sua deliberação por solicitação de Técnico Legislativo e a critério do Coordenador;\nIV - propor à Mesa Diretora, a reforma parcial ou total deste Regimento.\nArt. 15. As reuniões colegiadas serão secretariadas por um Técnico Legislativo designado pelo Coordenador Técnico-Legislativo antes de seu inicio que ficará responsável pela redação das atas.\nParágrafo único. As atas de que trata o caput deste artigo conterão de maneira sucinta as decisões tomadas com referência aos votos e aos presentes, sendo ao final firmada pelo Coordenador e os demais participantes."
+          }
+        },
+        {
+          "enunciado": "Com referência às regras sobre pedido de vista, urgência e omissões contidas nos artigos 16 e 17 do Regimento Interno da Coordenadoria Técnico-Legislativa, aprovado pela Resolução nº 08/2012, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "A qualquer Técnico Legislativo caberá vista da matéria em exame pelo prazo de dois dias.",
+            "B": "O Técnico que divergir ao pedir vista deve apresentar parecer para discussão no Colegiado.",
+            "C": "Caso a maioria julgar a matéria urgente, a próxima reunião deverá ocorrer no prazo de 24 horas.",
+            "D": "As omissões do Regimento são resolvidas pelas reuniões colegiadas por maioria simples e quórum de um quinto.",
+            "E": "O pedido de vista é irrevogável e extingue em definitivo o processo sem julgamento do Colegiado."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O caput do art. 16 prevê direito de vista por dois dias a qualquer Técnico.\nB) CORRETA (opção verdadeira). O caput do art. 16 determina que na divergência o Técnico deve apresentar parecer.\nC) CORRETA (opção verdadeira). O parágrafo único do art. 16 fixa o prazo de 24 horas para reunião em caso de urgência julgada pela maioria.\nD) CORRETA (opção verdadeira). O art. 17 estipula a solução de omissões por maioria simples e quórum de um quinto.\nE) INCORRETA (gabarito). Havendo divergência, o Técnico apresenta parecer, e a decisão final cabe ao colegiado na reunião seguinte (art. 16); a vista não extingue o processo.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, arts. 16 e 17",
+            "texto": "Art. 16. A qualquer Técnico Legislativo caberá vista da matéria em exame no prazo de dois dias, devendo em caso de divergência apresentar parecer para discussão, cabendo decisão final ao colegiado na reunião seguinte.\nParágrafo único. Se a maioria julgar a matéria urgente, o Coordenador convocará imediatamente a próxima reunião que deverá ocorrer no prazo de 24 (vinte e quatro) horas.\nArt. 17. As omissões deste Regimento serão resolvidas em reuniões colegiadas por maioria simples e quorum de um quinto do colegiado."
+          }
+        },
+        {
+          "enunciado": "Considere as normas relativas a prazos e quóruns operacionais do Regimento Interno da Coordenadoria Técnico-Legislativa, aprovado pela Resolução nº 08/2012. Assinale a alternativa que indica a combinação CORRETA de prazos e quóruns vigentes na instituição:",
+          "alternativas": {
+            "A": "Convocação ordinária em 2 dias úteis; vista em 2 dias; reunião urgente em 24 horas; deliberações e omissões por maioria simples com quórum de um quinto.",
+            "B": "Convocação ordinária em 5 dias corridos; vista em 10 dias; reunião urgente em 48 horas; deliberações por maioria absoluta com quórum de metade mais um.",
+            "C": "Convocação ordinária em 24 horas; vista em 5 dias úteis; reunião urgente em 12 horas; deliberações por maioria de dois terços.",
+            "D": "Convocação ordinária em 1 dia útil; vista em 3 dias; reunião urgente em 6 horas; deliberações por unanimidade dos presentes.",
+            "E": "Convocação ordinária em 15 dias úteis; vista em 30 dias; reunião urgente em 72 horas; deliberações por maioria simples sem quórum mínimo."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Consolida exatamente os prazos e quóruns do Regimento: convocação mínima de 2 dias úteis (art. 11), vista de 2 dias (art. 16), reunião urgente em 24 horas (art. 16, parágrafo único), deliberações e omissões por maioria simples com quórum de um quinto (art. 13, parágrafo único, e art. 17).\nB) INCORRETA. Os prazos de convocação, vista e reunião urgente, bem como o quórum, estão em desacordo com o texto legal.\nC) INCORRETA. Todos os prazos e o quórum divergem da norma regimental.\nD) INCORRETA. Os prazos de convocação e vista e o quórum de unanimidade não existem no Regimento.\nE) INCORRETA. Os prazos estipulados e a ausência de quórum afrontam o disposto na norma regimental.",
+          "base_legal": {
+            "dispositivo": "Regimento Interno, arts. 11, 13, parágrafo único, 16 e 17",
+            "texto": "Art. 11. As reuniões do colegiado serão convocadas com antecedência mínima de dois dias úteis com afixação de aviso de convocação na sala da Coordenadoria Técnico Legislativa com informação da pauta, podendo esse prazo ser menor em casos de urgência sendo a mesma formalmente justificada.\nParágrafo único. Será utilizada em todas as deliberações a maioria simples dos votos e o quorum de um quinto do Colegiado, salvo as disposições em contrário previstas neste Regimento.\nArt. 16. A qualquer Técnico Legislativo caberá vista da matéria em exame no prazo de dois dias, devendo em caso de divergência apresentar parecer para discussão, cabendo decisão final ao colegiado na reunião seguinte.\nParágrafo único. Se a maioria julgar a matéria urgente, o Coordenador convocará imediatamente a próxima reunião que deverá ocorrer no prazo de 24 (vinte e quatro) horas.\nArt. 17. As omissões deste Regimento serão resolvidas em reuniões colegiadas por maioria simples e quorum de um quinto do colegiado."
           }
         }
       ]
