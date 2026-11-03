@@ -648,6 +648,326 @@
           }
         }
       ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Avaliação, regime especial, comunidade acadêmica e disciplina",
+      "artigos": "Regimento Acadêmico, arts. 40 a 68",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A avaliação é feita **por disciplina** e incide sobre **frequência** e **aproveitamento**. A frequência é **obrigatória** e é **vedado o abono de faltas** (salvo casos da legislação): quem não alcança **75%** é **reprovado**, quaisquer que sejam as notas. O **professor** verifica e registra a frequência; a **Secretaria** a controla. As avaliações são **sempre escritas**, com no mínimo **02 exercícios** por semestre, e as notas vão de **0 a 10**, com médias **sem arredondamento**."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Situação",
+            "Resultado",
+            "Artigo"
+          ],
+          "linhas": [
+            [
+              "Frequência abaixo de **75%**",
+              "**Reprovado**, quaisquer que sejam as notas; repete a disciplina",
+              "41, § 1º, e 47"
+            ],
+            [
+              "Aproveitamento **não inferior a 7,0**",
+              "**Aprovado** sem exame final",
+              "46, I"
+            ],
+            [
+              "Aproveitamento **de 3,0 a menos de 7,0**",
+              "**Exame final**; aprovado com nota final **não inferior a 5,0** (média entre aproveitamento e exame)",
+              "46, II"
+            ],
+            [
+              "Falta à verificação sem justificativa, ou fraude",
+              "Nota **0**",
+              "43, parágrafo único"
+            ],
+            [
+              "Faltou a prova de aproveitamento",
+              "**Prova substitutiva**, mediante requerimento, no prazo fixado pela Secretaria",
+              "45, § 1º"
+            ],
+            [
+              "Faltou ao exame final",
+              "**Segunda chamada**: requerida em **08 dias improrrogáveis**, ausência justificada, a juízo do **Diretor Geral**",
+              "45, § 2º"
+            ],
+            [
+              "Reprovação em componente",
+              "Promoção com **dependência**, até **03** componentes em todo o curso",
+              "48"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "O **regime especial** (exercícios domiciliares, requeridos na Secretaria com comprovante de matrícula e atestado médico com **CID**) vale **só para componentes teóricos**, nunca para aulas práticas e estágios. O **estágio** é obrigatório para concluir o curso, com regulamentação aprovada pelo **Conselho Deliberativo** e prioridade para a **administração pública**."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Penalidade",
+            "Casos",
+            "Artigo"
+          ],
+          "linhas": [
+            [
+              "Advertência verbal",
+              "Desrespeito ao Diretor Geral, a docente ou a técnico-administrativo; desobediência a determinação do Diretor Geral ou de docente",
+              "63, I"
+            ],
+            [
+              "Repreensão",
+              "Reincidência em falta do inciso I; ofensa ou agressão a **outro aluno**; dano em material da ELEPA; improbidade em atos ou trabalhos acadêmicos",
+              "63, II"
+            ],
+            [
+              "Suspensão",
+              "Reincidência em falta do inciso II; ofensa ou agressão a **docente ou técnico-administrativo**; incitamento à perturbação da ordem",
+              "63, III"
+            ],
+            [
+              "Desligamento",
+              "Reincidência em falta do inciso III; **falsidade de documento** para uso junto à ELEPA",
+              "63, IV"
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) Das penalidades cabe recurso ao **Conselho Deliberativo** em **15 dias**, que é também o prazo geral de recurso (art. 66). 2) O registro da penalidade **não consta do histórico escolar**; o de advertência e o de repreensão são cancelados se não houver reincidência em **01 ano**. 3) Penalidade que implique **afastamento** exige **processo administrativo** instaurado pelo **Diretor Geral**. 4) Casos omissos: **Diretor Geral**, “ad referendum” do Conselho Deliberativo (art. 67). 5) Segunda chamada é do **exame final**; para a prova de aproveitamento, a via é a **prova substitutiva**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Nos termos dos arts. 40 a 42 do Regimento Acadêmico da ELEPA, sobre a frequência e a forma das avaliações do rendimento acadêmico, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "A verificação e o registro de frequência são de responsabilidade da Secretaria Escolar, cabendo ao professor apenas o controle final do semestre.",
+            "B": "A avaliação do rendimento acadêmico é feita por disciplina, incidindo sobre a frequência e o aproveitamento acadêmico do aluno.",
+            "C": "A frequência às aulas e demais atividades acadêmicas é obrigatória, sendo vedado o abono de faltas, ressalvados os casos previstos na legislação vigente.",
+            "D": "O aluno que não obtiver frequência em, no mínimo, 75% das aulas e atividades programadas é considerado reprovado no componente curricular, independentemente dos demais resultados obtidos.",
+            "E": "O aproveitamento acadêmico é avaliado por acompanhamento contínuo e exames, exigindo-se que as avaliações tenham, sempre, a forma escrita."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 41, § 2º, estabelece que a verificação e o registro de frequência são da responsabilidade do professor, e seu controle é da Secretaria.\nB) CORRETA (opção verdadeira). Reproduz o art. 40 do Regimento Acadêmico.\nC) CORRETA (opção verdadeira). Conforme o art. 41, caput, do Regimento Acadêmico.\nD) CORRETA (opção verdadeira). De acordo com o art. 41, § 1º, do Regimento Acadêmico.\nE) CORRETA (opção verdadeira). Fiel ao art. 42, caput, do Regimento Acadêmico.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 40, 41 e 42, caput",
+            "texto": "Art. 40. A avaliação do rendimento acadêmico é feita por disciplina, incidindo sobre a frequência e o aproveitamento acadêmico do aluno.\nArt. 41. A frequência às aulas e demais atividades acadêmicas, permitida apenas aos matriculados, é obrigatória aos alunos, vedado o abono de faltas, ressalvados os casos previstos na legislação vigente.\n§ 1º Independentemente dos demais resultados obtidos, é considerado reprovado no componente curricular o aluno que não obtenha frequência em, no mínimo, 75% (setenta e cinco por cento) das aulas e demais atividades programadas.\n§ 2º A verificação e registro de frequência são da responsabilidade do professor, e seu controle, para efeito do parágrafo anterior, da Secretaria.\nArt. 42. O aproveitamento acadêmico é avaliado através de acompanhamento contínuo do aluno e dos resultados por ele obtidos nos exercícios acadêmicos e no exame final, exigindo-se que as avaliações tenham, sempre, a forma escrita."
+          }
+        },
+        {
+          "enunciado": "Com base no art. 42 do Regimento Acadêmico da ELEPA, assinale a alternativa CORRETA sobre os exercícios acadêmicos:",
+          "alternativas": {
+            "A": "Os exercícios acadêmicos são, no mínimo, 04 (quatro) por semestre letivo, sob a forma exclusiva de provas.",
+            "B": "Compete ao Diretor Geral elaborar os exercícios acadêmicos, cabendo ao professor apenas aplicá-los e julgar os resultados.",
+            "C": "As avaliações podem ter forma oral, desde que previstas no plano de ensino da disciplina.",
+            "D": "Os exercícios acadêmicos, no mínimo 02 (dois) por semestre letivo, podem ser provas, trabalhos de avaliação, trabalhos de pesquisa e outras formas previstas e aprovadas no plano de ensino.",
+            "E": "O aproveitamento acadêmico é avaliado apenas pelo resultado do exame final, dispensado o acompanhamento contínuo do aluno."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O mínimo é de 02 (dois) por semestre letivo, e os exercícios podem assumir outras formas além de provas (art. 42, § 2º).\nB) INCORRETA. Compete ao professor da disciplina elaborar os exercícios, determinar os demais trabalhos e julgar os resultados (art. 42, § 1º).\nC) INCORRETA. O caput do art. 42 exige que as avaliações tenham, sempre, a forma escrita.\nD) CORRETA. É o que dispõe o art. 42, § 2º.\nE) INCORRETA. O aproveitamento é avaliado por acompanhamento contínuo do aluno e pelos resultados nos exercícios acadêmicos e no exame final (art. 42, caput).",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, art. 42",
+            "texto": "Art. 42. O aproveitamento acadêmico é avaliado através de acompanhamento contínuo do aluno e dos resultados por ele obtidos nos exercícios acadêmicos e no exame final, exigindo-se que as avaliações tenham, sempre, a forma escrita.\n§ 1º Compete ao professor da disciplina elaborar os exercícios acadêmicos, sob a forma de prova, e determinar os demais trabalhos, bem como julgar os resultados.\n§ 2º Os exercícios acadêmicos, em número mínimo de 02 (dois) por semestre letivo, podem ser propostos na forma de provas, trabalhos de avaliação, trabalhos de pesquisa e outras formas de verificação previstas e aprovadas no plano de ensino da disciplina."
+          }
+        },
+        {
+          "enunciado": "A respeito da atribuição de notas, do cálculo da nota final e da prova substitutiva (arts. 43 a 45 do Regimento Acadêmico da ELEPA), assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "A cada verificação de aproveitamento é atribuída uma nota, expressa em grau numérico de 0 (zero) a 10 (dez).",
+            "B": "A prova substitutiva é concedida de ofício, independentemente de requerimento do aluno.",
+            "C": "Atribui-se nota 0 (zero) ao aluno que deixar de se submeter à verificação na data fixada sem justificativa legal, bem como ao que nela utilizar meio fraudulento.",
+            "D": "A nota final do aluno em cada disciplina, verificada ao término do período letivo, será a média aritmética simples entre as notas de verificação de aproveitamento e a nota do exame final.",
+            "E": "É concedida prova substitutiva ao aluno que deixar de realizar prova de aproveitamento acadêmico no período estabelecido no calendário acadêmico."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). Art. 43, caput.\nB) INCORRETA (gabarito). Pelo art. 45, § 1º, a prova substitutiva é realizada mediante requerimento do aluno, no prazo estabelecido pela Secretaria.\nC) CORRETA (opção verdadeira). Art. 43, parágrafo único.\nD) CORRETA (opção verdadeira). Art. 44.\nE) CORRETA (opção verdadeira). Art. 45, caput.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 43, 44 e 45, caput e § 1º",
+            "texto": "Art. 43. A cada verificação de aproveitamento é atribuída uma nota, expressa em grau numérico de 0 (zero) a 10 (dez).\nParágrafo único. Atribui-se nota 0 (zero) ao aluno que deixar de se submeter à verificação prevista na data fixada sem justificativa legalmente estabelecida, bem como ao que nela se utilizar de meio fraudulento.\nArt. 44. A nota final do aluno em cada disciplina, verificada ao término do período letivo, será a média aritmética simples entre as notas de verificação de aproveitamento e a nota do exame final.\nArt. 45. É concedida prova substitutiva ao aluno que deixar de realizar prova de aproveitamento acadêmico no período estabelecido no calendário acadêmico.\n§ 1º A prova substitutiva é realizada mediante requerimento do aluno no prazo estabelecido pela Secretaria."
+          }
+        },
+        {
+          "enunciado": "Segundo o art. 45, § 2º, do Regimento Acadêmico da ELEPA, a segunda chamada do exame final:",
+          "alternativas": {
+            "A": "será concedida a juízo do Diretor Geral, se requerida no prazo de 08 dias, prorrogável uma vez por igual período.",
+            "B": "será concedida pela Secretaria, se requerida no prazo de 08 dias, independentemente de justificativa da ausência.",
+            "C": "será concedida a juízo do Diretor Geral, se requerida no prazo de 15 dias contados da publicação das notas.",
+            "D": "não é admitida, pois a segunda chamada só alcança as provas de aproveitamento acadêmico.",
+            "E": "será concedida, uma vez justificada a ausência e a juízo do Diretor Geral, se requerida no prazo improrrogável de 08 dias seguintes à sua realização."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O prazo de 08 (oito) dias é improrrogável.\nB) INCORRETA. A concessão depende de justificativa da ausência e fica a juízo do Diretor Geral.\nC) INCORRETA. O prazo é de 08 (oito) dias, contados da realização do exame final.\nD) INCORRETA. O § 2º do art. 45 trata justamente da segunda chamada do exame final; para as provas de aproveitamento, o caput prevê a prova substitutiva.\nE) CORRETA. É o que dispõe o art. 45, § 2º.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, art. 45",
+            "texto": "Art. 45. É concedida prova substitutiva ao aluno que deixar de realizar prova de aproveitamento acadêmico no período estabelecido no calendário acadêmico.\n§ 1º A prova substitutiva é realizada mediante requerimento do aluno no prazo estabelecido pela Secretaria.\n§ 2º Conceder-se-á segunda chamada ao aluno que faltar ao exame final, desde que requerida no prazo improrrogável de 08 (oito) dias que se seguirem à sua realização, uma vez justificada a ausência e a juízo do Diretor Geral da ELEPA."
+          }
+        },
+        {
+          "enunciado": "Com base nos arts. 46 a 48 do Regimento Acadêmico da ELEPA, analise as normas sobre aprovação e promoção com dependência e assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "Atendida a frequência mínima de 75%, é aprovado independentemente de exame final o aluno que obtiver nota de aproveitamento não inferior a 7,0, correspondente à média aritmética sem arredondamento das notas dos exercícios.",
+            "B": "O aluno que obtiver nota de aproveitamento inferior a 7,0, porém não inferior a 3,0, presta exame final e é aprovado se obtiver nota final não inferior a 5,0.",
+            "C": "No cálculo das médias de aproveitamento e nota final, permite-se o arredondamento automático para a nota inteira mais próxima.",
+            "D": "O aluno reprovado por não alcançar a frequência ou as notas mínimas repetirá a disciplina, sujeito às mesmas exigências na repetência.",
+            "E": "É promovido ao período letivo seguinte o aluno aprovado em todos os componentes ou promovido com dependência no limite de 03 componentes ao longo de todo o curso."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). Fiel ao art. 46, I, do Regimento Acadêmico.\nB) CORRETA (opção verdadeira). Em consonância com o art. 46, II, do Regimento Acadêmico.\nC) INCORRETA (gabarito). O art. 46, incisos I e II, do Regimento Acadêmico determina expressamente que as médias são calculadas “sem arredondamento”, tornando errada a afirmação de arredondamento automático.\nD) CORRETA (opção verdadeira). Reproduz o art. 47 do Regimento Acadêmico.\nE) CORRETA (opção verdadeira). De acordo com o art. 48 do Regimento Acadêmico.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 46, 47 e 48, caput",
+            "texto": "Art. 46. Atendida em qualquer caso a frequência mínima de 75% (setenta e cinco por cento) às aulas e demais atividades acadêmicas, é aprovado:\nI - independentemente do exame final, o aluno que obtiver nota de aproveitamento não inferior a 7,0 (sete), correspondentemente à média aritmética, sem arredondamento, das notas dos exercícios acadêmicos;\nII - mediante exame final o aluno que, tendo obtido nota de aproveitamento inferior a 7,0 (sete), porém não inferior a 3,0 (três), obtiver nota final não inferior a 5,0 (cinco) correspondente à média aritmética, sem arredondamento, entre a nota de aproveitamento e a nota de exame final.\nArt. 47. O aluno reprovado por não ter alcançado seja a frequência, sejam as notas mínimas exigidas, repetirá a disciplina, sujeito, na repetência, às mesmas exigências de frequência e de aproveitamento estabelecidas neste Regimento.\nArt. 48. É promovido ao período letivo seguinte o aluno aprovado em todos os componentes curriculares do semestre/ano letivo cursado, admitindo-se ainda a promoção com dependência, observado o limite de 03 (três) componentes curriculares ao longo de todo o curso."
+          }
+        },
+        {
+          "enunciado": "Pedro, aluno de graduação da ELEPA, obteve média 9,0 nos exercícios acadêmicos de uma disciplina, mas frequência de 70% das aulas e demais atividades programadas. Segundo o Regimento Acadêmico, a situação de Pedro na disciplina é de:",
+          "alternativas": {
+            "A": "reprovação, independentemente dos demais resultados, por não ter alcançado a frequência mínima de 75%, devendo repetir a disciplina.",
+            "B": "aprovação independentemente do exame final, pois a nota de aproveitamento é superior a 7,0.",
+            "C": "submissão ao exame final, que compensa a frequência abaixo do mínimo exigido.",
+            "D": "aprovação após abono das faltas pelo Diretor Geral, em razão da nota de aproveitamento elevada.",
+            "E": "aprovação com dependência, devendo cursar novamente apenas a carga horária em que faltou."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Art. 41, § 1º, e art. 47.\nB) INCORRETA. A aprovação prevista no art. 46 exige, “em qualquer caso”, a frequência mínima de 75%.\nC) INCORRETA. Quem não alcança 75% de frequência é reprovado independentemente dos demais resultados (art. 41, § 1º).\nD) INCORRETA. O art. 41 veda o abono de faltas, ressalvados os casos previstos na legislação vigente.\nE) INCORRETA. O aluno reprovado por frequência repete a disciplina, sujeito às mesmas exigências de frequência e de aproveitamento (art. 47).",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 41, 46 e 47",
+            "texto": "Art. 41. A frequência às aulas e demais atividades acadêmicas, permitida apenas aos matriculados, é obrigatória aos alunos, vedado o abono de faltas, ressalvados os casos previstos na legislação vigente.\n§ 1º Independentemente dos demais resultados obtidos, é considerado reprovado no componente curricular o aluno que não obtenha frequência em, no mínimo, 75% (setenta e cinco por cento) das aulas e demais atividades programadas.\n§ 2º A verificação e registro de frequência são da responsabilidade do professor, e seu controle, para efeito do parágrafo anterior, da Secretaria.\nArt. 46. Atendida em qualquer caso a frequência mínima de 75% (setenta e cinco por cento) às aulas e demais atividades acadêmicas, é aprovado:\nI - independentemente do exame final, o aluno que obtiver nota de aproveitamento não inferior a 7,0 (sete), correspondentemente à média aritmética, sem arredondamento, das notas dos exercícios acadêmicos;\nII - mediante exame final o aluno que, tendo obtido nota de aproveitamento inferior a 7,0 (sete), porém não inferior a 3,0 (três), obtiver nota final não inferior a 5,0 (cinco) correspondente à média aritmética, sem arredondamento, entre a nota de aproveitamento e a nota de exame final.\nArt. 47. O aluno reprovado por não ter alcançado seja a frequência, sejam as notas mínimas exigidas, repetirá a disciplina, sujeito, na repetência, às mesmas exigências de frequência e de aproveitamento estabelecidas neste Regimento."
+          }
+        },
+        {
+          "enunciado": "Juliana, aluna de graduação da ELEPA, teve frequência de 80% em uma disciplina e nota de aproveitamento 6,0 (média dos exercícios acadêmicos). No exame final, obteve 4,0. Segundo o art. 46 do Regimento Acadêmico, Juliana está:",
+          "alternativas": {
+            "A": "reprovada por frequência, pois o mínimo exigido é de 85% das aulas e demais atividades.",
+            "B": "aprovada independentemente do exame final, pois a nota de aproveitamento é superior a 5,0.",
+            "C": "reprovada, pois a nota do exame final (4,0) é inferior a 5,0.",
+            "D": "reprovada, pois, com nota de aproveitamento inferior a 7,0, exige-se nota final não inferior a 6,0.",
+            "E": "aprovada, pois atendeu à frequência mínima e obteve nota final 5,0, média entre a nota de aproveitamento e a nota do exame final."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. A frequência mínima é de 75% (art. 46, caput), e Juliana teve 80%.\nB) INCORRETA. A aprovação sem exame final exige nota de aproveitamento não inferior a 7,0 (art. 46, I).\nC) INCORRETA. O que não pode ser inferior a 5,0 é a nota final, média entre a nota de aproveitamento e a do exame, e não a nota do exame isoladamente (art. 46, II).\nD) INCORRETA. Para quem faz exame final, a nota final mínima é 5,0 (art. 46, II).\nE) CORRETA. Com nota de aproveitamento inferior a 7,0 e não inferior a 3,0, Juliana fez exame final; a nota final é (6,0 + 4,0) ÷ 2 = 5,0, que não é inferior a 5,0 (art. 46, II).",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, art. 46",
+            "texto": "Art. 46. Atendida em qualquer caso a frequência mínima de 75% (setenta e cinco por cento) às aulas e demais atividades acadêmicas, é aprovado:\nI - independentemente do exame final, o aluno que obtiver nota de aproveitamento não inferior a 7,0 (sete), correspondentemente à média aritmética, sem arredondamento, das notas dos exercícios acadêmicos;\nII - mediante exame final o aluno que, tendo obtido nota de aproveitamento inferior a 7,0 (sete), porém não inferior a 3,0 (três), obtiver nota final não inferior a 5,0 (cinco) correspondente à média aritmética, sem arredondamento, entre a nota de aproveitamento e a nota de exame final."
+          }
+        },
+        {
+          "enunciado": "Com base nos arts. 49 a 51 do Regimento Acadêmico da ELEPA, em relação ao regime especial e exercícios domiciliares, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "É assegurado ao aluno o direito ao regime especial, com dispensa da frequência regular, nos casos previstos em lei.",
+            "B": "A não apresentação da documentação legal exigida pela ELEPA acarreta a perda do direito ao regime especial.",
+            "C": "O regime de exercício domiciliar deve ser requerido na Secretaria por formulário próprio, instruído com comprovante de matrícula e atestado médico com o CID e as datas de início e término do afastamento.",
+            "D": "O regime especial pode ser concedido para aulas práticas e estágios supervisionados, desde que o aluno apresente atestado médico com o CID.",
+            "E": "Alunos com deficiência, afecções congênitas ou adquiridas e distúrbios agudos são considerados merecedores de tratamento excepcional na forma de exercícios domiciliares."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). Reproduz o art. 49, caput, do Regimento Acadêmico.\nB) CORRETA (opção verdadeira). Fiel ao art. 49, parágrafo único, do Regimento Acadêmico.\nC) CORRETA (opção verdadeira). Em conformidade com o art. 50, parágrafo único, do Regimento Acadêmico.\nD) INCORRETA (gabarito). Pelo art. 51, o regime especial somente será admitido para os componentes curriculares teóricos, vedado para aulas práticas e estágios supervisionados.\nE) CORRETA (opção verdadeira). De acordo com o art. 50, caput, do Regimento Acadêmico.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 49 a 51",
+            "texto": "Art. 49. É assegurado ao aluno o direito ao regime especial, com dispensa da frequência regular, nos casos previstos em lei.\nParágrafo único. A não apresentação da documentação legal exigida pela ELEPA acarretará a perda do direito ao regime especial.\nArt. 50. Os alunos com deficiência e os portadores de afecções congênitas ou adquiridas, de infecções, de traumatismo ou de outras condições mórbidas, determinando distúrbios agudos ou agudizados, são considerados merecedores de tratamento excepcional, devendo a ELEPA conceder a esses estudantes, como compensação à ausência das aulas, o regime de exercícios domiciliares, com acompanhamento institucional, sempre que compatíveis com o estado de saúde do aluno, e de acordo com as possibilidades da Instituição, considerando a legislação vigente.\nParágrafo único. O regime de exercício domiciliar deverá ser requerido na Secretaria, por meio de formulário próprio, instruído com comprovante de matrícula e atestado médico contendo o Código Internacional de Doenças (CID) – motivo do afastamento – e as datas de início e de término do período em que o aluno ficará afastado das atividades acadêmicas.\nArt. 51. O regime especial somente será admitido para os componentes curriculares teóricos, vedado o direito a esta concessão às situações de aulas práticas e estágios supervisionados."
+          }
+        },
+        {
+          "enunciado": "Segundo os arts. 51 e 52 do Regimento Acadêmico da ELEPA, assinale a alternativa CORRETA sobre os estágios supervisionados:",
+          "alternativas": {
+            "A": "Os estágios supervisionados são meramente optativos, não sendo exigida sua integralização para a conclusão do curso.",
+            "B": "A regulamentação específica dos estágios é aprovada pelo Diretor Geral, priorizando-se as atividades realizadas na iniciativa privada.",
+            "C": "A integralização da carga horária total dos estágios é obrigatória para concluir o curso, e sua regulamentação, aprovada pelo Conselho Deliberativo, prioriza atividades na administração pública.",
+            "D": "É vedado incluir na carga horária do estágio as horas destinadas ao planejamento, orientação e avaliação das atividades.",
+            "E": "Os estágios supervisionados podem ser cumpridos no regime especial de exercícios domiciliares."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. Para a conclusão do curso, é obrigatória a integralização da carga horária total dos estágios (art. 52, § 1º).\nB) INCORRETA. A regulamentação é aprovada pelo Conselho Deliberativo e prioriza as atividades realizadas no âmbito da administração pública (art. 52, § 2º).\nC) CORRETA. Art. 52, §§ 1º e 2º.\nD) INCORRETA. O § 1º do art. 52 admite incluir na carga horária as horas destinadas ao planejamento, à orientação e à avaliação das atividades.\nE) INCORRETA. O regime especial é vedado para estágios supervisionados (art. 51).",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 51 e 52",
+            "texto": "Art. 51. O regime especial somente será admitido para os componentes curriculares teóricos, vedado o direito a esta concessão às situações de aulas práticas e estágios supervisionados.\nArt. 52. Os estágios supervisionados constam de atividades de prática pré-profissional, exercidas em situações de trabalho na área específica do curso.\n§ 1º Para a conclusão do curso, é obrigatória a integralização da carga horária total dos estágios, nela podendo-se incluir as horas destinadas ao planejamento, orientação paralela a avaliação das atividades.\n§ 2º Os estágios supervisionados dos cursos de graduação da ELEPA serão objeto de regulamentação específica, aprovada pelo Conselho Deliberativo da ELEPA, priorizando-se as atividades realizadas no âmbito da administração pública."
+          }
+        },
+        {
+          "enunciado": "Com base nos arts. 53 a 59 do Regimento Acadêmico da ELEPA (Comunidade Acadêmica), assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "Os monitores do Programa de Monitoria são selecionados pelos cursos e designados pelo Presidente da Assembleia Legislativa.",
+            "B": "Os membros do corpo docente têm o dever de elaborar o plano de ensino da disciplina e submetê-lo à aprovação da Direção Geral da ELEPA.",
+            "C": "O professor que deixar de cumprir o programa e o horário sem motivo justo é passível de penalidade disciplinar, e a reincidência importa em motivo bastante para adoção das sanções legais, garantido o direito de defesa.",
+            "D": "Constituem o corpo discente da ELEPA os alunos regularmente matriculados, que têm o direito expressamente reconhecido de recorrer de decisões dos órgãos deliberativos e executivos.",
+            "E": "A ELEPA pode instituir prêmios com estímulo à produção intelectual de seus alunos, na forma regulada pelo Conselho Deliberativo."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 58 do Regimento Acadêmico estabelece expressamente que os monitores são designados pelo Diretor Geral (e não pelo Presidente da ALEPA).\nB) CORRETA (opção verdadeira). Fiel ao art. 54, II, do Regimento Acadêmico.\nC) CORRETA (opção verdadeira). Em conformidade com o art. 55, caput e parágrafo único, do Regimento Acadêmico.\nD) CORRETA (opção verdadeira). De acordo com os arts. 56 e 57, IV, do Regimento Acadêmico.\nE) CORRETA (opção verdadeira). Reproduz o art. 59 do Regimento Acadêmico.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 54, II, 55, 56, 57, IV, 58 e 59",
+            "texto": "II - elaborar o plano de ensino de sua disciplina, submetendo-o à aprovação da Direção Geral da ELEPA;\nArt. 55. Será passível de penalidade disciplinar o professor que, sem motivo aceito como justo pelo órgão competente, deixar de cumprir o programa a seu encargo e o horário de trabalho a que esteja obrigado, importando a reincidência, nessas faltas, em motivo bastante para adoção das sanções legais admissíveis.\nParágrafo único. Ao professor será sempre garantido o direito de defesa.\nArt. 56. Constituem o corpo discente da ELEPA os alunos regularmente matriculados nos cursos mantidos pela Instituição.\nIV - recorrer de decisões dos órgãos deliberativos e executivos;\nArt. 58. A ELEPA poderá instituir Programa de Monitoria, nele admitindo alunos regulares selecionados pelos cursos e designados pelo Diretor Geral dentre os estudantes que tenham demonstrado rendimento satisfatório no componente curricular, bem como aptidão para atividades auxiliares de ensino e pesquisa.\nArt. 59. A ELEPA pode instituir prêmios, com estímulo à produção intelectual de seus alunos na forma regulada pelo Conselho Deliberativo."
+          }
+        },
+        {
+          "enunciado": "Em relação às disposições gerais e gradação das penalidades do regime disciplinar da ELEPA (arts. 60 a 65 do Regimento Acadêmico), assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "Na aplicação das penalidades disciplinares, considera-se a gravidade da infração à vista da primariedade do infrator, dolo ou culpa e valor do bem atingido.",
+            "B": "O registro das penalidades disciplinares é transcrito integralmente no histórico escolar do discente para fins de transparência pública.",
+            "C": "A aplicação a aluno ou docente de penalidade que implique afastamento temporário ou definitivo é precedida de processo administrativo instaurado por ato do Diretor Geral.",
+            "D": "Em caso de dano material ao patrimônio da ELEPA, o infrator estará obrigado ao ressarcimento, além da penalidade disciplinar cabível.",
+            "E": "O registro das penalidades de advertência e de repreensão será cancelado se, no prazo de 01 (um) ano de sua aplicação, o aluno não incorrer em reincidência."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). Reproduz o art. 61, § 1º, do Regimento Acadêmico.\nB) INCORRETA (gabarito). O art. 64 do Regimento Acadêmico estabelece expressamente que o registro da penalidade será feito em documento próprio, NÃO constando do histórico escolar do aluno.\nC) CORRETA (opção verdadeira). Conforme o art. 61, § 3º, do Regimento Acadêmico.\nD) CORRETA (opção verdadeira). Fiel ao art. 61, § 4º, do Regimento Acadêmico.\nE) CORRETA (opção verdadeira). De acordo com o art. 64, parágrafo único, do Regimento Acadêmico.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 61, §§ 1º, 3º e 4º, e 64",
+            "texto": "§ 1º Na aplicação das penalidades disciplinares será considerada a gravidade da infração, à vista dos seguintes elementos:\nI - primariedade do infrator;\nII - dolo ou culpa;\nIII - valor do bem moral, cultural ou material atingido.\n§ 3º A aplicação a aluno ou a docente de penalidade que implique afastamento, temporário ou definitivo, das atividades acadêmicas será precedida de processo administrativo, instaurado por ato do Diretor Geral da ELEPA.\n§ 4º Em caso de dano material ao patrimônio da ELEPA, além da penalidade disciplinar, o infrator estará obrigado ao ressarcimento, observadas as disposições legais aplicáveis aos servidores públicos.\nArt. 64. O registro da penalidade será feito em documento próprio, não constando do histórico escolar do aluno.\nParágrafo único. Será cancelado o registro das penalidades de advertência e de repreensão, se, no prazo de 01 (um) ano de sua aplicação, o aluno não incorrer em reincidência."
+          }
+        },
+        {
+          "enunciado": "Segundo o art. 63 do Regimento Acadêmico da ELEPA, assinale a alternativa que associa CORRETAMENTE a conduta do aluno à penalidade prevista:",
+          "alternativas": {
+            "A": "Desrespeito a membro do corpo docente: repreensão.",
+            "B": "Falsidade de documento para uso junto à ELEPA: desligamento.",
+            "C": "Improbidade na execução de trabalhos acadêmicos: suspensão.",
+            "D": "Incitamento à perturbação da ordem na ELEPA: desligamento.",
+            "E": "Dano em material da ELEPA: advertência verbal."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. Desrespeito a membro do corpo docente é caso de advertência verbal (art. 63, I, a).\nB) CORRETA. Art. 63, IV, b.\nC) INCORRETA. Improbidade na execução de atos ou trabalhos acadêmicos é caso de repreensão (art. 63, II, d).\nD) INCORRETA. Incitamento à perturbação da ordem na ELEPA é caso de suspensão (art. 63, III, c).\nE) INCORRETA. Dano em material da ELEPA é caso de repreensão (art. 63, II, c).",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, art. 63, I a IV",
+            "texto": "Art. 63. Os membros do corpo discente estão sujeitos às seguintes penalidades disciplinares:\nI - advertência verbal, nos seguintes casos:\na) desrespeito ao Diretor Geral, a qualquer membro do corpo docente ou do corpo técnico-administrativo da ELEPA;\nb) desobediência a qualquer determinação emanada do Diretor Geral ou de qualquer membro do corpo docente no exercício de suas funções.\nII - repreensão, nos seguintes casos:\na) reincidência nas faltas previstas no inciso I;\nb) ofensa ou agressão a outro aluno no recinto da ELEPA;\nc) dano em material da ELEPA;\nd) improbidade na execução de atos ou trabalhos acadêmicos.\nIII - suspensão, nos seguintes casos:\na) reincidência nas faltas prevista no inciso II;\nb) ofensa ou agressão a membro do corpo docente ou do corpo técnico-administrativo da ELEPA;\nc) incitamento à perturbação da ordem na ELEPA.\nIV - desligamento, nos seguintes casos:\na) reincidência nas faltas previstas no inciso III;\nb) falsidade de documento para uso junto à ELEPA."
+          }
+        },
+        {
+          "enunciado": "Rodrigo, aluno da ELEPA sem penalidade anterior, agrediu fisicamente um colega de turma no recinto da Escola. Segundo o Regimento Acadêmico, a penalidade cabível e o recurso são:",
+          "alternativas": {
+            "A": "suspensão, com recurso ao Conselho Deliberativo no prazo de 15 dias.",
+            "B": "repreensão, com recurso ao Diretor Geral no prazo de 15 dias.",
+            "C": "advertência verbal, por ser a primeira infração, com recurso ao Conselho Deliberativo no prazo de 15 dias.",
+            "D": "repreensão, com recurso ao Conselho Deliberativo no prazo de 15 dias.",
+            "E": "repreensão, com recurso ao Conselho Deliberativo no prazo de 08 dias."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. A suspensão alcança a ofensa ou agressão a membro do corpo docente ou técnico-administrativo (art. 63, III, b); a agressão a outro aluno é caso de repreensão (art. 63, II, b).\nB) INCORRETA. O recurso é dirigido ao Conselho Deliberativo (art. 63, § 2º).\nC) INCORRETA. A primariedade pesa na gravidade da infração (art. 61, § 1º, I), mas a agressão a outro aluno está prevista como caso de repreensão (art. 63, II, b).\nD) CORRETA. Art. 63, II, b, e § 2º.\nE) INCORRETA. O prazo do recurso é de 15 (quinze) dias (art. 63, § 2º).",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 61, § 1º, e 63, I a IV e § 2º",
+            "texto": "§ 1º Na aplicação das penalidades disciplinares será considerada a gravidade da infração, à vista dos seguintes elementos:\nI - primariedade do infrator;\nII - dolo ou culpa;\nIII - valor do bem moral, cultural ou material atingido.\nArt. 63. Os membros do corpo discente estão sujeitos às seguintes penalidades disciplinares:\nI - advertência verbal, nos seguintes casos:\na) desrespeito ao Diretor Geral, a qualquer membro do corpo docente ou do corpo técnico-administrativo da ELEPA;\nb) desobediência a qualquer determinação emanada do Diretor Geral ou de qualquer membro do corpo docente no exercício de suas funções.\nII - repreensão, nos seguintes casos:\na) reincidência nas faltas previstas no inciso I;\nb) ofensa ou agressão a outro aluno no recinto da ELEPA;\nc) dano em material da ELEPA;\nd) improbidade na execução de atos ou trabalhos acadêmicos.\nIII - suspensão, nos seguintes casos:\na) reincidência nas faltas prevista no inciso II;\nb) ofensa ou agressão a membro do corpo docente ou do corpo técnico-administrativo da ELEPA;\nc) incitamento à perturbação da ordem na ELEPA.\nIV - desligamento, nos seguintes casos:\na) reincidência nas faltas previstas no inciso III;\nb) falsidade de documento para uso junto à ELEPA.\n§ 2º Da aplicação das penalidades de advertência, repreensão, suspensão e desligamento cabe recurso ao Conselho Deliberativo no prazo de 15 (quinze) dias."
+          }
+        },
+        {
+          "enunciado": "Sobre recursos, casos omissos e disposições finais do Regimento Acadêmico da ELEPA (arts. 63, § 2º, e 65 a 68), assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "Os casos omissos no Regimento Acadêmico serão resolvidos pelo Diretor Geral da ELEPA, ad referendum do Conselho Deliberativo, nos termos da legislação vigente.",
+            "B": "O Regimento Acadêmico integra formalmente a Resolução nº 04, de 07 de dezembro de 2021.",
+            "C": "Da aplicação da penalidade de desligamento ao aluno cabe recurso ao Conselho Deliberativo no prazo de 15 (quinze) dias.",
+            "D": "Os membros do corpo técnico-administrativo estão sujeitos às disposições constantes da legislação estadual aplicável à matéria.",
+            "E": "Salvo disposição em contrário, o prazo para a interposição de recursos é de 10 (dez) dias, contados da publicação do ato recorrido ou de sua comunicação ao interessado."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). Art. 67.\nB) CORRETA (opção verdadeira). Art. 68.\nC) CORRETA (opção verdadeira). Art. 63, § 2º.\nD) CORRETA (opção verdadeira). Art. 65.\nE) INCORRETA (gabarito). Pelo art. 66, o prazo geral para a interposição de recursos é de 15 (quinze) dias.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 63, § 2º, e 65 a 68",
+            "texto": "§ 2º Da aplicação das penalidades de advertência, repreensão, suspensão e desligamento cabe recurso ao Conselho Deliberativo no prazo de 15 (quinze) dias.\nArt. 65. Os membros do corpo técnico-administrativo estão sujeitos às disposições constantes da legislação estadual aplicável à matéria.\nArt. 66. Salvo disposições em contrário deste Regimento, o prazo para a interposição de recursos é de 15 (quinze) dias, contados da data da publicação do ato recorrido ou de sua comunicação ao interessado.\nArt. 67. Os casos omissos neste Regimento serão resolvidos pelo Diretor Geral da ELEPA, ad referendum do Conselho Deliberativo, nos termos da legislação vigente.\nArt. 68. Este Regimento integra a Resolução 04, de 07 de dezembro de 2021."
+          }
+        }
+      ]
     }
   ]
 }
