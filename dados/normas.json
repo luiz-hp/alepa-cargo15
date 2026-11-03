@@ -865,7 +865,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2021_74464.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/res-04-2021.json"
     },
     {
       "id": "res-02-2023",
