@@ -322,6 +322,332 @@
           }
         }
       ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Cursos, ingresso, matrícula e aproveitamento de estudos",
+      "artigos": "Regimento Acadêmico, arts. 11 a 39",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "O Regimento prevê três modalidades: **graduação** (ensino médio concluído e classificação em processo seletivo, para quem integra ou quer integrar a administração pública), **pós-graduação** (diplomados em graduação: doutorado, mestrado, especialização e aperfeiçoamento) e **extensão** (requisitos fixados caso a caso). A integralização é pelo sistema **seriado semestral**, salvo previsão diversa no projeto pedagógico; a matrícula é **renovada semestralmente**, e a não renovação implica **abandono** e desvinculação."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Número",
+            "Regra",
+            "Artigo"
+          ],
+          "linhas": [
+            [
+              "**100 dias**",
+              "Mínimo de trabalho acadêmico efetivo no semestre, **excluídos** os exames finais",
+              "Art. 26"
+            ],
+            [
+              "**360 h** / **180 h**",
+              "Carga mínima da **especialização** / do **aperfeiçoamento**",
+              "Art. 20, § 2º"
+            ],
+            [
+              "**400 h**",
+              "A especialização só a ultrapassa em **casos especiais**",
+              "Art. 20, § 3º"
+            ],
+            [
+              "**20%**",
+              "Máximo de **especialistas** entre os docentes do curso de pós (igual ou inferior)",
+              "Art. 22, parágrafo único"
+            ],
+            [
+              "**7** documentos",
+              "Matrícula inicial, entre eles **02 fotos 3x4** e o termo de compromisso “quando for o caso”",
+              "Art. 32"
+            ],
+            [
+              "**03**",
+              "Componentes em **dependência**, no máximo, ao longo de **todo o curso**",
+              "Art. 33"
+            ],
+            [
+              "**+50%**",
+              "Prazo máximo de integralização = prazo mínimo do projeto pedagógico + 50%",
+              "Art. 33, § 2º"
+            ],
+            [
+              "**2 semestres**",
+              "Trancamento máximo no curso, **incluído** o semestre da concessão",
+              "Art. 34, § 1º"
+            ],
+            [
+              "**75%**",
+              "Correspondência mínima de carga horária **e** conteúdo para a equivalência",
+              "Art. 36, § 3º, I"
+            ],
+            [
+              "**05 anos**",
+              "Prazo máximo desde que o componente foi cursado; antes disso, **exame de conhecimento prévio**",
+              "Art. 36, § 3º, II e III"
+            ]
+          ]
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Quem",
+            "Decide ou aprova",
+            "Artigos"
+          ],
+          "linhas": [
+            [
+              "**Conselho Deliberativo**",
+              "Projetos pedagógicos de graduação e de pós; programação e regulamentação da extensão; provas do processo seletivo e níveis mínimos de classificação; normas do extraordinário aproveitamento",
+              "19, 21, 23, 28 § 3º, 29 e 39 § 4º"
+            ],
+            [
+              "**Diretor Geral**",
+              "Aprova o **plano de ensino** (elaborado pelo professor); concede o **aproveitamento** de estudos e determina as **adaptações**",
+              "13, § 1º, e 36, § 2º"
+            ],
+            [
+              "**Secretaria**",
+              "Recebe a **matrícula** e o ofício de **extraordinário aproveitamento**",
+              "32 e 39"
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) **Plano de ensino** (o professor elabora e o Diretor Geral aprova) não é **projeto pedagógico** (aprovado pelo Conselho Deliberativo). 2) Extraordinário aproveitamento: só para componentes **teóricos e teórico-práticos** ainda **não cursados**, e **nunca** para estágio supervisionado ou TCC. 3) É **vedado** o aproveitamento de créditos se o aluno já foi **reprovado** no componente da ELEPA. 4) Classificação no processo seletivo: ordem **decrescente**, válida só para o período letivo da seleção."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Nos termos do art. 11 do Regimento Acadêmico da ELEPA, assinale a alternativa CORRETA quanto às modalidades de cursos e ao público de cada uma:",
+          "alternativas": {
+            "A": "Os cursos de graduação são abertos a quem concluiu o ensino médio ou equivalente, foi classificado em processo seletivo e pertence ou tem interesse em integrar a administração pública.",
+            "B": "Os cursos de graduação são restritos a quem já pertença à administração pública, desde que classificado em processo seletivo.",
+            "C": "Os cursos de pós-graduação são abertos a candidatos que tenham concluído o ensino médio e sido classificados em processo seletivo.",
+            "D": "Os cursos de extensão são restritos aos diplomados em cursos de graduação da própria ELEPA.",
+            "E": "A ELEPA pode oferecer cursos de aperfeiçoamento e de especialização, mas não programas de mestrado e doutorado."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. É o que dispõe o art. 11, I.\nB) INCORRETA. Também podem ingressar os que tenham interesse em integrar a administração pública (art. 11, I).\nC) INCORRETA. A pós-graduação é aberta a candidatos diplomados em cursos de graduação (art. 11, II).\nD) INCORRETA. A extensão é aberta a candidatos que atendam aos requisitos estabelecidos em cada caso pelos órgãos competentes da ELEPA (art. 11, III).\nE) INCORRETA. O art. 11, II, inclui programas de mestrado e doutorado na pós-graduação.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, art. 11",
+            "texto": "Art. 11. A ELEPA poderá oferecer as seguintes modalidades de cursos e programas:\nI - de graduação, abertos a candidatos que tenham concluído o ensino médio ou equivalente e tenham sido classificados em processo seletivo e que possuam interesse em integrar a administração pública ou que já pertençam à administração pública;\nII - de pós-graduação, compreendendo cursos de aperfeiçoamento, de especialização, programas de mestrado e doutorado e outros, abertos a candidatos diplomados em cursos de graduação e que atendem as exigências estabelecidas pelos órgãos competentes da ELEPA;\nIII - de extensão, abertos a candidatos que atendam aos requisitos estabelecidos em cada caso pelos órgãos competentes da ELEPA."
+          }
+        },
+        {
+          "enunciado": "Em relação à organização curricular dos cursos de graduação da ELEPA (arts. 12 a 19 do Regimento Acadêmico), assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "É obrigatório o cumprimento integral do conteúdo e da carga horária estabelecidos no plano de ensino de cada componente curricular.",
+            "B": "A integralização curricular, salvo previsão diversa no projeto pedagógico de cada curso, é feita pelo sistema seriado semestral.",
+            "C": "Os alunos dos cursos de graduação considerados habilitados participarão do Exame Nacional de Desempenho dos Estudantes (ENADE).",
+            "D": "Os projetos pedagógicos dos cursos de graduação da ELEPA deverão ser aprovados em sua forma e conteúdo pelo Conselho Deliberativo.",
+            "E": "O plano de ensino de cada componente curricular é elaborado pelo Diretor Geral e aprovado pela Mesa Diretora da ALEPA."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). Corresponde ao art. 13, § 2º, do Regimento Acadêmico.\nB) CORRETA (opção verdadeira). Fiel à redação do art. 14 do Regimento Acadêmico.\nC) CORRETA (opção verdadeira). Está em conformidade com o art. 18 do Regimento Acadêmico.\nD) CORRETA (opção verdadeira). Reproduz o art. 19 do Regimento Acadêmico.\nE) INCORRETA (gabarito). O art. 13, § 1º, do Regimento Acadêmico estabelece expressamente que o plano de ensino é elaborado pelo respectivo professor e aprovado pelo Diretor Geral da ELEPA, e não elaborado pelo Diretor Geral e aprovado pela Mesa Diretora.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 13, §§ 1º e 2º, 14, 18 e 19",
+            "texto": "§1º O programa de cada componente curricular, sob a forma de plano de ensino, é elaborado pelo respectivo professor e aprovado pelo Diretor Geral da ELEPA.\n§2º É obrigatório o cumprimento integral do conteúdo e carga horária estabelecidos no plano de ensino de cada componente curricular.\nArt. 14. A integralização curricular, salvo previsão diversa consignada no projeto pedagógico de cada curso, é feita pelo sistema seriado semestral.\nArt. 18. Obedecidas às disposições legais próprias, os alunos dos cursos de graduação, considerados habilitados, participarão do Exame Nacional de Desempenho dos Estudantes (ENADE), independentemente da organização curricular adotada pela ELEPA, sendo inscrita no seu histórico escolar a situação regular com relação a essa obrigação.\nArt. 19. Os projetos pedagógicos dos cursos de graduação da ELEPA deverão ser aprovados em sua forma e conteúdo pelo Conselho Deliberativo."
+          }
+        },
+        {
+          "enunciado": "De acordo com o art. 15 do Regimento Acadêmico da ELEPA, a elaboração do currículo de cada curso de graduação deve observar princípios específicos. Assinale a alternativa que NÃO apresenta um desses princípios expressos:",
+          "alternativas": {
+            "A": "Incentivar uma sólida formação geral, necessária para que o egresso do curso possa vir a superar os desafios de renovadas condições de exercício profissional e produção do conhecimento.",
+            "B": "Estimular práticas de estudos independentes, visando à progressiva autonomia profissional e intelectual do aluno.",
+            "C": "Valorizar conteúdos específicos sobre as demandas locais e regionais, com ênfase no empreendedorismo na área da Gestão Pública.",
+            "D": "Vedar o reconhecimento de conhecimentos, habilidades e competências adquiridos fora do ambiente acadêmico, inclusive os decorrentes de experiência profissional.",
+            "E": "Fortalecer a articulação da teoria com a prática, valorizando a pesquisa individual e coletiva, assim como os estágios e a participação em atividades de extensão."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). Trata-se do princípio previsto no art. 15, I, do Regimento Acadêmico.\nB) CORRETA (opção verdadeira). Princípio contido no art. 15, II, do Regimento Acadêmico.\nC) CORRETA (opção verdadeira). Princípio previsto no art. 15, III, do Regimento Acadêmico.\nD) INCORRETA (gabarito). O art. 15, V, manda encorajar o reconhecimento de conhecimentos, habilidades e competências adquiridos fora do ambiente acadêmico, inclusive os da experiência profissional.\nE) CORRETA (opção verdadeira). Princípio previsto no art. 15, VI, do Regimento Acadêmico.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, art. 15",
+            "texto": "Art. 15. Na elaboração do currículo de cada curso de graduação serão observadas as diretrizes curriculares editadas pelo Poder Público e os seguintes princípios:\nI - incentivar uma sólida formação geral, necessária para que o egresso do curso possa vir a superar os desafios de renovadas condições de exercício profissional e produção do conhecimento;\nII - estimular práticas de estudos independentes, visando à progressiva autonomia profissional e intelectual do aluno;\nIII - valorizar conteúdos específicos sobre as demandas locais e regionais, com ênfase no empreendedorismo na área da Gestão Pública;\nIV - fortalecer valores éticos relacionados, principalmente, à Gestão Pública, conferindo ao egresso capacidade de superação dos desafios impostos à democracia participativa na sociedade atual;\nV - encorajar o reconhecimento de conhecimentos, habilidades e competências adquiridas fora do ambiente acadêmico, inclusive as que se referirem à experiência profissional;\nVI - fortalecer a articulação da teoria com a prática, valorizando a pesquisa individual e coletiva, assim como os estágios e a participação em atividades de extensão;\nVII - estabelecer mecanismos de avaliações periódicas, que sirvam para informar a professores e a alunos acerca do desenvolvimento das atividades didáticas."
+          }
+        },
+        {
+          "enunciado": "Sobre as normas aplicáveis aos cursos de pós-graduação da ELEPA (arts. 20 e 22 do Regimento Acadêmico), assinale a alternativa CORRETA:",
+          "alternativas": {
+            "A": "A especialização exige carga horária mínima de 180 horas e o aperfeiçoamento exige carga horária mínima de 360 horas.",
+            "B": "O percentual de especialistas no corpo docente do curso deverá ser igual ou superior a 20% do total de docentes.",
+            "C": "A especialização tem carga horária mínima de 360 horas, o aperfeiçoamento, de 180 horas, e os especialistas devem ser, no máximo, 20% dos docentes do curso.",
+            "D": "A especialização não poderá, em nenhuma hipótese, ultrapassar a duração de 400 horas.",
+            "E": "Os docentes da pós-graduação deverão possuir título stricto sensu, vedada a atuação de especialistas."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. Os valores estão invertidos: especialização, mínimo de 360 horas; aperfeiçoamento, mínimo de 180 horas (art. 20, § 2º).\nB) INCORRETA. O percentual de especialistas deve ser igual ou inferior a 20% (art. 22, parágrafo único).\nC) CORRETA. Art. 20, § 2º, e art. 22, parágrafo único.\nD) INCORRETA. Em casos especiais, a especialização pode ultrapassar 400 horas (art. 20, § 3º).\nE) INCORRETA. O art. 22 admite título de pós-graduação lato ou stricto sensu, e os especialistas podem compor até 20% do corpo docente.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 20, §§ 2º e 3º, e 22",
+            "texto": "§ 2º Os cursos de pós-graduação em nível de especialização, com carga horária mínima de 360 horas, e de aperfeiçoamento, com carga horária mínima de 180 horas, têm por finalidade desenvolver e aprofundar estudos realizados em nível de graduação, e são voltados às expectativas de aprimoramento acadêmico e profissional, com caráter de educação continuada.\n§ 3º Somente em casos especiais os cursos de pós-graduação em nível de especialização ultrapassarão a duração de 400 horas, de modo a não com-prometer os objetivos do curso.\nArt. 22. Os docentes que ministrarão os componentes curriculares para os cursos de pós-graduação da ELEPA, além de sólida e comprovada formação acadêmica na abrangência de sua disciplina, preferencialmente desenvolvendo atividades técnicas e profissionais correlatas a sua disciplina no mercado de trabalho, deverão possuir título acadêmico de Pós-graduação Lato ou Stricto Sensu expedido por instituição credenciada pelo MEC ou pelo respectivo Sistema de Ensino.\nParágrafo único. O percentual de especialistas deverá ser igual ou inferior a 20% do total de docentes do curso."
+          }
+        },
+        {
+          "enunciado": "Com base nos arts. 11, 20, 21 e 23 do Regimento Acadêmico da ELEPA, assinale a alternativa INCORRETA quanto à pós-graduação e à extensão:",
+          "alternativas": {
+            "A": "Os projetos pedagógicos dos cursos de pós-graduação da ELEPA deverão ser aprovados em sua forma e conteúdo pelo Conselho Deliberativo.",
+            "B": "Os cursos de doutorado e mestrado destinam-se a proporcionar formação científica aprofundada e têm carga horária mínima determinada pela legislação.",
+            "C": "Os cursos de extensão são abertos a candidatos que atendam aos requisitos estabelecidos em cada caso pelos órgãos competentes da ELEPA.",
+            "D": "A programação e regulamentação dos cursos de extensão serão aprovadas exclusivamente por ato unilateral da Secretaria Escolar, sem ingerência do Conselho Deliberativo.",
+            "E": "Os cursos de pós-graduação compreendem os níveis de doutorado, mestrado, especialização e aperfeiçoamento."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). Conforme o art. 21 do Regimento Acadêmico.\nB) CORRETA (opção verdadeira). Conforme o art. 20, § 1º, do Regimento Acadêmico.\nC) CORRETA (opção verdadeira). Fiel ao art. 11, III, do Regimento Acadêmico.\nD) INCORRETA (gabarito). O art. 23 do Regimento Acadêmico atribui expressamente a aprovação da programação e regulamentação dos cursos de extensão ao Conselho Deliberativo da ELEPA, e não à Secretaria Escolar.\nE) CORRETA (opção verdadeira). De acordo com o art. 20, incisos I a IV, do Regimento Acadêmico.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 11, III, 20, 21 e 23",
+            "texto": "III - de extensão, abertos a candidatos que atendam aos requisitos estabelecidos em cada caso pelos órgãos competentes da ELEPA.\nArt. 20. Os cursos de pós-graduação compreendem os seguintes níveis de formação:\nI - doutorado;\nII - mestrado;\nIII - especialização;\nIV - aperfeiçoamento.\n§ 1º Os cursos pós-graduação, compreendendo programas de doutorado e mestrado, destinam-se a proporcionar formação científica aprofundada e têm carga horária mínima determinada pela legislação.\nArt. 21. Os projetos pedagógicos dos cursos de pós-graduação da ELEPA deverão ser aprovados em sua forma e conteúdo pelo Conselho Deliberativo.\nArt. 23. A programação e a regulamentação dos cursos de extensão serão aprovadas pelo Conselho Deliberativo da ELEPA, com base em projetos confeccionados para esse fim, observadas as normas vigentes."
+          }
+        },
+        {
+          "enunciado": "Em relação à pesquisa e à extensão (arts. 24 e 25 do Regimento Acadêmico da ELEPA), assinale a alternativa CORRETA:",
+          "alternativas": {
+            "A": "As atividades de extensão são desvinculadas do ensino e da pesquisa e destinam-se exclusivamente aos servidores da ALEPA.",
+            "B": "A participação em congressos, simpósios e seminários é forma de extensão à comunidade, e não meio de incentivo à pesquisa.",
+            "C": "A promoção de atividades desportivas não está entre as formas de realização das atividades de extensão.",
+            "D": "O estímulo ao pensar crítico restringe-se aos cursos de pós-graduação, sem alcançar as demais atividades didático-pedagógicas.",
+            "E": "A ELEPA incentiva a pesquisa, entre outros meios, pela concessão de bolsas de estudos ou de auxílios para determinados projetos e pelo intercâmbio com instituições científicas."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. As atividades de extensão são articuladas com o ensino e a pesquisa e voltadas à comunidade (art. 25).\nB) INCORRETA. A programação de eventos científicos e a participação em congressos, simpósios, seminários e encontros são meios de incentivo à pesquisa (art. 24, VII).\nC) INCORRETA. O parágrafo único do art. 25 inclui a promoção de atividades artísticas, culturais e desportivas.\nD) INCORRETA. O art. 24, I, prevê o estímulo ao pensar crítico “em qualquer atividade didático-pedagógica”.\nE) CORRETA. Art. 24, IV e VI.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 24 e 25",
+            "texto": "Art. 24. A ELEPA incentiva a pesquisa por todos os meios ao seu alcance, principalmente através:\nI - do cultivo da atividade científica e do estímulo ao pensar crítico em qualquer atividade didático-pedagógica;\nII - da manutenção de serviços de apoio indispensáveis, tais como, biblioteca, documentação e divulgação científica;\nIII - da formação de pessoal em cursos de pós-graduação;\nIV - da concessão de bolsas de estudos ou de auxílios para a execução de determinados projetos;\nV - da realização de convênios com entidades patrocinadoras de pesquisa;\nVI - do intercâmbio com instituições científicas;\nVII - da programação de eventos científicos e participação em congressos, simpósios, seminários e encontros.\nArt. 25. A ELEPA mantém atividades e serviços de extensão à comunidade, articulados com o ensino e a pesquisa, para a difusão de conhecimentos e técnicas pertinentes à área de seus cursos.\nParágrafo único. As atividades e serviços são realizados, principalmente, sob a forma de:\nI - atendimento à comunidade, diretamente ou por meio de instituições públicas e privadas;\nII - participação em iniciativa de natureza cultural, artística e científica;\nIII - promoção de atividades artísticas, culturais e desportivas."
+          }
+        },
+        {
+          "enunciado": "Segundo os arts. 26 e 27 do Regimento Acadêmico da ELEPA, assinale a alternativa CORRETA sobre o período letivo e o calendário acadêmico:",
+          "alternativas": {
+            "A": "O semestre letivo regular terá, no mínimo, 100 dias de trabalho acadêmico efetivo, independentemente do ano civil, excluído o tempo reservado aos exames finais.",
+            "B": "O semestre letivo regular terá, no mínimo, 100 dias de trabalho acadêmico efetivo, incluído o tempo reservado aos exames finais.",
+            "C": "O semestre letivo regular terá, no máximo, 100 dias de trabalho acadêmico efetivo, excluído o tempo reservado aos exames finais.",
+            "D": "O período letivo não pode ser prolongado, ainda que necessário para completar os dias letivos previstos.",
+            "E": "O calendário acadêmico não pode incluir períodos de estudos intensivos ou complementares."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. É o que dispõe o art. 26.\nB) INCORRETA. O tempo reservado aos exames finais é excluído da contagem (art. 26).\nC) INCORRETA. Os 100 dias são o mínimo, e não o máximo (art. 26).\nD) INCORRETA. O período letivo prolongar-se-á sempre que necessário para completar os dias letivos e cumprir integralmente conteúdo e carga horária (art. 26, parágrafo único).\nE) INCORRETA. O parágrafo único do art. 27 admite períodos de estudos intensivos e/ou complementares.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 26 e 27",
+            "texto": "Art. 26. O semestre letivo regular, independentemente do ano civil, terá, no mínimo, 100 (cem) dias de trabalho acadêmico efetivo, excluído o tempo reservado aos exames finais.\nParágrafo único. O período letivo prolongar-se-á sempre que necessário para que se completem os dias letivos previstos, bem como para o integral cumprimento do conteúdo e carga horária estabelecidos nos programas dos componentes curriculares nele ministrados.\nArt. 27. As atividades da ELEPA são definidas no calendário acadêmico do qual constam, pelo menos, o início e o encerramento de matrícula e os períodos de realização das avaliações e exames finais.\nParágrafo único. O calendário acadêmico pode incluir períodos de estudos intensivos e/ou complementares, destinados a estudos e atividades específicos."
+          }
+        },
+        {
+          "enunciado": "De acordo com os arts. 28 a 30 do Regimento Acadêmico da ELEPA, sobre as regras do processo seletivo para ingresso nos cursos de graduação, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "O processo seletivo pode revestir-se de características especiais, dada a natureza da instituição voltada aos colaboradores do Poder Legislativo.",
+            "B": "A classificação obtida conserva seus efeitos ainda que o candidato classificado deixe de requerer a matrícula nos prazos fixados.",
+            "C": "As provas abrangem conhecimentos comuns do ensino médio, sem ultrapassar esse nível de complexidade.",
+            "D": "A classificação é feita em ordem decrescente dos resultados obtidos, excluídos os candidatos que não atingirem os níveis mínimos estabelecidos pelo Conselho Deliberativo.",
+            "E": "Na hipótese de restarem vagas, poderá realizar-se novo processo seletivo ou matricular-se portadores de diploma de graduação."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). Conforme o art. 28, § 1º, do Regimento Acadêmico.\nB) INCORRETA (gabarito). Pelo art. 29, § 1º, os efeitos da classificação tornam-se nulos se o candidato deixar de requerer a matrícula ou não apresentar a documentação completa nos prazos fixados.\nC) CORRETA (opção verdadeira). De acordo com o art. 28, § 3º, do Regimento Acadêmico.\nD) CORRETA (opção verdadeira). Em conformidade com o art. 29, caput, do Regimento Acadêmico.\nE) CORRETA (opção verdadeira). Fiel à redação do art. 29, § 2º, do Regimento Acadêmico.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 28, §§ 1º e 3º, e 29",
+            "texto": "§ 1º O processo seletivo para ingresso nos cursos de graduação da ELEPA, nos termos dos respectivos editais, pode revestir-se de características especiais, dada a natureza da Instituição, voltada ao desenvolvimento e formação dos colaboradores ligados ao Poder Legislativo do Estado do Pará.\n§ 3º O processo seletivo abrange conhecimentos comuns às diversas formas de escolaridade do ensino médio, sem ultrapassar este nível de complexidade, a serem avaliados em provas, na forma disciplinada pelo Conselho Deliberativo da ELEPA.\nArt. 29. A classificação decorrente do processo seletivo da ELEPA para ingresso nos cursos de graduação é feita pela ordem decrescente dos resultados obtidos, sem ultrapassar o limite de vagas fixado, excluídos os candidatos que não obtiverem os níveis mínimos estabelecidos pelo Conselho Deliberativo da ELEPA.\n§ 1º A classificação obtida é válida para a matrícula no período letivo para o qual se realiza a seleção, tornando-se nulos seus efeitos se o candidato classificado deixar de requerê-la ou, em o fazendo, não apresentar a documentação completa, dentro dos prazos fixados.\n§ 2º Na hipótese de restarem vagas poderá realizar-se novo processo seletivo, ou nelas poderão ser matriculados portadores de diploma de graduação, conforme legislação vigente, respeitados os requisitos estabelecidos no respectivo edital de seleção."
+          }
+        },
+        {
+          "enunciado": "Segundo o art. 28, § 4º, do Regimento Acadêmico da ELEPA, assinale a alternativa que NÃO corresponde a item que deve constar, no mínimo, do edital do processo seletivo:",
+          "alternativas": {
+            "A": "Número de vagas oferecidas, por turno de funcionamento, de cada curso e habilitação.",
+            "B": "Especificação do ato autorizativo de cada curso.",
+            "C": "Prazo de validade do processo seletivo.",
+            "D": "Relação das provas e critérios de classificação.",
+            "E": "Nome e titulação dos professores que ministrarão cada componente curricular."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). Art. 28, § 4º, IV.\nB) CORRETA (opção verdadeira). Art. 28, § 4º, III.\nC) CORRETA (opção verdadeira). Art. 28, § 4º, XI.\nD) CORRETA (opção verdadeira). Art. 28, § 4º, IX e X.\nE) INCORRETA (gabarito). A qualificação dos professores não está entre os itens mínimos do edital listados no § 4º do art. 28.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, art. 28, § 4º",
+            "texto": "§ 4º As inscrições para processo seletivo são abertas em edital, do qual constarão, no mínimo:\nI - denominação e habilitações de cada curso abrangido pelo processo seletivo;\nII - detalhamento de eventuais circunstâncias diferenciadas, de conformidade com o disposto no §1º deste artigo;\nIII - especificação do ato autorizativo de cada curso;\nIV - número de vagas oferecidas, por turno de funcionamento, de cada curso e habilitação;\nV - local de funcionamento de cada curso;\nVI - normas de acesso e os prazos de inscrição;\nVII - conteúdos abrangidos;\nVIII - documentação exigida para a inscrição;\nIX - relação das provas;\nX - critérios de classificação;\nXI - prazo de validade do processo seletivo;\nXII - demais informações úteis e pertinentes ao certame."
+          }
+        },
+        {
+          "enunciado": "Sobre a matrícula nos cursos de graduação da ELEPA (arts. 32 e 33 do Regimento Acadêmico), assinale a alternativa CORRETA:",
+          "alternativas": {
+            "A": "O prazo máximo de integralização corresponde ao dobro do prazo mínimo previsto no projeto pedagógico do curso.",
+            "B": "A matrícula inicial é requerida na Coordenadoria Pedagógica, instruída com diploma de curso superior.",
+            "C": "O prazo máximo de integralização corresponde ao prazo mínimo previsto no projeto pedagógico do curso acrescido de 50%.",
+            "D": "O termo de compromisso com o curso e a carreira no serviço público é exigido de todos os alunos na matrícula inicial.",
+            "E": "Entre os documentos da matrícula inicial estão 03 fotos 3x4 recentes e a prova de quitação com as obrigações eleitorais."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O acréscimo é de 50% sobre o prazo mínimo, e não de 100% (art. 33, § 2º).\nB) INCORRETA. A matrícula realiza-se na Secretaria, e o documento de escolaridade exigido é o certificado ou diploma do ensino médio, ou equivalente (art. 32).\nC) CORRETA. É o que dispõe o art. 33, § 2º.\nD) INCORRETA. O termo de compromisso é exigido “quando for o caso” (art. 32, III).\nE) INCORRETA. São exigidas 02 (duas) fotos 3x4 recentes (art. 32, VI).",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 32 e 33, § 2º",
+            "texto": "Art. 32. A matrícula, ato formal de ingresso no curso e de vinculação aos cursos ofertados pela ELEPA, realiza-se na Secretaria, em prazos estabelecidos no respectivo edital ou calendário acadêmico, em relação a alunos veteranos, mediante requerimento instruído com a seguinte documentação, no caso de matrícula inicial:\nI - certificado ou diploma de curso do ensino médio, ou equivalente, bem como cópia do histórico escolar;\nII - prova de quitação com o serviço militar e obrigações eleitorais;\nIII - assinatura de termo de compromisso com o curso e a carreira no serviço público, quando for o caso;\nIV - cédula de identidade;\nV - certidão de nascimento ou casamento;\nVI - 02 (duas) fotos 3x4 recentes;\nVII - comprovante de residência.\n§ 2º O prazo máximo de integralização dos cursos de graduação mantidos pela ELEPA será correspondente ao acréscimo de 50% (cinquenta por cento) ao prazo mínimo de integralização disposto no projeto pedagógico de cada curso."
+          }
+        },
+        {
+          "enunciado": "Em relação ao trancamento de matrícula e à renovação nos cursos de graduação da ELEPA (arts. 33 e 34 do Regimento Acadêmico), assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "A matrícula nos cursos de graduação da ELEPA é renovada semestralmente, nos prazos estabelecidos no calendário acadêmico.",
+            "B": "A não renovação da matrícula nos cursos de graduação implica abandono do curso e a desvinculação do aluno da ELEPA.",
+            "C": "O trancamento de matrícula visa interromper temporariamente os estudos, mantendo a vinculação do aluno à ELEPA e seu direito à renovação.",
+            "D": "O trancamento de matrícula poderá ser concedido por até 4 (quatro) semestres letivos consecutivos, desconsiderando-se o semestre de concessão.",
+            "E": "Admite-se a dependência em, no máximo, 03 (três) componentes curriculares ao longo de todo o curso."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). Fiel ao art. 33, caput, do Regimento Acadêmico.\nB) CORRETA (opção verdadeira). Em conformidade com o art. 33, § 1º, do Regimento Acadêmico.\nC) CORRETA (opção verdadeira). De acordo com o art. 34, caput, do Regimento Acadêmico.\nD) INCORRETA (gabarito). O art. 34, § 1º, do Regimento Acadêmico dispõe expressamente que o trancamento não será concedido por prazo superior a 2 (dois) semestres letivos ao longo do curso, incluindo aquele em que foi concedido.\nE) CORRETA (opção verdadeira). Conforme o art. 33, caput, do Regimento Acadêmico.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 33 e 34",
+            "texto": "Art. 33. A matrícula nos cursos de graduação é renovada semestralmente, nos prazos estabelecidos no calendário acadêmico, admitindo-se a dependência em, no máximo, 03 componentes curriculares ao longo de todo o curso.\n§ 1º A não renovação da matrícula nos cursos de graduação implica abandono do curso e a desvinculação do aluno da ELEPA.\nArt. 34. Poderá ser concedido o trancamento de matrícula para o efeito de, interrompidos temporariamente os estudos, manter a vinculação do aluno à ELEPA e seu direito à renovação de matrícula.\n§ 1º Em qualquer hipótese, o trancamento de matrícula não será concedido por prazo superior a 2 (dois) semestres letivos ao longo do curso, incluindo aquele em que foi concedido."
+          }
+        },
+        {
+          "enunciado": "A respeito do aproveitamento e equivalência de estudos regulados no art. 36 do Regimento Acadêmico da ELEPA, assinale a alternativa correta quanto aos critérios legais aplicáveis:",
+          "alternativas": {
+            "A": "A equivalência exige que o componente tenha sido cursado há no máximo 10 anos e corresponda a 50% da carga horária.",
+            "B": "A equivalência de estudos só será concedida quando corresponder a, no mínimo, 75% da carga horária e do conteúdo programático, e tiver sido cursado há, no máximo, 05 anos da data do requerimento.",
+            "C": "Quando dois ou mais componentes cursados forem aproveitados para um único componente do curso, a nota registrada será a maior nota obtida entre eles.",
+            "D": "É permitido o aproveitamento de créditos mesmo que o discente já tenha sido reprovado no componente curricular correspondente na ELEPA.",
+            "E": "O aproveitamento é concedido e as adaptações são determinadas pelo Conselho Deliberativo da ELEPA."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. Exige-se no mínimo 75% da carga horária/conteúdo e no máximo 05 anos (art. 36, § 3º, I e II).\nB) CORRETA. Conforme o art. 36, § 3º, incisos I e II, do Regimento Acadêmico, a equivalência de estudos exige correspondência de no mínimo 75% da carga e conteúdo e conclusão há no máximo 05 anos.\nC) INCORRETA. A nota registrada será a média aritmética simples das notas dos componentes considerados (art. 36, § 4º).\nD) INCORRETA. É vedado o aproveitamento de créditos se o aluno já foi reprovado no componente da ELEPA (art. 36, § 6º).\nE) INCORRETA. O aproveitamento é concedido e as adaptações são determinadas pelo Diretor Geral da ELEPA (art. 36, § 2º).",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, art. 36, §§ 2º, 3º, 4º e 6º",
+            "texto": "§ 2º O aproveitamento é concedido e as adaptações são determinadas pelo Diretor Geral da ELEPA, observadas as seguintes normas da legislação pertinente:\n§ 3º A equivalência de estudos, para fins de aproveitamento de componente curricular cursado, só será concedida:\nI - quando corresponder a, no mínimo, 75% (setenta e cinco por cento) da carga horária e do conteúdo programático do componente curricular do curso, observadas as diretrizes curriculares da área;\nII - quando tiver sido cursado há, no máximo, 05 (cinco) anos, contados da data do respectivo requerimento protocolado junto à ELEPA;\nIII - os estudos/atividades realizados em períodos anteriores ao previsto no inciso II deste parágrafo poderão ser aproveitados mediante a realização de exame de conhecimento prévio, na forma disciplinada por norma específica.\n§ 4º Quando dois ou mais componentes curriculares cursados forem aproveitados para um único componente do curso da ALEPA, a nota a ser registrada será a média aritmética simples das notas dos componentes curriculares considerados.\n§ 6º É vetado o aproveitamento de créditos quando o discente já tiver sido reprovado no componente curricular do curso da ELEPA objeto de aproveitamento."
+          }
+        },
+        {
+          "enunciado": "Com base no art. 39 do Regimento Acadêmico da ELEPA, sobre o extraordinário aproveitamento de estudos, assinale a alternativa INCORRETA:",
+          "alternativas": {
+            "A": "O aluno pode solicitar o extraordinário aproveitamento mediante ofício protocolado na Secretaria, com base na LDB (Lei nº 9.394/1996).",
+            "B": "Exige a comprovação de competências/habilidades por meio de provas específicas prestadas perante banca examinadora especial.",
+            "C": "O extraordinário aproveitamento de estudos poderá ser concedido em relação ao estágio supervisionado e ao trabalho de conclusão de curso.",
+            "D": "Pode ser concedido para componentes curriculares teóricos e teórico-práticos.",
+            "E": "O aluno só pode solicitar o extraordinário aproveitamento se ainda não tiver cursado o componente curricular pretendido."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). Fiel ao art. 39, caput, do Regimento Acadêmico.\nB) CORRETA (opção verdadeira). De acordo com o art. 39, § 1º, do Regimento Acadêmico.\nC) INCORRETA (gabarito). O art. 39, § 2º, do Regimento Acadêmico prevê expressamente a exceção, vedando o extraordinário aproveitamento para o estágio supervisionado e o trabalho de conclusão de curso.\nD) CORRETA (opção verdadeira). Em conformidade com o art. 39, § 2º, do Regimento Acadêmico.\nE) CORRETA (opção verdadeira). Conforme o art. 39, § 3º, do Regimento Acadêmico.",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, art. 39",
+            "texto": "Art. 39. O aluno poderá solicitar através de ofício protocolado na Secretaria o extraordinário aproveitamento de estudos, com base no art. 47, § 2º da Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996), ou outro dispositivo legal que venha a sucedê-la.\n§ 1º Para os fins previstos no caput deste artigo, configurará extraordinário aproveitamento de estudos a comprovação, pelo aluno, por meio de provas específicas, prestadas perante banca examinadora especial, de que detém as competências/habilidades exigidas no componente curricular para o qual busca dispensa.\n§ 2º O extraordinário aproveitamento de estudos poderá ser concedido em relação aos componentes curriculares teóricos e teórico-práticos, excetuando-se o estágio supervisionado e o trabalho de conclusão de curso.\n§ 3º O aluno poderá solicitar o extraordinário aproveitamento de estudos desde que ainda não tenha cursado o componente curricular para o qual busca dispensa, apresentando sua solicitação nas datas estipuladas no calendário acadêmico, acompanhada da documentação que embasa o pedido, para análise da Direção.\n§ 4º O extraordinário aproveitamento de estudos será normatizado por resolução do Conselho Deliberativo da ELEPA."
+          }
+        },
+        {
+          "enunciado": "Marcos, servidor da ALEPA e aluno de graduação da ELEPA, requereu o aproveitamento da disciplina “Direito Administrativo”, cursada com aprovação em outra instituição há 4 anos, com 80% de correspondência de carga horária e de conteúdo. Pediu também o extraordinário aproveitamento de estudos do componente “Estágio Supervisionado I”, alegando larga experiência profissional na administração pública. À luz dos arts. 36 e 39 do Regimento Acadêmico, assinale a alternativa CORRETA:",
+          "alternativas": {
+            "A": "Os dois pedidos podem ser deferidos, pois o aproveitamento atende aos limites de 75% e de 5 anos, e o extraordinário aproveitamento alcança qualquer componente curricular.",
+            "B": "O aproveitamento de Direito Administrativo pode ser concedido, por atender ao mínimo de 75% e ao máximo de 5 anos; o extraordinário aproveitamento do estágio não, pois o estágio supervisionado é excetuado.",
+            "C": "O aproveitamento de Direito Administrativo deve ser negado, pois só se aproveitam estudos cursados há no máximo 2 anos; o extraordinário aproveitamento do estágio pode ser concedido perante banca examinadora especial.",
+            "D": "O aproveitamento de Direito Administrativo depende de exame de conhecimento prévio, por ter sido cursado há mais de 3 anos; o extraordinário aproveitamento do estágio não pode ser concedido.",
+            "E": "O aproveitamento de Direito Administrativo exige correspondência integral (100%) de carga horária e conteúdo; o extraordinário aproveitamento do estágio não pode ser concedido."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O extraordinário aproveitamento não alcança o estágio supervisionado nem o trabalho de conclusão de curso (art. 39, § 2º).\nB) CORRETA. O pedido de aproveitamento atende ao art. 36, § 3º, I e II (mínimo de 75% e no máximo 05 anos), e o art. 39, § 2º, excetua o estágio supervisionado.\nC) INCORRETA. O limite é de 05 anos (art. 36, § 3º, II), e o estágio supervisionado é excetuado do extraordinário aproveitamento (art. 39, § 2º).\nD) INCORRETA. O exame de conhecimento prévio só se aplica a estudos anteriores ao prazo de 05 anos (art. 36, § 3º, III).\nE) INCORRETA. Basta a correspondência de, no mínimo, 75% (art. 36, § 3º, I).",
+          "base_legal": {
+            "dispositivo": "Regimento Acadêmico, arts. 36, § 3º, e 39, § 2º",
+            "texto": "§ 3º A equivalência de estudos, para fins de aproveitamento de componente curricular cursado, só será concedida:\nI - quando corresponder a, no mínimo, 75% (setenta e cinco por cento) da carga horária e do conteúdo programático do componente curricular do curso, observadas as diretrizes curriculares da área;\nII - quando tiver sido cursado há, no máximo, 05 (cinco) anos, contados da data do respectivo requerimento protocolado junto à ELEPA;\nIII - os estudos/atividades realizados em períodos anteriores ao previsto no inciso II deste parágrafo poderão ser aproveitados mediante a realização de exame de conhecimento prévio, na forma disciplinada por norma específica.\n§ 2º O extraordinário aproveitamento de estudos poderá ser concedido em relação aos componentes curriculares teóricos e teórico-práticos, excetuando-se o estágio supervisionado e o trabalho de conclusão de curso."
+          }
+        }
+      ]
     }
   ]
 }
