@@ -739,7 +739,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei03_2007_33961.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/ouvidoria.json"
     },
     {
       "id": "res-04-2012",
@@ -753,7 +753,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2012_35231.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/ouvidoria.json"
     },
     {
       "id": "res-08-2012",
