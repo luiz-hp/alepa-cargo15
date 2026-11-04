@@ -27,7 +27,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei39_1991_96558.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-39-1991.json"
     },
     {
       "id": "dl-32-1993",
