@@ -247,6 +247,228 @@
       ]
     },
     {
+      "numero": 2,
+      "titulo": "Rede Estadual de Ouvidorias Legislativas (Resolução nº 03/2021)",
+      "artigos": "Arts. 1º a 6º e Anexos I e II",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A **Res. 03/2021** instituiu a **Rede Estadual de Ouvidorias Legislativas**, formada pela **Ouvidoria da ALEPA** e pelas Ouvidorias das **Câmaras Municipais** que aderirem. A adesão é **voluntária**: o Termo de Adesão Físico (modelo do **Anexo I**) é firmado pelo **presidente da Câmara ou pelo ouvidor**, digitalizado e enviado à **Ouvidoria Geral da ALEPA** com o Termo de Adesão Eletrônico. Como não alterou o Regimento de 1994, a Res. 03/2021 não foi alcançada pela revogação do art. 4º da Res. 02/2022."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra",
+            "Dispositivo"
+          ],
+          "linhas": [
+            [
+              "Finalidade",
+              "Ampliar a **resolutividade** das manifestações e melhorar a **efetividade** e a **transparência** dos serviços públicos (Lei 13.460/2017, caps. III, IV e VI)",
+              "Art. 2º"
+            ],
+            [
+              "Ações (“dentre outras”)",
+              "Intercâmbio; atos de padronização (TIC); grupos de trabalho; controle social; **Concurso de Boas Práticas anual**; elaborar e aprovar **o seu próprio Regimento**",
+              "Art. 2º, I a VI"
+            ],
+            [
+              "Reuniões ordinárias",
+              "**2 por ano**, preferencialmente em **março e setembro**, presenciais ou por videoconferência; extraordinárias são possíveis",
+              "Art. 3º"
+            ],
+            [
+              "Ata e quórum",
+              "Ata assinada por **todos os presentes**; decisões por **maioria simples**",
+              "Art. 3º, §§ 2º e 3º"
+            ],
+            [
+              "Despesas e vigência",
+              "**Verbas próprias** consignadas no Orçamento; vigor na **publicação**",
+              "Arts. 5º e 6º"
+            ],
+            [
+              "Termo de Adesão",
+              "**Gratuito**; vínculo funcional mantido; vigência **indeterminada**; renúncia com aviso de **30 dias**; foro de **Belém**; aderente indica o **Administrador Local do e-Ouv**",
+              "Anexo I"
+            ],
+            [
+              "Minuta para as Câmaras",
+              "Ouvidor-geral **vereador**, designado pelo presidente da Câmara a cada **2 anos**; relatórios **quadrimestral** e **anual**",
+              "Anexo II, arts. 2º e 3º"
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) O Termo é firmado pelo presidente da Câmara **ou** pelo ouvidor e enviado à **Ouvidoria Geral** da ALEPA, e não à Mesa. 2) O Concurso de Boas Práticas é **anual**; os relatórios da minuta municipal são **quadrimestral** e **anual**. 3) O Regimento Interno citado no art. 2º é o **da Rede**, e não o da Assembleia. 4) Na minuta municipal, o ouvidor-geral é **vereador**; na ALEPA, hoje, é **servidor** (Regimento de 2022, Parte 3)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o art. 1º e seu parágrafo único da Resolução nº 03/2021, sobre a instituição e a adesão à Rede Estadual de Ouvidorias Legislativas do Estado do Pará, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Rede Estadual de Ouvidorias Legislativas é composta pela Ouvidoria da Assembleia Legislativa e as Ouvidorias das Câmaras Municipais que se disponham a fazer parte.",
+            "B": "A adesão à Rede Estadual de Ouvidorias Legislativas possui caráter obrigatório para todas as Câmaras Municipais do Estado do Pará.",
+            "C": "O Termo de Adesão poderá ser firmado pelo presidente do órgão legislativo ou pelo seu respectivo ouvidor, no âmbito de suas competências.",
+            "D": "O Termo de Adesão Físico está disponível para download no Portal da Assembleia Legislativa, conforme modelo constante no Anexo I da Resolução.",
+            "E": "Após o termo assinado e digitalizado, será enviado juntamente com outras informações requeridas no Termo de Adesão Eletrônico, também disponibilizado no Portal da Assembleia Legislativa."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 1º caput prevê a composição da Rede pela ALEPA e Câmaras Municipais aderentes.\nB) INCORRETA (gabarito). O art. 1º, parágrafo único, I, estabelece expressamente que a adesão é voluntária, e não obrigatória.\nC) CORRETA (opção verdadeira). O art. 1º, parágrafo único, autoriza a assinatura pelo presidente do órgão legislativo ou pelo ouvidor.\nD) CORRETA (opção verdadeira). O art. 1º, parágrafo único, I, indica a disponibilização do modelo do Anexo I no Portal da ALEPA.\nE) CORRETA (opção verdadeira). O art. 1º, parágrafo único, II, prevê o envio digitalizado acompanhado do Termo Eletrônico.",
+          "base_legal": {
+            "dispositivo": "Art. 1º e parágrafo único",
+            "texto": "Art. 1º Fica instituída a Rede Estadual de Ouvidorias Legislativas do Estado do Pará, composta pela Ouvidoria da Assembleia Legislativa e as Ouvidorias das Câmaras Municipais que se disponham a fazer parte, mediante a subscrição do respectivo termo de adesão.\nParágrafo único. O Termo de Adesão deverá ser preenchido com os dados da Câmara Municipal e sua Ouvidoria aderente, firmado pelo presidente do órgão legislativo ou pelo seu respectivo ouvidor, no âmbito de suas competências, e enviado à Ouvidoria Geral da Assembleia Legislativa, observando-se o seguinte:\nI - a adesão é voluntária e será realizada mediante o preenchimento e a assinatura do Termo de Adesão Físico, disponível para download no Portal da Assembleia Legislativa, conforme modelo que consta no Anexo I desta Resolução;\nII - após o termo assinado e digitalizado, será enviado juntamente com outras informações requeridas no Termo de Adesão Eletrônico, também disponibilizado no Portal da Assembleia Legislativa."
+          }
+        },
+        {
+          "enunciado": "A Câmara Municipal do Município “Alpha”, situado no interior do Estado do Pará, aprovou em Plenário o interesse em integrar a Rede Estadual de Ouvidorias Legislativas. O Ouvidor da referida Câmara Municipal colheu a assinatura do Presidente da Casa no Termo de Adesão Físico obtido no Portal da ALEPA. Com base no art. 1º, parágrafo único, da Resolução nº 03/2021, assinale a alternativa CORRETA quanto aos procedimentos subsequentes necessários para a formalização da adesão.",
+          "alternativas": {
+            "A": "O Termo deve ser enviado à Mesa Diretora da Assembleia Legislativa, que deliberará sobre a adesão em Plenário.",
+            "B": "O Termo só terá validade se firmado conjuntamente pelo presidente da Câmara e pelo ouvidor.",
+            "C": "Basta o envio do Termo de Adesão Eletrônico, dispensado o Termo de Adesão Físico assinado.",
+            "D": "O Termo assinado e digitalizado deve ser enviado à Ouvidoria Geral da Assembleia Legislativa, com as informações do Termo de Adesão Eletrônico.",
+            "E": "O Termo Físico assinado deve ser entregue em via original na Assembleia Legislativa, vedado o envio digitalizado."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O Termo é enviado à Ouvidoria Geral da Assembleia Legislativa (parágrafo único do art. 1º), sem previsão de deliberação em Plenário.\nB) INCORRETA. O Termo é firmado pelo presidente do órgão legislativo “ou” pelo seu respectivo ouvidor (parágrafo único do art. 1º).\nC) INCORRETA. A adesão exige o preenchimento e a assinatura do Termo de Adesão Físico (inciso I); o Termo Eletrônico complementa as informações (inciso II).\nD) CORRETA. Parágrafo único do art. 1º, caput e inciso II.\nE) INCORRETA. O inciso II prevê justamente o envio do termo assinado e digitalizado.",
+          "base_legal": {
+            "dispositivo": "Art. 1º, parágrafo único",
+            "texto": "Parágrafo único. O Termo de Adesão deverá ser preenchido com os dados da Câmara Municipal e sua Ouvidoria aderente, firmado pelo presidente do órgão legislativo ou pelo seu respectivo ouvidor, no âmbito de suas competências, e enviado à Ouvidoria Geral da Assembleia Legislativa, observando-se o seguinte:\nI - a adesão é voluntária e será realizada mediante o preenchimento e a assinatura do Termo de Adesão Físico, disponível para download no Portal da Assembleia Legislativa, conforme modelo que consta no Anexo I desta Resolução;\nII - após o termo assinado e digitalizado, será enviado juntamente com outras informações requeridas no Termo de Adesão Eletrônico, também disponibilizado no Portal da Assembleia Legislativa."
+          }
+        },
+        {
+          "enunciado": "No tocante às ações e competências da Rede Estadual de Ouvidorias Legislativas (Art. 2º da Resolução nº 03/2021), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Compete à Rede promover o intercâmbio de informações e a cooperação a respeito de manifestações e matérias comuns a todas as ouvidorias legislativas integrantes da Rede, ou entre algumas delas.",
+            "B": "Cabe à Rede aprovar atos normativos para a padronização de procedimentos e entendimentos dentro de suas competências, valorizando a incorporação de novos avanços da Tecnologia da informação e Comunicação (TIC).",
+            "C": "É ação da Rede realizar quadrimestralmente o Concurso de Boas Práticas da Rede Estadual de Ouvidorias, na forma de seu Regimento Interno.",
+            "D": "Compete à Rede criar grupos de trabalho e gerir projetos no âmbito de suas competências.",
+            "E": "Incumbe à Rede propor e coordenar ações com vistas a desenvolver o controle social dos usuários sobre a prestação de serviços públicos."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 2º, I, prevê o intercâmbio de informações e cooperação sobre manifestações e matérias comuns.\nB) CORRETA (opção verdadeira). O art. 2º, II, prevê a aprovação de atos normativos para padronização de procedimentos.\nC) INCORRETA (gabarito). O art. 2º, V, prescreve que o Concurso de Boas Práticas é realizado anualmente, e não quadrimestralmente.\nD) CORRETA (opção verdadeira). O art. 2º, III, autoriza a criação de grupos de trabalho e gestão de projetos.\nE) CORRETA (opção verdadeira). O art. 2º, IV, “a”, traz a proposição e coordenação de ações voltadas ao controle social.",
+          "base_legal": {
+            "dispositivo": "Art. 2º",
+            "texto": "Art. 2º A Rede Estadual de Ouvidorias Legislativas, instituída por esta Resolução, com a finalidade de ampliar a resolutividade das manifestações recebidas e melhorar a efetividade e a transparência na prestação de serviços públicos, conforme estabelecido nos capítulos III, IV e VI da Lei nº 13.460, de 2017, encarregar-se-á, dentre outras, das seguintes ações:\nI - Intercâmbio de informações e cooperação, a respeito de manifestações e matérias comuns a todas as ouvidorias legislativas integrantes da Rede, ou entre algumas delas;\nII - aprovar atos normativos para a padronização de procedimentos e entendimentos dentro de suas competências, valorizando a incorporação de novos avanços da Tecnologia da informação e Comunicação (TIC);\nIII - Criar grupos de trabalho e gerir projetos no âmbito de suas competências;\nIV - propor e coordenar ações com vistas a:\na) Desenvolver o controle social dos usuários sobre a prestação de serviços públicos;\nb) facilitar o acesso do usuário de serviços públicos aos instrumentos de participação na gestão e na defesa de seus direitos.\nV - realizar anualmente o Concurso de Boas Práticas da Rede Estadual de Ouvidorias, na forma de seu Regimento Interno;\nVI - elaborar e aprovar o seu Regimento Interno."
+          }
+        },
+        {
+          "enunciado": "A Resolução nº 03/2021 estabelece a finalidade e a estrutura regulamentar da Rede Estadual de Ouvidorias Legislativas do Pará. Sobre a elaboração do Regimento Interno da Rede e sua finalidade legal (Art. 2º), assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A finalidade da Rede é ampliar a resolutividade das manifestações recebidas e melhorar a efetividade e a transparência na prestação de serviços públicos, cabendo à própria Rede elaborar e aprovar o seu Regimento Interno.",
+            "B": "A finalidade da Rede é ampliar a resolutividade das manifestações, cabendo à Mesa Diretora da Assembleia Legislativa elaborar e aprovar o Regimento Interno da Rede.",
+            "C": "As ações da Rede estão enumeradas taxativamente no art. 2º, vedada a atuação em outras frentes.",
+            "D": "O Concurso de Boas Práticas é realizado na forma prevista no Regimento Interno da Assembleia Legislativa.",
+            "E": "A atuação da Rede observa o estabelecido nos capítulos I, II e V da Lei nº 13.460, de 2017."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Art. 2º, caput e inciso VI.\nB) INCORRETA. Cabe à própria Rede elaborar e aprovar o seu Regimento Interno (art. 2º, VI).\nC) INCORRETA. O caput do art. 2º lista as ações “dentre outras” (rol exemplificativo).\nD) INCORRETA. O Concurso de Boas Práticas segue a forma do Regimento Interno da própria Rede (art. 2º, V).\nE) INCORRETA. O caput do art. 2º remete aos capítulos III, IV e VI da Lei nº 13.460, de 2017.",
+          "base_legal": {
+            "dispositivo": "Art. 2º, caput, V e VI",
+            "texto": "Art. 2º A Rede Estadual de Ouvidorias Legislativas, instituída por esta Resolução, com a finalidade de ampliar a resolutividade das manifestações recebidas e melhorar a efetividade e a transparência na prestação de serviços públicos, conforme estabelecido nos capítulos III, IV e VI da Lei nº 13.460, de 2017, encarregar-se-á, dentre outras, das seguintes ações:\nV - realizar anualmente o Concurso de Boas Práticas da Rede Estadual de Ouvidorias, na forma de seu Regimento Interno;\nVI - elaborar e aprovar o seu Regimento Interno."
+          }
+        },
+        {
+          "enunciado": "Em relação à periodicidade das reuniões, registro de atas e quórum de aprovação das decisões da Rede Estadual de Ouvidorias Legislativas (Art. 3º), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Rede de Ouvidorias reunir-se-á ordinariamente duas vezes por ano, preferencialmente nos meses de março e setembro.",
+            "B": "As reuniões ordinárias da Rede podem ocorrer presencialmente ou por meio de videoconferência.",
+            "C": "As reuniões da Rede deverão ser registradas em ata assinada por todos os representantes presentes.",
+            "D": "As decisões oriundas das reuniões serão aprovadas observado quórum de maioria simples.",
+            "E": "A convocação de reuniões extraordinárias da Rede de Ouvidorias é vedada pela Resolução nº 03/2021."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 3º caput prevê reuniões ordinárias duas vezes ao ano, preferencialmente em março e setembro.\nB) CORRETA (opção verdadeira). O art. 3º caput autoriza reuniões presenciais ou por videoconferência.\nC) CORRETA (opção verdadeira). O art. 3º, § 2º, estabelece a lavratura da ata assinada por todos os representantes presentes.\nD) CORRETA (opção verdadeira). O art. 3º, § 3º, indica que as decisões são aprovadas por maioria simples.\nE) INCORRETA (gabarito). O art. 3º caput expressamente prevê a possibilidade de convocação de reuniões extraordinárias.",
+          "base_legal": {
+            "dispositivo": "Art. 3º",
+            "texto": "Art. 3º A rede de Ouvidorias reunir-se-á ordinariamente duas vezes por ano, preferencialmente nos meses de março e setembro, presencialmente ou por meio de videoconferência; sendo possível também a convocação de reuniões extraordinárias.\n§ 1º A agenda das reuniões incluirá apresentação das atividades realizadas no semestre anterior, retomará discussões em andamento e englobará demandas e sugestões encaminhadas por seus Integrantes.\n§ 2º As reuniões da Rede deverão ser registradas em ata assinada por todos os representantes presentes.\n§ 3º as decisões oriundas das reuniões serão aprovadas observado quórum de maioria simples."
+          }
+        },
+        {
+          "enunciado": "Sobre a pauta das reuniões da Rede Estadual de Ouvidorias Legislativas do Pará e o quórum para deliberação de suas matérias (Art. 3º, §§ 1º a 3º), assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "As decisões tomadas nas reuniões da Rede são aprovadas por maioria absoluta dos seus integrantes.",
+            "B": "A ata das reuniões é assinada apenas pelo representante da Ouvidoria Geral da Assembleia Legislativa.",
+            "C": "A agenda das reuniões incluirá apresentação das atividades realizadas no semestre anterior, retomará discussões em andamento e englobará demandas e sugestões encaminhadas por seus Integrantes.",
+            "D": "As reuniões ordinárias ocorrem obrigatoriamente em março e setembro, vedada a realização em outros meses.",
+            "E": "A agenda das reuniões restringe-se às demandas encaminhadas pela Assembleia Legislativa, sem incluir as dos demais integrantes."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. As decisões são aprovadas por maioria simples (art. 3º, § 3º).\nB) INCORRETA. A ata é assinada por todos os representantes presentes (art. 3º, § 2º).\nC) CORRETA. Art. 3º, § 1º.\nD) INCORRETA. Os meses de março e setembro são preferenciais (“preferencialmente”), conforme o caput do art. 3º.\nE) INCORRETA. A agenda engloba demandas e sugestões encaminhadas por seus Integrantes (art. 3º, § 1º).",
+          "base_legal": {
+            "dispositivo": "Art. 3º",
+            "texto": "Art. 3º A rede de Ouvidorias reunir-se-á ordinariamente duas vezes por ano, preferencialmente nos meses de março e setembro, presencialmente ou por meio de videoconferência; sendo possível também a convocação de reuniões extraordinárias.\n§ 1º A agenda das reuniões incluirá apresentação das atividades realizadas no semestre anterior, retomará discussões em andamento e englobará demandas e sugestões encaminhadas por seus Integrantes.\n§ 2º As reuniões da Rede deverão ser registradas em ata assinada por todos os representantes presentes.\n§ 3º as decisões oriundas das reuniões serão aprovadas observado quórum de maioria simples."
+          }
+        },
+        {
+          "enunciado": "Quanto ao fornecimento de subsídios às Câmaras Municipais, custeio de despesas e vigência da Resolução nº 03/2021 (Arts. 4º a 6º), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "As despesas decorrentes da execução da Resolução serão custeadas pelas Câmaras Municipais que aderirem à Rede.",
+            "B": "A minuta aprovada nos termos do Anexo II tem a finalidade de fornecer subsídios às Câmaras Municipais que porventura não tenham criado as respectivas Ouvidorias.",
+            "C": "As despesas decorrentes da execução da Resolução nº 03/2021 correrão por conta das verbas próprias consignadas no Orçamento.",
+            "D": "A Resolução nº 03/2021 entra em vigor na data de sua publicação.",
+            "E": "A minuta do Anexo II cria a Ouvidoria Legislativa Municipal na estrutura administrativa da Câmara Municipal."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). Pelo art. 5º, as despesas correm por conta das verbas próprias consignadas no Orçamento; e o Termo de Adesão, celebrado a título gratuito, não acarreta transferência de recursos entre os partícipes (Anexo I, Cláusula Segunda).\nB) CORRETA (opção verdadeira). O art. 4º refere-se à minuta do Anexo II como subsídio para Câmaras sem ouvidoria própria.\nC) CORRETA (opção verdadeira). O art. 5º prevê o custeio por verbas próprias consignadas no Orçamento.\nD) CORRETA (opção verdadeira). O art. 6º prescreve a entrada em vigor na data de publicação.\nE) CORRETA (opção verdadeira). Art. 1º da minuta do Anexo II.",
+          "base_legal": {
+            "dispositivo": "Arts. 4º a 6º; Anexo I, Cláusula Segunda; Anexo II, art. 1º",
+            "texto": "[Resolução nº 03/2021]\nArt. 4º Fica aprovada a minuta, nos termos do Anexo II, com a finalidade de fornecer subsídios às Câmaras Municipais que porventura não tenham criado as respectivas Ouvidorias.\nArt. 5º As despesas decorrentes da execução desta Resolução correrão por conta das verbas próprias consignadas no Orçamento.\nArt. 6º Esta Resolução entra em vigor na data de sua publicação.\n[Anexo I – Termo de Adesão]\nCLÁUSULA SEGUNDA - DA INEXISTÊNCIA DE DOTAÇÃO ORÇAMENTARIA ESPECÍFICA\n1. O presente Termo de Adesão, celebrado a título gratuito, não acarretará a transferência ou a disponibilização de recursos financeiros entre os partícipes.\n[Anexo II – minuta para as Câmaras]\nArt. 1º Fica criada a Ouvidoria Legislativa Municipal na estrutura administrativa da Câmara Municipal de (citar o nome do município)."
+          }
+        },
+        {
+          "enunciado": "No tocante às cláusulas do Termo de Adesão à Rede de Ouvidorias (Anexo I da Resolução nº 03/2021), referente ao aspecto financeiro, vigência, denúncia e foro, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Termo de Adesão é celebrado a título gratuito, não acarretando a transferência ou a disponibilização de recursos financeiros entre os partícipes.",
+            "B": "O Termo de Adesão terá prazo de vigência determinado de exatamente doze meses, exigindo renovação anual obrigatória.",
+            "C": "O Termo de Adesão poderá ser renunciado a qualquer tempo, sem ônus para os partícipes, mediante aviso com antecedência mínima de 30 dias.",
+            "D": "Na hipótese de descumprimento de qualquer de suas cláusulas, o Termo de Adesão pode ser renunciado de imediato.",
+            "E": "Os partícipes elegem o Foro da Comarca de Belém, Capital do Estado do Pará, para dirimir eventuais conflitos decorrentes do Termo de Adesão."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). A Cláusula Segunda do Anexo I prevê celebração a título gratuito sem transferência de recursos.\nB) INCORRETA (gabarito). A Cláusula Quarta do Anexo I prevê prazo de vigência indeterminado, e não prazo determinado de doze meses.\nC) CORRETA (opção verdadeira). A Cláusula Sétima do Anexo I autoriza a renúncia sem ônus mediante aviso prévio mínimo de 30 dias.\nD) CORRETA (opção verdadeira). A Cláusula Sétima do Anexo I autoriza a renúncia imediata em caso de descumprimento de cláusula.\nE) CORRETA (opção verdadeira). A Cláusula Oitava do Anexo I elege o Foro da Comarca de Belém.",
+          "base_legal": {
+            "dispositivo": "Anexo I, Cláusulas Segunda, Quarta, Sétima e Oitava",
+            "texto": "CLÁUSULA SEGUNDA - DA INEXISTÊNCIA DE DOTAÇÃO ORÇAMENTARIA ESPECÍFICA\n1. O presente Termo de Adesão, celebrado a título gratuito, não acarretará a transferência ou a disponibilização de recursos financeiros entre os partícipes.\nCLÁUSULA QUARTA - DA VIGÊNCIA\n1. Este Termo de Adesão terá prazo de vigência indeterminado.\nCLÁUSULA SÉTIMA - DA EXTINÇÃO DO TERMO DE ADESÃO\n1. O presente Termo de Adesão poderá ser renunciado a qualquer tempo, sem ônus para os partícipes, mediante aviso com antecedência mínima de 30 (trinta) dias, ou, de imediato, na hipótese de descumprimento de qualquer das suas cláusulas e resilido por mútuo acordo ou pela superveniência de norma legal ou administrativa que o torne inexequível.\nCLÁUSULA OITAVA - DO FORO\n1. Os partícipes elegem o Foro da Comarca de Belém, Capital do Estado do Pará, para dirimir eventuais conflitos decorrentes do presente Termo de Adesão."
+          }
+        },
+        {
+          "enunciado": "Com relação à gestão de recursos humanos e à operacionalização técnica do sistema de ouvidoria no âmbito do órgão aderente (Anexo I da Resolução nº 03/2021), assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Os recursos humanos utilizados nas atividades da adesão passam a ser servidores efetivos do quadro da Assembleia Legislativa do Pará.",
+            "B": "Os encargos trabalhistas e previdenciários dos servidores alocados são transferidos integralmente para a Assembleia Legislativa.",
+            "C": "A alteração do objeto do Termo de Adesão pode ser realizada unilateralmente por despacho do Ouvidor-Geral da ALEPA.",
+            "D": "O órgão ou entidade aderente indica o servidor para exercer as atribuições de Administrador Local do Sistema e-Ouv.",
+            "E": "O Termo de Adesão pode ser alterado inclusive quanto ao seu objeto, desde que haja comum acordo entre os partícipes."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. A Cláusula Terceira estabelece que os recursos humanos não sofrerão alterações na sua vinculação funcional com a instituição de origem.\nB) INCORRETA. A Cláusula Terceira responsabiliza a instituição de origem por todos os encargos de natureza trabalhista, previdenciária, fiscal e securitária.\nC) INCORRETA. Pela Cláusula Sexta, o Termo só pode ser alterado de comum acordo entre os partícipes, mediante Termo Aditivo justificado, e nunca quanto ao seu objeto.\nD) CORRETA. A Cláusula Quinta, item 2, prevê expressamente a indicação de servidor para exercer as atribuições de Administrador Local do Sistema e-Ouv.\nE) INCORRETA. A Cláusula Sexta admite a alteração de comum acordo, “exceto quanto ao seu objeto”.",
+          "base_legal": {
+            "dispositivo": "Anexo I, Cláusulas Terceira, Quinta e Sexta",
+            "texto": "CLÁUSULA TERCEIRA - DOS RECURSOS HUMANOS\n1. Os recursos humanos utilizados por qualquer dos partícipes nas atividades inerentes ao presente Termo de Adesão Simplificado não sofrerão alterações na sua vinculação funcional com as instituições de origem, às quais cabe responsabilizar-se por todos os encargos de natureza trabalhista, previdenciária, fiscal e securitária decorrentes.\nCLÁUSULA QUINTA - DO ADMINISTRADOR LOCAL\n2. O órgão ou entidade aderente indica o (a) servidor (a) ___________(nome), portador (a) do CPF nº _________________(número), e-mail institucional __________________ (e-mail), lotado(a) na ____________________(total de lotação) para exercer as atribuições de Administrador Local do Sistema e-Ouv.\nCLÁUSULA SEXTA - DA ALTERAÇÃO\n1. O disposto neste Termo de Adesão poderá ser alterado, exceto quanto ao seu objeto, de comum acordo entre os participes, mediante Termo Aditivo devidamente justificado."
+          }
+        },
+        {
+          "enunciado": "A Câmara Municipal hipotética do Município “Beta” pretende aprovar o Projeto de Resolução constante no Anexo II da Resolução nº 03/2021 para criar sua Ouvidoria Legislativa Municipal. Com base nas normas da referida minuta (Anexo II, Arts. 2º, 3º e 4º), analise a situação das atribuições e relatórios do órgão municipal e assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O ouvidor-geral da Câmara Municipal será designado dentre os vereadores pelo presidente da Casa, a cada dois anos, permitida a recondução.",
+            "B": "A Ouvidoria Legislativa Municipal deve elaborar relatório quadrimestral de suas atividades para encaminhamento à Mesa Diretora da Câmara Municipal e posterior divulgação aos vereadores.",
+            "C": "É obrigação da Ouvidoria Legislativa Municipal elaborar relatório anual de atividades, encaminhar cópia do mesmo à Mesa Diretora da Câmara Municipal e disponibilizar sua consulta a qualquer interessado.",
+            "D": "A demora injustificada na resposta às solicitações feitas pelo ouvidor-geral poderá ensejar a responsabilização da autoridade ou do servidor.",
+            "E": "O relatório de atividades da Ouvidoria Municipal deve ser elaborado exclusivamente a cada quatro anos, ao término do mandato da Mesa Diretora."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 3º do Anexo II estipula a escolha do ouvidor-geral dentre os vereadores, a cada dois anos, com recondução permitida.\nB) CORRETA (opção verdadeira). O art. 2º, VIII, do Anexo II prevê expressamente o relatório quadrimestral das atividades para a Mesa e vereadores.\nC) CORRETA (opção verdadeira). O art. 2º, IX, do Anexo II prevê o relatório anual de atividades disponível a qualquer interessado.\nD) CORRETA (opção verdadeira). O art. 4º, parágrafo único, do Anexo II prevê a responsabilização da autoridade ou servidor pela demora injustificada.\nE) INCORRETA (gabarito). O Anexo II exige a elaboração de relatórios com periodicidade quadrimestral (art. 2º, VIII) e anual (art. 2º, IX), e não quadrienal.",
+          "base_legal": {
+            "dispositivo": "Anexo II, arts. 2º, VIII e IX, 3º e 4º, parágrafo único",
+            "texto": "Art. 2° Compete à Ouvidoria Legislativa:\nVIII - elaborar relatório quadrimestral das atividades da Ouvidoria Legislativa Municipal para encaminhamento à Mesa Diretora da Câmara Municipal e posterior divulgação aos vereadores;\nIX - elaborar relatório anual de atividades da Ouvidoria Legislativa Municipal, encaminhar cópia do mesmo à Mesa Diretora da Câmara Municipal e disponibilizar sua consulta a qualquer interessado;\nArt. 3º A Ouvidoria Legislativa terá um ouvidor-geral, designado dentre os vereadores pelo presidente da Casa, a cada dois anos, permitida a recondução para o período subsequente, não podendo, neste caso, extrapolar a duração do mandato parlamentar.\nParágrafo único. O presidente da câmara municipal poderá designar um ouvidor substituto, que assumirá as funções do ouvidor em seus impedimentos e ausências.\nArt. 4° O ouvidor-geral, no exercício de suas funções, poderá:\nParágrafo único. A demora injustificada na resposta às solicitações feitas ou na adoção das providências requeridas pelo ouvidor-geral poderá ensejar a responsabilização da autoridade ou do servidor."
+          }
+        }
+      ]
+    },
+    {
       "numero": 3,
       "titulo": "O que vale hoje: a Ouvidoria no Regimento Interno de 2022",
       "artigos": "Res. 02/2022, art. 4º; Regimento Interno, arts. 33 a 37, 320 e 322",
