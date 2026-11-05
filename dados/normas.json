@@ -489,7 +489,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei14_2024_31382.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-14-2024.json"
     },
     {
       "id": "dl-11-2025",
