@@ -433,7 +433,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei02_2022_83737.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-02-2022.json"
     },
     {
       "id": "dl-23-2022",
