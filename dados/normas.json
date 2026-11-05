@@ -851,7 +851,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei03_2021_85696.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/ouvidoria.json"
     },
     {
       "id": "res-04-2021",
