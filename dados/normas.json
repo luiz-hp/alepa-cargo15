@@ -461,7 +461,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei05_2023_97485.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/procuradoria-mulher.json"
     },
     {
       "id": "dl-13-2024",
@@ -823,7 +823,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2019_14164.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/procuradoria-mulher.json"
     },
     {
       "id": "res-02-2021",
