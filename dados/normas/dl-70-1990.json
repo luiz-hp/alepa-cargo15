@@ -149,17 +149,17 @@
         {
           "enunciado": "Nos termos do Art. 7º do Decreto Legislativo nº 70/1990, a estrutura básica do Quadro de Provimento em Comissão é constituída por grupos operacionais específicos. As atividades de planejamento, programação, comando, coordenação, controle e avaliação definem o grupo de:",
           "alternativas": {
-            "A": "Atividades de Direção Superior - DS.",
-            "B": "Atividades de Assessoramento Superior - AS.",
-            "C": "Atividades de Nível Superior - NS.",
-            "D": "Atividades de Apoio Geral - AG.",
-            "E": "Atividades de Coordenação Legislativa - CL."
+            "A": "Atividades de Direção Superior - DS, grupo do Quadro de Provimento em Comissão.",
+            "B": "Atividades de Assessoramento Superior - AS, grupo do Quadro de Provimento em Comissão.",
+            "C": "Atividades de Nível Superior - NS, grupo dos cargos de provimento efetivo.",
+            "D": "Atividades de Nível Médio - NM, grupo dos cargos de provimento efetivo.",
+            "E": "Atividades de Coordenação Legislativa - CL, grupo do Quadro de Provimento em Comissão."
           },
           "gabarito": "A",
-          "comentario": "A) CORRETA. Conforme o Art. 7º, I, Atividades de Direção Superior - DS compreendem as de planejamento, programação, comando, coordenação, controle e avaliação.\nB) INCORRETA. O grupo AS compreende planejamento, exame, emissão de parecer técnico, orientação e atividades delegadas (Art. 7º, II).\nC) INCORRETA. O grupo NS integra a estrutura dos cargos efetivos (Art. 6º, IV).\nD) INCORRETA. O grupo AG também integra o Quadro de Efetivos (Art. 6º, II).\nE) INCORRETA. O grupo \"Atividades de Coordenação Legislativa - CL\" não existe no Decreto Legislativo nº 70/1990.",
+          "comentario": "A) CORRETA. O art. 7º, I, define as Atividades de Direção Superior - DS, do Quadro de Provimento em Comissão, como as de planejamento, programação, comando, coordenação, controle e avaliação.\nB) INCORRETA. O grupo AS, também do Quadro de Provimento em Comissão, compreende planejamento, exame, emissão de parecer técnico, orientação e execução de atividades delegadas (art. 7º, II); comando, coordenação, controle e avaliação pertencem ao grupo DS.\nC) INCORRETA. O grupo NS integra a estrutura dos cargos de provimento efetivo e abrange as áreas de ciências humanas e sociais e de ciência e tecnologia (art. 6º, IV).\nD) INCORRETA. O grupo NM integra a estrutura dos cargos de provimento efetivo e abrange a profissionalização de caráter administrativo, contábil e serviços diversos (art. 6º, III).\nE) INCORRETA. O art. 7º prevê apenas os grupos DS e AS no Quadro de Provimento em Comissão; não existe grupo de Atividades de Coordenação Legislativa - CL.",
           "base_legal": {
-            "dispositivo": "Art. 7°, I",
-            "texto": "I - Atividades de Direção Superior - DS, compreendendo as de planejamento, programação, comando, coordenação, controle e avaliação."
+            "dispositivo": "Art. 6°, III e IV; art. 7°, I e II",
+            "texto": "Art. 6° - A estrutura básica dos Cargos de provimento efetivo é constituída pelos seguintes grupos operacionais:\nIII - Atividades de Nível Médio - NM, abrangendo as da área de profissionalização de caráter administrativo, contábil e serviços diversos.\nIV - Atividades de Nível Superior - NS, compreendendo as relacionadas às áreas de ciências humanas e sociais e de ciência e tecnologia, indispensáveis ao pleno funcionamento dos diversos órgãos que integram a estrutura organo-funcional da Assembléia legislativa.\nArt. 7° - A estrutura básica do Quadro de Provimento em Comissão é constituído pelos seguintes grupos operacionais:\nI - Atividades de Direção Superior - DS, compreendendo as de planejamento, programação, comando, coordenação, controle e avaliação.\nII - Atividades de Assessoramento Superior - AS, compreendendo as de planejamento, exame, emissão de parecer técnico, orientação, execução de atividades delegadas e outras de interesse da administração."
           }
         },
         {
