@@ -11,28 +11,22 @@ assets/estilo.css           aparência
 assets/app.js               lógica (lista de normas, resumos e questões)
 dados/normas.json           as 65 normas do edital, com ementa e link oficial
 dados/normas/<id>.json      material de cada norma (resumo + questões)
-prompts/notebooklm.md       prompt para gerar o material de uma norma
+prompts/notebooklm.md       prompt antigo do NotebookLM (substituído por ferramentas/PROMPT_MODELO.md)
+ferramentas/                validador, montador, teste, textos oficiais e roteiro de publicação
 ```
 
 O site não tem etapa de compilação: tudo o que está no repositório é publicado como está.
 
 ## Como incluir o material de uma norma
 
-1. Gere as partes no NotebookLM com o prompt de `prompts/notebooklm.md`.
-2. Crie (ou abra) o arquivo `dados/normas/<id>.json`. Use `dados/normas/dl-70-1990.json` como modelo.
-   O `<id>` segue o padrão de `dados/normas.json`: `dl-70-1990`, `res-11-1991` etc.
-3. Cole cada parte gerada dentro da lista `"partes": [ ]`, separando as partes por vírgula:
+Siga o roteiro de [`ferramentas/COMO_PUBLICAR.md`](ferramentas/COMO_PUBLICAR.md). Em resumo:
 
-   ```json
-   "partes": [
-     { "titulo": "...", "artigos": "...", "resumo": [...], "questoes": [...] },
-     { "titulo": "...", "artigos": "...", "resumo": [...], "questoes": [...] }
-   ]
-   ```
-
-4. Em `dados/normas.json`, localize a norma e troque `"material": null` pelo caminho do arquivo,
-   por exemplo `"material": "dados/normas/res-11-1991.json"`.
-5. Salve e envie para o GitHub (commit). O site atualiza sozinho em um ou dois minutos.
+1. Gere a parte no ChatGPT com as mensagens de `ferramentas/PROMPT_MODELO.md` e salve em `rascunhos/`.
+2. Confira: `python ferramentas/valida_norma.py rascunhos/<id>-p1.json <id>`.
+3. Monte: `python ferramentas/monta_material.py <id> rascunhos/<id>-p1.json`.
+4. Teste: `python ferramentas/testa_norma.py <id>`.
+5. Publique `dados/normas/<arquivo>.json`, `dados/normas.json` e `ferramentas/fontes.json`.
+   O site atualiza sozinho em um ou dois minutos.
 
 ## Ver o site no computador antes de publicar
 
