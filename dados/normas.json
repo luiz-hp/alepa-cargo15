@@ -139,7 +139,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2000_19721.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/vigencia.json"
     },
     {
       "id": "dl-22-2003",
@@ -181,7 +181,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei01_2007_94946.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/vigencia.json"
     },
     {
       "id": "dl-04-2007",
@@ -209,7 +209,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei10_2007_97894.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/vigencia.json"
     },
     {
       "id": "dl-04-2008",
@@ -223,7 +223,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei04_2008_92227.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/vigencia.json"
     },
     {
       "id": "dl-45-2009",
@@ -531,7 +531,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei13_2025_75494.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/vigencia.json"
     },
     {
       "id": "res-11-1991",
@@ -795,7 +795,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei01_2017_17525.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/vigencia.json"
     },
     {
       "id": "res-05-2017",
