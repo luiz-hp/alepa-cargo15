@@ -363,7 +363,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei02_2017_94378.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-02-2017.json"
     },
     {
       "id": "dl-11-2017",
