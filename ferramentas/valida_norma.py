@@ -33,6 +33,10 @@ ROTULO = re.compile(r"\[[^\]]+\]")
 INICIO_DISPOSITIVO = re.compile(
     r"(?=\bArt\. ?\d)|(?=§ ?\d)|(?=Parágrafo único)|(?=\b[IVXLC]+ ?[–-] )|(?=(?<![\w(])[a-z]\) )"
 )
+LINHA_INICIA = re.compile(r"^(Art\.?\s?\d|§|Parágrafo|[IVXLC]+\s?[-–]|[a-z]\)|\d+\.\s|“|\*|À |Ao |Aos |Às )")
+LINHA_FECHA = re.compile(r"([.;:!?”\"]|[;,]\s(e|ou))$")
+PALAVRA_SOLTA = re.compile(r"\b(de|do|da|dos|das|em|no|na|nos|nas|a|o|as|os|e|ou|por|para|com|que|ao|à|aos|às|pelo|pela|"
+                           r"pelos|pelas|um|uma|se|sobre|entre|seu|sua|seus|suas)$", re.I)
 CITA_LETRA = re.compile(r"\b(?:alternativa|letra|opção|item)\s+[A-E]\b", re.I)
 CITA_LEI = re.compile(r"Lei(?: Complementar| Federal| Estadual)? (?:nº|n\.º|n°|n\.°)\s?([\d.]+)")
 SUSPEITOS = ["Governador", "Polícia Federal", "Justiça Federal", "Ministério Público Federal",
@@ -301,7 +305,17 @@ def valida_questao(q, rot, unido, segmentos, textos, r):
     if not texto_base or not str(base.get("dispositivo", "")).strip():
         r.erros.append(f'{rot}: falta a base_legal ("dispositivo" e "texto").')
         return int(neg)
-    for n, linha in enumerate([l for l in texto_base.split("\n") if l.strip()], 1):
+    linhas_base = [l for l in texto_base.split("\n") if l.strip()]
+    for n in range(1, len(linhas_base)):
+        ant, cur = linhas_base[n - 1].strip(), linhas_base[n].strip()
+        if ROTULO.fullmatch(ant) or ROTULO.fullmatch(cur) or ant.isupper() or cur.isupper():
+            continue
+        if (not LINHA_FECHA.search(ant) and not LINHA_INICIA.match(cur)
+                and (PALAVRA_SOLTA.search(ant) or cur[:1].islower())):
+            r.avisos.append(f"{rot}, base_legal, linha {n + 1}: parece continuação da linha anterior (quebra de linha do texto "
+                            f"colado); junte as duas numa linha só, para o site não mostrar a frase cortada.")
+            break
+    for n, linha in enumerate(linhas_base, 1):
         if ROTULO.fullmatch(linha.strip()):
             continue
         alvo = norm(linha)

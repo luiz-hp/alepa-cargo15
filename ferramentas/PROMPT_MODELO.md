@@ -67,7 +67,7 @@ REGRAS DAS QUESTÕES
 5. A alternativa errada nasce de uma troca pontual e plausível (palavra, número, órgão, prazo, advérbio), e não de uma frase artificial que nenhuma banca escreveria.
 6. Não use, numa alternativa, uma palavra que o texto reserva para outro conceito.
 7. Comentário: uma linha por alternativa, na ordem, começando com "A) CORRETA." ou "A) INCORRETA." (nas questões INCORRETA, use "A) CORRETA (opção verdadeira)." e "A) INCORRETA (gabarito)."), com o motivo e o dispositivo. Nunca cite outra letra dentro do comentário. Não afirme nada que a fonte não diga.
-8. base_legal: dispositivo e trecho LITERAL completo, copiado da fonte sem alterar nenhuma palavra, nenhum sinal e nenhuma pontuação (inclusive erros de grafia do original), sem reticências e sem rótulos antes do texto (escreva "§ 1º O servidor...", e não "Art. 4º, § 1º O servidor..."; o artigo vai no campo "dispositivo"). Se usar mais de um dispositivo, transcreva todos, separados por \n. A base_legal deve sustentar TODAS as alternativas. Nenhuma questão pode ficar sem base_legal.
+8. base_legal: dispositivo e trecho LITERAL completo, copiado da fonte sem alterar nenhuma palavra, nenhum sinal e nenhuma pontuação (inclusive erros de grafia do original), sem reticências e sem rótulos antes do texto (escreva "§ 1º O servidor...", e não "Art. 4º, § 1º O servidor..."; o artigo vai no campo "dispositivo"). Cada dispositivo fica numa única linha: não reproduza as quebras de linha do texto colado. Se usar mais de um dispositivo, transcreva todos, separados por \n. A base_legal deve sustentar TODAS as alternativas. Nenhuma questão pode ficar sem base_legal.
 9. Gabaritos distribuídos entre A e E, sem passar de 30% em uma mesma letra.
 10. Escreva tudo em português, sem notas internas e sem marcadores de citação como [1]. Não numere os enunciados ("Questão 1 —").
 
@@ -115,7 +115,7 @@ Cole logo depois da resposta da mensagem 1, sem alterar nada:
 ```text
 Revise o JSON que você acabou de gerar, comparando-o com o texto oficial da norma. Não crie questões novas: corrija somente o que violar as regras abaixo e responda apenas com o JSON completo corrigido, sem nenhum texto fora do bloco.
 
-1. Cada base_legal deve ser cópia literal do texto oficial (palavras, sinais, pontuação e erros de grafia do original), sem reticências e sem rótulos colados antes do texto. Cada linha deve começar no início de um dispositivo (Art., §, Parágrafo único, inciso ou alínea). Linhas que contenham apenas o nome da norma entre colchetes, como [Decreto Legislativo nº 03/2012], são permitidas.
+1. Cada base_legal deve ser cópia literal do texto oficial (palavras, sinais, pontuação e erros de grafia do original), sem reticências e sem rótulos colados antes do texto. Cada linha deve começar no início de um dispositivo (Art., §, Parágrafo único, inciso ou alínea). Linhas que contenham apenas o nome da norma entre colchetes, como [Decreto Legislativo nº 03/2012], são permitidas. Cada dispositivo deve ficar numa única linha, sem as quebras de linha do texto colado.
 2. A base_legal deve sustentar TODAS as alternativas da questão; se alguma alternativa depender de outro dispositivo, acrescente-o, também literal.
 3. Cada pegadinha (troca de número, órgão, prazo, critério ou qualificativo) só pode ser o erro de UMA questão. Se a mesma troca aparecer como erro em duas questões, substitua o distrator por outro ponto do mesmo artigo.
 4. Nas questões "INCORRETA", as quatro alternativas verdadeiras devem afirmar quatro coisas diferentes; não pode haver duas paráfrases do mesmo trecho.
