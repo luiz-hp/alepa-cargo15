@@ -237,7 +237,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei45_2009_48841.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-45-2009.json"
     },
     {
       "id": "dl-06-2010",
@@ -265,7 +265,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei03_2012_45663.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-45-2009.json"
     },
     {
       "id": "dl-04-2012",
@@ -335,7 +335,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei05_2015_27695.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-45-2009.json"
     },
     {
       "id": "dl-35-2015",
