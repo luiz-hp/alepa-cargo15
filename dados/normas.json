@@ -889,7 +889,11 @@
       "ementa": "Dispõe sobre a criação do Programa ALEPA Itinerante COP 30.",
       "pdfs": [
         {
-          "rotulo": "Texto oficial",
+          "rotulo": "Texto oficial (Diário Oficial da ALEPA nº 2560, p. 7)",
+          "url": "https://www.alepa.pa.gov.br/Comunicacao/Diario?IdApDiaDiario=448"
+        },
+        {
+          "rotulo": "Banco de Leis (o arquivo traz, por erro, a Res. 02/2025)",
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei01_2025_51751.pdf"
         }
       ],
@@ -921,7 +925,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260924131404_7dc9ce2b.pdf"
         },
         {
-          "rotulo": "Texto oficial (cadastro 2)",
+          "rotulo": "Texto oficial (cadastro 2, com o mesmo texto)",
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260930131756_a4dd61ab_RESOLU_O_N_18_DE_09_DE_JUNHO_DE_1989.pdf"
         }
       ],
