@@ -10,6 +10,7 @@ Uso, a partir da pasta do repositório:
 Opções:
   --titulo T       título da página (padrão: tipo, número e ano, conforme dados/normas.json)
   --nota N         nota do quadro "alterações e vigência" no topo da página (pode repetir a opção)
+  --notas ARQUIVO  arquivo .txt com as notas, uma por linha (mais prático que várias --nota)
   --arquivo NOME   nome do arquivo em dados/normas/, sem .json (padrão: o id)
   --ids ID ...     outras normas do registro que usam o mesmo material
   --fontes F ...   textos oficiais usados na validação (padrão: o id e os de --ids)
@@ -45,6 +46,7 @@ def main():
     ap.add_argument("partes", nargs="+")
     ap.add_argument("--titulo")
     ap.add_argument("--nota", action="append", default=[])
+    ap.add_argument("--notas")
     ap.add_argument("--arquivo")
     ap.add_argument("--ids", nargs="+", default=[])
     ap.add_argument("--fontes", nargs="+")
@@ -52,6 +54,13 @@ def main():
     grupo.add_argument("--acrescentar", action="store_true")
     grupo.add_argument("--substituir", action="store_true")
     a = ap.parse_args()
+
+    if a.notas:
+        try:
+            a.nota += [l.strip() for l in Path(a.notas).read_text(encoding="utf-8-sig").splitlines() if l.strip()]
+        except OSError as e:
+            print(f"ERRO: não consegui ler o arquivo de notas {a.notas}: {e}")
+            return 1
 
     reg = json.loads(REGISTRO.read_text(encoding="utf-8"))
     por_id = {n["id"]: n for n in reg["normas"]}

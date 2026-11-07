@@ -115,7 +115,7 @@ Cole logo depois da resposta da mensagem 1, sem alterar nada:
 ```text
 Revise o JSON que você acabou de gerar, comparando-o com o texto oficial da norma. Não crie questões novas: corrija somente o que violar as regras abaixo e responda apenas com o JSON completo corrigido, sem nenhum texto fora do bloco.
 
-1. Cada base_legal deve ser cópia literal do texto oficial (palavras, sinais, pontuação e erros de grafia do original), sem reticências e sem rótulos antes do texto. Cada linha deve começar no início de um dispositivo (Art., §, Parágrafo único, inciso ou alínea).
+1. Cada base_legal deve ser cópia literal do texto oficial (palavras, sinais, pontuação e erros de grafia do original), sem reticências e sem rótulos colados antes do texto. Cada linha deve começar no início de um dispositivo (Art., §, Parágrafo único, inciso ou alínea). Linhas que contenham apenas o nome da norma entre colchetes, como [Decreto Legislativo nº 03/2012], são permitidas.
 2. A base_legal deve sustentar TODAS as alternativas da questão; se alguma alternativa depender de outro dispositivo, acrescente-o, também literal.
 3. Cada pegadinha (troca de número, órgão, prazo, critério ou qualificativo) só pode ser o erro de UMA questão. Se a mesma troca aparecer como erro em duas questões, substitua o distrator por outro ponto do mesmo artigo.
 4. Nas questões "INCORRETA", as quatro alternativas verdadeiras devem afirmar quatro coisas diferentes; não pode haver duas paráfrases do mesmo trecho.

@@ -59,6 +59,7 @@ envie o arquivo e confirme em *Commit changes*. Faça isso para cada arquivo, ca
 | Uma página para várias normas (a norma principal e as que a alteram) | `... <id> <partes> --ids <id2> <id3> --fontes <id> <id2> <id3>` |
 | Acrescentar uma parte a uma página que já existe | `... <id> rascunhos/nova-parte.json --arquivo <arquivo> --acrescentar` |
 | Refazer uma página | `... <id> <partes> --substituir` |
+| Notas longas de vigência | Escreva uma nota por linha num `.txt` e use `--notas rascunhos/<id>-notas.txt` |
 | Base legal que cita outra norma (por exemplo, o RI 2022) | Inclua o texto em `--fontes` e, na base legal, use um rótulo entre colchetes numa linha própria: `[Regimento Interno de 2022]` |
 
 O `monta_material.py` valida tudo de novo e **não grava nada se houver erros**.
