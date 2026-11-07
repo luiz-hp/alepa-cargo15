@@ -89,6 +89,9 @@ Revise o JSON abaixo, da {NORMA}, já aprovado por um validador automático que 
 | Departamento Financeiro (citado no DL 02/2022) | Transformado em Diretoria de Planejamento, Orçamento e Finanças | DL 11/2025, art. 15: "O Departamento Financeiro, fica transformado em Diretoria de Planejamento, Orçamento e Finanças, vinculada à Secretaria Administrativa" |
 | Cargos em comissão | O Anexo Único do DL 11/2025 é o quadro consolidado; confira nele vagas e referências (DAS) citadas em normas anteriores | `textos/dl-11-2025.txt` |
 | DL 45/2009, DL 03/2012 e DL 05/2015 | O DL 03/2012 altera os DLs 01/2006 e 45/2009; o DL 05/2015 altera os DLs 10/2007 e 03/2012 | Ementas em `dados/normas.json` |
+| DL 111/2020 | Revogado pelo DL 15/2021 com efeito retroativo; a compilação do DL 03/2012 ainda mostra o art. 8º com a redação do DL 111/2020. Hoje vale o DL 11/2025: Assistente de Serviços Internos, 160 vagas, DAS.202.1 | DL 15/2021, art. 4º: "Fica revogado o Decreto Legislativo nº 111/20, com efeitos a partir de 10 de dezembro de 2020." |
+| Res. 01/2025 | O PDF do Banco de Leis traz, por erro, o texto da Res. 02/2025; o texto certo está no Diário Oficial da ALEPA nº 2560 (p. 7) e em `textos/res-01-2025.txt` | Registro em `dados/normas.json` |
+| Res. 18/1989 | Os dois cadastros do Banco de Leis têm o mesmo texto | — |
 
 **Não confundir** (mesmo número e ano): DL 04/2012 (PCCR) × Res. 04/2012 (Ouvidoria); DL 02/2022 (férias e licenças-prêmio) × Res. 02/2022 (Regimento Interno).
 
