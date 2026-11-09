@@ -251,7 +251,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei06_2010_32151.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-06-2010.json"
     },
     {
       "id": "dl-03-2012",
