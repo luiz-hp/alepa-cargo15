@@ -85,13 +85,16 @@ Revise o JSON abaixo, da {NORMA}, já aprovado por um validador automático que 
 | Normas administrativas anteriores | Continuam valendo no que não contrariarem o novo Regimento | Res. 02/2022, art. 3º: "Ficam mantidas as normas administrativas em vigor, no que não contrarie o anexo Regimento Interno [...]" |
 | Ouvidoria | A Res. 04/2012 acrescentou os arts. 27-A a 27-E ao Regimento de 1994; hoje a Ouvidoria está nos arts. 33 a 37 do RI 2022 | RI 2022, art. 33: "Compete à Ouvidoria da Assembleia Legislativa:" |
 | Procuradoria da Mulher | A Res. 04/2019 não foi revogada expressamente, mas o RI 2022 (arts. 38 a 40) regula de outro modo | RI 2022, art. 39: "A Procuradoria da Mulher será constituída de uma Procuradora e de duas Procuradoras Adjuntas, eleitas pelas Deputadas da Casa [...]" |
-| Res. 01/2017 | Trata dos arts. 30 e 31 do Regimento de 1994, que foi revogado: confira a vigência antes de gerar questões | Ementa em `dados/normas.json` |
+| Res. 01/2017 | Alterava os arts. 30 e 31 do Regimento de 1994, revogado; tratada na bateria de vigência (`vigencia.json`) | Res. 02/2022, art. 4º |
 | Departamento Financeiro (citado no DL 02/2022) | Transformado em Diretoria de Planejamento, Orçamento e Finanças | DL 11/2025, art. 15: "O Departamento Financeiro, fica transformado em Diretoria de Planejamento, Orçamento e Finanças, vinculada à Secretaria Administrativa" |
 | Cargos em comissão | O Anexo Único do DL 11/2025 é o quadro consolidado; confira nele vagas e referências (DAS) citadas em normas anteriores | `textos/dl-11-2025.txt` |
 | DL 45/2009, DL 03/2012 e DL 05/2015 | O DL 03/2012 altera os DLs 01/2006 e 45/2009; o DL 05/2015 altera os DLs 10/2007 e 03/2012 | Ementas em `dados/normas.json` |
 | DL 111/2020 | Revogado pelo DL 15/2021 com efeito retroativo; a compilação do DL 03/2012 ainda mostra o art. 8º com a redação do DL 111/2020. Hoje vale o DL 11/2025: Assistente de Serviços Internos, 160 vagas, DAS.202.1 | DL 15/2021, art. 4º: "Fica revogado o Decreto Legislativo nº 111/20, com efeitos a partir de 10 de dezembro de 2020." |
 | Res. 01/2025 | O PDF do Banco de Leis traz, por erro, o texto da Res. 02/2025; o texto certo está no Diário Oficial da ALEPA nº 2560 (p. 7) e em `textos/res-01-2025.txt` | Registro em `dados/normas.json` |
 | Res. 18/1989 | Os dois cadastros do Banco de Leis têm o mesmo texto | — |
+| DL 13/2025 | Revogou os DLs 04/2000, 01/2007 e 10/2007 e o art. 2º do DL 05/2015; vigência 90 dias após a publicação. Tratado na bateria de vigência (`vigencia.json`) | DL 13/2025, arts. 1º a 3º |
+| DL 06/2010 (PCCS) | Arts. 5º, 7º, 8º, 12 e 17 revogados pelo DL 35/2015; a compilação do DL 06/2010 não registra. O adicional de titulação hoje está no art. 9º do PCCR | DL 35/2015, art. 23: "Ficam revogados [...] os Art. 5º, 7º, 8º, 12 e 17, do Decreto Legislativo nº 06, de 17 de junho de 2010 [...]" |
+| DL 32/1993 | Revogado por inteiro pelo DL 35/2015 (o mesmo art. 23 revogou o parágrafo único do art. 27 do DL 70/1990 e o art. 7º do DL 106/2012) | DL 35/2015, art. 23: "[...] e o Decreto Legislativo nº 32, de 05 de maio de 1993." |
 
 **Não confundir** (mesmo número e ano): DL 04/2012 (PCCR) × Res. 04/2012 (Ouvidoria); DL 02/2022 (férias e licenças-prêmio) × Res. 02/2022 (Regimento Interno).
 
@@ -100,18 +103,26 @@ Os textos estão em `textos/<id>.txt` e `textos/<id>__2.txt`.
 
 ## Fila
 
-Ordem combinada para as próximas páginas:
+Plano das rodadas que faltam (atualizado em 09/11/2026). As rodadas 1 a 4 já foram feitas: DL 45/2009 com os DLs 03/2012 e 05/2015; DL 02/2017;
+bateria de vigência (`vigencia.json`); DL 06/2010.
 
-1. DL 45/2009, com as alterações do DL 03/2012 e do DL 05/2015, numa página só (`--ids dl-03-2012 dl-05-2015`).
-2. DL 02/2017 (Departamento de Memorial do Legislativo).
-3. Bateria de vigência: questões sobre o que foi revogado ou substituído (tabela acima).
+| Rodada | Tema | Normas | Quem gera |
+|---|---|---|---|
+| 5 | Transformação e criação de cargos de 2006 | DL 01/2006 (2 partes) | ChatGPT |
+| 6 | Enquadramento no PCCR | Res. 05/2017, como parte nova da página do PCCR (`--arquivo pccr --acrescentar`) | ChatGPT |
+| 7 | Assessoria Policial-Militar | DL 29/1995, DL 14/1997, DL 22/2003, DL 18/2013 e Res. 18/1991 | ChatGPT |
+| 8 | Cargos das comissões técnicas | DL 111/2020, DL 15/2021 e DL 13/2024 | ChatGPT |
+| 9 | Procuradoria | Res. 14/1992, Res. 29/1993 e DL 06/1997 | ChatGPT |
+| 10 | Consultoria Técnica | Res. 04/1993 (os dois atos) e Res. 18/1993 | ChatGPT |
+| 11 | Assessoria Técnica | Res. 04/1995 (os dois atos; o segundo alterava o Regimento de 1994) | ChatGPT |
+| 12 | Bem-Estar Social | Res. 62/1991 (2 a 3 partes) | ChatGPT |
+| 13 | Museu Legislativo | Res. 13/1991, como parte nova da página do Memorial (`--arquivo dl-02-2017 --acrescentar`) | ChatGPT |
+| 14 | Normas revogadas e acréscimos | DL 32/1993 (revogado pelo DL 35/2015), como parte nova da bateria de vigência; DL 36/1997, como parte nova da página do DL 70/1990 | Claude e ChatGPT |
+| 15 | Gratificações e verbas | DL 36/2021, Res. 05/1993, Res. 11/1991, DL 04/2007 e DL 53/1993 | ChatGPT |
+| 16 | Programas e eventos | Res. 02/2021, Res. 01/2025, Res. 02/2025, Res. 18/1989 e Res. 02/1993 (os dois atos) | ChatGPT |
+| 17 | Normas curtas avulsas | DL 41/1997, DL 27/2014, Res. 03/2013 e Res. 01/1999 | ChatGPT |
 
-Normas ainda sem material em 06/11/2026 (45): DL 32/1993, DL 53/1993, DL 29/1995, DL 06/1997, DL 14/1997, DL 36/1997,
-DL 41/1997, DL 04/2000, DL 22/2003, DL 01/2006, DL 01/2007, DL 04/2007, DL 10/2007, DL 04/2008, DL 45/2009,
-DL 06/2010, DL 03/2012, DL 18/2013, DL 27/2014, DL 05/2015, DL 02/2017, DL 111/2020, DL 15/2021, DL 36/2021,
-DL 13/2024, DL 13/2025, Res. 11/1991, Res. 13/1991, Res. 18/1991, Res. 62/1991, Res. 14/1992, Res. 02/1993,
-Res. 04/1993, Res. 05/1993, Res. 18/1993, Res. 29/1993, Res. 04/1995, Res. 01/1999, Res. 03/2013, Res. 01/2017,
-Res. 05/2017, Res. 02/2021, Res. 01/2025, Res. 02/2025 e Res. 18/1989.
+Normas ainda sem material depois da Rodada 4 (34): DL 32/1993, DL 53/1993, DL 29/1995, DL 06/1997, DL 14/1997, DL 36/1997, DL 41/1997, DL 22/2003, DL 01/2006, DL 04/2007, DL 18/2013, DL 27/2014, DL 111/2020, DL 15/2021, DL 36/2021, DL 13/2024, Res. 11/1991, Res. 13/1991, Res. 18/1991, Res. 62/1991, Res. 14/1992, Res. 02/1993, Res. 04/1993, Res. 05/1993, Res. 18/1993, Res. 29/1993, Res. 04/1995, Res. 01/1999, Res. 03/2013, Res. 05/2017, Res. 02/2021, Res. 01/2025, Res. 02/2025 e Res. 18/1989.
 A lista sempre atual é a das normas com `"material": null` em `dados/normas.json`.
 
 ## O que o validador confere
