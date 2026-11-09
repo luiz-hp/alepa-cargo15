@@ -1,0 +1,343 @@
+{
+  "id": "dl-01-2006",
+  "titulo": "Decreto Legislativo nº 01/2006",
+  "ementa": "Dispõe sobre a transformação e criação de cargos no Quadro de Pessoal da Assembléia Legislativa do Estado do Pará e dá outras providências.",
+  "fonte": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei01_2006_25554.pdf",
+  "alteracoes": [
+    "O § 2º do art. 9º está na redação dada pelo art. 2º do Decreto Legislativo nº 03/2012, que tornou a Carteira Nacional de Habilitação apenas preferencial; a redação original a exigia.",
+    "O Decreto Legislativo nº 06/2010 (PCCS), art. 6º, § 9º, mudou a nomenclatura do Digitador PL.NM-065 para Operador de Computador PL.NM-065 e a do Motorista PL.AG-034 para Motorista PL.NM-065; o § 10 passou ao nível superior, entre outros, o Documentador de Plenário, o Redator de Plenário e o Secretário de Comissão Técnica PL.AL-054.",
+    "O Decreto Legislativo nº 11/2025, art. 32, transformou o cargo em comissão de Agente Parlamentar de Serviços Externos em Assistente de Serviços Externos.",
+    "As quantidades de cargos mudaram várias vezes depois de 2006 (por exemplo, o art. 10 do DL 01/2007, hoje revogado pelo DL 13/2025, e o art. 1º do DL 03/2012). Os quadros atuais estão nos anexos do PCCR (DL 04/2012, com a redação do DL 35/2015) e, para os cargos em comissão, no Anexo Único do DL 11/2025. Por isso, esta página não cobra os números dos anexos do DL 01/2006.",
+    "O art. 14 retificou o Anexo I do Decreto Legislativo nº 32/93, que foi revogado por inteiro pelo art. 23 do Decreto Legislativo nº 35/2015."
+  ],
+  "partes": [
+    {
+      "numero": 1,
+      "titulo": "Transformação e criação de cargos (Decreto Legislativo nº 01/2006)",
+      "artigos": "Arts. 1º a 21",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "O **DL 01/2006** fez três coisas: **transformou** cargos do Anexo II do DL **39/91** (arts. 1º a 9º), **criou** cargos novos (art. 10) e pôs cargos **em extinção** (art. 11). Leia a fórmula com cuidado: “Ficam transformados em cargos de **X**, N cargos de **Y**” significa que os cargos de **Y** (antigos) **viraram X** (novos)."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Art.",
+            "Antes (DL 39/91)",
+            "Depois"
+          ],
+          "linhas": [
+            [
+              "1º",
+              "**6** Assistente Legislativo",
+              "Auxiliar de Plenário PL.AL‑021"
+            ],
+            [
+              "2º",
+              "**2** Agente de Administração + **9** Agente de Manutenção",
+              "Agente de Serviços Gerais PL.AO‑011"
+            ],
+            [
+              "3º",
+              "**2** Assessor Técnico + **2** Técnico Legislativo",
+              "Documentador de Plenário PL.AL‑055"
+            ],
+            [
+              "4º",
+              "**1** Desenhista + **1** Assistente Social + **1** Assistente Técnico",
+              "Redator de Plenário PL.AL‑057"
+            ],
+            [
+              "5º",
+              "**7** Técnico Legislativo + **2** Assistente de Informática",
+              "Digitador PL.NM‑065"
+            ],
+            [
+              "6º",
+              "**5** Assessor Técnico",
+              "Programador PL.NS‑092"
+            ],
+            [
+              "7º",
+              "**10** Consultor",
+              "Taquígrafo PL.AL‑072"
+            ],
+            [
+              "8º",
+              "**5** Procurador",
+              "Analista de Sistema PL.NS‑083"
+            ],
+            [
+              "9º",
+              "**15** Motorista (efetivo)",
+              "Agente Parlamentar de Serviços Externos **DAS.202‑1** (comissão)"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "**Agente Parlamentar de Serviços Externos (art. 9º):** assessora os **senhores deputados** em **serviços externos** e atividades correlatas (§ 1º). Requisitos (§ 2º, redação do DL 03/2012): **Ensino Fundamental Completo** e, **preferencialmente**, CNH no mínimo categoria **B**. A redação original **exigia** a CNH."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Quadro",
+            "Cargos criados (art. 10)"
+          ],
+          "linhas": [
+            [
+              "Efetivo",
+              "**3** Jornalista PL.NS‑089; **5** Taquígrafo PL.AL‑072; **11** Digitador PL.NM‑065"
+            ],
+            [
+              "Comissão",
+              "**15** Secretário de Comissão Técnica DAS.202‑2; **26** Agente Parlamentar de Serviços Externos DAS.202‑1"
+            ]
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "**Em extinção, à medida que vagarem:** cargos efetivos de **Motorista PL.AG‑034** e de **Secretário de Comissão Técnica PL.AL‑054** (art. 11); cargos do **Quadro Suplementar** e do **Quadro Suplementar Especial** (art. 16, parágrafo único).",
+            "**Quadro de Pessoal Efetivo** = Provimento Efetivo + Suplementar + Suplementar Especial (art. 16).",
+            "Quadros nos **Anexos I a III**; estrutura organizacional no **Anexo IV** (arts. 12 e 13).",
+            "Cargos efetivos vagos: **concurso público** (art. 15).",
+            "**Manual de Atribuições e Competências:** **Mesa Diretora**, ato próprio, em até **180 dias** (art. 17).",
+            "Ninguém perde direitos adquiridos nem é prejudicado em direitos futuros (art. 18); despesas por **dotações próprias** (art. 19); vigência na **publicação** (art. 20)."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) Direção: os **Consultores viraram Taquígrafos**, e não o contrário. 2) **15** Motoristas foram **transformados** (art. 9º); **26** Agentes foram **criados** (art. 10). 3) Secretário de Comissão Técnica **efetivo** (PL.AL‑054) está **em extinção**; o **em comissão** (DAS.202‑2) foi **criado**. 4) **Taquígrafo** e **Digitador** receberam cargos transformados **e** tiveram cargos criados; o **Jornalista** só foi criado."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Decreto Legislativo nº 01/2006, acerca da transformação de cargos dispostos no Anexo II do Decreto Legislativo nº 39/91 em cargos de provimento efetivo, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Seis cargos de Assistente Legislativo PL.AL-051 foram transformados em cargos de Auxiliar de Plenário PL.AL-021.",
+            "B": "Dois cargos de Agente de Administração PL.AG-031 e nove de Agente de Manutenção PL.AG-032 foram transformados em cargos de Agente de Serviços Gerais PL.AO-011.",
+            "C": "Dois cargos de Assessor Técnico PL.AL-102 e dois de Técnico Legislativo PL.AL-071 foram transformados em cargos de Documentador de Plenário PL.AL-055.",
+            "D": "Um cargo de Desenhista PL.NM-063, um de Assistente Social PL.NS-082 e um de Assistente Técnico PL.NM-062 foram transformados em cargos de Redator de Plenário PL.AL-057.",
+            "E": "Sete cargos de Digitador PL.NM-065 e dois de Assistente de Informática PL.NM-061 foram transformados em cargos de Técnico Legislativo PL.AL-071."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 1º estabelece a transformação dos seis cargos de Assistente Legislativo em Auxiliar de Plenário.\nB) CORRETA (opção verdadeira). O art. 2º transforma dois cargos de Agente de Administração e nove de Agente de Manutenção em Agente de Serviços Gerais.\nC) CORRETA (opção verdadeira). O art. 3º transforma dois cargos de Assessor Técnico e dois de Técnico Legislativo em Documentador de Plenário.\nD) CORRETA (opção verdadeira). O art. 4º transforma os três cargos indicados em cargos de Redator de Plenário.\nE) INCORRETA (gabarito). O art. 5º determina o sentido inverso para os cargos de Técnico Legislativo e Digitador: sete cargos de Técnico Legislativo e dois de Assistente de Informática foram transformados em cargos de Digitador PL.NM-065.",
+          "base_legal": {
+            "dispositivo": "Arts. 1º a 5º",
+            "texto": "Art. 1º Ficam transformados em cargos de provimento efetivo de Auxiliar de Plenário PL.AL-021, seis cargos de provimento efetivo de Assistente Legislativo PL.AL-051, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 2º Ficam transformados em cargos de provimento efetivo de Agente de Serviços Gerais PL.AO-011, dois cargos de Agente de Administração PL.AG-031 e nove cargos de Agente de Manutenção PL.AG-032, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 3º Ficam transformados em cargos de provimento efetivo de Documentador de Plenário PL.AL-055, dois cargos de Assessor Técnico PL.AL-102 e dois cargos de Técnico Legislativo PL.AL-071, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 4º Ficam transformados em cargos de provimento efetivo de Redator de Plenário PL.AL-057, um cargo de Desenhista PL.NM-063 e um cargo de Assistente Social PL.NS-082 e um cargo de Assistente Técnico PL.NM-062, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 5º Ficam transformados em cargos de provimento efetivo de Digitador PL.NM-065, sete cargos de Técnico Legislativo PL.AL-071 e dois cargos de Assistente de Informática PL.NM-061, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Decreto Legislativo nº 01/2006, os cargos de Assessor Técnico PL.AL-102 dispostos no Anexo II do Decreto Legislativo nº 39/91 foram transformados da seguinte forma:",
+          "alternativas": {
+            "A": "Cinco em cargos de Documentador de Plenário PL.AL-055 e dois em cargos de Programador PL.NS-092.",
+            "B": "Dois em cargos de Documentador de Plenário PL.AL-055 e cinco em cargos de Digitador PL.NM-065.",
+            "C": "Dois em cargos de Documentador de Plenário PL.AL-055 e cinco em cargos de Taquígrafo PL.AL-072.",
+            "D": "Dois em cargos de Documentador de Plenário PL.AL-055 e cinco em cargos de Programador PL.NS-092.",
+            "E": "Dois em cargos de Redator de Plenário PL.AL-057 e cinco em cargos de Programador PL.NS-092."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. As quantidades estão trocadas: são dois para Documentador de Plenário (art. 3º) e cinco para Programador (art. 6º).\nB) INCORRETA. Os cinco cargos foram transformados em Programador (art. 6º); o Digitador recebeu cargos de Técnico Legislativo e de Assistente de Informática (art. 5º).\nC) INCORRETA. Os cinco cargos foram transformados em Programador (art. 6º); o Taquígrafo recebeu cargos de Consultor (art. 7º).\nD) CORRETA. O art. 3º transforma dois cargos de Assessor Técnico, junto com dois de Técnico Legislativo, em Documentador de Plenário, e o art. 6º transforma outros cinco em Programador.\nE) INCORRETA. Os dois cargos foram transformados em Documentador de Plenário (art. 3º), e não em Redator de Plenário.",
+          "base_legal": {
+            "dispositivo": "Arts. 3º, 5º, 6º e 7º",
+            "texto": "Art. 3º Ficam transformados em cargos de provimento efetivo de Documentador de Plenário PL.AL-055, dois cargos de Assessor Técnico PL.AL-102 e dois cargos de Técnico Legislativo PL.AL-071, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 5º Ficam transformados em cargos de provimento efetivo de Digitador PL.NM-065, sete cargos de Técnico Legislativo PL.AL-071 e dois cargos de Assistente de Informática PL.NM-061, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 6º Ficam transformados em cargos de provimento efetivo de Programador PL.NS-092, cinco cargos de Assessor Técnico PL.AL-102, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 7º Ficam transformados em cargos de provimento efetivo de Taquígrafo PL.AL-072, dez cargos de Consultor PL.AL-104, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991."
+          }
+        },
+        {
+          "enunciado": "Considerando as transformações previstas nos arts. 5º a 8º do Decreto Legislativo nº 01/2006, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Cinco cargos de Assessor Técnico PL.AL-102 foram transformados em cargos de Programador PL.NS-092.",
+            "B": "Dez cargos de Consultor PL.AL-104 foram transformados em cargos de Taquígrafo PL.AL-072.",
+            "C": "Os cargos de Programador PL.NS-092, de Taquígrafo PL.AL-072 e de Analista de Sistema PL.NS-083 resultantes dessas transformações são de provimento efetivo.",
+            "D": "Oito cargos de Procurador PL.AL-105 foram transformados em cargos de Analista de Sistema PL.NS-083.",
+            "E": "Sete cargos de Técnico Legislativo PL.AL-071 e dois de Assistente de Informática PL.NM-061 foram transformados em cargos de Digitador PL.NM-065."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 6º transforma cinco cargos de Assessor Técnico em Programador PL.NS-092.\nB) CORRETA (opção verdadeira). O art. 7º transforma dez cargos de Consultor em Taquígrafo PL.AL-072.\nC) CORRETA (opção verdadeira). Os arts. 6º, 7º e 8º transformam os cargos de origem em cargos de provimento efetivo de Programador, de Taquígrafo e de Analista de Sistema.\nD) INCORRETA (gabarito). O art. 8º estabelece cinco cargos de Procurador, e não oito, como quantidade transformada.\nE) CORRETA (opção verdadeira). O art. 5º transforma sete cargos de Técnico Legislativo e dois de Assistente de Informática em Digitador PL.NM-065.",
+          "base_legal": {
+            "dispositivo": "Arts. 5º a 8º",
+            "texto": "Art. 5º Ficam transformados em cargos de provimento efetivo de Digitador PL.NM-065, sete cargos de Técnico Legislativo PL.AL-071 e dois cargos de Assistente de Informática PL.NM-061, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 6º Ficam transformados em cargos de provimento efetivo de Programador PL.NS-092, cinco cargos de Assessor Técnico PL.AL-102, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 7º Ficam transformados em cargos de provimento efetivo de Taquígrafo PL.AL-072, dez cargos de Consultor PL.AL-104, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 8º Ficam transformados em cargos de provimento efetivo de Analista de Sistema PL.NS-083, cinco cargos de provimento efetivo de Procurador PL.AL-105, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991."
+          }
+        },
+        {
+          "enunciado": "Nos termos do art. 4º do Decreto Legislativo nº 01/2006, foram transformados em cargos de Redator de Plenário PL.AL-057 cargos que anteriormente possuíam quais denominações e códigos?",
+          "alternativas": {
+            "A": "Um Desenhista PL.NM-063, um Assistente Social PL.NS-082 e um Assistente Técnico PL.NM-062.",
+            "B": "Um Desenhista PL.NM-063, um Assistente Social PL.NS-082 e um Técnico Legislativo PL.AL-071.",
+            "C": "Um Desenhista PL.NM-063, um Assistente de Informática PL.NM-061 e um Assistente Técnico PL.NM-062.",
+            "D": "Um Agente de Manutenção PL.AG-032, um Assistente Social PL.NS-082 e um Assistente Técnico PL.NM-062.",
+            "E": "Um Desenhista PL.NM-063, um Assistente Social PL.NS-082 e um Assessor Técnico PL.AL-102."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 4º identifica precisamente os três cargos de origem, cada um com uma unidade, transformados em Redator de Plenário.\nB) INCORRETA. O art. 4º indica Assistente Técnico PL.NM-062, e não Técnico Legislativo PL.AL-071.\nC) INCORRETA. O art. 4º indica Assistente Social PL.NS-082, e não Assistente de Informática PL.NM-061.\nD) INCORRETA. O art. 4º indica Desenhista PL.NM-063, e não Agente de Manutenção PL.AG-032.\nE) INCORRETA. O art. 4º indica Assistente Técnico PL.NM-062, e não Assessor Técnico PL.AL-102.",
+          "base_legal": {
+            "dispositivo": "Art. 4º",
+            "texto": "Art. 4º Ficam transformados em cargos de provimento efetivo de Redator de Plenário PL.AL-057, um cargo de Desenhista PL.NM-063 e um cargo de Assistente Social PL.NS-082 e um cargo de Assistente Técnico PL.NM-062, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991."
+          }
+        },
+        {
+          "enunciado": "De acordo com o art. 9º do Decreto Legislativo nº 01/2006, assinale a alternativa CORRETA sobre o cargo de Agente Parlamentar de Serviços Externos DAS.202-1.",
+          "alternativas": {
+            "A": "Resultou da transformação de quinze cargos de provimento efetivo de Motorista e tem por competência assessorar a Mesa Diretora na execução de serviços externos e outras atividades correlatas.",
+            "B": "Resultou da transformação de quinze cargos em comissão de Motorista e tem por competência assessorar os senhores deputados na execução de serviços externos e outras atividades correlatas.",
+            "C": "Resultou da transformação de quinze cargos de provimento efetivo de Motorista e tem por competência assessorar os senhores deputados na execução de serviços externos e outras atividades correlatas.",
+            "D": "Resultou da transformação de quinze cargos de provimento efetivo de Motorista e tem por competência assessorar os senhores deputados na execução de serviços internos e outras atividades correlatas.",
+            "E": "Resultou da transformação de quinze cargos de provimento efetivo de Motorista e tem por competência assessorar as Comissões Técnicas na execução de serviços externos e outras atividades correlatas."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O § 1º do art. 9º prevê o assessoramento aos senhores deputados, e não à Mesa Diretora.\nB) INCORRETA. O caput do art. 9º transforma cargos de provimento efetivo de Motorista, e não cargos em comissão.\nC) CORRETA. O caput do art. 9º transforma quinze cargos de provimento efetivo de Motorista nesse cargo, e o § 1º atribui-lhe o assessoramento aos senhores deputados na execução de serviços externos e outras atividades correlatas.\nD) INCORRETA. O § 1º do art. 9º refere-se a serviços externos, e não a serviços internos.\nE) INCORRETA. O § 1º do art. 9º prevê o assessoramento aos senhores deputados, e não às Comissões Técnicas.",
+          "base_legal": {
+            "dispositivo": "Art. 9º, caput e § 1º",
+            "texto": "Art. 9º Ficam transformados em cargo de Agente Parlamentar de Serviços Externos DAS.202-1, quinze cargos de provimento efetivo de Motorista PL.AL.AG -034, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\n§1º Compete ao Agente Parlamentar de Serviços Externos DAS.202-1, assessorar os senhores deputados na execução de serviços externos e outras atividades correlatas."
+          }
+        },
+        {
+          "enunciado": "De acordo com o § 2º do art. 9º do Decreto Legislativo nº 01/2006, na redação dada pelo Decreto Legislativo nº 03/2012, para ocupar o cargo de Agente Parlamentar de Serviços Externos será exigido:",
+          "alternativas": {
+            "A": "Curso de Ensino Médio Completo e, preferencialmente, Carteira Nacional de Habilitação de categoria mínima B.",
+            "B": "Curso de Ensino Fundamental Completo e Carteira Nacional de Habilitação obrigatória de categoria mínima B.",
+            "C": "Curso de Ensino Fundamental Completo e, preferencialmente, Carteira Nacional de Habilitação de categoria mínima B.",
+            "D": "Curso de Ensino Fundamental Completo e, preferencialmente, Carteira Nacional de Habilitação de categoria mínima C.",
+            "E": "Curso de Ensino Fundamental Completo e, preferencialmente, experiência comprovada na função de motorista."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O § 2º do art. 9º exige Ensino Fundamental Completo, e não Ensino Médio Completo.\nB) INCORRETA. Na redação atual, a Carteira Nacional de Habilitação é apenas preferencial; a exigência obrigatória constava da redação anterior, alterada pelo Decreto Legislativo nº 03/2012.\nC) CORRETA. O § 2º do art. 9º exige Ensino Fundamental Completo e prevê, preferencialmente, CNH de categoria mínima B.\nD) INCORRETA. O § 2º do art. 9º estabelece categoria mínima B, e não C.\nE) INCORRETA. O § 2º do art. 9º não menciona experiência como motorista; o requisito preferencial é a Carteira Nacional de Habilitação, no mínimo categoria B.",
+          "base_legal": {
+            "dispositivo": "Art. 9º, caput e § 2º (redação atual e anterior)",
+            "texto": "Art. 9º Ficam transformados em cargo de Agente Parlamentar de Serviços Externos DAS.202-1, quinze cargos de provimento efetivo de Motorista PL.AL.AG -034, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\n§ 2º. Para ocupar o cargo de Agente Parlamentar de Serviços Externos, DAS.202.1, será exigido curso de Ensino fundamental Completo e, preferencialmente, Carteira nacional de Habilitação, no mínimo categoria ‘B’.\n[Redação anterior do § 2º, alterada pelo Decreto Legislativo nº 03/2012]\n§ 2º Para ocupar o cargo de Agente Parlamentar de Serviços Externos DAS.202-1, será exigido Curso de Ensino Fundamental Completo e Carteira Nacional de Habilitação, no mínimo, na Categoria “B”."
+          }
+        },
+        {
+          "enunciado": "Segundo o art. 10 do Decreto Legislativo nº 01/2006, que dispõe sobre a criação de cargos na estrutura do Quadro Geral de Pessoal da Assembléia Legislativa, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Foram criados três cargos de Jornalista PL.NS-089 no Quadro de Provimento Efetivo.",
+            "B": "Foram criados cinco cargos de Taquígrafo PL.AL-072 no Quadro de Provimento Efetivo.",
+            "C": "Foram criados onze cargos de Digitador PL.NM-065 no Quadro de Provimento Efetivo.",
+            "D": "Foram criados quinze cargos de Secretário de Comissão Técnica DAS.202-2 no Quadro de Provimento em Comissão.",
+            "E": "Foram criados vinte e cinco cargos de Agente Parlamentar de Serviços Externos DAS.202-1 no Quadro de Provimento em Comissão."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 10, inciso I, alínea a, cria três cargos efetivos de Jornalista PL.NS-089.\nB) CORRETA (opção verdadeira). O art. 10, inciso I, alínea b, cria cinco cargos efetivos de Taquígrafo PL.AL-072.\nC) CORRETA (opção verdadeira). O art. 10, inciso I, alínea c, cria onze cargos efetivos de Digitador PL.NM-065.\nD) CORRETA (opção verdadeira). O art. 10, inciso II, alínea a, cria quinze cargos em comissão de Secretário de Comissão Técnica DAS.202-2.\nE) INCORRETA (gabarito). O art. 10, inciso II, alínea b, cria vinte e seis cargos em comissão de Agente Parlamentar de Serviços Externos DAS.202-1, e não vinte e cinco.",
+          "base_legal": {
+            "dispositivo": "Art. 10, caput, incisos I e II",
+            "texto": "Art.10. Na estrutura de cargos do Quadro Geral de Pessoal desta Assembléia Legislativa ficam criados:\nI – no Quadro de Provimento Efetivo;\na) três cargos de Jornalista PL.NS-089;\nb) cinco cargos de Taquígrafo PL.AL-072; e\nc) onze cargos de Digitador PL.NM-065\nII – no Quadro de Provimento em Comissão:\na) quinze cargos de Secretário de Comissão Técnica DAS.202-2 e\nb) vinte e seis cargos de Agente Parlamentar de Serviços Externos DAS.202-1."
+          }
+        },
+        {
+          "enunciado": "Considerando as atribuições do cargo de Digitador previstas no parágrafo único do art. 10 do Decreto Legislativo nº 01/2006, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Analisar e preparar os documentos para digitação, bem como digitar informações alfanuméricas de acordo com os dados fornecidos.",
+            "B": "Zelar pela conservação dos documentos, mantendo-os limpos e em ordem, conforme as atribuições do cargo.",
+            "C": "Manter a seqüência e o controle dos documentos utilizados nas atividades de digitação.",
+            "D": "Acionar os equipamentos, preparando-os para a entrada de dados nas atividades do cargo.",
+            "E": "Verificar a precisão do material digitado e executar outras tarefas correlatas ao cargo."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O parágrafo único do art. 10 estabelece as atribuições de analisar e preparar documentos para digitação e digitar informações alfanuméricas conforme os dados fornecidos.\nB) INCORRETA (gabarito). O parágrafo único do art. 10 determina zelar pela conservação dos equipamentos, mantendo-os limpos e em ordem, e não dos documentos.\nC) CORRETA (opção verdadeira). O parágrafo único do art. 10 inclui manter a seqüência e o controle dos documentos.\nD) CORRETA (opção verdadeira). O parágrafo único do art. 10 prevê acionar os equipamentos, preparando-os para a entrada de dados.\nE) CORRETA (opção verdadeira). O parágrafo único do art. 10 prevê verificar a precisão do material digitado e executar outras tarefas correlatas.",
+          "base_legal": {
+            "dispositivo": "Art. 10, caput e parágrafo único",
+            "texto": "Art.10. Na estrutura de cargos do Quadro Geral de Pessoal desta Assembléia Legislativa ficam criados:\nParágrafo único. O cargo de Digitador PL.NM-062 tem por atribuição analisar e preparar os documentos para digitação, manter a seqüência e o controle dos documentos, acionar os equipamentos preparando-os para a entrada de dados; digitar informações alfanuméricas de acordo com os dados fornecidos; verificar a precisão do material digitado; zelar pela conservação dos equipamentos, mantendo-os limpos e em ordem, executar outras tarefas correlatas."
+          }
+        },
+        {
+          "enunciado": "Nos termos do art. 11 do Decreto Legislativo nº 01/2006, serão extintos, à medida que vagarem, os atuais cargos de provimento efetivo de:",
+          "alternativas": {
+            "A": "Motorista PL.AG-034 e Agente Parlamentar de Serviços Externos DAS.202-1.",
+            "B": "Digitador PL.NM-065 e Secretário de Comissão Técnica PL.AL-054.",
+            "C": "Taquígrafo PL.AL-072 e Jornalista PL.NS-089.",
+            "D": "Motorista PL.AG-034 e Secretário de Comissão Técnica PL.AL-054.",
+            "E": "Assistente Legislativo PL.AL-051 e Consultor PL.AL-104."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O Agente Parlamentar de Serviços Externos não consta do art. 11: é o cargo em que o art. 9º transformou quinze cargos de Motorista.\nB) INCORRETA. O Digitador não consta do art. 11; o outro cargo em extinção, ao lado do Secretário de Comissão Técnica, é o de Motorista PL.AG-034.\nC) INCORRETA. Taquígrafo e Jornalista não constam do art. 11; ao contrário, o art. 10, inciso I, cria novos cargos de ambos no Quadro de Provimento Efetivo.\nD) CORRETA. O art. 11 põe em extinção, à medida que vagarem, exatamente esses dois cargos de provimento efetivo.\nE) INCORRETA. O art. 11 não inclui esses cargos; os cargos em extinção são os de Motorista PL.AG-034 e de Secretário de Comissão Técnica PL.AL-054.",
+          "base_legal": {
+            "dispositivo": "Art. 9º, caput; art. 10, caput e inciso I, alíneas a e b; e art. 11",
+            "texto": "Art. 9º Ficam transformados em cargo de Agente Parlamentar de Serviços Externos DAS.202-1, quinze cargos de provimento efetivo de Motorista PL.AL.AG -034, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt.10. Na estrutura de cargos do Quadro Geral de Pessoal desta Assembléia Legislativa ficam criados:\nI – no Quadro de Provimento Efetivo;\na) três cargos de Jornalista PL.NS-089;\nb) cinco cargos de Taquígrafo PL.AL-072; e\nArt. 11. Serão extintos, à medida que vagarem, os atuais cargos de provimento efetivo de Motorista PL.AG-034 e Secretário de Comissão Técnica PL.AL-054."
+          }
+        },
+        {
+          "enunciado": "Nos termos do art. 16 do Decreto Legislativo nº 01/2006, o Quadro de Pessoal Efetivo da Assembléia Legislativa é constituído do Quadro de Provimento Efetivo e de outros dois quadros, cujos cargos serão extintos à medida que vagarem. Esses dois quadros são:",
+          "alternativas": {
+            "A": "Quadro de Provimento em Comissão e Quadro Suplementar.",
+            "B": "Quadro Suplementar e Quadro Suplementar Especial.",
+            "C": "Quadro Suplementar e Quadro Especial.",
+            "D": "Quadro Suplementar e Quadro Transitório.",
+            "E": "Quadro Temporário e Quadro Suplementar Especial."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O Quadro de Provimento em Comissão não integra o Quadro de Pessoal Efetivo descrito no art. 16.\nB) CORRETA. O caput do art. 16 compõe o Quadro de Pessoal Efetivo com o Quadro de Provimento Efetivo, o Quadro Suplementar e o Quadro Suplementar Especial, e o parágrafo único põe em extinção os cargos destes dois últimos.\nC) INCORRETA. O art. 16 fala em Quadro Suplementar Especial, e não em Quadro Especial.\nD) INCORRETA. O art. 16 não prevê Quadro Transitório; o outro quadro é o Suplementar Especial.\nE) INCORRETA. O art. 16 não prevê Quadro Temporário; o outro quadro é o Suplementar.",
+          "base_legal": {
+            "dispositivo": "Art. 16, caput e parágrafo único",
+            "texto": "Art. 16. O Quadro de Pessoal Efetivo da Assembléia Legislativa do Estado do Pará é constituído do Quadro de Provimento Efetivo, do Quadro Suplementar e do Quadro Suplementar Especial.\nParágrafo único. Os cargos do Quadro Suplementar e do Quadro Suplementar Especial, serão extintos à medida que vagarem."
+          }
+        },
+        {
+          "enunciado": "De acordo com os arts. 12 a 15 do Decreto Legislativo nº 01/2006, acerca da organização dos quadros de pessoal, das retificações de denominações de cargos e do preenchimento de cargos vagos, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os cargos vagos do Quadro de Provimento Efetivo serão preenchidos por candidatos aprovados em seleção interna.",
+            "B": "Os cargos do Quadro de Provimento Efetivo e do Quadro de Provimento em Comissão passam a constar dos Anexos I, II e III do Decreto Legislativo.",
+            "C": "A Estrutura Organizacional da Assembléia Legislativa do Estado do Pará é a constante do Anexo IV do Decreto Legislativo.",
+            "D": "A retificação prevista no art. 14 alcança as linhas 27 e 31 da relação nominal, coluna 3, referente a cargo, do Anexo I do Decreto Legislativo nº 32/93.",
+            "E": "As denominações Auxiliar Legislativo PL.AL-041 e Assistente Técnico PL.NM-062 foram retificadas para Assistente Legislativo PL.AL-051."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 15 estabelece o preenchimento dos cargos vagos do Quadro de Provimento Efetivo por candidatos aprovados em concurso público, e não por seleção interna.\nB) CORRETA (opção verdadeira). O art. 12 determina que os cargos dos dois quadros passem a constar dos Anexos I, II e III.\nC) CORRETA (opção verdadeira). O art. 13 estabelece que a Estrutura Organizacional consta do Anexo IV.\nD) CORRETA (opção verdadeira). O art. 14 identifica expressamente as linhas 27 e 31 da relação nominal, coluna 3, do Anexo I do Decreto Legislativo nº 32/93.\nE) CORRETA (opção verdadeira). O art. 14 retifica as duas denominações indicadas para Assistente Legislativo PL.AL-051.",
+          "base_legal": {
+            "dispositivo": "Arts. 12 a 15",
+            "texto": "Art. 12. Em decorrência das alterações, introduzidas por este Decreto, os cargos que integram o Quadro de Provimento Efetivo e o Quadro de Provimento em Comissão deste Poder Legislativo passam a ser constantes dos Anexos I, II e III do presente Decreto Legislativo.\nArt. 13. A Estrutura Organizacional da Assembléia Legislativa do Estado do Pará é a constante do Anexo IV do presente Decreto.\nArt. 14. Ficam retificadas, no Anexo I do Decreto Legislativo nº 32/93, de 05 de maio de 1993, nas linhas 27 e 31 da relação nominal, coluna 3, referente a cargo, as denominações “Auxiliar Legislativo PL.AL-041” e “Assistente Técnico PL.NM-062” para Assistente Legislativo PL.AL-051.\nArt. 15. Os cargos vagos do Quadro de Provimento Efetivo serão preenchidos por candidatos aprovados em concurso público."
+          }
+        },
+        {
+          "enunciado": "Nos termos dos arts. 17 a 20 do Decreto Legislativo nº 01/2006, acerca do Manual de Atribuições e Competências, dos direitos dos servidores, das despesas e da vigência, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Mesa Diretora deverá publicar, por ato próprio, o Manual de Atribuições e Competências dos Órgãos, Cargos e Funções dos Serviços Administrativos.",
+            "B": "O prazo máximo estabelecido para a publicação do Manual de Atribuições e Competências é de cento e oitenta dias.",
+            "C": "Nenhum servidor perderá ou terá diminuídos direitos adquiridos, nem será prejudicado em seus direitos futuros pelas medidas ordenadas pelo Decreto.",
+            "D": "As despesas decorrentes do Decreto Legislativo correrão à conta das dotações orçamentárias próprias.",
+            "E": "O Decreto Legislativo entrará em vigor noventa dias após a data de sua publicação."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 17 atribui à Mesa Diretora a publicação do Manual de Atribuições e Competências por ato próprio.\nB) CORRETA (opção verdadeira). O art. 17 estabelece o prazo máximo de cento e oitenta dias.\nC) CORRETA (opção verdadeira). O art. 18 protege os direitos adquiridos e futuros dos servidores contra prejuízos decorrentes das medidas ordenadas pelo Decreto.\nD) CORRETA (opção verdadeira). O art. 19 determina que as despesas decorrentes do Decreto corram à conta das dotações orçamentárias próprias.\nE) INCORRETA (gabarito). O art. 20 estabelece a entrada em vigor na data de publicação, sem previsão de prazo de noventa dias.",
+          "base_legal": {
+            "dispositivo": "Arts. 17 a 20",
+            "texto": "Art. 17. A Mesa Diretora deverá publicar no prazo máximo de cento e oitenta dias, através de ato próprio, o Manual de Atribuições e Competências dos Órgãos, Cargos e Funções dos Serviços Administrativos da Assembléia Legislativa do Estado do Pará, observando o que dispõe a legislação vigente.\nArt. 18. Em decorrência de qualquer medida ordenada por este Decreto, nenhum servidor perderá ou terá diminuído seus direitos adquiridos, nem será, de qualquer forma, prejudicado em seus direitos futuros.\nArt. 19. As despesas decorrentes do presente Decreto correrão à conta das dotações orçamentárias próprias.\nArt. 20. Este Decreto Legislativo entra em vigor na data de sua publicação."
+          }
+        },
+        {
+          "enunciado": "Considerando os arts. 1º a 8º e o art. 10 do Decreto Legislativo nº 01/2006, qual cargo de provimento efetivo foi, ao mesmo tempo, destino de transformação de cargos e objeto de criação de novos cargos?",
+          "alternativas": {
+            "A": "Jornalista PL.NS-089.",
+            "B": "Programador PL.NS-092.",
+            "C": "Taquígrafo PL.AL-072.",
+            "D": "Analista de Sistema PL.NS-083.",
+            "E": "Documentador de Plenário PL.AL-055."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O Jornalista foi criado pelo art. 10, inciso I, alínea a, mas não é destino de nenhuma das transformações dos arts. 1º a 8º.\nB) INCORRETA. O Programador recebeu os cargos de Assessor Técnico transformados pelo art. 6º, mas o art. 10 não cria cargos de Programador.\nC) CORRETA. O art. 7º transforma dez cargos de Consultor em Taquígrafo, e o art. 10, inciso I, alínea b, cria mais cinco cargos de Taquígrafo.\nD) INCORRETA. O Analista de Sistema recebeu os cargos de Procurador transformados pelo art. 8º, mas o art. 10 não cria cargos de Analista de Sistema.\nE) INCORRETA. O Documentador de Plenário recebeu os cargos transformados pelo art. 3º, mas o art. 10 não cria cargos de Documentador de Plenário.",
+          "base_legal": {
+            "dispositivo": "Arts. 1º a 8º; art. 10, caput e inciso I",
+            "texto": "Art. 1º Ficam transformados em cargos de provimento efetivo de Auxiliar de Plenário PL.AL-021, seis cargos de provimento efetivo de Assistente Legislativo PL.AL-051, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 2º Ficam transformados em cargos de provimento efetivo de Agente de Serviços Gerais PL.AO-011, dois cargos de Agente de Administração PL.AG-031 e nove cargos de Agente de Manutenção PL.AG-032, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 3º Ficam transformados em cargos de provimento efetivo de Documentador de Plenário PL.AL-055, dois cargos de Assessor Técnico PL.AL-102 e dois cargos de Técnico Legislativo PL.AL-071, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 4º Ficam transformados em cargos de provimento efetivo de Redator de Plenário PL.AL-057, um cargo de Desenhista PL.NM-063 e um cargo de Assistente Social PL.NS-082 e um cargo de Assistente Técnico PL.NM-062, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 5º Ficam transformados em cargos de provimento efetivo de Digitador PL.NM-065, sete cargos de Técnico Legislativo PL.AL-071 e dois cargos de Assistente de Informática PL.NM-061, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 6º Ficam transformados em cargos de provimento efetivo de Programador PL.NS-092, cinco cargos de Assessor Técnico PL.AL-102, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 7º Ficam transformados em cargos de provimento efetivo de Taquígrafo PL.AL-072, dez cargos de Consultor PL.AL-104, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt. 8º Ficam transformados em cargos de provimento efetivo de Analista de Sistema PL.NS-083, cinco cargos de provimento efetivo de Procurador PL.AL-105, dispostos no Anexo II do Decreto Legislativo nº 39/91, de 02 de dezembro de 1991.\nArt.10. Na estrutura de cargos do Quadro Geral de Pessoal desta Assembléia Legislativa ficam criados:\nI – no Quadro de Provimento Efetivo;\na) três cargos de Jornalista PL.NS-089;\nb) cinco cargos de Taquígrafo PL.AL-072; e\nc) onze cargos de Digitador PL.NM-065"
+          }
+        },
+        {
+          "enunciado": "Caso prático: durante a análise do Quadro de Pessoal da Assembléia Legislativa, identifica-se a vacância de um cargo efetivo de Secretário de Comissão Técnica PL.AL-054. O analista também identifica a previsão de cargos de Secretário de Comissão Técnica DAS.202-2 no Quadro de Provimento em Comissão. Considerando os arts. 10 e 11 do Decreto Legislativo nº 01/2006, qual conclusão corresponde às disposições da norma?",
+          "alternativas": {
+            "A": "O cargo efetivo PL.AL-054 será extinto na vacância, enquanto foram criados quinze cargos efetivos DAS.202-2.",
+            "B": "O cargo efetivo PL.AL-054 será extinto na vacância, enquanto foram criados quinze cargos em comissão DAS.202-2.",
+            "C": "O cargo efetivo PL.AL-054 será extinto na vacância, enquanto foram criados vinte e seis cargos em comissão DAS.202-2.",
+            "D": "O cargo efetivo PL.AL-054 será extinto na vacância, enquanto foram transformados quinze cargos em comissão DAS.202-2.",
+            "E": "O cargo efetivo PL.AL-054 será extinto na vacância, enquanto foram criados quinze cargos em comissão DAS.202-1."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 10, inciso II, alínea a, cria quinze cargos de Secretário de Comissão Técnica DAS.202-2 no Quadro de Provimento em Comissão, e não no efetivo.\nB) CORRETA. O art. 11 estabelece a extinção do cargo efetivo PL.AL-054 à medida que vagar; o art. 10, inciso II, alínea a, cria quinze cargos em comissão de Secretário de Comissão Técnica DAS.202-2.\nC) INCORRETA. O art. 10, inciso II, alínea a, cria quinze cargos em comissão de Secretário de Comissão Técnica, e não vinte e seis.\nD) INCORRETA. O art. 10, inciso II, alínea a, emprega a criação de quinze cargos em comissão de Secretário de Comissão Técnica, e não sua transformação.\nE) INCORRETA. O art. 10, inciso II, alínea a, estabelece o código DAS.202-2 para os cargos criados de Secretário de Comissão Técnica, e não DAS.202-1.",
+          "base_legal": {
+            "dispositivo": "Art. 10, caput e inciso II, e art. 11",
+            "texto": "Art.10. Na estrutura de cargos do Quadro Geral de Pessoal desta Assembléia Legislativa ficam criados:\nII – no Quadro de Provimento em Comissão:\na) quinze cargos de Secretário de Comissão Técnica DAS.202-2 e\nb) vinte e seis cargos de Agente Parlamentar de Serviços Externos DAS.202-1.\nArt. 11. Serão extintos, à medida que vagarem, os atuais cargos de provimento efetivo de Motorista PL.AG-034 e Secretário de Comissão Técnica PL.AL-054."
+          }
+        }
+      ]
+    }
+  ]
+}

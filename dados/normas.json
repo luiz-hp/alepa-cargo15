@@ -167,7 +167,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei01_2006_25554.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-01-2006.json"
     },
     {
       "id": "dl-01-2007",
