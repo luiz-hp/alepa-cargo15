@@ -1145,6 +1145,184 @@
           }
         }
       ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Reenquadramento de 2017 (Resolução nº 05/2017)",
+      "artigos": "Arts. 1º a 3º e Anexos I e II",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A **Resolução nº 05/2017** altera a **Resolução nº 02/2013**, que havia enquadrado os servidores no PCCR do **DL 04/2012**, para cumprir o art. **5º, § 1º**, do **DL 35/2015**."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Norma",
+            "O que fez",
+            "Efeitos a partir de"
+          ],
+          "linhas": [
+            [
+              "**Res. 02/2013**",
+              "Enquadrou servidores no PCCR",
+              "Não informado"
+            ],
+            [
+              "**DL 35/2015**",
+              "Reverteu cargos ao Suplementar",
+              "**01/01/2016**"
+            ],
+            [
+              "**Res. 05/2017**",
+              "Alterou o enquadramento",
+              "**01/02/2016**"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "Os cargos que haviam migrado do **Quadro Suplementar** para o **Quadro de Provimento Efetivo** foram **revertidos** ao quadro de origem. O reenquadramento segue os **Anexos I e II**."
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "O cargo de **Analista Legislativo / Assistência Legislativa — PL.AL.070** aparece nos dois Anexos. O cargo **PL.AL.076** consta no Anexo I com indicação de **cargo em extinção**. O Anexo I também contempla **cargos de nível médio**."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**3 pegadinhas:** **1.** A Resolução **05/2017 altera** a Resolução **02/2013**, que havia enquadrado os servidores. **2.** A reversão ocorre do **Provimento Efetivo para o Suplementar**, não o contrário. **3.** Efeitos: **DL 35/2015 — janeiro/2016**; **Resolução 05/2017 — fevereiro/2016**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o art. 1º da Resolução nº 05/2017, assinale a alternativa que identifica corretamente a norma alterada, o enquadramento anteriormente realizado e o fundamento da alteração.",
+          "alternativas": {
+            "A": "A Resolução nº 05/2017 alterou o Decreto Legislativo nº 04/2012, que havia enquadrado os servidores no PCCR, para cumprir o art. 5º do Decreto Legislativo nº 35/2015.",
+            "B": "A Resolução nº 05/2017 alterou a Resolução nº 02/2013, que havia enquadrado os servidores no PCCR do Decreto Legislativo nº 35/2015, para cumprir o art. 5º desse Decreto.",
+            "C": "A Resolução nº 05/2017 alterou a Resolução nº 02/2013, que havia enquadrado os servidores no PCCR do Decreto Legislativo nº 04/2012, para cumprir o § 1º do art. 5º do Decreto Legislativo nº 35/2015.",
+            "D": "A Resolução nº 05/2017 alterou a Resolução nº 02/2013, que havia enquadrado os servidores no PCCR do Decreto Legislativo nº 04/2012, para cumprir o § 1º do art. 3º do Decreto Legislativo nº 35/2015.",
+            "E": "A Resolução nº 05/2017 alterou a Resolução nº 02/2013, que havia enquadrado os servidores no PCCR do Decreto Legislativo nº 04/2012, para cumprir o art. 24 do Decreto Legislativo nº 35/2015."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 1º da Resolução nº 05/2017 estabelece a alteração da Resolução nº 02/2013, e não do Decreto Legislativo nº 04/2012.\nB) INCORRETA. O art. 1º da Resolução nº 05/2017 identifica o Decreto Legislativo nº 04/2012, e não o nº 35/2015, como a norma que tratava do PCCR utilizado no enquadramento anterior.\nC) CORRETA. O art. 1º da Resolução nº 05/2017 identifica a Resolução nº 02/2013 como norma alterada, o Decreto Legislativo nº 04/2012 como referência do PCCR e o § 1º do art. 5º do Decreto Legislativo nº 35/2015 como fundamento.\nD) INCORRETA. O art. 1º da Resolução nº 05/2017 indica o § 1º do art. 5º do Decreto Legislativo nº 35/2015, e não o § 1º do art. 3º desse Decreto.\nE) INCORRETA. O art. 1º da Resolução nº 05/2017 fundamenta a alteração no § 1º do art. 5º do Decreto Legislativo nº 35/2015, enquanto o art. 24 deste último trata de vigência e efeitos.",
+          "base_legal": {
+            "dispositivo": "Art. 1º da Resolução nº 05/2017 e art. 24 do Decreto Legislativo nº 35/2015",
+            "texto": "Art. 1º Fica Criada alterada a Resolução nº 02, de 27 de março de 2013, que enquadrou no Plano de Cargos, Carreira e Remuneração de que trata o Decreto Legislativo nº 04 de 04 de abril de 2012, os Servidores da Assembleia Legislativa do Estado do Pará, para efeito de cumprimento do que preceitua o § 1º, do art. 5º, do Decreto Legislativo nº35, de 15 de dezembro de 2015, que deu nova redação ao referido Decreto Legislativo.\n[Decreto Legislativo nº 35/2015]\nArt. 24. Este Decreto Legislativo entra em vigor na data de sua publicação, produzindo seus efeitos a partir de 1º de janeiro de 2016."
+          }
+        },
+        {
+          "enunciado": "Considerando o art. 1º da Resolução nº 05/2017 e a relação entre os atos normativos nele mencionados, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Decreto Legislativo nº 35/2015 deu nova redação à Resolução nº 02/2013, que havia disciplinado o enquadramento dos servidores.",
+            "B": "A Resolução nº 02/2013 havia enquadrado servidores da Assembleia Legislativa do Estado do Pará no Plano de Cargos, Carreira e Remuneração.",
+            "C": "O Plano de Cargos, Carreira e Remuneração mencionado no enquadramento anterior era tratado pelo Decreto Legislativo nº 04/2012.",
+            "D": "A Resolução nº 05/2017 foi editada para efeito de cumprimento do § 1º do art. 5º do Decreto Legislativo nº 35/2015.",
+            "E": "O Decreto Legislativo nº 35/2015 é identificado como a norma que deu nova redação ao Decreto Legislativo nº 04/2012."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 1º da Resolução nº 05/2017 informa que o Decreto Legislativo nº 35/2015 deu nova redação ao Decreto Legislativo nº 04/2012, e não à Resolução nº 02/2013.\nB) CORRETA (opção verdadeira). O art. 1º da Resolução nº 05/2017 afirma que a Resolução nº 02/2013 enquadrou os servidores da Assembleia Legislativa no Plano de Cargos, Carreira e Remuneração.\nC) CORRETA (opção verdadeira). O art. 1º da Resolução nº 05/2017 identifica o Decreto Legislativo nº 04/2012 como a norma que tratava do Plano de Cargos, Carreira e Remuneração.\nD) CORRETA (opção verdadeira). O art. 1º da Resolução nº 05/2017 indica expressamente o cumprimento do § 1º do art. 5º do Decreto Legislativo nº 35/2015.\nE) CORRETA (opção verdadeira). O art. 1º da Resolução nº 05/2017 informa que o Decreto Legislativo nº 35/2015 deu nova redação ao Decreto Legislativo nº 04/2012.",
+          "base_legal": {
+            "dispositivo": "Art. 1º da Resolução nº 05/2017",
+            "texto": "Art. 1º Fica Criada alterada a Resolução nº 02, de 27 de março de 2013, que enquadrou no Plano de Cargos, Carreira e Remuneração de que trata o Decreto Legislativo nº 04 de 04 de abril de 2012, os Servidores da Assembleia Legislativa do Estado do Pará, para efeito de cumprimento do que preceitua o § 1º, do art. 5º, do Decreto Legislativo nº35, de 15 de dezembro de 2015, que deu nova redação ao referido Decreto Legislativo."
+          }
+        },
+        {
+          "enunciado": "De acordo com o art. 5º, caput e § 1º, do Decreto Legislativo nº 35/2015, utilizado como fundamento da Resolução nº 05/2017, acerca do Quadro Suplementar e da reversão de cargos, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Quadro Suplementar é composto de cargos em extinção, observadas as condições estabelecidas no caput do art. 5º.",
+            "B": "O reenquadramento referido no caput observa a nomenclatura e a codificação correspondente, conforme figuram no Anexo V.",
+            "C": "A migração anteriormente realizada ocorreu do Quadro Suplementar para o Quadro de Provimento Efetivo.",
+            "D": "A migração mencionada no § 1º decorreu dos incisos I e II do § 1º do art. 3º do Decreto Legislativo nº 04/2012.",
+            "E": "Os cargos abrangidos pela reversão são transferidos do Quadro de Provimento Efetivo para o Quadro Suplementar Especial."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O caput do art. 5º do Decreto Legislativo nº 35/2015 estabelece que o Quadro Suplementar é composto de cargos em extinção.\nB) CORRETA (opção verdadeira). O caput do art. 5º do Decreto Legislativo nº 35/2015 determina a observância da nomenclatura e codificação correspondente, conforme o Anexo V.\nC) CORRETA (opção verdadeira). O § 1º do art. 5º do Decreto Legislativo nº 35/2015 identifica a migração anterior do Quadro Suplementar para o Quadro de Provimento Efetivo.\nD) CORRETA (opção verdadeira). O § 1º do art. 5º do Decreto Legislativo nº 35/2015 identifica os incisos I e II do § 1º do art. 3º do Decreto Legislativo nº 04/2012 como fundamento da migração anterior.\nE) INCORRETA (gabarito). O § 1º do art. 5º do Decreto Legislativo nº 35/2015 determina a reversão ao Quadro Suplementar, ao qual os cargos pertenciam anteriormente, e não ao Quadro Suplementar Especial.",
+          "base_legal": {
+            "dispositivo": "Art. 5º, caput e § 1º, do Decreto Legislativo nº 35/2015",
+            "texto": "Art. 5º O Quadro Suplementar é composto de cargos em extinção, ocupados por servidores que não preenchiam os requisitos de escolaridade exigidos pelo Decreto Legislativo nº 70, de 1990, para efeito de reenquadramento no Quadro de Provimento Efetivo, sem que tenha havido mudanças na natureza e essência de complexidade das atribuições, observada a nomenclatura e codificação correspondente, conforme figuram no Anexo V.\n§ 1º Os cargos que haviam migrado do Quadro Suplementar para o Quadro de Provimento Efetivo, por força dos incisos I e II, do § 1º, do artigo 3º, do Decreto Legislativo nº 04, de 2012, são, doravante, revertidos para àquele Quadro, ao qual pertenciam anteriormente, observando-se o que dispõe o caput deste artigo."
+          }
+        },
+        {
+          "enunciado": "Segundo o art. 2º da Resolução nº 05/2017 e os títulos dos respectivos Anexos, qual alternativa identifica corretamente a forma de realização do reenquadramento e os quadros apresentados?",
+          "alternativas": {
+            "A": "O reenquadramento ocorre pelo Anexo I, relativo ao Quadro Suplementar de Provimento Efetivo, e pelo Anexo II, relativo ao Quadro de Provimento Efetivo.",
+            "B": "O reenquadramento ocorre pelos Anexos I e II, identificados, respectivamente, como Quadro de Provimento Efetivo e Cargos do Quadro Suplementar de Provimento Efetivo.",
+            "C": "O reenquadramento ocorre pelos Anexos I e II, identificados, respectivamente, como Quadro de Provimento em Comissão e Quadro Suplementar de Provimento Efetivo.",
+            "D": "O reenquadramento ocorre pelo Anexo I, relativo ao Quadro de Provimento Efetivo, e pelo Anexo II, relativo ao Quadro Suplementar de Provimento Efetivo em Comissão.",
+            "E": "O reenquadramento ocorre pelos Anexos I e II, identificados, respectivamente, como Quadro de Provimento Efetivo e Cargos do Quadro Suplementar de Provimento Temporário."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 2º e os títulos dos Anexos da Resolução nº 05/2017 estabelecem o Anexo I como Quadro de Provimento Efetivo e o Anexo II como Cargos do Quadro Suplementar de Provimento Efetivo, e não a ordem apresentada.\nB) CORRETA. O art. 2º da Resolução nº 05/2017 determina o reenquadramento conforme os Anexos I e II, cujos títulos identificam, respectivamente, o Quadro de Provimento Efetivo e os Cargos do Quadro Suplementar de Provimento Efetivo.\nC) INCORRETA. O Anexo I da Resolução nº 05/2017 é denominado Quadro de Provimento Efetivo, e não Quadro de Provimento em Comissão.\nD) INCORRETA. O Anexo II da Resolução nº 05/2017 identifica os cargos do Quadro Suplementar de Provimento Efetivo, e não de Provimento Efetivo em Comissão.\nE) INCORRETA. O Anexo II da Resolução nº 05/2017 identifica os cargos do Quadro Suplementar de Provimento Efetivo, e não de Provimento Temporário.",
+          "base_legal": {
+            "dispositivo": "Art. 2º e títulos dos Anexos I e II da Resolução nº 05/2017",
+            "texto": "Art. 2º O reenquadramento é feito na forma dos Anexos I e II da presente Resolução.\nANEXO I\nQuadro de Provimento Efetivo\nANEXO II\nCARGOS DO QUADRO SUPLEMENTAR DE PROVIMENTO EFETIVO"
+          }
+        },
+        {
+          "enunciado": "Considerando o art. 3º da Resolução nº 05/2017 e o art. 24 do Decreto Legislativo nº 35/2015, acerca da vigência e da produção de efeitos desses atos, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Resolução nº 05/2017 estabelece sua entrada em vigor na data da respectiva publicação.",
+            "B": "O Decreto Legislativo nº 35/2015 estabelece sua entrada em vigor na data da respectiva publicação.",
+            "C": "O Decreto Legislativo nº 35/2015 estabelece a produção de seus efeitos a partir de 1º de janeiro de 2016.",
+            "D": "A Resolução nº 05/2017 estabelece a produção de seus efeitos a partir de 1º de março de 2016.",
+            "E": "A Resolução nº 05/2017 estabelece sua vigência na publicação e distingue essa previsão da data de produção de seus efeitos."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 3º da Resolução nº 05/2017 determina sua entrada em vigor na data da publicação.\nB) CORRETA (opção verdadeira). O art. 24 do Decreto Legislativo nº 35/2015 determina sua entrada em vigor na data da publicação.\nC) CORRETA (opção verdadeira). O art. 24 do Decreto Legislativo nº 35/2015 estabelece efeitos a partir de 1º de janeiro de 2016.\nD) INCORRETA (gabarito). O art. 3º da Resolução nº 05/2017 estabelece efeitos a partir de 1º de fevereiro de 2016, e não de março.\nE) CORRETA (opção verdadeira). O art. 3º da Resolução nº 05/2017 prevê a vigência na data da publicação e a produção de efeitos a partir de 1º de fevereiro de 2016.",
+          "base_legal": {
+            "dispositivo": "Art. 3º da Resolução nº 05/2017 e art. 24 do Decreto Legislativo nº 35/2015",
+            "texto": "Art. 3º Esta Resolução entra em vigor na data de sua publicação e produzindo seus efeitos a partir de 1º de fevereiro de 2016.\n[Decreto Legislativo nº 35/2015]\nArt. 24. Este Decreto Legislativo entra em vigor na data de sua publicação, produzindo seus efeitos a partir de 1º de janeiro de 2016."
+          }
+        },
+        {
+          "enunciado": "De acordo com os cargos relacionados nos Anexos I e II da Resolução nº 05/2017, qual alternativa identifica corretamente o código e a presença do cargo de Analista Legislativo / Assistência Legislativa nos dois Anexos?",
+          "alternativas": {
+            "A": "O cargo possui código PL.AL.070 e aparece tanto no Anexo I, relativo ao Quadro de Provimento Efetivo, quanto no Anexo II, relativo ao Quadro Suplementar de Provimento Efetivo.",
+            "B": "O cargo possui código PL.AL.072 e aparece tanto no Anexo I, relativo ao Quadro de Provimento Efetivo, quanto no Anexo II, relativo ao Quadro Suplementar de Provimento Efetivo.",
+            "C": "O cargo possui código PL.AL.070 e aparece no Anexo I como Analista Legislativo / Assistência Legislativa e no Anexo II como Analista Legislativo / Taquigrafia.",
+            "D": "O cargo possui código PL.AL.075 e aparece tanto no Anexo I, relativo ao Quadro de Provimento Efetivo, quanto no Anexo II, relativo ao Quadro Suplementar de Provimento Efetivo.",
+            "E": "O cargo possui código PL.AL.070 e aparece no Anexo I como Analista Legislativo / Assistência Legislativa e no Anexo II como Analista Legislativo / Secretaria de Comissão Técnica."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 2º remete aos Anexos I e II, nos quais consta o cargo de Analista Legislativo / Assistência Legislativa com código PL.AL.070, observada a grafia própria de cada Anexo.\nB) INCORRETA. O Anexo I identifica PL.AL.072 como código de Analista Legislativo / Taquigrafia, enquanto Assistência Legislativa possui código PL.AL.070.\nC) INCORRETA. O Anexo II identifica o cargo como Analista Legislativo / Assistencia Legislativa, e não como Analista Legislativo / Taquigrafia.\nD) INCORRETA. O Anexo I identifica PL.AL.075 como código de Analista Legislativo / Documentação de Plenário, enquanto Assistência Legislativa possui código PL.AL.070.\nE) INCORRETA. O Anexo II identifica PL.AL.076 como código de Analista Legislativo / Secretaria de Comissão Técnica, e não PL.AL.070.",
+          "base_legal": {
+            "dispositivo": "Art. 2º e linhas de cargos dos Anexos I e II da Resolução nº 05/2017",
+            "texto": "Art. 2º O reenquadramento é feito na forma dos Anexos I e II da presente Resolução.\nANEXO I\nQuadro de Provimento Efetivo\nCargo: ANALISTA LEGISLATIVO / ASSISTÊNCIA LEGISLATIVA – PL.AL.070\nCargo: ANALISTA LEGISLATIVO / TAQUIGRAFIA – PL.AL.072\nCargo: ANALISTA LEGISLATIVO / DOCUMENTAÇÃO DE PLENÁRIO – PL.AL.075\nCargo: ANALISTA LEGISLATIVO / SECRETARIA DE COMISSÃO TÉCNICA – PL.AL.076 (Cargo em extinção Decreto Legislativo 01/2006)\nANEXO II\nCARGOS DO QUADRO SUPLEMENTAR DE PROVIMENTO EFETIVO\nCargo: ANALISTA LEGISLATIVO / SECRETARIA DE COMISSÃO TÉCNICA – PL.AL.076\nCargo: ANALISTA LEGISLATIVO / ASSISTENCIA LEGISLATIVA – PL.AL. 070"
+          }
+        },
+        {
+          "enunciado": "Considerando os cargos e as indicações expressamente reproduzidos nos Anexos I e II da Resolução nº 05/2017, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Anexo I contém um bloco denominado CARGOS DE NÍVEL MÉDIO, no qual consta cargo de Auxiliar Técnico Legislativo.",
+            "B": "O Anexo II relaciona o cargo de Assessor Técnico com o código PL.AL.102 no Quadro Suplementar de Provimento Efetivo.",
+            "C": "O Anexo II relaciona o cargo de Auxiliar Técnico Legislativo – Transporte com o código PL.AL.065.",
+            "D": "O Anexo I identifica o cargo de Auxiliar Técnico Legislativo – Assistencia de Plenário pelo código PL.AL.066.",
+            "E": "O Anexo I identifica Analista Legislativo / Secretaria de Comissão Técnica PL.AL.076 como cargo em extinção pelo Decreto Legislativo nº 35/2015."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O Anexo I da Resolução nº 05/2017 contém o bloco CARGOS DE NÍVEL MÉDIO e nele relaciona Auxiliar Técnico Legislativo / Assistencia de Plenário.\nB) CORRETA (opção verdadeira). O Anexo II da Resolução nº 05/2017 relaciona Assessor Técnico PL.AL.102 entre os cargos do Quadro Suplementar de Provimento Efetivo.\nC) CORRETA (opção verdadeira). O Anexo II da Resolução nº 05/2017 relaciona Auxiliar Técnico Legislativo / Transporte com código PL.AL.065.\nD) CORRETA (opção verdadeira). O Anexo I da Resolução nº 05/2017 apresenta Auxiliar Técnico Legislativo / Assistencia de Plenário com código PL.AL.066.\nE) INCORRETA (gabarito). O Anexo I da Resolução nº 05/2017 identifica o cargo PL.AL.076 com a indicação de cargo em extinção pelo Decreto Legislativo 01/2006, e não pelo Decreto Legislativo nº 35/2015.",
+          "base_legal": {
+            "dispositivo": "Art. 2º e linhas de cargos dos Anexos I e II da Resolução nº 05/2017",
+            "texto": "Art. 2º O reenquadramento é feito na forma dos Anexos I e II da presente Resolução.\nANEXO I\nQuadro de Provimento Efetivo\nCargo: ANALISTA LEGISLATIVO / SECRETARIA DE COMISSÃO TÉCNICA – PL.AL.076 (Cargo em extinção Decreto Legislativo 01/2006)\nCARGOS DE NÍVEL MÉDIO\nCargo: AUXILIAR TÉCNICO LEGISLATIVO – ASSISTENCIA DE PLENÁRIO – PL.AL.066\nANEXO II\nCARGOS DO QUADRO SUPLEMENTAR DE PROVIMENTO EFETIVO\nCargo: ASSESSOR TÉCNICO – PL.AL.102\nCargo: AUXILIAR TÉCNICO LEGISLATIVO – TRANSPORTE – PL.AL.065"
+          }
+        },
+        {
+          "enunciado": "Caso prático: determinado servidor ocupava cargo que havia migrado do Quadro Suplementar para o Quadro de Provimento Efetivo em decorrência dos dispositivos do Decreto Legislativo nº 04/2012 mencionados no § 1º do art. 5º do Decreto Legislativo nº 35/2015. Ao analisar o reenquadramento estabelecido pela Resolução nº 05/2017, verifica-se que a denominação do cargo consta do Anexo II. Considerando exclusivamente esses dispositivos, qual conclusão é correta?",
+          "alternativas": {
+            "A": "O cargo permanece no Quadro de Provimento Efetivo, pois o § 1º do art. 5º do Decreto Legislativo nº 35/2015 preservou a migração anteriormente realizada.",
+            "B": "O cargo é revertido ao Quadro Suplementar, ao qual pertencia anteriormente, observando-se o caput do art. 5º do Decreto Legislativo nº 35/2015.",
+            "C": "O cargo é transferido ao Quadro de Provimento em Comissão, pois o Anexo II da Resolução nº 05/2017 identifica os cargos de livre provimento.",
+            "D": "O cargo é revertido ao Quadro Suplementar, mas a reversão dispensa a observância das condições previstas no caput do art. 5º do Decreto Legislativo nº 35/2015.",
+            "E": "O cargo retorna ao Quadro Suplementar, com alteração na natureza e essência de complexidade de suas atribuições, conforme o art. 5º do Decreto Legislativo nº 35/2015."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O § 1º do art. 5º do Decreto Legislativo nº 35/2015 determina a reversão dos cargos que haviam migrado para o Quadro de Provimento Efetivo, e não sua permanência nesse quadro.\nB) CORRETA. O § 1º do art. 5º do Decreto Legislativo nº 35/2015 determina a reversão ao Quadro Suplementar de origem, observando-se as condições estabelecidas no caput; o art. 2º da Resolução nº 05/2017 remete ao Anexo II, que identifica os cargos do Quadro Suplementar de Provimento Efetivo.\nC) INCORRETA. O Anexo II da Resolução nº 05/2017 é denominado Cargos do Quadro Suplementar de Provimento Efetivo, e não Quadro de Provimento em Comissão.\nD) INCORRETA. O § 1º do art. 5º do Decreto Legislativo nº 35/2015 determina expressamente a observância do caput do mesmo artigo na reversão.\nE) INCORRETA. O caput do art. 5º do Decreto Legislativo nº 35/2015 estabelece a ausência de mudanças na natureza e essência de complexidade das atribuições, condição observada na reversão determinada pelo § 1º.",
+          "base_legal": {
+            "dispositivo": "Art. 2º e título do Anexo II da Resolução nº 05/2017; art. 5º, caput e § 1º, do Decreto Legislativo nº 35/2015",
+            "texto": "Art. 2º O reenquadramento é feito na forma dos Anexos I e II da presente Resolução.\nANEXO II\nCARGOS DO QUADRO SUPLEMENTAR DE PROVIMENTO EFETIVO\n[Decreto Legislativo nº 35/2015]\nArt. 5º O Quadro Suplementar é composto de cargos em extinção, ocupados por servidores que não preenchiam os requisitos de escolaridade exigidos pelo Decreto Legislativo nº 70, de 1990, para efeito de reenquadramento no Quadro de Provimento Efetivo, sem que tenha havido mudanças na natureza e essência de complexidade das atribuições, observada a nomenclatura e codificação correspondente, conforme figuram no Anexo V.\n§ 1º Os cargos que haviam migrado do Quadro Suplementar para o Quadro de Provimento Efetivo, por força dos incisos I e II, do § 1º, do artigo 3º, do Decreto Legislativo nº 04, de 2012, são, doravante, revertidos para àquele Quadro, ao qual pertenciam anteriormente, observando-se o que dispõe o caput deste artigo."
+          }
+        }
+      ]
     }
   ]
 }

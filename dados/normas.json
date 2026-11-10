@@ -809,7 +809,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei05_2017_53363.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/pccr.json"
     },
     {
       "id": "res-04-2019",
