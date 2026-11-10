@@ -391,7 +391,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei111_2020_74235.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-15-2021.json"
     },
     {
       "id": "dl-15-2021",
@@ -405,7 +405,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei15_2021_17341.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-15-2021.json"
     },
     {
       "id": "dl-36-2021",
@@ -475,7 +475,7 @@
           "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei13_2024_71324.pdf"
         }
       ],
-      "material": null
+      "material": "dados/normas/dl-15-2021.json"
     },
     {
       "id": "dl-14-2024",
