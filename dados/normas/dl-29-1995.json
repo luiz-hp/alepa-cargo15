@@ -1,0 +1,490 @@
+{
+  "id": "dl-29-1995",
+  "titulo": "Assessoria Policial-Militar (DL 29/1995 e alterações; Res. 18/1991)",
+  "ementa": "DISPÕE SOBRE A ESTRUTURA BÁSICA DA ASSESSORIA POLICIAL-MILITAR DO GABINETE DA PRESIDÊNCIA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO PARÁ.",
+  "fonte": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei29_1995_65871.pdf",
+  "alteracoes": [
+    "Art. 3º, § 1º: redação dada pelo Decreto Legislativo nº 22/2003; a redação anterior exigia Coronel em serviço ativo.",
+    "Art. 3º, §§ 6º e 7º: o § 6º (Seção de Ajudância de Ordens) foi acrescentado pelo Decreto Legislativo nº 14/1997, e o antigo § 6º passou a ser o § 7º.",
+    "Art. 5º: o Decreto Legislativo nº 18/2013 reescreveu o caput, os §§ 1º e 2º e o Anexo I; o art. 3º do Decreto Legislativo nº 06/2019 revogou o § 1º e o Anexo I a partir de 1º de julho de 2019. O texto compilado do Banco de Leis ainda mostra o caput original e o § 2º na redação do DL 14/1997, já substituídos pelo DL 18/2013.",
+    "O Decreto Legislativo nº 06/2019 não está entre as normas listadas no edital; aparece aqui só porque revogou parte do art. 5º.",
+    "O art. 1º cita o Regimento Interno de 1994 (Resolução nº 02/94), revogado pela Resolução nº 02/2022; no Regimento atual, o policiamento dos edifícios da Assembleia está no art. 334.",
+    "Pelo Anexo Único do Decreto Legislativo nº 11/2025, o Chefe de Gabinete Militar é cargo em comissão DAS.201.5, e o Subchefe do Gabinete Militar, DAS.201.4. O art. 18 do DL 06/2010 permite ao Chefe de Gabinete Militar optar pelo maior valor do Anexo I do DL 14/1997.",
+    "O texto compilado da Resolução nº 18/1991 não registra revogação expressa, mas normas posteriores trataram do mesmo tema: o DL 29/1995 limita o efetivo a 54 homens (art. 4º) e remeteu a gratificação ao Anexo I, hoje revogado."
+  ],
+  "partes": [
+    {
+      "numero": 1,
+      "titulo": "Estrutura e competências da Assessoria Policial-Militar",
+      "artigos": "Arts. 1º a 4º e 6º a 8º",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A **Assessoria Policial-Militar** do Gabinete da Presidência faz o **policiamento e a segurança** do **edifício sede** e das **dependências externas** da Assembleia (art. 2º). O serviço é prestado por policiais-militares **da ativa**, postos à disposição da **Presidência** e chefiados por um **Coronel** da PM, sem prejuízo de soldos e vantagens, e tem **caráter relevante** (art. 2º, §§ 1º e 2º)."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Unidade",
+            "Quem chefia",
+            "Requisito"
+          ],
+          "linhas": [
+            [
+              "Chefia",
+              "**Coronel**",
+              "Quadro de Oficiais da **PM**"
+            ],
+            [
+              "Sub-Chefia",
+              "Oficial",
+              "Posto **imediatamente inferior** ou **mais moderno** que o do Chefe"
+            ],
+            [
+              "Segurança",
+              "**Major ou Capitão PM**",
+              "Curso de Formação de Oficiais **PM**"
+            ],
+            [
+              "Incêndio",
+              "**Tenente BM**",
+              "Curso de Formação de Oficiais **BM**"
+            ],
+            [
+              "Adminis­tração",
+              "**Major ou Capitão PM**",
+              "Curso de Formação de Oficiais **PM**"
+            ],
+            [
+              "Ajudância de Ordens",
+              "**2 Capitães** e **2 Cabos PM**",
+              "Curso de Formação de Oficiais **Combatentes** (§ 6º)"
+            ]
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "**Chefe** (§ 1º): superintende as atividades policiais-militares no Palácio Cabanagem; assessora a **Presidência**; estuda as medidas de segurança entendendo-se com o **Secretário-Legislativo**; faz a segurança pessoal do Presidente, da Mesa, dos Líderes e dos Deputados nos deslocamentos para as Reuniões; dirige o cerimonial com o **Serviço de Relações Públicas**; pede reforço ao **Comando da PM** em eventos extraordinários.",
+            "**Sub-Chefe** (§ 2º): substitui o Chefe em **impedimentos ou ausências**; responde **perante o Chefe** pela disciplina; **fiscaliza** o policiamento interno e externo; colabora nas missões. Tem ainda outras atribuições em **regulamento próprio**.",
+            "**Demais estruturas** (§ 7º): atribuições em ato próprio do **Presidente**, com o assessoramento do Chefe.",
+            "**Efetivo** (art. 4º): **necessariamente da ativa** da PM, até **54** homens, de **livre escolha do Chefe** e **aprovados pelo Presidente**.",
+            "Despesas por dotações próprias (art. 6º); vigência na publicação (art. 7º); revogam-se as disposições conflitantes (art. 8º)."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) A **Seção de Ajudância de Ordens** está no **§ 6º**, e não entre os incisos I a V do art. 3º. 2) **Tenente BM** chefia a Seção de Prevenção e Combate a Incêndio; **Major ou Capitão PM**, as de Segurança e de Administração. 3) O **Chefe escolhe** o efetivo; o **Presidente aprova**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o art. 1º do Decreto Legislativo nº 29/1995, que disciplina a Assessoria Policial-Militar do Gabinete da Presidência da Assembleia Legislativa do Estado do Pará, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Assessoria Policial-Militar foi criada na forma da Lei Estadual nº 5.276, de 1985, observadas as disposições do Decreto Legislativo.",
+            "B": "A Assessoria Policial-Militar integra o Gabinete da Presidência da Assembleia Legislativa do Estado do Pará.",
+            "C": "O Decreto Legislativo estabelece que a Assessoria Policial-Militar se rege pelas disposições nele contidas.",
+            "D": "O Regimento Interno, por meio do artigo 267 da Resolução nº 02/94, é expressamente mencionado no dispositivo.",
+            "E": "As normas pertinentes à Polícia Militar e aos Bombeiros Militares do Estado integram a disciplina aplicável, no que couber."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 1º menciona a Lei Estadual nº 5.299, de 1985, e não a Lei nº 5.276/1985, como fundamento da criação da Assessoria.\nB) CORRETA (opção verdadeira). O art. 1º identifica a Assessoria Policial-Militar como integrante do Gabinete da Presidência da Assembleia Legislativa do Estado do Pará.\nC) CORRETA (opção verdadeira). O art. 1º determina que a Assessoria se regerá pelo próprio Decreto Legislativo.\nD) CORRETA (opção verdadeira). O art. 1º menciona expressamente o artigo 267 do Regimento Interno, identificado como Resolução nº 02/94.\nE) CORRETA (opção verdadeira). O art. 1º também prevê a aplicação das normas pertinentes à Polícia Militar e aos Bombeiros Militares do Estado, no que couber.",
+          "base_legal": {
+            "dispositivo": "Art. 1º",
+            "texto": "Art. 1° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará, criada na forma da Lei Estadual n° 5.299, de 1985 e segundo estabelece o artigo 267, do Regimento Interno (Resolução n° 02/94), reger-se-á pelo disposto neste Decreto Legislativo e demais normas pertinentes à Polícia Militar e Bombeiros Militares do Estado, aplicáveis à espécie da Fundação, no que couber."
+          }
+        },
+        {
+          "enunciado": "Considerando a competência institucional atribuída à Assessoria Policial-Militar pelo art. 2º do Decreto Legislativo nº 29/1995, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O policiamento do edifício sede da Assembleia Legislativa integra as competências atribuídas à Assessoria Policial-Militar.",
+            "B": "O policiamento e a segurança da Assessoria Policial-Militar restringem-se ao edifício sede da Assembleia Legislativa, excluídas suas dependências externas.",
+            "C": "A manutenção da disciplina é uma das finalidades expressamente vinculadas ao exercício das competências da Assessoria Policial-Militar.",
+            "D": "O respeito e a segurança indispensáveis ao desenvolvimento das atividades parlamentares são contemplados pela competência da Assessoria.",
+            "E": "O desenvolvimento das atividades dos demais órgãos da estrutura organizacional do Poder Legislativo também é protegido pela atuação da Assessoria."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 2º inclui o policiamento do edifício sede entre as competências da Assessoria.\nB) INCORRETA (gabarito). O art. 2º abrange expressamente o edifício sede e suas dependências externas, não restringindo a atuação ao prédio principal.\nC) CORRETA (opção verdadeira). O art. 2º vincula o policiamento e a segurança à manutenção da disciplina.\nD) CORRETA (opção verdadeira). O art. 2º menciona a manutenção do respeito e da segurança indispensáveis às atividades parlamentares.\nE) CORRETA (opção verdadeira). O art. 2º também contempla as atividades dos demais órgãos que compõem a estrutura organizacional do Poder Legislativo.",
+          "base_legal": {
+            "dispositivo": "Art. 2º, caput",
+            "texto": "Art. 2° - Compete à Assessoria Policial - Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará exercer o policiamento e a segurança do edifício sede da Assembléia Legislativa e de suas dependências externas, na manutenção da disciplina, do respeito e segurança indispensáveis ao desenvolvimento das atividades parlamentares e dos demais órgãos que compõem a estrutura organizacional do Poder Legislativo."
+          }
+        },
+        {
+          "enunciado": "Nos termos do art. 2º, §§ 1º e 2º, do Decreto Legislativo nº 29/1995, a respeito dos policiais-militares que prestam serviços na Assessoria Policial-Militar e da natureza jurídica desses serviços, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os serviços de policiamento e segurança são exercidos por servidores policiais-militares da ativa das corporações policiais-militares do Estado.",
+            "B": "Os policiais-militares são colocados à disposição da Presidência da Assembleia Legislativa pela autoridade competente.",
+            "C": "O efetivo responsável pelo policiamento e pela segurança deve ser chefiado por um Tenente-Coronel do Quadro de Oficiais da Polícia Militar do Estado do Pará.",
+            "D": "A colocação dos policiais-militares à disposição da Presidência ocorre sem prejuízo de seus soldos e demais vantagens.",
+            "E": "Os serviços prestados pelos oficiais e praças da Assessoria são considerados de caráter relevante para todos os fins de direito."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 2º, § 1º, determina que os serviços sejam exercidos por policiais-militares da ativa.\nB) CORRETA (opção verdadeira). O art. 2º, § 1º, estabelece a colocação dos policiais-militares à disposição da Presidência pela autoridade competente.\nC) INCORRETA (gabarito). O art. 2º, § 1º, exige a chefia por um Coronel do Quadro de Oficiais da Polícia Militar do Estado do Pará, não por Tenente-Coronel.\nD) CORRETA (opção verdadeira). O art. 2º, § 1º, preserva os soldos e demais vantagens dos policiais-militares.\nE) CORRETA (opção verdadeira). O art. 2º, § 2º, considera os serviços de caráter relevante para todos os fins de direito, conforme a Lei nº 5.276/1985.",
+          "base_legal": {
+            "dispositivo": "Art. 2º, caput e §§ 1º e 2º",
+            "texto": "Art. 2° - Compete à Assessoria Policial - Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará exercer o policiamento e a segurança do edifício sede da Assembléia Legislativa e de suas dependências externas, na manutenção da disciplina, do respeito e segurança indispensáveis ao desenvolvimento das atividades parlamentares e dos demais órgãos que compõem a estrutura organizacional do Poder Legislativo.\n§ 1° - O policiamento e a segurança de que trata este artigo serão exercidos por servidores policiais-militares da ativa das corporações policiais-militares do Estado, colocados à disposição da Presidência pela autoridade competente, chefiados por um Coronel do Quadro de Oficiais da Polícia Militar do Estado do Pará, sem prejuízo de seu soldos e demais vantagens.\n§ 2° - Os serviços prestados pelos oficiais e praças que comporão a Assessoria Policial Militar são considerados de caráter relevante para todos os fins de direito, de acordo com a Lei n° 5.276, de 06 de novembro de 1985."
+          }
+        },
+        {
+          "enunciado": "O art. 3º, caput, do Decreto Legislativo nº 29/1995 enumera os componentes da estrutura básica da Assessoria Policial-Militar. Considerando exclusivamente os incisos I a V desse dispositivo, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A estrutura básica da Assessoria Policial-Militar contempla um Chefe de Gabinete Militar.",
+            "B": "A estrutura básica da Assessoria Policial-Militar contempla um Sub-Chefe.",
+            "C": "A estrutura básica da Assessoria Policial-Militar contempla uma Seção de Segurança.",
+            "D": "A estrutura básica da Assessoria Policial-Militar contempla uma Seção de Ajudância de Ordens no inciso IV.",
+            "E": "A estrutura básica da Assessoria Policial-Militar contempla uma Seção de Administração."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 3º, inciso I, prevê um Chefe de Gabinete Militar.\nB) CORRETA (opção verdadeira). O art. 3º, inciso II, prevê um Sub-Chefe.\nC) CORRETA (opção verdadeira). O art. 3º, inciso III, prevê uma Seção de Segurança.\nD) INCORRETA (gabarito). O art. 3º, inciso IV, prevê uma Seção de Prevenção e Combate à Incêndio. A Seção de Ajudância de Ordens é disciplinada no § 6º, não integrando a enumeração dos incisos I a V.\nE) CORRETA (opção verdadeira). O art. 3º, inciso V, prevê uma Seção de Administração.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput, incisos I a V e § 6º",
+            "texto": "Art. 3° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará terá a seguintes estrutura básica:\nI - Um Chefe de Gabinete Militar;\nII - Um Sub-Chefe;\nIII - Uma Seção de Segurança;\nIV - Uma Seção de Prevenção e Combate à Incêndio;\nV - Uma Seção de Administração;\n§ 6° - A Seção de Ajudância de Ordens será composta por dois Oficiais do Posto de Capitão, possuidores do Curso de Formação de Oficiais Combatentes da Polícia Militar do Pará e mais dois Cabos PM Combatentes, e terá como principal atribuição acompanhar o Presidente da Assembléia Legislativa nas atividades do cargo ou fora dele quando necessário."
+          }
+        },
+        {
+          "enunciado": "De acordo com o art. 3º, § 1º, alíneas a, b e c, do Decreto Legislativo nº 29/1995, compete ao Chefe do Gabinete Militar:",
+          "alternativas": {
+            "A": "Superintender exclusivamente as atividades administrativas da Assessoria Policial-Militar desenvolvidas no Palácio Cabanagem.",
+            "B": "Assessorar o Secretário-Legislativo nos assuntos relativos à segurança do Palácio Cabanagem.",
+            "C": "Submeter à apreciação da Mesa Diretora todo efetivo e material relacionado com as atividades da Assessoria Policial-Militar.",
+            "D": "Superintender todas as atividades policiais-militares no Palácio Cabanagem e assessorar o Comando da Polícia Militar nos assuntos relativos à segurança desse Palácio.",
+            "E": "Superintender todas as atividades policiais-militares no Palácio Cabanagem e assessorar a Presidência nos assuntos relativos à segurança desse Palácio."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O art. 3º, § 1º, alínea a, atribui ao Chefe a superintendência de todas as atividades policiais-militares no Palácio Cabanagem, sem a restrição às atividades administrativas.\nB) INCORRETA. O art. 3º, § 1º, alínea b, estabelece o assessoramento à Presidência da Assembleia Legislativa nos assuntos relativos à segurança do Palácio Cabanagem.\nC) INCORRETA. O art. 3º, § 1º, alínea c, determina a submissão do efetivo e material à apreciação do Presidente, não da Mesa Diretora.\nD) INCORRETA. O art. 3º, § 1º, alínea b, prevê o assessoramento à Presidência da Assembléia Legislativa, e não ao Comando da Polícia Militar.\nE) CORRETA. O art. 3º, § 1º, alíneas a e b, estabelece a superintendência das atividades policiais-militares no Palácio Cabanagem e o assessoramento da Presidência quanto à sua segurança.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput e § 1º, alíneas a a c",
+            "texto": "Art. 3° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará terá a seguintes estrutura básica:\n§ 1° - A Chefia do Gabinete Militar será exercida por um Coronel do Quadro de Oficiais da PM, a quem compete:\na) Superintender todas as atividades policiais-militares no Palácio Cabanagem;\nb) Assessorar a Presidência da Assembléia Legislativa nos assuntos relativos à segurança do Palácio Cabanagem;\nc) Receber e submeter à apreciação do Presidente todo efetivo e material relacionado com o desenvolvimento das atividades da Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa;"
+          }
+        },
+        {
+          "enunciado": "Nos termos do art. 3º, § 1º, alíneas d, e e f, do Decreto Legislativo nº 29/1995, que tratam das atribuições da Chefia do Gabinete Militar, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Nos estudos das medidas de segurança que possam refletir nos serviços administrativos da Assembleia Legislativa, o Chefe deve entender-se com o Diretor-Geral.",
+            "B": "O Chefe deve proceder a estudos das medidas de segurança que possam refletir direta ou indiretamente nos serviços administrativos da Assembleia Legislativa.",
+            "C": "Os esquemas de segurança dos Deputados Estaduais, do Palácio Cabanagem e de suas adjacências integram as matérias contempladas nos estudos de segurança.",
+            "D": "O Chefe deve cientificar imediatamente a Presidência da Assembleia Legislativa das medidas de segurança que vierem a ser adotadas.",
+            "E": "O Chefe deve organizar, dirigir e executar os serviços de segurança pessoal do Presidente, dos membros da Mesa Diretora, dos Líderes Partidários e dos Deputados, quando estes tiverem de se deslocar para as Reuniões da Assembleia Legislativa."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 3º, § 1º, alínea d, determina que o Chefe se entenda com o Secretário-Legislativo, e não com o Diretor-Geral.\nB) CORRETA (opção verdadeira). O art. 3º, § 1º, alínea d, inclui o estudo das medidas de segurança que possam refletir direta ou indiretamente nos serviços administrativos da Assembleia.\nC) CORRETA (opção verdadeira). O art. 3º, § 1º, alínea d, menciona os esquemas de segurança dos Deputados Estaduais, do Palácio Cabanagem e de suas adjacências.\nD) CORRETA (opção verdadeira). O art. 3º, § 1º, alínea e, exige que a Presidência seja cientificada imediatamente das medidas de segurança adotadas.\nE) CORRETA (opção verdadeira). O art. 3º, § 1º, alínea f, atribui ao Chefe os serviços de segurança pessoal das autoridades mencionadas, quando ocorrerem os deslocamentos para as Reuniões da Assembleia Legislativa.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput e § 1º, alíneas d a f",
+            "texto": "Art. 3° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará terá a seguintes estrutura básica:\n§ 1° - A Chefia do Gabinete Militar será exercida por um Coronel do Quadro de Oficiais da PM, a quem compete:\nd) Proceder a estudos de todos as medidas de segurança que, direta ou indiretamente possam refletir nos serviços administrativos da Assembléia Legislativa, inclusive os esquemas de segurança dos Senhores Deputados Estaduais, do Palácio Cabanagem e de suas adjacências, entendendo-se, a esse respeito, com o Secretário-Legislativo;\ne) Cientificar de imediato, a Presidência da Assembléia Legislativa das medidas de segurança que vierem a ser adotadas;\nf) Organizar, dirigir e executar, os serviços de segurança pessoal do Presidente, os membros da Mesa Diretora, Líderes Partidários e dos Senhores Deputados, quando estes tiverem de se deslocar para as Reuniões da Assembléia Legislativa;"
+          }
+        },
+        {
+          "enunciado": "Segundo o art. 3º, § 1º, alíneas g a j, do Decreto Legislativo nº 29/1995, acerca das atribuições do Chefe do Gabinete Militar relacionadas à assistência militar, ao cerimonial e à cobertura de eventos extraordinários, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O Chefe coordena o serviço de assistência militar junto ao Presidente e, por determinação expressa deste, junto a autoridades em visita oficial a outros órgãos públicos.",
+            "B": "O Chefe dirige os serviços de cerimonial policial-militar em harmonia com o Serviço de Relações Públicas da Assembleia Legislativa.",
+            "C": "O Chefe solicita ao Governador do Estado o auxílio necessário à cobertura de eventos extraordinários, quando o efetivo disponível é insuficiente.",
+            "D": "O Chefe deve coordenar o serviço de assistência militar junto a autoridades em visita oficial, independentemente de determinação da Presidência.",
+            "E": "O Chefe desempenha outras atribuições policiais-militares de interesse da Assembleia Legislativa quando regularmente determinadas pela Sub-Chefia."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 3º, § 1º, alínea g, prevê assistência militar eventual a autoridade em visita oficial às dependências do Palácio Cabanagem, mediante determinação expressa do Presidente, e não assistência a visitantes de outros órgãos públicos.\nB) CORRETA. O art. 3º, § 1º, alínea h, determina que o cerimonial policial-militar seja dirigido em harmonia com o Serviço de Relações Públicas da Assembleia Legislativa.\nC) INCORRETA. O art. 3º, § 1º, alínea i, atribui ao Chefe a solicitação de auxílio ao Comando da Polícia Militar, e não ao Governador do Estado.\nD) INCORRETA. O art. 3º, § 1º, alínea g, condiciona a assistência militar eventual a autoridades em visita oficial à determinação expressa do Presidente.\nE) INCORRETA. O art. 3º, § 1º, alínea j, exige determinação regular da Presidência para as outras atribuições previstas.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput e § 1º, alíneas g a j",
+            "texto": "Art. 3° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará terá a seguintes estrutura básica:\n§ 1° - A Chefia do Gabinete Militar será exercida por um Coronel do Quadro de Oficiais da PM, a quem compete:\ng) Coordenar o serviço de assistência militar junto ao Presidente da Assembléia ou, eventualmente, por sua determinação expressa, junto a autoridade em visita oficial às dependências do Palácio Cabanagem;\nh) Dirigir os serviços relativos ao Cerimonial policial-militar concernentes às cerimoniais oficiais a serem desenvolvidas no Palácio Cabanagem em harmonia com o Serviço de Relações Públicas da Assembléia Legislativa;\ni) Solicitar, do Comando da Polícia Militar, o auxílio necessário para cobertura a eventos extraordinários, quando o efeito de que dispuser não for suficiente para o atendimento;\nj) Desincumbir-se, no âmbito de suas atividades policiais-militares, de quaisquer outras atribuições que sejam do interesse da Assembléia Legislativa, quando regularmente determinado pela Presidência."
+          }
+        },
+        {
+          "enunciado": "Conforme o art. 3º, § 2º, do Decreto Legislativo nº 29/1995, que disciplina a Sub-Chefia da Assessoria Militar, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Sub-Chefia deve ser atribuída a oficial de posto imediatamente inferior ou mais moderno que o Chefe do Gabinete Militar.",
+            "B": "O Sub-Chefe substitui o Chefe do Gabinete Militar nos seus impedimentos ou ausências.",
+            "C": "O Sub-Chefe responde diretamente perante o Presidente da Assembleia Legislativa pela disciplina dos oficiais e praças da Assessoria.",
+            "D": "As atribuições do Sub-Chefe incluem fiscalizar o policiamento desenvolvido interna e externamente no prédio do Palácio Cabanagem.",
+            "E": "O Sub-Chefe colabora nas missões da Assessoria e desincumbe-se das atribuições que lhe forem determinadas pelo Chefe do Gabinete Militar."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 3º, § 2º, atribui a Sub-Chefia a oficial de posto imediatamente inferior ou mais moderno que o Chefe.\nB) CORRETA (opção verdadeira). O art. 3º, § 2º, alínea a, estabelece a substituição do Chefe nos impedimentos ou ausências.\nC) INCORRETA (gabarito). O art. 3º, § 2º, alínea b, estabelece que o Sub-Chefe responde perante o Chefe do Gabinete Militar pela disciplina dos oficiais e praças.\nD) CORRETA (opção verdadeira). O art. 3º, § 2º, alínea c, atribui ao Sub-Chefe a fiscalização do policiamento interno e externo no prédio do Palácio Cabanagem.\nE) CORRETA (opção verdadeira). O art. 3º, § 2º, alínea d, estabelece a colaboração nas missões e o cumprimento das determinações do Chefe.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput e § 2º, alíneas a a d",
+            "texto": "Art. 3° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará terá a seguintes estrutura básica:\n§ 2° - A Sub-Chefia da Assessoria Militar será atribuída ao oficial de posto imediatamente inferior ou mais moderno que o Chefe do Gabinete Militar, incumbindo-lhe, dentre outras atribuições previstas em regulamento próprio, as seguintes:\na) Substituir, em seus impedimentos ou ausências, o Chefe do Gabinete Militar;\nb) Ser o responsável, perante o chefe do Gabinete Militar, pela disciplina dos oficiais e praças que integram o efetivo da Assessoria Policial-Militar;\nc) Fiscalizar o policiamento a ser desenvolvido interna e externamente no prédio do Palácio Cabanagem;\nd) Colaborar o Chefe do Gabinete Militar em todas as missões a serem executadas pela Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa, desincumbindo-se daquelas que lhes forem determinadas pelo Chefe do Gabinete Militar."
+          }
+        },
+        {
+          "enunciado": "Sobre a Sub-Chefia da Assessoria Militar, prevista no art. 3º, § 2º, do Decreto Legislativo nº 29/1995, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "As atribuições do Sub-Chefe são apenas as quatro enumeradas no § 2º, vedada a previsão de outras em regulamento.",
+            "B": "A Sub-Chefia é atribuída ao oficial mais antigo do efetivo da Assessoria, independentemente do posto que ocupe.",
+            "C": "As atribuições do Sub-Chefe são definidas exclusivamente em ato próprio do Presidente, com o assessoramento do Chefe de Gabinete Militar.",
+            "D": "As atribuições enumeradas no § 2º não esgotam as do Sub-Chefe, que tem outras previstas em regulamento próprio.",
+            "E": "O Sub-Chefe é escolhido livremente pelo Presidente da Assembleia entre os oficiais que integram a Assessoria."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O § 2º diz que as atribuições enumeradas valem \"dentre outras atribuições previstas em regulamento próprio\"; a lista não é exaustiva.\nB) INCORRETA. O § 2º atribui a Sub-Chefia ao oficial de posto imediatamente inferior ou mais moderno que o Chefe do Gabinete Militar, e não ao mais antigo do efetivo.\nC) INCORRETA. O próprio § 2º enumera atribuições do Sub-Chefe; o ato próprio do Presidente, previsto no § 7º, trata das demais estruturas organizacionais.\nD) CORRETA. O § 2º enumera quatro atribuições \"dentre outras atribuições previstas em regulamento próprio\".\nE) INCORRETA. O § 2º define a Sub-Chefia pelo posto do oficial em relação ao Chefe; não prevê livre escolha pelo Presidente.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput, § 2º e § 7º",
+            "texto": "Art. 3° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará terá a seguintes estrutura básica:\n§ 2° - A Sub-Chefia da Assessoria Militar será atribuída ao oficial de posto imediatamente inferior ou mais moderno que o Chefe do Gabinete Militar, incumbindo-lhe, dentre outras atribuições previstas em regulamento próprio, as seguintes:\na) Substituir, em seus impedimentos ou ausências, o Chefe do Gabinete Militar;\nb) Ser o responsável, perante o chefe do Gabinete Militar, pela disciplina dos oficiais e praças que integram o efetivo da Assessoria Policial-Militar;\nc) Fiscalizar o policiamento a ser desenvolvido interna e externamente no prédio do Palácio Cabanagem;\nd) Colaborar o Chefe do Gabinete Militar em todas as missões a serem executadas pela Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa, desincumbindo-se daquelas que lhes forem determinadas pelo Chefe do Gabinete Militar.\n§ 7° - As atribuições das demais estruturas organizacionais da Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa serão baixadas em ato próprio do Presidente da Assembléia Legislativa, com o assessoramento do Chefe de Gabinete Militar."
+          }
+        },
+        {
+          "enunciado": "De acordo com o art. 3º, §§ 3º e 4º, do Decreto Legislativo nº 29/1995, sobre a composição e a chefia das Seções de Segurança e de Prevenção e Combate a Incêndio, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Seção de Segurança será chefiada por um Major ou Capitão PM, com curso de formação de Oficiais PM.",
+            "B": "A Seção de Segurança contará com praças da ativa deslocados para a Seção, dentre os efetivos à disposição da Presidência.",
+            "C": "A Seção de Prevenção e Combate a Incêndio terá efetivo de praças colocado à disposição da Presidência para compor a estrutura da Assessoria.",
+            "D": "O Chefe da Seção de Prevenção e Combate a Incêndio deve possuir o curso de Formação de Oficiais BM.",
+            "E": "A Seção de Prevenção e Combate a Incêndio será chefiada por Capitão BM, possuidor do curso de Formação de Oficiais BM."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 3º, § 3º, estabelece que a Seção de Segurança será chefiada por Major ou Capitão PM com curso de formação de Oficiais PM.\nB) CORRETA (opção verdadeira). O art. 3º, § 3º, prevê praças da ativa deslocados para a Seção, dentre os efetivos colocados à disposição da Presidência.\nC) CORRETA (opção verdadeira). O art. 3º, § 4º, prevê efetivo de praças colocado à disposição da Presidência para a Seção de Prevenção de Combate à Incêndio.\nD) CORRETA (opção verdadeira). O art. 3º, § 4º, exige do Chefe dessa Seção o curso de Formação de Oficiais BM.\nE) INCORRETA (gabarito). O art. 3º, § 4º, exige Tenente BM possuidor do curso de Formação de Oficiais BM, e não Capitão BM.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput e §§ 3º e 4º",
+            "texto": "Art. 3° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará terá a seguintes estrutura básica:\n§ 3° - A Seção de Segurança terá como Chefe um Major ou Capitão PM, com curso de formação de Oficiais PM, e os praças da ativa deslocados para aquela Seção, dentre os efetivos colocados à disposição da Presidência da Assembléia Legislativa para comporem a estrutura básica da Assessoria Policial-Militar.\n§ 4° - A Seção de Prevenção de Combate à Incêndio terá como Chefe um Tenente BM, possuidor do curso de Formação de Oficiais BM e mais um efetivo de praças colocados à disposição da Presidência da Assembléia Legislativa para comporem a estrutura básica da Assessoria Policial-Militar."
+          }
+        },
+        {
+          "enunciado": "Considerando o art. 3º, §§ 3º a 5º, do Decreto Legislativo nº 29/1995, assinale a alternativa que apresenta corretamente a chefia e o requisito de formação da Seção de Administração, em comparação com as demais Seções.",
+          "alternativas": {
+            "A": "A Seção de Administração será chefiada por Major ou Capitão PM, possuidor do Curso de Formação de Oficiais PM.",
+            "B": "A Seção de Administração será chefiada por Major ou Capitão BM, possuidor do Curso de Formação de Oficiais BM.",
+            "C": "A Seção de Administração será chefiada por Tenente PM, possuidor do Curso de Formação de Oficiais PM.",
+            "D": "A Seção de Administração será chefiada por Major ou Capitão PM, possuidor do Curso de Formação de Oficiais BM.",
+            "E": "A Seção de Administração será chefiada por Tenente BM, possuidor do Curso de Formação de Oficiais BM."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 3º, § 5º, exige Major ou Capitão PM, possuidor do Curso de Formação de Oficiais PM, para chefiar a Seção de Administração.\nB) INCORRETA. O art. 3º, § 5º, prevê Major ou Capitão PM com Curso de Formação de Oficiais PM, e não oficial BM com formação BM.\nC) INCORRETA. O art. 3º, § 5º, estabelece os postos de Major ou Capitão PM, não o de Tenente PM.\nD) INCORRETA. O art. 3º, § 5º, exige Curso de Formação de Oficiais PM, e não BM.\nE) INCORRETA. O art. 3º, § 4º, prevê Tenente BM para a Seção de Prevenção de Combate à Incêndio; a Seção de Administração é disciplinada pelo § 5º.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput e §§ 3º a 5º",
+            "texto": "Art. 3° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará terá a seguintes estrutura básica:\n§ 3° - A Seção de Segurança terá como Chefe um Major ou Capitão PM, com curso de formação de Oficiais PM, e os praças da ativa deslocados para aquela Seção, dentre os efetivos colocados à disposição da Presidência da Assembléia Legislativa para comporem a estrutura básica da Assessoria Policial-Militar.\n§ 4° - A Seção de Prevenção de Combate à Incêndio terá como Chefe um Tenente BM, possuidor do curso de Formação de Oficiais BM e mais um efetivo de praças colocados à disposição da Presidência da Assembléia Legislativa para comporem a estrutura básica da Assessoria Policial-Militar.\n§ 5° - A Seção de Administração terá como Chefe um Major ou Capitão PM, possuidor do Curso de Formação de Oficiais PM, e mais o efetivo de praças colocados à disposição da Presidência da Assembléia Legislativa para comporem a estrutura básica da Assessoria-Militar."
+          }
+        },
+        {
+          "enunciado": "Nos termos do art. 3º, §§ 6º e 7º, do Decreto Legislativo nº 29/1995, considerando a composição da Seção de Ajudância de Ordens e a definição das atribuições das demais estruturas organizacionais, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Seção de Ajudância de Ordens será composta por dois Oficiais do posto de Capitão, com Curso de Formação de Oficiais Combatentes da Polícia Militar do Pará.",
+            "B": "A Seção de Ajudância de Ordens contará com três Cabos PM Combatentes, além dos dois Oficiais do posto de Capitão.",
+            "C": "A principal atribuição da Seção de Ajudância de Ordens consiste em acompanhar o Presidente da Assembleia Legislativa nas atividades do cargo.",
+            "D": "O acompanhamento do Presidente pela Seção de Ajudância de Ordens também poderá ocorrer fora das atividades do cargo, quando necessário.",
+            "E": "As atribuições das demais estruturas organizacionais serão estabelecidas em ato próprio do Presidente, com assessoramento do Chefe de Gabinete Militar."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 3º, § 6º, prevê dois Oficiais do posto de Capitão com Curso de Formação de Oficiais Combatentes da Polícia Militar do Pará.\nB) INCORRETA (gabarito). O art. 3º, § 6º, estabelece dois Cabos PM Combatentes, e não três.\nC) CORRETA (opção verdadeira). O art. 3º, § 6º, define como principal atribuição acompanhar o Presidente da Assembleia Legislativa nas atividades do cargo.\nD) CORRETA (opção verdadeira). O art. 3º, § 6º, também prevê o acompanhamento fora das atividades do cargo, quando necessário.\nE) CORRETA (opção verdadeira). O art. 3º, § 7º, determina que as atribuições das demais estruturas sejam baixadas em ato próprio do Presidente, com assessoramento do Chefe de Gabinete Militar.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput e §§ 6º e 7º",
+            "texto": "Art. 3° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará terá a seguintes estrutura básica:\n§ 6° - A Seção de Ajudância de Ordens será composta por dois Oficiais do Posto de Capitão, possuidores do Curso de Formação de Oficiais Combatentes da Polícia Militar do Pará e mais dois Cabos PM Combatentes, e terá como principal atribuição acompanhar o Presidente da Assembléia Legislativa nas atividades do cargo ou fora dele quando necessário.\n§ 7° - As atribuições das demais estruturas organizacionais da Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa serão baixadas em ato próprio do Presidente da Assembléia Legislativa, com o assessoramento do Chefe de Gabinete Militar."
+          }
+        },
+        {
+          "enunciado": "À luz dos arts. 4º e 6º a 8º do Decreto Legislativo nº 29/1995, acerca da composição do efetivo da Assessoria Policial-Militar e das disposições finais da norma, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O efetivo da Assessoria pode alcançar 56 homens da ativa, desde que indicados pelo Chefe de Gabinete Militar e aprovados pelo Presidente.",
+            "B": "O efetivo da Assessoria é indicado por livre escolha do Presidente e aprovado pelo Chefe de Gabinete Militar, respeitado o limite legal.",
+            "C": "O efetivo não pode exceder 54 homens, deve ser necessariamente da ativa da PM, e as despesas correm por dotações próprias da Assembleia Legislativa.",
+            "D": "O Decreto Legislativo estabelece que sua vigência terá início trinta dias após a publicação, mantidas as demais disposições.",
+            "E": "O Decreto Legislativo determina a revogação de todas as disposições anteriores relativas à Assessoria, ainda que não sejam conflitantes."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 4º estabelece que o efetivo não poderá exceder 54 homens, e não 56.\nB) INCORRETA. O art. 4º estabelece a livre escolha do Chefe de Gabinete Militar e a aprovação pelo Presidente, não o inverso.\nC) CORRETA. O art. 4º exige efetivo da ativa da PM, limitado a 54 homens; o art. 6º determina que as despesas corram à custa das dotações orçamentárias próprias da Assembleia Legislativa.\nD) INCORRETA. O art. 7º estabelece vigência na data da publicação, sem período de trinta dias.\nE) INCORRETA. O art. 8º revoga as disposições conflitantes, não todas as disposições anteriores indiscriminadamente.",
+          "base_legal": {
+            "dispositivo": "Arts. 4º e 6º a 8º",
+            "texto": "Art. 4° - O efetivo de Oficiais e praças-PM julgado necessário para compor a estrutura básica da Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa deverá ser, necessariamente, do serviço ativo da PM, não excedentes a 54 (cinqüenta e quatro) homens, indicados por livre escolha do Chefe de Gabinete Militar e aprovados pelo Presidente.\nArt. 6° - As despesas decorrentes deste Decreto Legislativo correrão à custa das dotações orçamentárias próprias da Assembléia Legislativa.\nArt. 7° - Este Decreto Legislativo entrará em vigor na data de sua publicação.\nArt. 8° - Revogam-se as disposições conflitantes."
+          }
+        },
+        {
+          "enunciado": "Durante um evento extraordinário no Palácio Cabanagem, o efetivo disponível da Assessoria Policial-Militar mostra-se insuficiente para a cobertura de segurança. Simultaneamente, o Chefe do Gabinete Militar encontra-se ausente, e há necessidade de fiscalização do policiamento interno e externo. Considerando as competências e substituições previstas no Decreto Legislativo nº 29/1995, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A Chefia do Gabinete Militar deve solicitar auxílio ao Comando da Polícia Militar somente após o encerramento do evento extraordinário.",
+            "B": "O Secretário-Legislativo substitui o Chefe do Gabinete Militar e solicita reforço ao Comando da Polícia Militar, em razão de suas atribuições de segurança.",
+            "C": "A Sub-Chefia assume a responsabilidade exclusiva pela segurança pessoal dos parlamentares, enquanto a solicitação de reforço cabe à Presidência.",
+            "D": "Cabe à Chefia do Gabinete Militar solicitar auxílio ao Comando da Polícia Militar; em sua ausência, o Sub-Chefe a substitui e fiscaliza o policiamento interno e externo.",
+            "E": "A chefia da Seção de Segurança substitui automaticamente o Chefe do Gabinete Militar e solicita o auxílio necessário ao Comando da Polícia Militar."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 3º, § 1º, alínea i, prevê a solicitação de auxílio para a cobertura de eventos extraordinários quando o efetivo disponível for insuficiente, não estabelecendo que a solicitação ocorra somente após o evento.\nB) INCORRETA. O art. 3º, § 2º, alínea a, atribui a substituição do Chefe ao Sub-Chefe, não ao Secretário-Legislativo.\nC) INCORRETA. O art. 3º, § 1º, alínea i, atribui à Chefia do Gabinete Militar a solicitação de auxílio para eventos extraordinários; a alínea f atribui à Chefia a organização, direção e execução dos serviços de segurança pessoal das autoridades mencionadas.\nD) CORRETA. O art. 3º, § 1º, alínea i, prevê a solicitação de auxílio ao Comando da Polícia Militar; o § 2º, alíneas a e c, determina que o Sub-Chefe substitua o Chefe em suas ausências e fiscalize o policiamento interno e externo.\nE) INCORRETA. O art. 3º, § 2º, alínea a, atribui expressamente ao Sub-Chefe a substituição do Chefe do Gabinete Militar nos impedimentos ou ausências, não à chefia da Seção de Segurança.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput, incisos II e III, § 1º, alíneas f e i, § 2º, alíneas a e c, e § 3º",
+            "texto": "Art. 3° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará terá a seguintes estrutura básica:\nII - Um Sub-Chefe;\nIII - Uma Seção de Segurança;\n§ 1° - A Chefia do Gabinete Militar será exercida por um Coronel do Quadro de Oficiais da PM, a quem compete:\nf) Organizar, dirigir e executar, os serviços de segurança pessoal do Presidente, os membros da Mesa Diretora, Líderes Partidários e dos Senhores Deputados, quando estes tiverem de se deslocar para as Reuniões da Assembléia Legislativa;\ni) Solicitar, do Comando da Polícia Militar, o auxílio necessário para cobertura a eventos extraordinários, quando o efeito de que dispuser não for suficiente para o atendimento;\n§ 2° - A Sub-Chefia da Assessoria Militar será atribuída ao oficial de posto imediatamente inferior ou mais moderno que o Chefe do Gabinete Militar, incumbindo-lhe, dentre outras atribuições previstas em regulamento próprio, as seguintes:\na) Substituir, em seus impedimentos ou ausências, o Chefe do Gabinete Militar;\nc) Fiscalizar o policiamento a ser desenvolvido interna e externamente no prédio do Palácio Cabanagem;\n§ 3° - A Seção de Segurança terá como Chefe um Major ou Capitão PM, com curso de formação de Oficiais PM, e os praças da ativa deslocados para aquela Seção, dentre os efetivos colocados à disposição da Presidência da Assembléia Legislativa para comporem a estrutura básica da Assessoria Policial-Militar."
+          }
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Gratificação de representação e alterações (DL 14/1997, DL 18/2013, DL 22/2003 e Res. 18/1991)",
+      "artigos": "Art. 5º e Anexo I do DL 29/1995; DL 14/1997; DL 18/2013; DL 22/2003; Res. 18/1991",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A **gratificação de representação** dos militares da Assessoria mudou várias vezes. **Atenção:** o texto compilado do DL 29/1995 no Banco de Leis ainda mostra o art. 5º antigo."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Norma",
+            "O que dispôs"
+          ],
+          "linhas": [
+            [
+              "Res. 18/1991",
+              "Praças: gratificação = **soldo**; sem adicional por tempo de serviço; limite de **40** praças; efeitos desde **1º/02/1991**"
+            ],
+            [
+              "DL 29/1995",
+              "**Mesa Diretora** autorizada a atribuir a gratificação por **ato próprio**, conforme o **Anexo I**"
+            ],
+            [
+              "DL 14/1997",
+              "Novo Anexo I: Sub-Chefe **5x**, Chefe de Seção e Ajudante de Ordens **4x** o soldo do posto; Praças **3x** o soldo da graduação; efeitos desde **1º/05/1997**"
+            ],
+            [
+              "DL 18/2013",
+              "Novo art. 5º (cargo comissionado; **militares estaduais**) e novo Anexo I: Chefe **6x** o soldo de Coronel; Sub-Chefe **5x** o de Tenente Coronel; Praças **3x** o da graduação; efeitos no exercício de **2013**"
+            ],
+            [
+              "DL 06/2019",
+              "**Revogou** o § 1º e o Anexo I a partir de **1º/07/2019**"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "**Hoje, o art. 5º tem:** o *caput* do DL 18/2013 (Mesa Diretora, ato próprio, gratificação de representação pelo exercício de cargo comissionado aos militares estaduais) e o **§ 2º** (sobre a gratificação incide o disposto no art. 7º da Constituição). O **§ 1º** e o **Anexo I** estão **revogados**."
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "**Outras alterações:** o **DL 14/1997** criou a **Seção de Ajudância de Ordens** (§ 6º do art. 3º; o antigo § 6º virou § 7º). O **DL 22/2003** reescreveu o § 1º do art. 3º: a Chefia continua com um **Coronel do Quadro de Oficiais da PM**, mas o texto não fala mais em **serviço ativo**."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "1) **Res. 18/1991**: limite de **40** praças; o DL 29/1995 (art. 4º) limita o efetivo a **54** homens. 2) O DL 06/2019 revogou **só** o § 1º e o Anexo I; o § 2º do art. 5º não foi revogado. 3) Efeitos: DL 14/1997 a partir de **1º/05/1997**; DL 18/2013 no exercício de **2013**; revogação do DL 06/2019 a partir de **1º/07/2019**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Na redação dada pelo Decreto Legislativo nº 18/2013, o caput do art. 5º do Decreto Legislativo nº 29/1995 autoriza:",
+          "alternativas": {
+            "A": "o Presidente da Assembleia a atribuir, por meio de ato próprio, gratificação de representação pelo exercício de cargo comissionado aos militares estaduais que integram a Assessoria Policial-Militar.",
+            "B": "a Mesa Diretora a atribuir, por meio de ato próprio, gratificação de representação pelo exercício de cargo comissionado aos militares estaduais que integram a Assessoria Policial-Militar.",
+            "C": "a Mesa Diretora a atribuir, por meio de ato próprio, gratificação de representação pelo exercício de cargo comissionado somente aos oficiais que integram a Assessoria Policial-Militar.",
+            "D": "o Chefe de Gabinete Militar a atribuir, por meio de ato próprio, gratificação de representação pelo exercício de cargo comissionado aos militares estaduais que integram a Assessoria Policial-Militar.",
+            "E": "a Mesa Diretora a atribuir, por meio de ato próprio, gratificação de produtividade pelo exercício de cargo comissionado aos militares estaduais que integram a Assessoria Policial-Militar."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O caput autoriza a Mesa Diretora, e não o Presidente da Assembleia.\nB) CORRETA. É o texto do caput do art. 5º na redação dada pelo art. 1º do Decreto Legislativo nº 18/2013.\nC) INCORRETA. O caput alcança os militares estaduais que integram a Assessoria, sem restringir a gratificação aos oficiais.\nD) INCORRETA. A autorização é dada à Mesa Diretora, e não ao Chefe de Gabinete Militar.\nE) INCORRETA. O caput trata de gratificação de representação, e não de gratificação de produtividade.",
+          "base_legal": {
+            "dispositivo": "Art. 1º do Decreto Legislativo nº 18/2013 (nova redação do art. 5º, caput, do DL 29/1995)",
+            "texto": "Art. 1º O caput do art. 5º do Decreto Legislativo Nº 29, de 29 de junho de 1995, e o anexo I do mesmo diploma passam a vigorar com a seguinte redação:\n“Art. 5º Fica autorizada a Mesa Diretora a atribuir, por meio de ato próprio, a gratificação de representação pelo exercício de cargo comissionado aos militares estaduais que integram os serviços da Assessoria Policial-Militar do Gabinete da Presidência da Assembleia Legislativa."
+          }
+        },
+        {
+          "enunciado": "Considerando a redação dada ao art. 5º do Decreto Legislativo nº 29/1995 pelo Decreto Legislativo nº 18/2013 e a revogação promovida pelo Decreto Legislativo nº 06/2019, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Decreto Legislativo nº 06/2019 revogou o § 1º do art. 5º, que remetia os valores da gratificação ao Anexo I.",
+            "B": "O Anexo I, na redação dada pelo Decreto Legislativo nº 18/2013, também foi revogado pelo Decreto Legislativo nº 06/2019.",
+            "C": "A revogação do § 1º e do Anexo I vale a partir de 1º de julho de 2019.",
+            "D": "O § 2º do art. 5º, sobre a incidência do art. 7º da Constituição Federal na gratificação, também foi revogado pelo Decreto Legislativo nº 06/2019.",
+            "E": "Ressalvada a revogação, os efeitos do Decreto Legislativo nº 06/2019 contam a partir de 1º de fevereiro de 2019."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 3º do DL 06/2019 revoga o parágrafo primeiro do art. 5º, que, na redação do DL 18/2013, remetia os valores ao Anexo I.\nB) CORRETA (opção verdadeira). O art. 3º do DL 06/2019 revoga também o Anexo I, na redação dada pelo DL 18/2013.\nC) CORRETA (opção verdadeira). O art. 3º do DL 06/2019 fixa a revogação a partir de primeiro de julho de 2019.\nD) INCORRETA (gabarito). O art. 3º do DL 06/2019 revoga apenas o parágrafo primeiro e o Anexo I; o § 2º não está entre os dispositivos revogados.\nE) CORRETA (opção verdadeira). O art. 4º do DL 06/2019 gera efeitos a partir de 01 de fevereiro de 2019, ressalvado o artigo antecedente, que trata da revogação.",
+          "base_legal": {
+            "dispositivo": "Art. 1º do DL 18/2013 (art. 5º, §§ 1º e 2º, do DL 29/1995); arts. 3º e 4º do DL 06/2019",
+            "texto": "[Decreto Legislativo nº 18/2013]\nArt. 1º O caput do art. 5º do Decreto Legislativo Nº 29, de 29 de junho de 1995, e o anexo I do mesmo diploma passam a vigorar com a seguinte redação:\n§ 1º A gratificação de representação pelo exercício de cargo comissionado de que trata este artigo será nos valores indicados no anexo I deste Decreto Legislativo.\n§ 2º Sobre o valor pago a título de gratificação de representação pelo exercício de cargo comissionado incidirá o disposto no art. 7º, incisos VIII e VXII da Constituição Federal de 1988\n[Decreto Legislativo nº 06/2019]\nArt. 3º Fica revogado, a partir de primeiro de julho de 2019, o parágrafo primeiro e o AENXO I do Art. 5º do Decreto Legislativo nº 29, de 29 de julho de 1995, com a redação dada pelo Decreto Legislativo nº 18, 19 de novembro de 2013.\nArt. 4º Este Decreto Legislativo entra em vigor na data de sua publicação, gerando efeitos a partir de 01 de fevereiro de 2019, ressalvado o disposto no artigo antecedente."
+          }
+        },
+        {
+          "enunciado": "No Anexo I do Decreto Legislativo nº 29/1995, na redação dada pelo Decreto Legislativo nº 18/2013 (revogada a partir de 1º de julho de 2019), a gratificação de representação do Chefe e do Sub-Chefe do Gabinete Militar era fixada da seguinte forma:",
+          "alternativas": {
+            "A": "Chefe: seis vezes o valor do soldo do posto de Coronel; Sub-Chefe: cinco vezes o valor do soldo do posto de Tenente Coronel.",
+            "B": "Chefe: cinco vezes o valor do soldo do posto de Coronel; Sub-Chefe: quatro vezes o valor do soldo do posto de Tenente Coronel.",
+            "C": "Chefe: seis vezes o valor do soldo do posto de Coronel; Sub-Chefe: cinco vezes o valor do soldo do posto de Coronel.",
+            "D": "Chefe: seis vezes o valor do soldo do posto de Tenente Coronel; Sub-Chefe: cinco vezes o valor do soldo do posto de Major.",
+            "E": "Chefe: quatro vezes o valor do soldo do posto de Coronel; Sub-Chefe: três vezes o valor do soldo do posto de Tenente Coronel."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. São exatamente os valores das duas primeiras linhas do Anexo I na redação do DL 18/2013.\nB) INCORRETA. O Chefe recebia seis vezes, e o Sub-Chefe, cinco vezes o soldo do respectivo posto.\nC) INCORRETA. Para o Sub-Chefe, a referência era o soldo do posto de Tenente Coronel, e não o de Coronel.\nD) INCORRETA. As referências eram o soldo do posto de Coronel (Chefe) e o de Tenente Coronel (Sub-Chefe).\nE) INCORRETA. Os multiplicadores eram seis (Chefe) e cinco (Sub-Chefe).",
+          "base_legal": {
+            "dispositivo": "Anexo I do DL 29/1995, na redação do DL 18/2013; art. 3º do DL 06/2019",
+            "texto": "Art. 1º O caput do art. 5º do Decreto Legislativo Nº 29, de 29 de junho de 1995, e o anexo I do mesmo diploma passam a vigorar com a seguinte redação:\n[Anexo I, na redação do Decreto Legislativo nº 18/2013]\nChefe do Gabinete Militar Seis vezes o valor do soldo do posto de Coronel\nSub-Chefe do Gabinete Militar Cinco vezes o valor do soldo do posto de Tenente Coronel\n[Decreto Legislativo nº 06/2019]\nArt. 3º Fica revogado, a partir de primeiro de julho de 2019, o parágrafo primeiro e o AENXO I do Art. 5º do Decreto Legislativo nº 29, de 29 de julho de 1995, com a redação dada pelo Decreto Legislativo nº 18, 19 de novembro de 2013."
+          }
+        },
+        {
+          "enunciado": "Quanto ao Decreto Legislativo nº 18/2013, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Deu nova redação ao caput do art. 5º e ao Anexo I do Decreto Legislativo nº 29/1995.",
+            "B": "Determinou que as despesas correriam por conta das dotações do orçamento da Assembleia em vigor, respeitada a Lei de Responsabilidade Fiscal.",
+            "C": "Entrou em vigor na data de sua publicação.",
+            "D": "Passou a designar os beneficiários da gratificação como militares estaduais, e não mais como policiais-militares.",
+            "E": "Fixou o início de seus efeitos em 1º de julho de 2013."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 1º do DL 18/2013 altera o caput do art. 5º e o Anexo I do DL 29/1995.\nB) CORRETA (opção verdadeira). É o que dispõe o art. 2º do DL 18/2013.\nC) CORRETA (opção verdadeira). O art. 3º do DL 18/2013 fixa a vigência na data de sua publicação.\nD) CORRETA (opção verdadeira). A redação original do caput falava em policiais-militares; a redação do DL 18/2013 fala em militares estaduais.\nE) INCORRETA (gabarito). O art. 3º do DL 18/2013 determina que seus efeitos se apliquem a partir do exercício financeiro de 2013, sem fixar o dia 1º de julho.",
+          "base_legal": {
+            "dispositivo": "Arts. 1º a 3º do DL 18/2013; redação original do art. 5º do DL 29/1995",
+            "texto": "Art. 1º O caput do art. 5º do Decreto Legislativo Nº 29, de 29 de junho de 1995, e o anexo I do mesmo diploma passam a vigorar com a seguinte redação:\n“Art. 5º Fica autorizada a Mesa Diretora a atribuir, por meio de ato próprio, a gratificação de representação pelo exercício de cargo comissionado aos militares estaduais que integram os serviços da Assessoria Policial-Militar do Gabinete da Presidência da Assembleia Legislativa.\nArt. 2º As despesas decorrentes deste Decreto Legislativo correrão por conta das dotações constantes no orçamento da Assembleia Legislativa em vigor, respeitada a Lei de Responsabilidade Fiscal.\nArt. 3º Este Decreto Legislativo entra em vigor na data de sua publicação e seus efeitos aplicam-se a partir do exercício financeiro de 2013.\n[Redação original do caput do art. 5º do Decreto Legislativo nº 29/1995]\nArt. 5° - Fica autorizada a Mesa Diretora a atribuir, através de ato próprio gratificação de representação aos policiais-militares que integram os serviços da Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa."
+          }
+        },
+        {
+          "enunciado": "Assinale a alternativa que descreve corretamente o Decreto Legislativo nº 14/1997.",
+          "alternativas": {
+            "A": "Acrescentou ao art. 3º do Decreto Legislativo nº 29/1995 o parágrafo da Seção de Ajudância de Ordens, renumerando o antigo § 6º como § 7º, com efeitos a partir da data de sua publicação.",
+            "B": "Acrescentou ao art. 3º do Decreto Legislativo nº 29/1995 o parágrafo da Seção de Segurança, renumerando o antigo § 6º como § 7º, com efeitos a partir de 1º de maio de 1997.",
+            "C": "Acrescentou ao art. 3º do Decreto Legislativo nº 29/1995 o parágrafo da Seção de Ajudância de Ordens, renumerando o antigo § 6º como § 7º, com efeitos a partir de 1º de maio de 1997.",
+            "D": "Acrescentou ao art. 3º do Decreto Legislativo nº 29/1995 o parágrafo da Seção de Ajudância de Ordens, renumerando o antigo § 7º como § 6º, com efeitos a partir de 1º de maio de 1997.",
+            "E": "Revogou o § 2º do art. 5º do Decreto Legislativo nº 29/1995 e acrescentou o parágrafo da Seção de Ajudância de Ordens, com efeitos a partir de 1º de maio de 1997."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 3º do DL 14/1997 fixa os efeitos a partir de 1º de maio de 1997, e não da data de publicação.\nB) INCORRETA. O parágrafo acrescentado trata da Seção de Ajudância de Ordens, e não da Seção de Segurança.\nC) CORRETA. É o que dispõem os arts. 1º e 3º do DL 14/1997.\nD) INCORRETA. O novo parágrafo passou a ser o 6º, e o antigo § 6º passou a ser o 7º, e não o contrário.\nE) INCORRETA. O art. 2º do DL 14/1997 deu nova redação ao § 2º do art. 5º, e não o revogou.",
+          "base_legal": {
+            "dispositivo": "Arts. 1º a 3º do Decreto Legislativo nº 14/1997",
+            "texto": "Art. 1° - O Art. 3° do Decreto Legislativo n° 29, de 29 de junho de 1995, fica acrescido de um parágrafo que será o 6° passando o atual § 6° a ser o 7°, com a seguinte redação:\n§ 6° - A Seção de Ajudância de Ordens será composta por dois Oficiais do Posto de Capitão, possuidores do Curso de Formação de Oficiais Combatentes da Polícia Militar do Pará e mais dois Cabos PM Combatentes, e terá como principal atribuição acompanhar o Presidente da Assembléia Legislativa nas atividades do cargo ou fora dele quando necessário.\nArt. 2° - O § 2° do Art. 5° do Decreto Legislativo n° 29, de 29 de junho de 1995, passa a vigorar com a seguinte redação:\nArt. 3° - Este Decreto Legislativo entra em vigor na data de sua publicação, passando os seus efeitos a contar a partir de 1° de maio de 1997."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Resolução nº 18/1991, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os praças que integram a Assessoria Militar recebem Gratificação de Representação no valor correspondente à remuneração de seus respectivos soldos.",
+            "B": "Os integrantes da Assessoria Militar mencionados na Resolução ficam limitados ao número de 54 praças.",
+            "C": "Não incidirá adicional por tempo de serviço na gratificação de representação de que trata a Resolução.",
+            "D": "Compete à Chefia de Gabinete Militar manter permanentemente atualizada a Divisão de Pessoal quanto ao nome dos integrantes do serviço e respectivos soldos.",
+            "E": "A Resolução entrou em vigor na data de sua promulgação, e seus efeitos retroagiram a 1º de fevereiro de 1991."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). É o que dispõe o art. 1º da Resolução.\nB) INCORRETA (gabarito). O art. 3º da Resolução limita esses integrantes a 40 (quarenta) praças.\nC) CORRETA (opção verdadeira). É o que dispõe o parágrafo único do art. 1º.\nD) CORRETA (opção verdadeira). É o que dispõe o art. 2º da Resolução.\nE) CORRETA (opção verdadeira). O art. 5º prevê a vigência na promulgação e efeitos retroativos a 1º.02.91.",
+          "base_legal": {
+            "dispositivo": "Arts. 1º a 3º e 5º da Resolução nº 18/1991",
+            "texto": "ARTIGO 1º - Fica atribuído aos praças que integram a Assessoria Militar da Assembléia Legislativa, a Gratificação de Representação no valor correspondente a remuneração de seus respectivos soldos.\nPARÁGRAFO ÚNICO – Não incidirá adicional por tempo de serviço na gratificação de representação de que trata esta Resolução.\nARTIGO 2º - Compete à Chefia de Gabinete Militar manter permanentemente atualizada a Divisão de Pessoal, quanto ao nome dos integrantes do mencionado serviço e respectivos soldos.\nARTIGO 3º - Os integrantes da Assessoria Militar, mencionados no art. 1º ficam limitados ao número de 40 (quarenta) praças.\nARTIGO 5º - Esta Resolução entrará em vigor na data de sua promulgação e seus efeitos retroagirão a 1º.02.91, revogadas as disposições em contrário."
+          }
+        },
+        {
+          "enunciado": "Caso prático: um analista precisa informar o que o Anexo I do Decreto Legislativo nº 29/1995 previa como gratificação de representação dos Praças Assessores Militares em 2015 e em 2020. Considerando os Decretos Legislativos nº 18/2013 e nº 06/2019, a resposta correta é:",
+          "alternativas": {
+            "A": "Em 2015, três vezes o valor do soldo da graduação; em 2020, o mesmo valor, pois o Anexo I continuava em vigor.",
+            "B": "Em 2015, quatro vezes o valor do soldo do posto; em 2020, o Anexo I já estava revogado.",
+            "C": "Em 2015, o Anexo I já estava revogado; em 2020, três vezes o valor do soldo da graduação.",
+            "D": "Em 2015, três vezes o valor do soldo da graduação; em 2020, o Anexo I já estava revogado.",
+            "E": "Em 2015, uma vez o valor do soldo; em 2020, o Anexo I já estava revogado."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 3º do DL 06/2019 revogou o Anexo I a partir de 1º de julho de 2019; em 2020, ele já não vigorava.\nB) INCORRETA. Na redação do DL 18/2013, o valor dos Praças Assessores Militares era três vezes o valor do soldo da graduação.\nC) INCORRETA. A revogação só vale a partir de 1º de julho de 2019; em 2015 vigorava a redação do DL 18/2013, aplicável desde o exercício financeiro de 2013.\nD) CORRETA. Em 2015 vigorava o Anexo I na redação do DL 18/2013 (três vezes o soldo da graduação para os Praças Assessores Militares); a partir de 1º de julho de 2019, o DL 06/2019 revogou o Anexo I.\nE) INCORRETA. Na redação do DL 18/2013, o Anexo I previa para os Praças Assessores Militares três vezes o valor do soldo da graduação, e não uma vez.",
+          "base_legal": {
+            "dispositivo": "Anexo I e art. 3º do DL 18/2013; art. 3º do DL 06/2019",
+            "texto": "[Decreto Legislativo nº 18/2013]\nArt. 1º O caput do art. 5º do Decreto Legislativo Nº 29, de 29 de junho de 1995, e o anexo I do mesmo diploma passam a vigorar com a seguinte redação:\n[Anexo I, na redação do Decreto Legislativo nº 18/2013]\nPraças Assessores Militares Três vezes o valor do soldo da graduação\nArt. 3º Este Decreto Legislativo entra em vigor na data de sua publicação e seus efeitos aplicam-se a partir do exercício financeiro de 2013.\n[Decreto Legislativo nº 06/2019]\nArt. 3º Fica revogado, a partir de primeiro de julho de 2019, o parágrafo primeiro e o AENXO I do Art. 5º do Decreto Legislativo nº 29, de 29 de julho de 1995, com a redação dada pelo Decreto Legislativo nº 18, 19 de novembro de 2013."
+          }
+        },
+        {
+          "enunciado": "O Decreto Legislativo nº 22/2003 deu nova redação ao § 1º do art. 3º do Decreto Legislativo nº 29/1995. Comparando a redação atual com a anterior, é correto afirmar que a nova redação:",
+          "alternativas": {
+            "A": "manteve a Chefia do Gabinete Militar com um Coronel do Quadro de Oficiais da PM, mas deixou de mencionar o requisito de estar em serviço ativo.",
+            "B": "acrescentou o requisito de que o Coronel esteja em serviço ativo, que não constava da redação anterior.",
+            "C": "passou a atribuir a Chefia do Gabinete Militar ao oficial mais moderno do Quadro de Oficiais da PM.",
+            "D": "transferiu a Chefia do Gabinete Militar para um Coronel do Quadro de Oficiais BM.",
+            "E": "manteve o requisito de serviço ativo e passou a exigir Curso de Formação de Oficiais Combatentes."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. A redação anterior falava em Coronel do Quadro de Oficiais PM, em serviço ativo; a atual fala apenas em Coronel do Quadro de Oficiais da PM.\nB) INCORRETA. Ocorreu o contrário: a expressão em serviço ativo constava da redação anterior e não aparece na atual.\nC) INCORRETA. As duas redações atribuem a Chefia a um Coronel do Quadro de Oficiais da PM; não há critério de oficial mais moderno.\nD) INCORRETA. A redação atual fala em Coronel do Quadro de Oficiais da PM, e não do Quadro de Oficiais BM.\nE) INCORRETA. A redação atual não menciona serviço ativo nem exige curso de formação para o Chefe.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, § 1º, do DL 29/1995 (redação atual e anterior)",
+            "texto": "Art. 3° - A Assessoria Policial-Militar do Gabinete da Presidência da Assembléia Legislativa do Estado do Pará terá a seguintes estrutura básica:\n[Redação atual do § 1º, dada pelo Decreto Legislativo nº 22/2003]\n§ 1° - A Chefia do Gabinete Militar será exercida por um Coronel do Quadro de Oficiais da PM, a quem compete:\n[Redação anterior do § 1º]\n§ 1º. À Chefia do Gabinete Militar será exercida por um Coronel do Quadro de Oficiais PM, em serviço ativo a quem compete:"
+          }
+        }
+      ]
+    }
+  ]
+}
