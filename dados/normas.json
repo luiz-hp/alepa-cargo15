@@ -868,6 +868,20 @@
       "material": "dados/normas/res-04-2021.json"
     },
     {
+      "id": "res-02-2022",
+      "tipo": "Resolução",
+      "numero": "02",
+      "ano": 2022,
+      "ementa": "Aprova o Regimento Interno da Assembleia Legislativa do Estado do Pará.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial",
+          "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei02_2022_23447.pdf"
+        }
+      ],
+      "material": "dados/normas/res-02-2022.json"
+    },
+    {
       "id": "res-02-2023",
       "tipo": "Resolução",
       "numero": "02",
