@@ -3870,6 +3870,256 @@
           }
         }
       ]
+    },
+    {
+      "numero": 14,
+      "titulo": "Deputados: posse, mandato, licença, vacância, suplentes e decoro (arts. 294 a 318)",
+      "artigos": "Arts. 294 a 318",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "Deputado é eleito pelo **sistema proporcional**, com mandato de **4 anos** e posse em **sessão preparatória**. Após exoneração de cargo referido no art. 301, deve reassumir em **15 dias**. No **estado de sítio**, suspender imunidades exige **2/3** da Casa, em **escrutínio secreto**."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Licença",
+              "Interesse particular: até **120 dias/ano**, sem remuneração."
+            ],
+            [
+              "Decisão",
+              "Licença: **Presidente**; missão do inciso I: **Mesa**."
+            ],
+            [
+              "Exame",
+              "Recusa: **Plenário**, **maioria absoluta**, sessão secreta."
+            ],
+            [
+              "Renúncia",
+              "Escrita à **Mesa**; eficácia na leitura ou publicação, o que ocorrer primeiro."
+            ],
+            [
+              "Perda",
+              "Incisos I, II, VI: **Assembleia**, maioria absoluta; III a V: **Mesa**."
+            ],
+            [
+              "Suplente",
+              "Convocação em **48h**; saúde: prazo original **superior a 120 dias**."
+            ],
+            [
+              "Flagrante",
+              "Autos: **24h**; palavra: **72h**; voto **secreto**."
+            ],
+            [
+              "Sustação",
+              "Apreciação: **45 dias**; parecer: **10 dias**; aviso: **2 sessões**."
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**1.** Licença particular: até **120 dias**; convocação de Suplente por saúde: prazo original **superior a 120 dias**, sem soma. **2.** Perda de mandato: **Assembleia** decide os casos dos incisos I, II e VI; **Mesa** declara os dos incisos III a V. **3.** Prisão em flagrante: voto **secreto**; perda do mandato dos incisos I, II e VI: votação **ostensiva**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre representação, mandato e posse dos Deputados Estaduais.",
+          "alternativas": {
+            "A": "O Deputado representa o povo paraense e é eleito pelo sistema proporcional, por sufrágio universal e voto direto e secreto.",
+            "B": "O mandato dos Deputados Estaduais tem duração de quatro anos, segundo a regra expressamente prevista no Regimento.",
+            "C": "A posse é ato público de investidura do mandato realizado perante a Assembleia, durante a sessão ordinária.",
+            "D": "O número de Deputados à Assembleia Legislativa será fixado nos termos estabelecidos pela Constituição Federal.",
+            "E": "Aplicam-se aos Deputados Estaduais regras da Constituição Federal sobre imunidades, remuneração e perda de mandato."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 294 define a representação e a forma de eleição.\nB) CORRETA (opção verdadeira). O art. 295 estabelece o mandato de quatro anos.\nC) INCORRETA (gabarito). O art. 297 determina que a posse ocorre durante a sessão preparatória, e não na sessão ordinária.\nD) CORRETA (opção verdadeira). O art. 296 remete à Constituição Federal a fixação do número de Deputados.\nE) CORRETA (opção verdadeira). O art. 295 inclui essas matérias entre as regras constitucionais aplicáveis.",
+          "base_legal": {
+            "dispositivo": "Arts. 294 a 297",
+            "texto": "Art. 294. Deputado é o representante do povo paraense, eleito pelo sistema proporcional, por sufrágio universal e voto direto e secreto, na forma da legislação federal.\nArt. 295. Será de quatro anos o mandato dos Deputados Estaduais, aplicando-se-lhes as regras da Constituição Federal sobre sistema eleitoral, inviolabilidade, imunidades, remuneração, perda de mandato, licença, impedimentos e incorporação às Forças Armadas.\nArt. 296. O número de Deputados à Assembleia Legislativa será fixado nos termos da Constituição Federal.\nArt. 297. A posse, ato público pelo qual o Deputado se investe do mandato, realizar-se-á perante a Assembleia Legislativa, durante a sessão preparatória, nos termos do art. 3°."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA acerca dos direitos dos Deputados e do controle de presença.",
+          "alternativas": {
+            "A": "O Deputado pode oferecer proposições, discutir matérias em apreciação e votar nos colegiados de que participe.",
+            "B": "Pedidos escritos de informação a Secretários de Estado podem ser encaminhados pelo Deputado por meio do Presidente.",
+            "C": "O Deputado pode requisitar, por intermédio da Mesa Diretora, providências destinadas à garantia de suas imunidades.",
+            "D": "Nas sessões de deliberação, a presença será registrada eletronicamente até o fim da Ordem do Dia ou por listas, se o sistema falhar.",
+            "E": "Durante as sessões, podem ingressar simultaneamente no Plenário dois assessores credenciados de cada Deputado, para breves despachos."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 298, I, assegura essas prerrogativas.\nB) CORRETA (opção verdadeira). O art. 298, II, prevê o encaminhamento por meio do Presidente.\nC) CORRETA (opção verdadeira). O art. 298, VII, prevê a intermediação da Mesa Diretora.\nD) CORRETA (opção verdadeira). O art. 299, I, estabelece essas formas de registro.\nE) INCORRETA (gabarito). O art. 298, IX, admite somente um assessor credenciado de cada vez para breves despachos.",
+          "base_legal": {
+            "dispositivo": "Arts. 298, I, II, VII e IX, e 299, I",
+            "texto": "Art. 298. O Deputado deve apresentar-se à Assembleia Legislativa durante a sessão legislativa ordinária ou extraordinária, para participar das sessões do Plenário e das reuniões de Comissão de que seja membro, além das sessões conjuntas da Assembleia, sendo-lhe assegurado o direito, nos termos deste Regimento, de:\nI - oferecer proposições em geral, discutir e deliberar sobre qualquer matéria em apreciação na Casa, integrar o Plenário e demais colegiados e neles votar e ser votado;\nII - encaminhar, por meio do Presidente, pedidos escritos de informação aos Secretários de Estado ou quaisquer titulares de outros órgãos diretamente subordinados ao Governo do Estado, na forma dos arts. 180 e 181;\nVII - requisitar da autoridade competente, por intermédio da Mesa Diretora, providências para garantia de suas imunidades e informações para sua defesa, quando necessário;\nIX - frequentar as dependências da Assembleia, só ou acompanhado de pessoas de sua confiança, não podendo estas, entretanto, ter ingresso no Plenário durante as sessões, salvo o caso de um assessor, de cada vez, dentre os credenciados, para breves despachos;\nArt. 299. O comparecimento efetivo do Deputado à Casa será registrado diariamente, sob responsabilidade da Mesa e da presidência das Comissões, da seguinte forma:\nI - às sessões de deliberação, mediante registro eletrônico até o encerramento da Ordem do Dia ou, se não estiver funcionando o sistema, pelas listas de presença em Plenário;"
+          }
+        },
+        {
+          "enunciado": "À luz do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA a respeito de obrigações, imunidades e prerrogativas parlamentares.",
+          "alternativas": {
+            "A": "O Deputado apresentará à Mesa declaração de bens e fontes de renda para efeito de posse e anualmente, sob pena de infração ética.",
+            "B": "O ex-Deputado Estadual necessita de autorização prévia do Presidente da Assembleia para utilizar a biblioteca da Casa.",
+            "C": "O Deputado exonerado do cargo referido no art. 301 terá quinze dias para reassumir o mandato, sob pena de falta de decoro.",
+            "D": "Desde a expedição do diploma, o Deputado não poderá ser preso, salvo em flagrante de crime inafiançável.",
+            "E": "Durante o estado de sítio, suspender imunidades exige dois terços da Casa, em escrutínio secreto, para atos externos incompatíveis com a medida."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 300 determina a declaração na posse e anualmente, e qualifica a omissão como infração ao Código.\nB) INCORRETA (gabarito). O art. 305 exige autorização prévia somente para os serviços dos incisos I, III e IV, não para biblioteca.\nC) CORRETA (opção verdadeira). O art. 301, § 3°, fixa quinze dias e vincula a omissão à falta de decoro.\nD) CORRETA (opção verdadeira). O art. 302, § 2°, prevê essa imunidade formal.\nE) CORRETA (opção verdadeira). O art. 304 exige dois terços em escrutínio secreto e restringe a suspensão a atos externos incompatíveis com a medida.",
+          "base_legal": {
+            "dispositivo": "Arts. 300; 301, § 3°; 302, § 2°; 304; e 305, I a IV",
+            "texto": "Art. 300. O Deputado apresentará à Mesa, para efeito de posse e anualmente, nos termos do art. 3°, § 2° inciso II, declaração de bens e de suas fontes de renda, importando infração ao Código de Ética e Decoro Parlamentar a inobservância desse preceito.\nArt. 301. O Deputado que se afastar do exercício do mandato para ser investido em cargo referido no inciso I do caput do art. 98 da Constituição Estadual, fará comunicação escrita à Casa, bem como ao reassumir o lugar.\n§ 3° É de quinze dias o prazo para o Deputado reassumir o exercício do mandato, quando exonerado de cargo a que se refere o caput, sob pena de sua omissão tipificar falta de decoro parlamentar.\nArt. 302. No exercício do mandato, o Deputado atenderá às prescrições constitucionais e regimentais e às contidas no Código de Ética e Decoro Parlamentar, sujeitando-se às medidas disciplinares nelas previstas.\n§ 2° Desde a expedição do diploma, os Deputados não poderão ser presos, salvo em flagrante de crime inafiançável.\nArt. 304. As imunidades constitucionais dos Deputados subsistirão durante o estado de sítio, só podendo ser suspensas mediante o voto de dois terços dos membros da Casa, em escrutínio secreto, restrita a suspensão aos atos praticados fora do recinto da Assembleia Legislativa que sejam incompatíveis com a execução da medida.\nArt. 305. Os ex-Deputados Estaduais, além de livre acesso ao Plenário, poderão utilizar-se dos seguintes serviços prestados na Casa, mediante prévia autorização do Presidente da Assembleia para os de que tratam os incisos I, III e IV:\nI - reprografia;\nII - biblioteca;\nIII - arquivo;\nIV - processamento de dados;"
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre as licenças dos Deputados Estaduais.",
+          "alternativas": {
+            "A": "A licença para tratar de interesse particular é sem remuneração e limitada a cento e vinte dias por ano legislativo.",
+            "B": "As licenças de saúde e interesse particular não são concedidas no recesso, salvo prorrogação da sessão ordinária ou convocação extraordinária.",
+            "C": "A licença será concedida pelo Presidente, exceto a destinada às missões e participações do inciso I, decidida pela Mesa.",
+            "D": "O requerimento de licença deve ser fundamentado, dirigido ao Presidente e lido na segunda sessão após o recebimento.",
+            "E": "Com assunção de Suplente, o Deputado não poderá reassumir antes do término da licença superior a cento e vinte dias."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 306, III, fixa o limite anual e a ausência de remuneração.\nB) CORRETA (opção verdadeira). O art. 306, § 2°, prevê a vedação no recesso e as ressalvas de prorrogação ou convocação extraordinária.\nC) CORRETA (opção verdadeira). O art. 306, § 4°, distingue a competência do Presidente e da Mesa.\nD) INCORRETA (gabarito). O art. 306, § 5°, determina leitura na primeira sessão após o recebimento.\nE) CORRETA (opção verdadeira). O art. 306, § 6°, impede reassunção antes do fim da licença ou de suas prorrogações, nas condições indicadas.",
+          "base_legal": {
+            "dispositivo": "Art. 306, I a III e §§ 2°, 4°, 5° e 6°",
+            "texto": "Art. 306. O Deputado poderá obter licença para:\nI - desempenhar missão temporária de caráter diplomático ou cultural, participar de congressos ou reuniões partidárias;\nII - tratamento de saúde;\nIII - tratar, sem remuneração, de interesse particular, desde que o afastamento não ultrapasse cento e vinte dias por ano legislativo;\n§ 2° Salvo nos casos de prorrogação da sessão legislativa ordinária ou de convocação extraordinária da Assembleia Legislativa, não se concederão as licenças referidas nos incisos II e III durante os períodos de recesso constitucional.\n§ 4° A licença será concedida pelo Presidente, exceto na hipótese do inciso I, quando caberá à Mesa decidir.\n§ 5° A licença depende de requerimento fundamentado, dirigido ao Presidente da Assembleia, e lido na primeira sessão após o seu recebimento.\n§ 6° O Deputado que se licenciar, com assunção de Suplente, não poderá reassumir o mandato antes de findo o prazo, superior a cento e vinte dias, da licença ou de suas prorrogações."
+          }
+        },
+        {
+          "enunciado": "Em procedimento relacionado a possível incapacidade civil absoluta, um Deputado se recusa a submeter-se ao exame de saúde. Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual medida poderá ser adotada?",
+          "alternativas": {
+            "A": "O Plenário poderá, em sessão secreta, por maioria absoluta de seus membros, aplicar a medida suspensiva.",
+            "B": "A Mesa poderá, em sessão secreta, por maioria absoluta de seus membros, aplicar a medida suspensiva.",
+            "C": "O Plenário poderá, em sessão pública, por maioria absoluta de seus membros, aplicar a medida suspensiva.",
+            "D": "O Presidente poderá, por ato próprio, aplicar a medida suspensiva após a recusa ao exame médico.",
+            "E": "O Plenário poderá, em sessão secreta, pelo voto de dois terços dos membros, aplicar a medida suspensiva."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 308, § 1°, atribui a decisão ao Plenário, em sessão secreta, pela maioria absoluta.\nB) INCORRETA. O art. 308, § 1°, atribui essa deliberação ao Plenário, não à Mesa.\nC) INCORRETA. O art. 308, § 1°, exige sessão secreta, não pública.\nD) INCORRETA. O art. 308, § 1°, não atribui a decisão ao Presidente.\nE) INCORRETA. O art. 308, § 1°, exige maioria absoluta, não dois terços.",
+          "base_legal": {
+            "dispositivo": "Art. 308, caput e § 1°",
+            "texto": "Art. 308. Em caso de incapacidade civil absoluta, julgada por sentença de interdição ou comprovada mediante laudo médico passado por junta nomeada pela Mesa da Assembleia, será o Deputado suspenso do exercício do mandato, sem perda da remuneração, enquanto durarem os seus efeitos.\n§ 1° No caso de o Deputado se negar a submeter-se ao exame de saúde, poderá o Plenário, em sessão secreta, por deliberação da maioria absoluta dos seus membros, aplicar-lhe a medida suspensiva."
+          }
+        },
+        {
+          "enunciado": "Nos termos do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA acerca da vacância por renúncia.",
+          "alternativas": {
+            "A": "As vagas na Assembleia Legislativa ocorrem em virtude de falecimento, renúncia ou perda de mandato.",
+            "B": "A declaração de renúncia é dirigida por escrito à Mesa e independe de aprovação da Assembleia Legislativa.",
+            "C": "A renúncia torna-se efetiva e irretratável após leitura no expediente ou disponibilização no Diário Oficial da Assembleia, o que ocorrer primeiro.",
+            "D": "Considera-se haver renunciado o Suplente convocado que não se apresentar para entrar em exercício no prazo regimental.",
+            "E": "A vacância decorrente de renúncia será declarada em sessão pela Mesa Diretora da Assembleia Legislativa."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 309 relaciona as três causas de vacância.\nB) CORRETA (opção verdadeira). O art. 310 dispensa aprovação e exige comunicação escrita à Mesa.\nC) CORRETA (opção verdadeira). O art. 310 estabelece esses marcos alternativos, prevalecendo o primeiro.\nD) CORRETA (opção verdadeira). O art. 310, § 1°, II, inclui essa hipótese de renúncia.\nE) INCORRETA (gabarito). O art. 310, § 2°, atribui a declaração de vacância, em sessão, ao Presidente.",
+          "base_legal": {
+            "dispositivo": "Arts. 309, I a III, e 310, caput, § 1°, II e § 2°",
+            "texto": "Art. 309. As vagas, na Assembleia, verificar-se-ão em virtude de:\nI - falecimento;\nII - renúncia;\nIII - perda de mandato.\nArt. 310. A declaração de renúncia do Deputado ao mandato deve ser dirigida por escrito à Mesa, e independe de aprovação da Assembleia, mas somente se tornará efetiva e irretratável depois de lida no expediente ou disponibilizada no Diário Oficial da Assembleia Legislativa, o que ocorrer primeiro.\n§ 1° Considera-se também haver renunciado:\nII - o Suplente que, convocado, não se apresentar para entrar em exercício no prazo regimental.\n§ 2° A vacância, nos casos de renúncia, será declarada em sessão pelo Presidente."
+          }
+        },
+        {
+          "enunciado": "Quanto à perda de mandato no Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A ausência à terça parte das sessões ordinárias em cada ano legislativo pode causar perda do mandato, salvo licença ou missão autorizada.",
+            "B": "Nos casos de infração às proibições, indecoro ou condenação criminal transitada em julgado, a Assembleia decide por maioria absoluta e votação ostensiva.",
+            "C": "Após a instrução da representação relativa aos incisos I e VI, a Comissão competente proferirá parecer no prazo de dez sessões.",
+            "D": "Nos casos de faltas, perda ou suspensão de direitos políticos e decreto da Justiça Eleitoral, cabe à Mesa declarar a perda do mandato.",
+            "E": "Na representação pelos casos dos incisos I e VI, o Deputado terá cinco sessões para apresentar defesa escrita e indicar provas."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 311, III, prevê a perda por ausências, ressalvadas licença ou missão autorizada.\nB) CORRETA (opção verdadeira). O art. 311, § 1°, determina decisão pela Assembleia, por maioria absoluta e votação ostensiva.\nC) INCORRETA (gabarito). O art. 311, § 3°, III, fixa o prazo de cinco sessões para o parecer após as diligências e a instrução probatória.\nD) CORRETA (opção verdadeira). O art. 311, § 2°, atribui à Mesa a declaração nos casos dos incisos III a V.\nE) CORRETA (opção verdadeira). O art. 311, § 3°, I, fixa cinco sessões para defesa e indicação de provas.",
+          "base_legal": {
+            "dispositivo": "Art. 311, incisos I a VI, §§ 1°, 2° e 3°, I e III",
+            "texto": "Art. 311. Perde o mandato o Deputado:\nI - que infringir qualquer das proibições constantes do § 6° do art. 302 deste Regimento, que reproduz as disposições do art. 54 da Constituição Federal;\nII - cujo procedimento for declarado incompatível com o decoro parlamentar;\nIII - que deixar de comparecer, em cada ano legislativo, à terça parte das sessões ordinárias da Assembleia, salvo licença ou missão autorizada;\nIV - que perder ou tiver suspensos os direitos políticos;\nV - quando o decretar a Justiça Eleitoral, nos casos previstos na Constituição Federal;\nVI - que sofrer condenação criminal em sentença transitada em julgado.\n§ 1° Nos casos dos incisos I, II e VI, a perda do mandato será decidida pela Assembleia, em votação ostensiva e por maioria absoluta de seus membros, mediante provocação da Mesa ou de agremiação partidária com representação na Assembleia, assegurada ampla defesa.\n§ 2° Nos casos previstos nos incisos III a V, a perda do mandato será declarada pela Mesa, de ofício ou mediante provocação de qualquer Deputado, ou de agremiação partidária com representação na Assembleia Legislativa, assegurada ao representado, consoante procedimentos específicos estabelecidos em Ato, ampla defesa perante a Mesa.\n§ 3° A representação, nos casos dos incisos I e VI, será encaminhada à Comissão de Constituição e Justiça e de Redação Final, observadas as seguintes normas:\nI - recebida e processada na Comissão, será fornecida cópia da representação ao Deputado, que terá o prazo de cinco sessões para apresentar defesa escrita e indicar provas;\nIII - apresentada a defesa, a Comissão procederá às diligências e à instrução probatória que entender necessárias, findas as quais proferirá parecer no prazo de cinco sessões, concluindo pela procedência da representação ou pelo arquivamento desta; procedente a representação, a Comissão oferecerá também o projeto de resolução no sentido da perda do mandato;"
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre a convocação e a atuação de Suplentes.",
+          "alternativas": {
+            "A": "A Mesa deverá convocar Suplente no prazo de quarenta e oito horas quando ocorrer vaga na Assembleia.",
+            "B": "O Suplente convocado em caráter de substituição poderá ser escolhido para Vice-Presidente de Comissão.",
+            "C": "A investidura do titular nas funções definidas no art. 56, I, da Constituição Federal gera convocação de Suplente.",
+            "D": "A licença de saúde com prazo original superior a cento e vinte dias permite convocação, vedada a soma de períodos.",
+            "E": "O Suplente convocado pode declarar por escrito à Mesa a impossibilidade de assumir, convocando-se o imediato."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 312, caput e I, determina convocação em quarenta e oito horas no caso de vaga.\nB) INCORRETA (gabarito). O art. 314 proíbe a escolha do substituto para Vice-Presidente de Comissão.\nC) CORRETA (opção verdadeira). O art. 312, II, prevê essa hipótese de convocação.\nD) CORRETA (opção verdadeira). O art. 312, III, exige prazo original superior a cento e vinte dias e veda a soma.\nE) CORRETA (opção verdadeira). O art. 312, § 1°, prevê a comunicação escrita e a convocação do Suplente imediato.",
+          "base_legal": {
+            "dispositivo": "Arts. 312, I a III e § 1°, e 314",
+            "texto": "Art. 312. A Mesa convocará, no prazo de quarenta e oito horas, o Suplente de Deputado nos casos de:\nI - ocorrência de vaga;\nII - investidura do titular nas funções definidas no art. 56, I da Constituição Federal;\nIII - licença para tratamento de saúde do titular, desde que o prazo original seja superior a cento e vinte dias, vedada a soma de períodos para esse efeito, estendendo-se a convocação por todo o período de licença e de suas prorrogações.\n§ 1° Assiste ao Suplente que for convocado o direito de se declarar impossibilitado de assumir o exercício do mandato, dando ciência por escrito à Mesa, que convocará o Suplente imediato.\nArt. 314. O Suplente de Deputado, quando convocado em caráter de substituição, não poderá ser escolhido para os cargos da Mesa para Presidente ou Vice-Presidente de Comissão, ou para Ouvidor-Geral da Assembleia Legislativa."
+          }
+        },
+        {
+          "enunciado": "Surge vaga na Assembleia Legislativa dezesseis meses antes do término do mandato e não há Suplente. Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual providência se impõe?",
+          "alternativas": {
+            "A": "A Mesa Diretora comunicará o fato à Justiça Eleitoral, para o efeito do art. 56, § 2° da Constituição Federal.",
+            "B": "O Presidente comunicará o fato ao Tribunal de Justiça, para o efeito do art. 56, § 2° da Constituição Federal.",
+            "C": "O Presidente comunicará o fato à Justiça Eleitoral quando houver Suplente, para o efeito do art. 56, § 2° da Constituição Federal.",
+            "D": "O Presidente comunicará o fato à Justiça Eleitoral, para o efeito do art. 56, § 2° da Constituição Federal.",
+            "E": "O Presidente aguardará o início dos quinze meses finais do mandato para comunicar o fato à Justiça Eleitoral."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 313 atribui a comunicação ao Presidente, não à Mesa Diretora.\nB) INCORRETA. O art. 313 indica a Justiça Eleitoral como destinatária da comunicação.\nC) INCORRETA. O art. 313 prevê a comunicação quando não houver Suplente, e não quando houver.\nD) CORRETA. O art. 313 impõe a comunicação pelo Presidente na ocorrência de vaga mais de quinze meses antes do fim do mandato, sem Suplente.\nE) INCORRETA. O art. 313 prevê comunicação na hipótese de vaga mais de quinze meses antes do fim do mandato, sem espera.",
+          "base_legal": {
+            "dispositivo": "Art. 313",
+            "texto": "Art. 313. Ocorrendo vaga mais de quinze meses antes do término do mandato e não havendo Suplente, o Presidente comunicará o fato à Justiça Eleitoral para o efeito do art. 56, § 2° da Constituição Federal."
+          }
+        },
+        {
+          "enunciado": "Sobre o decoro parlamentar, qual alternativa corresponde ao Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022)?",
+          "alternativas": {
+            "A": "O Código de Ética e Decoro Parlamentar prevê as penalidades e o processo disciplinar e define as condutas puníveis.",
+            "B": "O Código de Ética preverá as penalidades, cabendo à Mesa Diretora definir as condutas puníveis.",
+            "C": "As penalidades por atos contrários ao decoro parlamentar serão previstas em ato do Presidente da Assembleia.",
+            "D": "A disciplina alcança os atos contrários ao decoro, mas não os que afetem a dignidade do mandato parlamentar.",
+            "E": "A Comissão de Constituição e Justiça e de Redação Final estabelecerá o processo disciplinar por falta de decoro."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 315 determina que o Código de Ética e Decoro Parlamentar preveja penalidades e processo disciplinar e defina condutas puníveis.\nB) INCORRETA. O art. 315 atribui ao Código de Ética, e não à Mesa Diretora, a definição das condutas puníveis.\nC) INCORRETA. O art. 315 prevê as penalidades no Código de Ética e Decoro Parlamentar, e não em ato do Presidente.\nD) INCORRETA. O art. 315 abrange também atos que afetem a dignidade do mandato.\nE) INCORRETA. O art. 315 prevê o processo disciplinar no Código de Ética e Decoro Parlamentar, não na Comissão.",
+          "base_legal": {
+            "dispositivo": "Art. 315",
+            "texto": "Art. 315. O Deputado que praticar ato contrário ao decoro parlamentar ou que afete a dignidade do mandato estará sujeito às penalidades e ao processo disciplinar previstos no Código de Ética e Decoro Parlamentar, que definirá também as condutas puníveis."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre a prisão em flagrante de Deputado por crime inafiançável.",
+          "alternativas": {
+            "A": "Os autos da prisão em flagrante por crime inafiançável serão remetidos à Assembleia em vinte e quatro horas.",
+            "B": "A Mesa promoverá de ofício a apuração da responsabilidade da autoridade por descumprimento do prazo de remessa.",
+            "C": "A Comissão de Constituição e Justiça e de Redação Final ordenará a apresentação do réu preso, que ficará sob sua custódia.",
+            "D": "A Comissão oferecerá parecer prévio, facultada a palavra ao Deputado ou representante no prazo de setenta e duas horas.",
+            "E": "O Plenário deliberará sobre o projeto de decreto legislativo até a sessão seguinte, em votação ostensiva pela maioria de seus membros."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 316 estabelece prazo de vinte e quatro horas para remeter os autos à Casa.\nB) CORRETA (opção verdadeira). O art. 316 determina que a Mesa promova de ofício a apuração da responsabilidade.\nC) CORRETA (opção verdadeira). O art. 317, caput e I, dispõe sobre a apresentação e a custódia até pronunciamento da Casa.\nD) CORRETA (opção verdadeira). O art. 317, II, prevê parecer prévio e prazo de setenta e duas horas para a palavra.\nE) INCORRETA (gabarito). O art. 317, II, determina voto secreto da maioria dos membros do Plenário, não votação ostensiva.",
+          "base_legal": {
+            "dispositivo": "Arts. 316 e 317, I e II",
+            "texto": "Art. 316. No caso de prisão em flagrante de algum parlamentar por crime inafiançável, os autos serão remetidos à Casa dentro de vinte e quatro horas, sob pena de responsabilidade da autoridade que a presidir, cuja apuração será promovida de ofício pela Mesa.\nArt. 317. Recebidos os autos de flagrante, o Presidente despachará o expediente à Comissão de Constituição e Justiça e de Redação Final para observar as seguintes normas:\nI - ordenará a apresentação do réu preso, que permanecerá sob sua custódia até o pronunciamento da Casa sobre o relaxamento ou não da prisão;\nII - oferecerá parecer prévio, facultada a palavra ao Deputado envolvido ou ao seu representante no prazo de setenta e duas horas, sobre a manutenção ou não da prisão, propondo o projeto de decreto legislativo respectivo, que será submetido até a sessão seguinte à deliberação do Plenário pelo voto secreto da maioria de seus membros."
+          }
+        },
+        {
+          "enunciado": "Acerca da sustação de ação penal por suposto crime ocorrido após a diplomação, assinale a alternativa CORRETA segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022).",
+          "alternativas": {
+            "A": "O pedido de sustação será apreciado no prazo improrrogável de trinta dias de seu recebimento pela Mesa Diretora.",
+            "B": "O pedido de sustação poderá ser formulado por qualquer Deputado, independentemente de iniciativa partidária.",
+            "C": "A Mesa despachará o pedido em vinte e quatro horas à Comissão de Constituição e Justiça e de Redação Final, que terá dez dias para o parecer.",
+            "D": "A decisão será comunicada pelo Presidente da Assembleia ao Tribunal de Justiça do Estado dentro de três sessões.",
+            "E": "Durante o recesso, as atribuições da Comissão e do Plenário serão exercidas cumulativamente pelo Presidente da Assembleia."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 318, I, fixa prazo improrrogável de quarenta e cinco dias.\nB) INCORRETA. O art. 318, caput, exige iniciativa de partido político com representação na Casa.\nC) CORRETA. O art. 318, II, prevê despacho pela Mesa em vinte e quatro horas e parecer da Comissão em dez dias.\nD) INCORRETA. O art. 318, IV, fixa comunicação dentro em duas sessões.\nE) INCORRETA. O art. 318, parágrafo único, atribui as funções cumulativamente à Comissão Representativa da Assembleia.",
+          "base_legal": {
+            "dispositivo": "Art. 318, caput, I, II, IV e parágrafo único",
+            "texto": "Art. 318. Recebida pela Assembleia a informação do Tribunal de Justiça sobre o recebimento de denúncia contra Deputado por suposto crime ocorrido após a diplomação, o andamento da ação poderá ser sustado, por iniciativa de partido político com representação na Casa e pelo voto da maioria de seus membros, nos termos seguintes:\nI - o pedido de sustação será apreciado pela Assembleia Legislativa no prazo improrrogável de quarenta e cinco dias do seu recebimento pela Mesa Diretora;\nII - a Mesa despachará em vinte e quatro horas o pedido de sustação para a Comissão de Constituição e Justiça e de Redação Final, que proferirá parecer em dez dias;\nIV - a decisão será comunicada pelo Presidente da Assembleia ao Tribunal de        Justiça do Estado dentro em duas sessões.\nParágrafo único. Estando em recesso a Casa, as atribuições conferidas à Comissão de Constituição e Justiça e de Redação Final e ao Plenário serão exercidas cumulativamente pela Comissão Representativa da Assembleia Legislativa, a que se reporta o § 5° do art. 101 da Constituição Estadual e arts. 85 a 87 deste Regimento."
+          }
+        }
+      ]
     }
   ]
 }
