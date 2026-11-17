@@ -817,6 +817,321 @@
           }
         }
       ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Mesa Diretora e Comissão de Ética (arts. 23 a 32 e 41)",
+      "artigos": "Arts. 23 a 32 e 41",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A **Mesa** dirige os trabalhos legislativos e os serviços administrativos. Tem **7 membros**: Presidente, **2 Vice-Presidentes** e **4 Secretários**. Nenhum membro pode exercer liderança de Partido, Bloco Parlamentar ou Federação."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Reunião",
+              "Ordinária **quinzenal**; extraordinária: Presidente ou **4 membros efetivos**"
+            ],
+            [
+              "Quórum",
+              "Presença da **maioria dos membros**; deliberação por **maioria de votos**"
+            ],
+            [
+              "Faltas",
+              "**5 reuniões ordinárias consecutivas** sem justificativa: perda do lugar"
+            ],
+            [
+              "Atas",
+              "Publicação em **48 horas** após aprovação"
+            ],
+            [
+              "Recurso",
+              "Decisões da Mesa: **Plenário**"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "Os **Atos da Mesa** têm numeração **anual** e assinaturas do Presidente, 1° e 2° Secretários. A **Mesa** aplica censura escrita; o **Presidente**, censura verbal. Em matéria inadiável, o Presidente ou seu substituto decide **ad referendum da Mesa**."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Relatório",
+              "Até **30 de janeiro**, relativo ao ano anterior"
+            ],
+            [
+              "Ausência",
+              "Mais de **15 dias** fora do Estado: transmissão do exercício do cargo"
+            ],
+            [
+              "Ética",
+              "**7 titulares**, **3 suplentes**; examina condutas e propõe penalidades"
+            ],
+            [
+              "Art. 303",
+              "**Não se aplica** aos membros da Comissão de Ética"
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**3 pegadinhas:** **quórum de presença** difere de **maioria de votos**; o **2° Vice-Presidente** não integra a vedação específica de participação em Comissões Permanentes ou de Inquérito prevista no art. 23, § 4°; a **Comissão de Ética propõe** penalidades, não as aplica diretamente."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a composição, as reuniões e as decisões da Mesa Diretora, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Presidência da Mesa é formada pelo Presidente e por dois Vice-Presidentes.",
+            "B": "A Mesa reúne-se ordinariamente uma vez por quinzena, em dia e hora prefixados.",
+            "C": "A reunião extraordinária da Mesa pode ser convocada por três de seus membros efetivos.",
+            "D": "O membro da Mesa perde o lugar após cinco faltas consecutivas a reuniões ordinárias, sem causa justificada.",
+            "E": "Das decisões da Mesa Diretora cabe recurso para o Plenário."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 23, § 1°, prevê o Presidente e dois Vice-Presidentes na Presidência.\nB) CORRETA (opção verdadeira). O art. 23, § 2°, fixa a periodicidade ordinária quinzenal.\nC) INCORRETA (gabarito). O art. 23, § 2°, exige convocação pelo Presidente ou por quatro membros efetivos, não três.\nD) CORRETA (opção verdadeira). O art. 23, § 3°, estabelece cinco ausências ordinárias consecutivas sem causa justificada.\nE) CORRETA (opção verdadeira). O art. 23, § 8°, prevê recurso ao Plenário.",
+          "base_legal": {
+            "dispositivo": "Art. 23, caput e §§ 1°, 2°, 3° e 8°",
+            "texto": "Art. 23. À Mesa, na qualidade de Comissão Diretora, eleita na forma dos arts. 4º ao 9º, incumbe a direção dos trabalhos legislativos e dos serviços administrativos da Assembleia Legislativa.\n§ 1° A Mesa compõe-se de Presidência e de Secretaria, constituindo-se, a primeira, do Presidente e de dois Vice-Presidentes e, a segunda, de quatro Secretários.\n§ 2° A Mesa reunir-se-á, ordinariamente, uma vez por quinzena, em dia e hora prefixados, e, extraordinariamente, sempre que convocada pelo Presidente ou por quatro de seus membros efetivos.\n§ 3° Perderá o lugar o membro da Mesa que deixar de comparecer a cinco reuniões ordinárias consecutivas, sem causa justificada.\n§ 8° Das decisões da Mesa cabe recurso para o Plenário."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), a respeito das vedações e da participação dos membros da Mesa em Comissões, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O 2° Vice-Presidente está incluído na vedação de participar de Comissão Permanente prevista no art. 23.",
+            "B": "Os membros da Mesa não podem exercer liderança de Partido, Bloco Parlamentar ou Federação.",
+            "C": "O 1° Secretário não pode participar de Comissão de Inquérito.",
+            "D": "O Presidente não pode participar de Comissões Temporárias de Estudo.",
+            "E": "Exceto o Presidente, os demais membros da Mesa podem participar de Comissões Externas de Representação."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 23, § 4°, restringe essa vedação ao Presidente, ao 1° Vice-Presidente e ao 1° Secretário; não inclui o 2° Vice-Presidente.\nB) CORRETA (opção verdadeira). O art. 23, § 4°, veda essas lideranças a todos os membros da Mesa.\nC) CORRETA (opção verdadeira). O art. 23, § 4°, inclui o 1° Secretário na vedação relativa a Comissões de Inquérito.\nD) CORRETA (opção verdadeira). O art. 23, § 5°, excetua o Presidente da participação nas Comissões Temporárias de Estudo.\nE) CORRETA (opção verdadeira). O art. 23, § 5°, autoriza os demais membros da Mesa a participar dessas Comissões.",
+          "base_legal": {
+            "dispositivo": "Art. 23, caput e §§ 4° e 5°",
+            "texto": "Art. 23. À Mesa, na qualidade de Comissão Diretora, eleita na forma dos arts. 4º ao 9º, incumbe a direção dos trabalhos legislativos e dos serviços administrativos da Assembleia Legislativa.\n§ 4° Os membros da Mesa não poderão exercer liderança de Partido, Bloco Parlamentar ou Federação, sendo vedado ainda ao Presidente, 1° Vice-Presidente e 1° Secretário participar de Comissão Permanente ou de Inquérito.\n§ 5° Excetuando o Presidente, todos os demais membros da Mesa poderão participar de Comissões Temporárias de Estudo e Externas de Representação."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual afirmação sobre o funcionamento e os Atos da Mesa está CORRETA?",
+          "alternativas": {
+            "A": "A Mesa pode reunir-se com a presença de apenas um terço de seus membros.",
+            "B": "As atas das reuniões da Mesa devem ser publicadas em até setenta e duas horas da aprovação.",
+            "C": "A numeração dos Atos da Mesa é renovada somente no início de cada legislatura.",
+            "D": "Os Atos da Mesa têm numeração anual e são assinados pelo Presidente e pelos 1° e 2° Secretários.",
+            "E": "As deliberações da Mesa exigem voto favorável de dois terços de seus membros."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 23, § 6°, exige presença da maioria dos membros.\nB) INCORRETA. O art. 23, § 7°, estabelece publicação dentro de quarenta e oito horas da aprovação.\nC) INCORRETA. O art. 24 determina numeração anual, não por legislatura.\nD) CORRETA. O art. 24 prevê numeração anual e assinaturas do Presidente, 1° e 2° Secretários.\nE) INCORRETA. O art. 23, § 6°, prevê deliberações por maioria de votos.",
+          "base_legal": {
+            "dispositivo": "Art. 23, caput e §§ 6° e 7°; art. 24",
+            "texto": "Art. 23. À Mesa, na qualidade de Comissão Diretora, eleita na forma dos arts. 4º ao 9º, incumbe a direção dos trabalhos legislativos e dos serviços administrativos da Assembleia Legislativa.\n§ 6° A Mesa somente poderá reunir-se com a presença da maioria de seus membros, e as deliberações serão tomadas por maioria de votos.\n§ 7° As atas das reuniões da Mesa serão publicadas no Sistema de Tramitação e no Diário Oficial da Assembleia Legislativa, dentro de quarenta e oito horas da sua aprovação.\nArt. 24. As deliberações e o exercício de competência da Mesa Diretora serão expressos por meio de Ato da Mesa, que terá numeração anual, será assinado pelo Presidente, 1° e 2° Secretários e publicado no Sistema de Tramitação e no Diário Oficial da Assembleia Legislativa."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), quanto às atribuições legislativas da Mesa Diretora, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Mesa promulga emendas constitucionais, resoluções e decretos legislativos.",
+            "B": "A Mesa só pode propor Ação de Inconstitucionalidade se houver requerimento de Deputado, sem iniciativa própria.",
+            "C": "A Mesa exerce controle sobre os dias de sessões e a presença dos Deputados.",
+            "D": "A Mesa apresenta proposição fixando o subsídio dos Deputados.",
+            "E": "A Mesa aprova o orçamento analítico da Assembleia Legislativa."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 25, I, b, atribui essas promulgações à Mesa.\nB) INCORRETA (gabarito). O art. 25, I, h, permite iniciativa própria ou requerimento de Deputado ou Comissão.\nC) CORRETA (opção verdadeira). O art. 25, I, c, atribui à Mesa esse controle.\nD) CORRETA (opção verdadeira). O art. 25, I, e, prevê a apresentação dessa proposição.\nE) CORRETA (opção verdadeira). O art. 25, I, q, atribui à Mesa a aprovação do orçamento analítico.",
+          "base_legal": {
+            "dispositivo": "Art. 25, caput, I, alíneas b, c, e, h e q",
+            "texto": "Art. 25. À Mesa Diretora compete, além das atribuições consignadas neste Regimento:\nI - na parte legislativa:\nb) promulgar emendas constitucionais, resoluções e decretos legislativos, conforme o art. 103, §3º e art. 114, Parágrafo único da Constituição Estadual, respectivamente;\nc) exercer o controle sobre os dias de sessões e a presença dos Deputados;\ne) apresentar proposição fixando o subsídio dos Deputados, na forma do disposto nas Constituições Federal e Estadual;\nh) propor Ação de Inconstitucionalidade, por iniciativa própria ou a requerimento de Deputado ou Comissão;\nq) aprovar o orçamento analítico da Assembleia Legislativa;"
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a iniciativa normativa e os regulamentos internos, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A Mesa encaminha ao Tribunal de Contas do Estado as solicitações de créditos adicionais necessários ao funcionamento da Assembleia.",
+            "B": "A Mesa elabora o projeto de Regulamento Interno das Comissões sem ouvir os Presidentes das Comissões Permanentes.",
+            "C": "A Mesa aprova definitivamente os Regulamentos Administrativo e de Pessoal, dispensada a aprovação do Plenário.",
+            "D": "A Mesa apresenta projeto de resolução fixando o subsídio do Governador, do Vice-Governador e dos Secretários de Estado.",
+            "E": "A Mesa propõe privativamente à Assembleia projetos sobre sua organização, funcionamento e regime jurídico do pessoal."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O art. 25, I, o, determina o encaminhamento das solicitações ao Poder Executivo.\nB) INCORRETA. O art. 25, I, m, exige que sejam ouvidos os Presidentes das Comissões Permanentes.\nC) INCORRETA. O art. 25, I, m, prevê que esses regulamentos sejam aprovados pelo Plenário.\nD) INCORRETA. O art. 25, I, f, determina apresentação de projeto de decreto legislativo, não de resolução.\nE) CORRETA. O art. 25, I, n, reserva privativamente à Mesa a proposição desses projetos.",
+          "base_legal": {
+            "dispositivo": "Art. 25, caput, I, alíneas f, m, n e o",
+            "texto": "Art. 25. À Mesa Diretora compete, além das atribuições consignadas neste Regimento:\nI - na parte legislativa:\nf) apresentar projeto de decreto legislativo fixando o subsídio do Governador, do Vice-Governador e dos Secretários de Estado, nos termos do art. 92, XXV da Constituição Estadual;\nm) elaborar, ouvidos os Presidentes de Comissões Permanentes, projeto de Regulamento Interno das Comissões, e dos Regulamentos Administrativo e de Pessoal que, aprovados pelo Plenário, serão parte integrante deste Regimento;\nn) propor, privativamente, à Assembleia Legislativa, projetos dispondo sobre sua organização, funcionamento, polícia, regime jurídico do pessoal, criação, transformação ou extinção de cargos, empregos, funções e fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;\no) encaminhar ao Poder Executivo as solicitações de créditos adicionais necessários ao funcionamento da Assembleia Legislativa e dos seus serviços;"
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca das atribuições administrativas da Mesa Diretora, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Mesa publica até 31 de janeiro o relatório de atividades do Poder Legislativo referente ao ano imediatamente anterior.",
+            "B": "A Mesa determina a abertura de sindicância ou inquéritos e de processos administrativos.",
+            "C": "A Mesa autoriza licitações, homologa seus resultados e aprova o calendário de compras.",
+            "D": "A Mesa decide conclusivamente, em grau de recurso, questões relativas aos servidores da Casa.",
+            "E": "A Mesa presta anualmente as contas do Poder Legislativo, na forma da lei."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 25, II, j, determina publicação até o dia 30 de janeiro, não 31.\nB) CORRETA (opção verdadeira). O art. 25, II, c, prevê essa atribuição.\nC) CORRETA (opção verdadeira). O art. 25, II, e, confere essas três atribuições à Mesa.\nD) CORRETA (opção verdadeira). O art. 25, II, g, confere decisão conclusiva em grau de recurso.\nE) CORRETA (opção verdadeira). O art. 25, II, i, prevê prestação anual de contas.",
+          "base_legal": {
+            "dispositivo": "Art. 25, caput, II, alíneas c, e, g, i e j",
+            "texto": "Art. 25. À Mesa Diretora compete, além das atribuições consignadas neste Regimento:\nII - na parte administrativa:\nc) determinar abertura de sindicância ou inquéritos e de processos administrativos;\ne) autorizar licitações, homologar seus resultados e aprovar o calendário de compras;\ng) decidir, conclusivamente, em grau de recurso, sobre questões relativas aos servidores da Casa;\ni) prestar, anualmente, as contas do Poder Legislativo, na forma da lei;\nj) publicar no Diário Oficial da Assembleia Legislativa, até o dia 30 de janeiro, o relatório de atividades do Poder Legislativo do ano imediatamente anterior, bem como o relatório das compras e serviços contratados no mesmo período;"
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre defesa e representação institucional da Assembleia, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Mesa declara a perda do mandato de Deputado nos casos previstos nos incisos III a V do art. 97 da Constituição Estadual.",
+            "B": "A Mesa pode aplicar a penalidade de censura escrita a Deputado.",
+            "C": "A Mesa encaminha a prestação de contas da Assembleia ao Tribunal de Contas do Estado a cada dois exercícios financeiros.",
+            "D": "A Mesa fiscaliza financeiramente as entidades subvencionadas, nos limites das verbas destinadas a elas.",
+            "E": "A Mesa convoca suplentes nos termos dos arts. 312 a 314 do Regimento Interno."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 25, III, b, dispõe sobre essa declaração, observando-se o § 3º do art. 97 da Constituição Estadual.\nB) CORRETA (opção verdadeira). O art. 25, III, c, atribui à Mesa a aplicação de censura escrita a Deputado.\nC) INCORRETA (gabarito). O art. 25, III, f, determina encaminhamento da prestação de contas em cada exercício financeiro.\nD) CORRETA (opção verdadeira). O art. 25, III, e, limita a fiscalização financeira às verbas destinadas às entidades.\nE) CORRETA (opção verdadeira). O art. 25, III, i, prevê a convocação de suplentes nesses termos.",
+          "base_legal": {
+            "dispositivo": "Art. 25, caput, III, alíneas b, c, e, f e i",
+            "texto": "Art. 25. À Mesa Diretora compete, além das atribuições consignadas neste Regimento:\nIII - na parte de defesa e representação institucional:\nb) declarar a perda do mandato de Deputado, nos casos previstos nos incisos III a V do art. 97 da Constituição Estadual, observado o disposto no § 3º do mesmo artigo;\nc) aplicar a penalidade de censura escrita a Deputado;\ne) exercer fiscalização financeira sobre as entidades subvencionadas, total ou parcialmente, pela Assembleia Legislativa, nos limites das verbas que lhes forem destinadas;\nf) encaminhar ao Tribunal de Contas do Estado a prestação de contas da Assembleia Legislativa em cada exercício financeiro;\ni) convocar os suplentes, nos termos dos arts. 312 a 314."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a condução das sessões do Plenário pela Mesa, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Durante as sessões, a Mesa é composta pelo Presidente e pelos 1° e 2° Secretários.",
+            "B": "Na ausência do Presidente, a direção dos trabalhos passa sucessivamente aos Vice-Presidentes e Secretários, na ordem ordinal.",
+            "C": "Na sequência final de substituição, assume o Deputado mais idoso dentre os de maior número de legislaturas na Assembleia.",
+            "D": "Na ausência dos Secretários, o Presidente ou seu substituto convida parlamentar presente para compor a Mesa.",
+            "E": "Em matéria inadiável, o Presidente pode decidir assunto da Mesa de forma definitiva, sem sujeição a referendo desta."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 26, caput, indica os três integrantes da Mesa durante as sessões.\nB) CORRETA (opção verdadeira). O art. 26, § 1°, prevê a substituição sucessiva na série ordinal.\nC) CORRETA (opção verdadeira). O art. 26, § 1°, estabelece esse último critério de substituição.\nD) CORRETA (opção verdadeira). O art. 26, § 2°, determina o convite a parlamentar presente para cumprir o quórum do caput.\nE) INCORRETA (gabarito). O art. 26, § 3°, estabelece decisão ad referendum da Mesa, não decisão definitiva independente dela.",
+          "base_legal": {
+            "dispositivo": "Art. 26, caput e §§ 1°, 2° e 3°",
+            "texto": "Art. 26. Durante as sessões do Plenário, a Mesa será composta pelo Presidente e 1° e 2° Secretários.\n§ 1° A direção dos trabalhos caberá ao Presidente que, não se achando presente, será substituído, sucessivamente e na série ordinal, pelos Vice-Presidentes e Secretários, ou, finalmente, pelo Deputado mais idoso, dentre os de maior número de legislaturas na Assembleia, procedendo-se da mesma forma quando tiver necessidade de se ausentar do recinto.\n§ 2° Para compor a Mesa, durante a sessão, na ausência dos Secretários, o Presidente, ou o Deputado que estiver exercendo a Presidência, convidará qualquer parlamentar presente, com o fim de cumprir o quórum previsto no caput.\n§ 3° Em caso de matéria inadiável, poderá o Presidente, ou quem o estiver substituindo, decidir, ad referendum da Mesa, sobre assunto de competência desta."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca da Presidência e da direção das sessões, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Presidente representa a Assembleia Legislativa quando ela se pronuncia coletivamente.",
+            "B": "Compete ao Presidente decidir sobre as questões de ordem.",
+            "C": "O Presidente transmite o exercício do cargo ao 1° Vice-Presidente quando precisa ausentar-se do Estado por mais de quinze dias.",
+            "D": "O Presidente deve votar obrigatoriamente nas votações em que não houver empate.",
+            "E": "O Presidente pode suspender ou encerrar a sessão antes do horário previsto em caso de tumulto ou força maior."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 27 define o Presidente como representante da Assembleia quando ela se pronuncia coletivamente.\nB) CORRETA (opção verdadeira). O art. 28, I, i, atribui ao Presidente a decisão sobre questões de ordem.\nC) CORRETA (opção verdadeira). O art. 28, § 2°, exige essa transmissão e disciplina a sucessão na ausência do 1° Vice-Presidente.\nD) INCORRETA (gabarito). O art. 28, I, t, torna facultativo o voto do Presidente nas situações diversas do desempate de votação ostensiva.\nE) CORRETA (opção verdadeira). O art. 28, I, m, admite suspensão ou encerramento antecipado nessas situações.",
+          "base_legal": {
+            "dispositivo": "Arts. 27 e 28, caput, I, alíneas i, m e t, e § 2°",
+            "texto": "Art. 27. O Presidente é o representante da Assembleia Legislativa quando ela se pronunciar coletivamente e o supervisor dos seus trabalhos e da sua ordem, nos termos deste Regimento.\nArt. 28. São atribuições do Presidente, além das que estão expressas neste Regimento ou decorram da natureza de suas funções e prerrogativas:\nI - quanto às sessões da Assembleia Legislativa:\ni) decidir sobre as questões de ordem;\nm) suspender ou encerrar a sessão antes do horário previsto, em caso de tumulto ou força maior;\nt) desempatar o resultado de votação ostensiva, sendo-lhe facultado o voto nas demais situações, contando-se a sua presença, em qualquer caso, para efeito de quórum;\n§ 2° Sempre que tiver de se ausentar do Estado por mais de quinze dias, o Presidente transmitirá o exercício do cargo ao 1° Vice-Presidente, e, na ausência deste, aos demais membros da Mesa, na ordem ordinal de sucessão, procedendo-se de igual forma nos seus demais casos de ausência ou de impedimento."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual atribuição relacionada às proposições e às Comissões pertence ao Presidente da Assembleia?",
+          "alternativas": {
+            "A": "Atribuir exclusivamente às Comissões Temporárias a distribuição das matérias legislativas.",
+            "B": "Julgar recurso contra decisão de Presidente de Comissão em Questão de Ordem.",
+            "C": "Designar membros de Comissões somente após comunicação dos Líderes, mesmo quando expirado o prazo fixado.",
+            "D": "Convocar reuniões extraordinárias de Comissões, exceto quando realizadas conjuntamente.",
+            "E": "Atribuir aos Líderes a convocação das Comissões Permanentes para eleição de seus Presidentes e Vice-Presidentes."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 28, II, b, atribui ao Presidente a distribuição de matéria às Comissões Permanentes.\nB) CORRETA. O art. 28, III, h, atribui expressamente esse julgamento ao Presidente.\nC) INCORRETA. O art. 28, III, d, permite designação independentemente da comunicação dos Líderes se expirado o prazo fixado.\nD) INCORRETA. O art. 28, III, b, admite reuniões extraordinárias de Comissões inclusive conjuntas.\nE) INCORRETA. O art. 28, III, g, atribui ao Presidente a convocação das Comissões Permanentes para essas eleições.",
+          "base_legal": {
+            "dispositivo": "Art. 28, caput, II, alínea b, e III, alíneas b, d, g e h",
+            "texto": "Art. 28. São atribuições do Presidente, além das que estão expressas neste Regimento ou decorram da natureza de suas funções e prerrogativas:\nII - quanto às proposições:\nb) proceder a distribuição de matéria às Comissões Permanentes;\nIII - quanto às Comissões:\nb) convocar reuniões extraordinária de Comissões, inclusive conjuntas, para apreciar proposições em regime de urgência e prioridade;\nd) designar seus membros titulares e suplentes mediante comunicação dos Líderes, ou independentemente desta, se expirado o prazo fixado, consoante o art. 50;\ng) convocar as Comissões Permanentes para a eleição dos respectivos Presidentes e Vice-Presidentes, nos termos do art. 52 e seus parágrafos;\nh) julgar recurso contra decisão de Presidente de Comissão em Questão de Ordem;"
+          }
+        },
+        {
+          "enunciado": "Durante uma sessão do Plenário, o Presidente da Assembleia Legislativa deseja participar da discussão de uma proposição. Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), como deverá proceder?",
+          "alternativas": {
+            "A": "Deixar a Presidência e reassumi-la após ter discutido a matéria.",
+            "B": "Manter a Presidência e participar do debate apenas antes de iniciada a votação.",
+            "C": "Discutir do assento da Presidência, desde que respeite o tempo regimental.",
+            "D": "Transferir a Presidência pelo restante da sessão, mesmo depois de concluir a discussão.",
+            "E": "Solicitar autorização do Plenário para discutir a proposição sem deixar a Presidência."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 28, § 3°, exige que o Presidente deixe a Presidência e reassuma após a discussão.\nB) INCORRETA. O art. 28, § 3°, exige afastamento da Presidência para discutir a proposição.\nC) INCORRETA. O art. 28, § 3°, não permite manter a Presidência durante essa discussão.\nD) INCORRETA. O art. 28, § 3°, determina a reassunção após a discussão da matéria.\nE) INCORRETA. O art. 28, § 3°, não prevê autorização do Plenário para dispensar a saída da Presidência.",
+          "base_legal": {
+            "dispositivo": "Art. 28, caput e § 3°",
+            "texto": "Art. 28. São atribuições do Presidente, além das que estão expressas neste Regimento ou decorram da natureza de suas funções e prerrogativas:\n§ 3° Para tomar parte na discussão de proposição em Plenário, o Presidente deixará a Presidência e reassumirá após ter discutido a matéria."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre as competências gerais e a delegação de atribuições do Presidente, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Presidente integra o Conselho do Estado.",
+            "B": "O Presidente concede licença a Deputado, exceto na hipótese do inciso I do art. 306.",
+            "C": "O Presidente pode delegar aos Secretários competências que lhe sejam próprias.",
+            "D": "O Presidente dirige, com suprema autoridade, a polícia da Assembleia Legislativa.",
+            "E": "O Presidente decide em primeira instância sobre recursos contra atos da Secretaria Legislativa."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 28, VI, b, prevê que o Presidente integra o Conselho do Estado.\nB) CORRETA (opção verdadeira). O art. 28, VI, d, prevê a atribuição e a exceção citada.\nC) INCORRETA (gabarito). O art. 28, § 9°, autoriza delegação aos Vice-Presidentes, e não aos Secretários.\nD) CORRETA (opção verdadeira). O art. 28, VI, g, confere ao Presidente essa direção.\nE) CORRETA (opção verdadeira). O art. 28, VI, r, atribui ao Presidente essa decisão, com recurso à Mesa Diretora.",
+          "base_legal": {
+            "dispositivo": "Art. 28, caput, VI, alíneas b, d, g e r, e § 9°",
+            "texto": "Art. 28. São atribuições do Presidente, além das que estão expressas neste Regimento ou decorram da natureza de suas funções e prerrogativas:\nVI - quanto à sua competência geral, dentre outras:\nb) integrar o Conselho do Estado, conforme dispõe o inciso I do art. 146 da Constituição Estadual;\nd) conceder licença a Deputado, exceto na hipótese do inciso I do art. 306;\ng) dirigir, com suprema autoridade, a polícia da Assembleia Legislativa;\nr) decidir, em primeira instância, sobre recursos contra atos da Secretaria Legislativa, cabendo, de sua decisão, recurso do interessado à Mesa Diretora.\n§ 9° O Presidente poderá delegar aos Vice-Presidentes competências que lhe sejam próprias."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), a respeito das atribuições do 1° Secretário, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Compete ao 1° Secretário superintender os serviços administrativos da Assembleia Legislativa.",
+            "B": "O 1° Secretário assina isoladamente as folhas de pagamento da Assembleia Legislativa.",
+            "C": "Compete ao 1° Secretário fazer a chamada nominal dos Deputados nos casos previstos no Regimento.",
+            "D": "O 1° Secretário procede à apuração dos votos em Plenário.",
+            "E": "O 1° Secretário tem competência para autorizar despesas de pronto pagamento."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 29, caput, atribui ao 1° Secretário a superintendência dos serviços administrativos.\nB) INCORRETA (gabarito). O art. 29, VIII, exige assinatura juntamente com o Presidente.\nC) CORRETA (opção verdadeira). O art. 29, II, prevê a chamada pela lista nominal nos casos regimentais.\nD) CORRETA (opção verdadeira). O art. 29, IV, atribui ao 1° Secretário a apuração dos votos.\nE) CORRETA (opção verdadeira). O art. 29, VII, prevê autorização de despesas de pronto pagamento.",
+          "base_legal": {
+            "dispositivo": "Art. 29, caput e incisos II, IV, VII e VIII",
+            "texto": "Art. 29. A Secretaria será composta por quatro Secretários que terão as designações de 1°, 2°, 3° e 4°, competindo ao 1° superintender os serviços administrativos da Assembleia Legislativa e, além das atribuições que decorrem desta competência:\nII - fazer a chamada, pela lista nominal, dos Deputados, nos casos previstos neste Regimento;\nIV - proceder a apuração dos votos em Plenário;\nVII - fiscalizar a execução de despesas, efetuar os pagamentos autorizados pela Mesa Diretora e assinar os documentos contábeis respectivos, juntamente com o Presidente, e autorizar despesas de pronto pagamento;\nVIII - assinar folhas de pagamento, juntamente com o Presidente."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre as substituições e a atuação dos Secretários durante as sessões, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Em sessão, os Secretários substituem-se conforme sua numeração ordinal.",
+            "B": "O 1° Secretário assina, depois do Presidente, as atas das sessões e os demais atos da Assembleia.",
+            "C": "Para participar de discussão durante a sessão, o Secretário que integra a Mesa deve antes ter sua vaga na secretaria dos trabalhos preenchida.",
+            "D": "A leitura de documentos ordenada pelo Presidente integra as atribuições dos Secretários e não exige o preenchimento prévio da vaga para o uso da palavra.",
+            "E": "A contagem de votos pelo Secretário integrante da Mesa exige o preenchimento prévio de sua vaga na secretaria dos trabalhos."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 30 estabelece a substituição conforme a numeração ordinal.\nB) CORRETA (opção verdadeira). O art. 29, V, atribui ao 1° Secretário a assinatura das atas e dos demais atos, depois do Presidente.\nC) CORRETA (opção verdadeira). O art. 32 exige preenchimento da vaga antes do uso da palavra fora das exceções regimentais.\nD) CORRETA (opção verdadeira). O art. 32 inclui a leitura de documentos ordenada pelo Presidente entre as exceções.\nE) INCORRETA (gabarito). O art. 32 exclui expressamente a contagem de votos da regra de preenchimento prévio da vaga.",
+          "base_legal": {
+            "dispositivo": "Art. 29, caput e inciso V; arts. 30 e 32",
+            "texto": "Art. 29. A Secretaria será composta por quatro Secretários que terão as designações de 1°, 2°, 3° e 4°, competindo ao 1° superintender os serviços administrativos da Assembleia Legislativa e, além das atribuições que decorrem desta competência:\nV - assinar, depois do Presidente, as atas das sessões, assim como os demais atos, em geral, da Assembleia;\nArt. 30. Em sessão, os Secretários substituir-se-ão conforme sua numeração ordinal, e assim substituirão o Presidente, na falta dos Vice-Presidentes, procedendo-se de igual modo em qualquer caso de ausência ou de impedimento, conforme estabelece o art. 28, § 2°.\nArt. 32. Os Secretários que estiverem integrando a Mesa durante a sessão só poderão usar da palavra após preenchida a sua vaga na secretaria dos trabalhos, nos termos deste Regimento, exceto os procedimentos de chamada dos Deputados, contagem de votos e leitura de documentos ordenada pelo Presidente, os quais fazem parte das atribuições inerentes ao seu cargo."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca da Comissão de Ética e Decoro Parlamentar, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A Comissão de Ética e Decoro Parlamentar é composta de sete membros titulares e quatro suplentes.",
+            "B": "À Comissão de Ética compete aplicar diretamente as penalidades aos Deputados submetidos a processo disciplinar.",
+            "C": "O processo disciplinar é previsto em Código de Ética instituído pela Resolução nº 11, de 17 de novembro de 2002.",
+            "D": "A Comissão examina condutas puníveis e propõe penalidades aos Deputados submetidos ao processo disciplinar previsto no Código de Ética.",
+            "E": "As disposições do art. 303 do Regimento Interno aplicam-se aos membros da Comissão de Ética e Decoro Parlamentar."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 41 prevê sete membros titulares e três suplentes.\nB) INCORRETA. O art. 41 atribui à Comissão o exame das condutas e a proposição de penalidades, não a aplicação direta.\nC) INCORRETA. O art. 41 indica a Resolução nº 11, de 17 de novembro de 1997.\nD) CORRETA. O art. 41 estabelece expressamente essas duas competências da Comissão.\nE) INCORRETA. O parágrafo único do art. 41 afasta a aplicação do art. 303 aos seus membros.",
+          "base_legal": {
+            "dispositivo": "Art. 41, caput e parágrafo único",
+            "texto": "Art. 41. A Comissão de Ética e Decoro Parlamentar, composto de sete membros titulares e três suplentes, é o órgão da Assembleia Legislativa competente para examinar as condutas puníveis e propor as penalidades aplicáveis aos Deputados submetidos ao processo disciplinar previsto no Código de Ética e Decoro Parlamentar, instituído pela Resolução nº 11, de 17 de novembro de 1997, que integra este Regimento.\nParágrafo único. As disposições constantes do art. 303 deste Regimento Interno não se aplicam aos membros da Comissão de Ética e Decoro Parlamentar."
+          }
+        }
+      ]
     }
   ]
 }
