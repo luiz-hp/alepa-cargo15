@@ -1132,6 +1132,316 @@
           }
         }
       ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Comissões: regras gerais e Comissões Permanentes (arts. 42 a 53 e 56 a 65)",
+      "artigos": "Arts. 42 a 53 e 56 a 65",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "As Comissões são **permanentes** ou **temporárias**. A composição respeita, tanto quanto possível, a proporcionalidade, com **membro da Oposição** obrigatório. Os suplentes são tantos quantos os efetivos; o **Presidente da Assembleia** nomeia os membros indicados pelos **Líderes**."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Indicação",
+              "**5 dias úteis** (**Líderes**)"
+            ],
+            [
+              "Instalação",
+              "Até **5 dias úteis** após publicação"
+            ],
+            [
+              "Mandato",
+              "**2 anos legislativos**; reeleição admitida"
+            ],
+            [
+              "Eleição",
+              "**Maioria simples**; votação nominal"
+            ],
+            [
+              "Abertura",
+              "**Maioria absoluta**; exceções"
+            ],
+            [
+              "Urgência",
+              "**3 dias úteis**"
+            ],
+            [
+              "Prioridade",
+              "**6 dias úteis**"
+            ],
+            [
+              "Ordinária",
+              "**12 dias úteis**"
+            ],
+            [
+              "Relator",
+              "**Metade** do prazo da Comissão"
+            ],
+            [
+              "Vacância",
+              "Preenchimento em **3 dias úteis**"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "O **Presidente da Comissão** convoca reuniões, designa Relatores e decide questões de ordem. O autor da proposição **não pode relatá-la**. A perda do lugar ocorre por **5 faltas consecutivas** ou **1/4 das reuniões intercaladas**, ressalvada força maior justificada. Para inclusão imediata de matéria, exige-se requerimento de **1/3** dos membros e aprovação da **maioria absoluta**."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Pegadinhas:** **suplente** não pode ser Presidente ou Vice-Presidente; a **Comissão de Legislação Participativa** não elege Presidente; não há **prorrogação do Relator** em urgência."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre as modalidades de Comissão.",
+          "alternativas": {
+            "A": "As Comissões Permanentes acompanham planos e programas governamentais e exercem fiscalização orçamentária da União no respectivo campo de atuação.",
+            "B": "As Comissões Temporárias internas representativas funcionam durante o período de sessões ordinárias, exercendo algumas funções da Assembleia.",
+            "C": "As Comissões Temporárias extinguem-se ao término da legislatura ou antes, quando atingida sua finalidade ou expirado seu prazo.",
+            "D": "As Comissões Temporárias internas de estudo destinam-se ao exame de algum tema, conforme sua modalidade regimental.",
+            "E": "As Comissões Temporárias externas representam a Assembleia em reuniões, congressos, solenidades e outros eventos públicos."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 42, I, atribui às Permanentes acompanhamento governamental e fiscalização orçamentária.\nB) INCORRETA (gabarito). O art. 42, II, a, 3, fixa seu funcionamento durante o recesso, e não durante o período indicado.\nC) CORRETA (opção verdadeira). O art. 42, II, prevê extinção no término da legislatura ou por finalidade ou prazo alcançado.\nD) CORRETA (opção verdadeira). O art. 42, II, a, 1, define a modalidade interna de estudo como voltada a algum tema.\nE) CORRETA (opção verdadeira). O art. 42, II, b, atribui às externas representação em eventos públicos.",
+          "base_legal": {
+            "dispositivo": "Art. 42, caput, incisos I e II, alíneas a e b e itens 1 e 3",
+            "texto": "Art. 42. A Assembleia Legislativa tem as seguintes modalidades de Comissão:\nI - permanentes, as de caráter técnico-legislativo ou especializado integrantes da estrutura institucional da Casa, copartícipes e agentes do processo legiferante, que têm por finalidade apreciar os assuntos ou proposições submetidos ao seu exame e sobre eles deliberar, assim como exercer o acompanhamento dos planos e programas governamentais e a fiscalização orçamentária da União, no âmbito dos respectivos campos temáticos e áreas de atuação;\nII - temporárias, as que se extinguem, em qualquer caso, ao término da legislatura, ou antes dele, quando alcançado o fim a que se destinam ou expirado seu prazo de duração, dividindo-se em:\na) internas:\n1 - de estudo, a respeito de algum tema;\n3 - representativas, que funcionam durante o recesso, exercendo algumas funções da Assembleia Legislativa.\nb) externas: destinadas a representar a Assembleia Legislativa em reuniões, congressos, solenidades, e outros eventos públicos."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), quanto à constituição das Comissões, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A representação proporcional deve ser assegurada tanto quanto possível, incluindo-se sempre um membro da Oposição.",
+            "B": "O número de Deputados suplentes de cada Comissão será igual ao número de seus membros efetivos.",
+            "C": "O Presidente da Assembleia nomeia os membros por ato, mediante indicação dos Líderes das respectivas agremiações.",
+            "D": "Na convocação de suplente, tem preferência o da mesma agremiação do titular e, na falta, o mais idoso presente.",
+            "E": "O exercício do suplente convocado encerra-se durante a reunião quando o Deputado titular substituído comparecer."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 43, caput, garante a presença de membro da Oposição inclusive sem vaga proporcional.\nB) CORRETA (opção verdadeira). O art. 43, § 1°, estabelece igualdade numérica entre suplentes e efetivos.\nC) CORRETA (opção verdadeira). O art. 43, § 2°, atribui a nomeação ao Presidente da Assembleia, mediante indicação dos Líderes.\nD) CORRETA (opção verdadeira). O art. 43, § 5°, fixa preferência pela mesma agremiação e, na ausência, pelo suplente mais idoso presente.\nE) INCORRETA (gabarito). O art. 43, § 6°, preserva o exercício do substituto durante toda a reunião mesmo com a chegada do titular.",
+          "base_legal": {
+            "dispositivo": "Art. 43, caput e §§ 1°, 2°, 4°, 5° e 6°",
+            "texto": "Art. 43. Na constituição das Comissões assegurar-se-á, tanto quanto possível, a representação proporcional dos Partidos, Blocos Parlamentares e das Federações que participem da Casa, incluindo-se sempre um membro da Oposição, ainda que pela proporcionalidade não lhe caiba lugar.\n§ 1° O número de suplentes nas Comissões é igual ao de efetivos.\n§ 2° Os membros das Comissões serão nomeados por ato do Presidente da Assembleia Legislativa, mediante indicação dos respectivos Líderes de Partidos, Blocos Parlamentares ou Federações.\n§ 4° O suplente será convocado pelo Presidente da Comissão, na ausência ou impedimento do Deputado titular.\n§ 5° Na convocação do suplente, terá preferência o que integrar o mesmo Partido, Bloco Parlamentar ou Federação do titular. Na ausência deste suplente, o suplente mais idoso, presente à reunião.\n§ 6° Não cessará o exercício do substituto durante a reunião, ainda que o substituído venha a ela comparecer."
+          }
+        },
+        {
+          "enunciado": "Com base no Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA acerca das reuniões das Comissões.",
+          "alternativas": {
+            "A": "As Comissões reúnem-se, como regra, na sede da Assembleia, ressalvadas convocações de Comissão Parlamentar de Inquérito fora da Capital.",
+            "B": "A respectiva Presidência pode convocar reunião extraordinária de ofício ou por requerimento de um terço dos membros da Comissão.",
+            "C": "A antecedência mínima regimental para publicar a Ordem do Dia da reunião seguinte é de doze horas.",
+            "D": "O dia e o horário das reuniões ordinárias das Permanentes são fixados pelo voto da maioria de seus membros na instalação.",
+            "E": "A convocação extraordinária será publicada no Sistema de Tramitação e comunicada aos membros por meios previstos no Regimento."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 44, caput, contém a regra da sede e a ressalva relativa à Comissão Parlamentar de Inquérito.\nB) CORRETA (opção verdadeira). O art. 44, § 4°, permite a convocação de ofício ou por requerimento de um terço de seus membros.\nC) INCORRETA (gabarito). O art. 45, parágrafo único, exige antecedência de pelo menos vinte e quatro horas, ressalvadas as exceções indicadas.\nD) CORRETA (opção verdadeira). O art. 44, § 7°, exige decisão da maioria na instalação da Comissão Permanente.\nE) CORRETA (opção verdadeira). O art. 44, § 5°, determina publicação e comunicação por e-mail, aviso protocolizado ou outros meios eletrônicos.",
+          "base_legal": {
+            "dispositivo": "Art. 44, caput e §§ 4°, 5° e 7°; art. 45, caput e parágrafo único",
+            "texto": "Art. 44. As Comissões reunir-se-ão na sede da Assembleia Legislativa, na forma deste Regimento, ressalvadas as convocações de Comissão Parlamentar de Inquérito que se realizarem fora da Capital.\n§ 4° As reuniões extraordinárias das Comissões serão convocadas pela respectiva Presidência, de ofício, por requerimento de um terço de seus membros, ou pelo Presidente da Assembleia nos termos do art. 28, III, alínea “b”.\n§ 5° As reuniões extraordinárias serão anunciadas com a devida antecedência, designando-se, no aviso de sua convocação, dia, hora, local e objeto da reunião. Além da publicação no Sistema de Tramitação, a convocação será comunicada aos membros da Comissão por e-mail, aviso protocolizado ou outros meios eletrônicos.\n§ 7° As reuniões ordinárias de Comissão Permanente ocorrerão no dia da semana e horário fixados por decisão do voto da maioria dos seus membros, na ocasião da sua respectiva instalação, estabelecida no art. 52, podendo ser escolhidos mais de um dia e horário destinados semanalmente às referidas reuniões. Os membros da Comissão, majoritariamente, poderão, a qualquer tempo, fazer nova deliberação nesse sentido.\nArt. 45. O Presidente da Comissão Permanente organizará a Ordem do Dia de suas reuniões ordinárias e extraordinárias de acordo com os critérios de preferência fixados nos arts. 247 e 248.\nParágrafo único. Finda a hora dos trabalhos, o Presidente anunciará a Ordem do Dia da reunião seguinte e a encaminhará para publicação no Sistema de Tramitação com antecedência de pelo menos vinte e quatro horas, observadas as exceções previstas no § 1º do art. 121."
+          }
+        },
+        {
+          "enunciado": "À luz do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre publicidade das reuniões e assessoramento, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "As reuniões são públicas, podendo ser reservadas, a juízo da Comissão, nas situações especificadas pelo Regimento.",
+            "B": "As reuniões são reservadas por determinação da Presidência da Assembleia, quando a matéria exigir presença restrita.",
+            "C": "O assessoramento especializado das Comissões limita-se às matérias de competência orçamentária de cada colegiado.",
+            "D": "A Comissão deverá deliberar, antes de cada reunião, se ela será pública ou reservada.",
+            "E": "Nas reuniões reservadas, técnicos e autoridades podem acompanhar os debates sem convite da respectiva Comissão."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 46, caput e parágrafo único, estabelece publicidade como regra e reserva a juízo da Comissão.\nB) INCORRETA. O art. 46, parágrafo único, atribui o juízo de reserva à própria Comissão, não à Presidência da Assembleia.\nC) INCORRETA. O art. 47 prevê assessoramento especializado nas áreas de competência, sem a limitação indicada.\nD) INCORRETA. O art. 46, caput, estabelece a publicidade como regra, não sujeita a deliberação prévia a cada reunião.\nE) INCORRETA. O art. 46, parágrafo único, limita a presença aos servidores em serviço e a técnicos ou autoridades convidados.",
+          "base_legal": {
+            "dispositivo": "Arts. 46, caput e parágrafo único, e 47",
+            "texto": "Art. 46. As reuniões das Comissões serão públicas.\nParágrafo único. Serão reservadas, a juízo da Comissão, as reuniões em que haja matéria que deva ser debatida com a presença apenas dos servidores em serviço na Comissão e técnicos ou autoridades que esta convidar.\nArt. 47. As Comissões contarão, para o desempenho das suas atribuições, com assessoramento especializado em suas áreas de competência, de acordo com o Parágrafo único do art. 90 da Constituição Estadual e nos termos do que prevê o art. 339 deste Regimento."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a composição e a distribuição de vagas nas Comissões Permanentes, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A representação numérica das bancadas, no primeiro ano legislativo, toma por base o resultado final das eleições.",
+            "B": "As alterações numéricas de Partidos ou Federações que afetem a proporcionalidade prevalecem somente a partir do biênio seguinte.",
+            "C": "A Comissão de Legislação Participativa é composta exclusivamente pelos presidentes das demais Comissões Permanentes.",
+            "D": "O Líder de Bancada está proibido de indicar Deputado de outro partido para a vaga a que tenha direito em comissão.",
+            "E": "As vagas remanescentes da distribuição inicial são atribuídas segundo as frações do quociente partidário, da maior para a menor."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 48, caput, estabelece o resultado final das eleições como base da representação inicial.\nB) CORRETA (opção verdadeira). O art. 48, § 1°, posterga os efeitos dessas alterações para o biênio subsequente.\nC) CORRETA (opção verdadeira). O art. 48, § 2°, prevê composição exclusiva pelos presidentes das outras Permanentes.\nD) INCORRETA (gabarito). O art. 48, § 3°, permite expressamente a indicação de membro de outro partido.\nE) CORRETA (opção verdadeira). O art. 49, § 1°, determina a distribuição das sobras por frações em ordem decrescente.",
+          "base_legal": {
+            "dispositivo": "Art. 48, caput e §§ 1°, 2° e 3°; art. 49, caput e § 1°",
+            "texto": "Art. 48. A representação numérica das bancadas para o preenchimento do número de membros das Comissões Permanentes no início do primeiro ano legislativo, será fixada tomando-se como base o resultado final obtido nas eleições, observando-se os cálculos estabelecidos no artigo seguinte.\n§ 1° As modificações numéricas que venham a ocorrer nas Bancadas dos Partidos ou Federações, que importem alterações da proporcionalidade partidária na composição das Comissões, só prevalecerão a partir do biênio subsequente. No caso de Blocos parlamentares, uma vez desfeitos, suas indicações perderão eficácia, cabendo as indicações de novos membros a serem feitas pelos Líderes das agremiações partidárias que tenham o direito às respectivas vagas, diante da nova proporcionalidade resultante.\n§ 2° Cada Partido, Bloco Parlamentar ou Federação terá em cada Comissão titulares e suplentes, de acordo com a sua proporcionalidade, excetuando-se a Comissão de Legislação Participativa que será composta exclusivamente pelos presidentes das demais Comissões Permanentes.\n§ 3° É permitido ao Líder de Bancada, Bloco Parlamentar ou Federação indicar membro de outro partido para ocupar a vaga a que tenha direito em comissão.\nArt. 49. A distribuição das vagas em cada Comissão será estabelecida com a divisão do número de membros do Partido, Bloco Parlamentar ou Federação, aferido na forma do § 2° do art. 8º deste Regimento, pelo quociente resultante da divisão do número de membros da Assembleia Legislativa pelo número de membros da Comissão; o inteiro do quociente assim obtido, denominado quociente partidário, representará o número de lugares a que o Partido, Bloco Parlamentar ou Federação poderá concorrer na Comissão.\n§ 1° As vagas que sobrarem, uma vez aplicado o critério do caput, serão destinadas aos Partidos, Blocos Parlamentares ou Federações, levando-se em conta as frações do quociente partidário, da maior para a menor."
+          }
+        },
+        {
+          "enunciado": "Caso prático: após os cálculos de distribuição de vagas, duas agremiações sem representação suficiente declararam, no prazo dado pela Mesa, opção pela mesma Comissão na qual ainda não tinham lugar. Segundo o Regimento Interno, assinale a alternativa CORRETA sobre o desempate.",
+          "alternativas": {
+            "A": "Deve ter preferência a agremiação cujo Líder formalizou primeiro a declaração de opção.",
+            "B": "Deve ter preferência a agremiação que apresentar a menor fração do quociente partidário.",
+            "C": "Deve ter preferência o Partido, Bloco Parlamentar ou Federação com maior quociente partidário.",
+            "D": "Deve ter preferência a agremiação que indicar o Deputado com maior número de legislaturas.",
+            "E": "A Mesa deverá resolver a coincidência de opções mediante sorteio entre as agremiações interessadas."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 49, § 2°, II, adota o maior quociente partidário, não a ordem de apresentação.\nB) INCORRETA. O art. 49, § 2°, II, prevê preferência do maior quociente, e não da menor fração.\nC) CORRETA. O art. 49, § 2°, II, fixa o maior quociente partidário em caso de coincidência de opções.\nD) INCORRETA. O art. 49, § 2°, II, resolve a coincidência entre agremiações pelo quociente, não pela experiência de indicado.\nE) INCORRETA. O art. 49, § 2°, II, fixa o maior quociente partidário, não sorteio, como critério de preferência.",
+          "base_legal": {
+            "dispositivo": "Art. 49, caput, §§ 1° e 2°, incisos I, II e VI",
+            "texto": "Art. 49. A distribuição das vagas em cada Comissão será estabelecida com a divisão do número de membros do Partido, Bloco Parlamentar ou Federação, aferido na forma do § 2° do art. 8º deste Regimento, pelo quociente resultante da divisão do número de membros da Assembleia Legislativa pelo número de membros da Comissão; o inteiro do quociente assim obtido, denominado quociente partidário, representará o número de lugares a que o Partido, Bloco Parlamentar ou Federação poderá concorrer na Comissão.\n§ 1° As vagas que sobrarem, uma vez aplicado o critério do caput, serão destinadas aos Partidos, Blocos Parlamentares ou Federações, levando-se em conta as frações do quociente partidário, da maior para a menor.\n§ 2° Se verificado, após aplicados os critérios do caput e do parágrafo anterior, que há Partido, Bloco Parlamentar ou Federação sem lugares suficientes nas Comissões para a sua bancada, ou Deputado sem legenda partidária, observar-se-á o seguinte:\nI - a Mesa dará quarenta e oito horas ao Partido, Bloco Parlamentar ou Federação nessa condição para que declare sua opção por obter lugar em Comissão em que não esteja ainda representado;\nII - havendo coincidência de opções, terá preferência o Partido, Bloco Parlamentar ou Federação de maior quociente partidário, conforme os critérios do caput e do parágrafo antecedente;\nVI - quando mais de um Deputado for indicado para a mesma Comissão, terá preferência o mais idoso dentre os de maior número de legislaturas na Assembleia."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a indicação e o mandato dos membros das Comissões Permanentes, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os Líderes dispõem de sete dias úteis para comunicar à Presidência os nomes de titulares e suplentes após definida a representação no primeiro ano.",
+            "B": "Nos anos legislativos seguintes ao primeiro, o prazo de indicação nominal conta-se do dia de início do respectivo ano.",
+            "C": "Se a Liderança não comunicar os nomes no prazo fixado, o Presidente fará a designação de ofício.",
+            "D": "O mandato dos membros das Comissões Permanentes tem duração de dois anos legislativos.",
+            "E": "Os membros podem ser substituídos a qualquer tempo por solicitação escrita dos Líderes, admitida a recondução."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 50, caput, fixa cinco dias úteis, e não sete, para a comunicação dos nomes.\nB) CORRETA (opção verdadeira). O art. 50, caput, inicia a contagem nos demais anos legislativos no dia em que estes começarem.\nC) CORRETA (opção verdadeira). O art. 50, parágrafo único, autoriza a designação de ofício na ausência de comunicação tempestiva.\nD) CORRETA (opção verdadeira). O art. 51 estabelece o mandato de dois anos legislativos.\nE) CORRETA (opção verdadeira). O art. 51 prevê substituição a qualquer tempo por solicitação escrita dos Líderes e recondução.",
+          "base_legal": {
+            "dispositivo": "Arts. 50, caput e parágrafo único, e 51",
+            "texto": "Art. 50. Definida, no primeiro ano legislativo de cada legislatura, a representação numérica dos Partidos, Blocos Parlamentares e Federações nas Comissões, os Líderes comunicarão à Presidência, no prazo de cinco dias úteis, os nomes dos membros das respectivas bancadas que, como titulares e suplentes, as integrarão; esse prazo contar-se-á, nos demais anos legislativos, do dia de início desses.\nParágrafo único. O Presidente fará, de ofício, a designação se, no prazo fixado, a Liderança não comunicar os nomes de sua representação para compor as Comissões, nos termos do § 4° do art. 61.\nArt. 51. O mandato dos membros das Comissões permanentes será de dois anos legislativos, observado o disposto no art. 48, § 1°, podendo, no entanto, serem substituídos, a qualquer tempo, por solicitação escrita dos Líderes, bem como serem reconduzidos."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), quanto à instalação e às eleições das Comissões Permanentes, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Cada Comissão Permanente terá um Presidente e um Vice-Presidente, na forma regimental.",
+            "B": "A convocação para instalação e escolha dos dirigentes será para reunião em até cinco dias úteis após a publicação.",
+            "C": "Nas Comissões em que houver eleição, a escolha ocorrerá por maioria simples, em votação nominal.",
+            "D": "O membro suplente não poderá ser eleito para o cargo de Presidente ou de Vice-Presidente da Comissão.",
+            "E": "A Comissão de Legislação Participativa escolherá seu Presidente mediante eleição nominal, por maioria simples."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 52, caput, estabelece a Presidência e a Vice-Presidência das Permanentes.\nB) CORRETA (opção verdadeira). O art. 52, § 1°, determina convocação para reunião em até cinco dias úteis após a publicação.\nC) CORRETA (opção verdadeira). O art. 52, § 3°, prevê maioria simples e votação nominal para a eleição.\nD) CORRETA (opção verdadeira). O art. 52, § 5°, proíbe a eleição de membro suplente para os dois cargos.\nE) INCORRETA (gabarito). O art. 52, § 6°, afasta a eleição para a Presidência da Comissão de Legislação Participativa.",
+          "base_legal": {
+            "dispositivo": "Art. 52, caput e §§ 1°, 3°, 5° e 6°",
+            "texto": "Art. 52. As Comissões Permanentes terão um Presidente e um Vice-Presidente.\n§ 1° Juntamente com a composição nominal das Comissões, o Presidente mandará publicar no Diário Oficial da Assembleia Legislativa e na Ordem do Dia publicada no Sistema de Tramitação, a convocação destas para se reunirem em até cinco dias úteis depois da publicação, com o fim de instalar os seus trabalhos e eleger os respectivos Presidentes e Vice-Presidentes.\n§ 3° A eleição de que trata este artigo será feita por maioria simples, em votação nominal, considerando-se eleito, em caso de empate, o candidato que tiver o maior número de legislaturas na Assembleia e, em último caso, o mais idoso.\n§ 5° O membro suplente não poderá ser eleito Presidente ou Vice-Presidente da Comissão.\n§ 6° Não haverá eleição para presidente da Comissão de Legislação Participativa, que será presidida pelo Presidente de Comissão Permanente que tenha o maior número de legislaturas na Assembleia e, em último caso, o mais idoso. Proceder-se-á, da mesma forma, quanto à escolha do Vice-Presidente."
+          }
+        },
+        {
+          "enunciado": "Uma Comissão Permanente teve o cargo de Presidente vago quando faltavam apenas dois meses para o término do mandato. Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A Comissão deverá realizar nova eleição para escolher o sucessor, embora reste período inferior a três meses.",
+            "B": "O Líder da bancada do Presidente deverá indicar o substituto, mediante comunicação escrita à Mesa Diretora.",
+            "C": "O Plenário da Assembleia escolherá o novo Presidente da Comissão, mediante votação nominal.",
+            "D": "A vaga será provida na forma de substituição pelo Vice-Presidente, sem nova eleição nesse período.",
+            "E": "O membro mais idoso assumirá a Presidência, mesmo que o Vice-Presidente esteja presente."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 53, parágrafo único, dispensa a nova eleição quando faltarem menos de três meses.\nB) INCORRETA. O art. 53, caput e parágrafo único, remete à substituição pelo Vice-Presidente, não à indicação do Líder.\nC) INCORRETA. O art. 53, parágrafo único, prevê provimento na forma do caput, não eleição pelo Plenário.\nD) CORRETA. O art. 53, caput e parágrafo único, determina o provimento pela regra de substituição quando faltarem menos de três meses.\nE) INCORRETA. O art. 53, caput, dá preferência ao Vice-Presidente, antes do membro mais idoso.",
+          "base_legal": {
+            "dispositivo": "Art. 53, caput e parágrafo único",
+            "texto": "Art. 53. O Presidente será, nos seus impedimentos, substituído pelo Vice-Presidente, e, na ausência dele, pelo membro mais idoso da Comissão, dentre os de maior número de legislaturas na Assembleia.\nParágrafo único. Se ficar vago o cargo de Presidente ou de Vice-Presidente, proceder-se-á a nova eleição para escolha do sucessor, observando-se, no que couber, as disposições do artigo anterior, salvo se faltarem menos de três meses para o término do mandato, caso em que será provido na forma indicada no caput deste artigo."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre as competências comuns das Comissões Permanentes, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "As Comissões podem realizar audiências públicas com entidades da sociedade civil.",
+            "B": "Os pedidos escritos de informação às autoridades indicadas no Regimento são encaminhados diretamente pela Comissão, sem intermediação da Mesa.",
+            "C": "As Comissões podem solicitar depoimento de qualquer autoridade ou cidadão.",
+            "D": "As Comissões podem propor a sustação de atos normativos do Executivo que exorbitem do poder regulamentar.",
+            "E": "As Comissões podem fiscalizar e controlar atos do Poder Executivo, inclusive os da administração indireta."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 56, III, prevê a realização de audiências públicas com entidades da sociedade civil.\nB) INCORRETA (gabarito). O art. 56, V, determina que os pedidos escritos sejam encaminhados por meio da Mesa.\nC) CORRETA (opção verdadeira). O art. 56, VII, permite solicitar depoimento de qualquer autoridade ou cidadão.\nD) CORRETA (opção verdadeira). O art. 56, XI, admite propor a sustação dos atos normativos exorbitantes do Executivo.\nE) CORRETA (opção verdadeira). O art. 56, X, prevê fiscalização e controle dos atos do Executivo, incluída a administração indireta.",
+          "base_legal": {
+            "dispositivo": "Art. 56, caput, incisos III, IV, V, VII, X, XI e XII e § 2°",
+            "texto": "Art. 56. Às Comissões Permanentes, em razão da matéria de sua competência, cabe:\nIII - realizar audiências públicas com entidades da sociedade civil;\nIV - convocar Secretários de Estado ou quaisquer titulares de outros órgãos diretamente subordinados ao Governo do Estado para prestar, pessoalmente, informações sobre assunto previamente determinado ou conceder-lhes audiência para expor tema de relevância inerente a suas atribuições;\nV - encaminhar, por meio da Mesa, pedidos escritos de informação a autoridades mencionadas no inciso anterior;\nVII - solicitar depoimento de qualquer autoridade ou cidadão;\nX - exercer a fiscalização e o controle dos atos do Poder Executivo, incluídos os da administração indireta;\nXI - propor a sustação dos atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa, elaborando à Casa a respectiva proposta de decreto legislativo;\nXII - estudar qualquer assunto compreendido no respectivo campo temático ou área de atividade, podendo promover, em seu âmbito, conferências, exposições, palestras ou seminários;\n§ 2° As atribuições contidas nos incisos V e XII do caput não excluem a iniciativa concorrente de Deputado."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca das atribuições da Presidência de Comissão, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O Presidente assina sozinho os pareceres da Comissão, independentemente da assinatura do Relator.",
+            "B": "As questões de ordem suscitadas na Comissão serão resolvidas pelo Vice-Presidente do colegiado.",
+            "C": "O Presidente pode atuar como Relator ou Relator Substituto e, quando couber, exercer voto de qualidade.",
+            "D": "O Presidente remeterá à Mesa o sumário dos trabalhos apenas ao final de cada ano legislativo.",
+            "E": "As reuniões dos Presidentes das Comissões Permanentes são convocadas pelo Vice-Presidente da Assembleia."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 57, XII, exige assinatura dos pareceres pelo Presidente juntamente com o Relator.\nB) INCORRETA. O art. 57, XVII, atribui ao próprio Presidente a solução das questões de ordem da Comissão.\nC) CORRETA. O art. 57, parágrafo único, autoriza relato, substituição de Relator e voto de qualidade quando cabível.\nD) INCORRETA. O art. 57, XVIII, exige sumário no início de cada mês e relatório ao fim de cada ano legislativo.\nE) INCORRETA. O art. 58, caput, confere a convocação ao Presidente da Assembleia Legislativa.",
+          "base_legal": {
+            "dispositivo": "Art. 57, caput, incisos XII, XVII e XVIII e parágrafo único; art. 58, caput",
+            "texto": "Art. 57. Ao Presidente de Comissão compete, além do que lhe for atribuído neste Regimento ou no Regulamento das Comissões:\nXII - assinar os pareceres, juntamente com o Relator;\nXVII - resolver, de acordo com o Regimento, as questões de ordem suscitadas na Comissão;\nXVIII - remeter à Mesa, no início de cada mês, sumário dos trabalhos da Comissão e, no fim de cada ano legislativo, como subsídio para a sinopse das atividades da Casa, relatório sobre o andamento e exame das proposições distribuídas à Comissão;\nParágrafo único. O Presidente poderá funcionar como Relator ou Relator Substituto e terá voto nas deliberações da Comissão, competindo-lhe, quando for o caso, exercer o voto de qualidade.\nArt. 58. Os Presidentes das Comissões Permanentes reunir-se-ão por convocação do Presidente da Assembleia Legislativa, sob a presidência deste, para tratar assuntos pertinentes ao funcionamento dos respectivos colegiados."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre impedimentos e ausências nas Comissões, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O autor da proposição pode atuar como seu Relator Substituto, desde que não tenha sido designado Relator titular.",
+            "B": "O membro que não puder comparecer deve comunicar ao Presidente da Comissão, que fará constar a informação em ata.",
+            "C": "Se a ausência prejudicar a Comissão, o Presidente da Assembleia designará substituto, a requerimento de Deputado e por indicação do Líder.",
+            "D": "A substituição por falta de comparecimento cessará quando o titular ou o suplente preferencial retornar ao exercício.",
+            "E": "Em matéria urgente ou relevante, o Líder indicará outro membro de sua bancada mediante solicitação do Presidente da Comissão."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 59 proíbe que o autor relate sua proposição, ainda que como substituto ou Relator parcial.\nB) CORRETA (opção verdadeira). O art. 60, caput, impõe a comunicação e o registro em ata pelo Presidente.\nC) CORRETA (opção verdadeira). O art. 60, § 1°, prevê designação pelo Presidente da Assembleia, a requerimento e por indicação do Líder.\nD) CORRETA (opção verdadeira). O art. 60, § 2°, determina a cessação com o retorno do titular ou suplente preferencial.\nE) CORRETA (opção verdadeira). O art. 60, § 3°, atribui a indicação ao Líder, a pedido do Presidente da Comissão.",
+          "base_legal": {
+            "dispositivo": "Arts. 59 e 60, caput e §§ 1°, 2° e 3°",
+            "texto": "Art. 59. Não poderá o Autor de proposição ser dela Relator, ainda que substituto ou parcial.\nArt. 60. Sempre que um membro de Comissão não puder comparecer às reuniões, deverá comunicar o fato ao seu Presidente, que fará constar em ata a informação.\n§ 1° Se, por falta de comparecimento de membro efetivo, ou de suplente preferencial, estiver sendo prejudicado o trabalho de qualquer Comissão, o Presidente da Assembleia Legislativa, a requerimento do Presidente da Comissão ou de qualquer Deputado, designará substituto para o membro faltoso, por indicação do Líder da respectiva bancada.\n§ 2° Cessará a substituição logo que o titular, ou o suplente preferencial, voltar ao exercício.\n§ 3° Em caso de matéria urgente ou relevante, caberá ao Líder, mediante solicitação do Presidente da Comissão, indicar outro membro da sua bancada para substituir, em reunião, o membro ausente."
+          }
+        },
+        {
+          "enunciado": "Com base no Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre as vagas nas Comissões, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A vaga em Comissão pode decorrer do término do mandato, de renúncia, de falecimento ou de perda do lugar.",
+            "B": "A licença prevista no dispositivo constitucional citado gera vaga se o afastamento ultrapassar cento e vinte dias.",
+            "C": "Cinco faltas a reuniões ordinárias consecutivas podem causar perda automática do lugar, ressalvada força maior justificada por escrito.",
+            "D": "O Deputado que perder o lugar em uma Comissão não poderá a ela retornar no mesmo ano legislativo.",
+            "E": "O prazo regimental de preenchimento da vaga pelo Presidente da Assembleia Legislativa é de cinco dias úteis."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 61, caput, enumera essas hipóteses de vacância.\nB) CORRETA (opção verdadeira). O art. 61, § 1°, prevê vaga na licença referida quando o afastamento superar cento e vinte dias.\nC) CORRETA (opção verdadeira). O art. 61, § 2°, determina a perda por cinco faltas consecutivas, ressalvado motivo de força maior justificado.\nD) CORRETA (opção verdadeira). O art. 61, § 3°, veda o retorno à mesma Comissão durante o ano legislativo da perda.\nE) INCORRETA (gabarito). O art. 61, § 4°, estabelece interregno de três dias úteis para a designação, não cinco.",
+          "base_legal": {
+            "dispositivo": "Art. 61, caput e §§ 1°, 2°, 3° e 4°",
+            "texto": "Art. 61. A vaga em Comissão verificar-se-á em virtude de término do mandato, renúncia, falecimento ou perda do lugar.\n§ 1° Ocorrerá vaga nos casos de investidura mencionados no inciso I do art. 98 da Constituição Estadual, e nos casos de licença de que trata o inciso II do mesmo dispositivo constitucional, se o afastamento ultrapassar cento e vinte dias.\n§ 2° Além do que estabelecem o art. 67, inciso XXI, alínea “c” e art. 303, perderá automaticamente o lugar na Comissão o Deputado que não comparecer a cinco reuniões ordinárias consecutivas, ou a um quarto das reuniões, intercaladamente, durante o ano legislativo, salvo motivo de força maior, justificado por escrito à Comissão. A perda do lugar será declarada pelo Presidente da Assembleia Legislativa em virtude de comunicação do Presidente da Comissão.\n§ 3° O Deputado que perder o lugar numa Comissão, a ele não poderá retornar no mesmo ano legislativo.\n§ 4° A vaga em Comissão será preenchida por designação do Presidente da Assembleia Legislativa, no interregno de três dias úteis, de acordo com a indicação feita pelo Líder do Partido, de Bloco Parlamentar ou Federação a que pertencer o lugar, ou independentemente dessa comunicação, se não for feita naquele prazo."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca da ordem dos trabalhos, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Dois ou mais Presidentes de Comissão podem convocar reunião conjunta para apreciar matéria correlata.",
+            "B": "Sem matéria sujeita a deliberação, a reunião da Comissão poderá iniciar-se com qualquer número de membros.",
+            "C": "A Comissão pode alterar a ordem dos trabalhos, a pedido de membro, para realização de audiência pública.",
+            "D": "O Deputado que não seja membro de determinada Comissão poderá participar de seus debates e votar suas proposições.",
+            "E": "As Permanentes podem adotar regras específicas para seus trabalhos, respeitados o Regimento e o Regulamento."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 62, II, prevê convocação conjunta por dois ou mais Presidentes para matéria correlata.\nB) CORRETA (opção verdadeira). O art. 63, caput, dispensa o quórum de maioria absoluta quando não houver matéria sujeita a deliberação.\nC) CORRETA (opção verdadeira). O art. 63, § 1°, permite a alteração para realização de audiência pública a requerimento de membro.\nD) INCORRETA (gabarito). O art. 63, § 3°, assegura participação sem direito a voto ao Deputado que não integra a Comissão.\nE) CORRETA (opção verdadeira). O art. 64 admite regras específicas, observadas as normas do Regimento e do Regulamento.",
+          "base_legal": {
+            "dispositivo": "Arts. 62, caput e inciso II; 63, caput, inciso III, alínea a, §§ 1° e 3°; 64",
+            "texto": "Art. 62. A reunião conjunta de Comissões far-se-á:\nII - quando convocada por dois ou mais Presidentes de Comissão para apreciar matéria correlata;\nArt. 63. Os trabalhos das Comissões serão iniciados com a presença da maioria absoluta de seus membros, ou com qualquer número, se não houver matéria sujeita a deliberação ou se a reunião se destinar a atividades referidas no inciso III alínea “a” deste artigo, e obedecerão à seguinte ordem:\nIII - Ordem do Dia:\na) conhecimento, exame ou instrução de matéria de natureza legislativa, fiscalizatória ou informativa, ou outros assuntos da alçada da Comissão;\n§ 1° Essa ordem poderá ser alterada pela Comissão, a requerimento de qualquer de seus membros, para tratar de matéria em regime de urgência, de prioridade ou de tramitação ordinária, ou ainda no caso de comparecimento de Secretário de Estado ou de qualquer autoridade, e de realização de audiência pública.\n§ 3° O Deputado poderá participar, sem direito a voto, dos trabalhos e debates de qualquer Comissão de que não seja membro.\nArt. 64. As Comissões Permanentes poderão estabelecer regras e condições específicas para a organização e o bom andamento dos seus trabalhos, observadas as normas fixadas neste Regimento e no Regulamento das Comissões."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre os prazos de tramitação nas Comissões, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os prazos das Comissões, como regra, são de três dias úteis para urgência, seis para prioridade e doze para tramitação ordinária.",
+            "B": "Após o prazo do Relator, a avocação ou nova designação terá prazo improrrogável de quatro dias úteis na prioridade e dois na tramitação ordinária.",
+            "C": "O Relator dispõe de metade do prazo atribuído à Comissão para elaborar seu parecer.",
+            "D": "A requerimento fundamentado do Relator, o Presidente da Comissão pode prorrogar seu prazo em até metade, salvo na urgência.",
+            "E": "A inclusão imediata exige requerimento de um terço e aprovação da maioria absoluta, desde que publicada no Sistema de Tramitação."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 65, I a III, fixa os prazos de três, seis e doze dias úteis conforme o regime.\nB) INCORRETA (gabarito). O art. 65, § 3°, prevê dois dias úteis na prioridade e quatro na tramitação ordinária, invertidos na opção.\nC) CORRETA (opção verdadeira). O art. 65, § 1°, concede ao Relator metade do prazo da Comissão.\nD) CORRETA (opção verdadeira). O art. 65, § 2°, exige requerimento fundamentado e exclui prorrogação na urgência.\nE) CORRETA (opção verdadeira). O art. 65, § 5°, exige um terço para requerer, maioria absoluta para aprovar e publicação no Sistema de Tramitação.",
+          "base_legal": {
+            "dispositivo": "Art. 65, caput, incisos I, II e III e §§ 1°, 2°, 3° e 5°",
+            "texto": "Art. 65. Excetuados os casos em que este Regimento determine de forma diversa, as Comissões deverão obedecer aos seguintes prazos para examinar as proposições e sobre elas decidir:\nI - três dias úteis, quando se tratar de matéria em regime de urgência;\nII - seis dias úteis, quando se tratar de matéria em regime de prioridade;\nIII - doze dias úteis, quando se tratar de matéria em regime de tramitação ordinária;\n§ 1° O Relator disporá da metade do prazo concedido à Comissão para oferecer seu parecer.\n§ 2° O Presidente da Comissão poderá, a requerimento fundamentado do Relator, conceder-lhe prorrogação de até metade dos prazos previstos neste artigo, exceto se em regime de urgência a matéria.\n§ 3° Esgotado o prazo destinado ao Relator, o Presidente da Comissão avocará a proposição ou designará outro membro para relatá-la, no prazo improrrogável de dois dias úteis, se em regime de prioridade, e de quatro dias úteis, se em regime de tramitação ordinária.\n§ 5° A Comissão poderá, mediante requerimento de um terço de seus membros, aprovado pela maioria absoluta da respectiva composição plenária, incluir matéria na Ordem do Dia para apreciação imediata, independentemente do disposto nos parágrafos anteriores, desde que publicada no Sistema de Tramitação. Não havendo parecer, o Presidente designará Relator para proferi-lo oralmente no curso da reunião ou até a reunião seguinte, devendo o parecer ser reduzido a termo."
+          }
+        }
+      ]
     }
   ]
 }
