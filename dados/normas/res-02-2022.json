@@ -1442,6 +1442,256 @@
           }
         }
       ]
+    },
+    {
+      "numero": 6,
+      "titulo": "Comissões Permanentes e campos temáticos (arts. 54 e 55)",
+      "artigos": "Arts. 54 e 55",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "O art. 54 enumera **19 Comissões Permanentes**. A **Comissão de Constituição e Justiça e de Redação Final** e a **Comissão de Fiscalização Financeira e Orçamentária** têm **11 membros**; as demais de composição numérica indicada têm **7 membros**."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "**CCJ**",
+              "Admissibilidade de emendas constitucionais; vetos; redação final"
+            ],
+            [
+              "**Tributos**",
+              "Divisão Administrativa, Assuntos Municipais e Tributação"
+            ],
+            [
+              "**Orçamento**",
+              "Fiscalização Financeira e Orçamentária; PPA, LDO e orçamento anual"
+            ],
+            [
+              "**Participação**",
+              "Presidentes das demais Comissões; exclui Partidos Políticos"
+            ],
+            [
+              "**Crianças**",
+              "Parecer em todas as proposições da área; proteção ao nascituro"
+            ],
+            [
+              "**Tecnologia**",
+              "Informática, robótica, sistema estatístico e portais eletrônicos"
+            ],
+            [
+              "**Transportes**",
+              "Portos, tráfego aéreo, transportes e obras públicas"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "Pelo art. 55, § 1°, cada **Comissão Permanente** acompanha os órgãos e programas relacionados à sua área, inclusive mediante **fiscalização orçamentária**, sem prejuízo da comissão financeira. A comissão de servidores de apoio à **Legislação Participativa** é nomeada pelo **Presidente da Assembleia** (§ 2°)."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Três pegadinhas:** **11 membros** apenas nas duas comissões indicadas; **Legislação Participativa** reúne os **Presidentes** das demais Comissões, não sete integrantes fixos; **fiscalização temática** não exclui a competência da **Fiscalização Financeira e Orçamentária**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), quanto ao número de integrantes das Comissões Permanentes, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Comissão de Constituição e Justiça e de Redação Final possui onze membros.",
+            "B": "A Comissão de Cultura possui sete membros.",
+            "C": "A Comissão de Fiscalização Financeira e Orçamentária possui onze membros.",
+            "D": "A Comissão de Educação possui nove membros.",
+            "E": "A Comissão de Ciência, Tecnologia, Inovação e Comunicação possui sete membros."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 54, inciso III, fixa onze membros para a Comissão de Constituição e Justiça e de Redação Final.\nB) CORRETA (opção verdadeira). O art. 54, inciso IV, fixa sete membros para a Comissão de Cultura.\nC) CORRETA (opção verdadeira). O art. 54, inciso IX, fixa onze membros para a Comissão de Fiscalização Financeira e Orçamentária.\nD) INCORRETA (gabarito). O art. 54, inciso VIII, fixa sete membros para a Comissão de Educação.\nE) CORRETA (opção verdadeira). O art. 54, inciso II, fixa sete membros para a Comissão de Ciência, Tecnologia, Inovação e Comunicação.",
+          "base_legal": {
+            "dispositivo": "Art. 54",
+            "texto": "Art. 54. São as seguintes as Comissões Permanentes, com os respectivos números de membros:\nII - Comissão de Ciência, Tecnologia, Inovação e Comunicação, com sete membros;\nIII - Comissão de Constituição e Justiça e de Redação Final, com onze membros;\nIV - Comissão de Cultura, com sete membros;\nVIII - Comissão de Educação, com sete membros;\nIX - Comissão de Fiscalização Financeira e Orçamentária, com onze membros;"
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a Comissão de Legislação Participativa, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "É composta por todos os Presidentes das demais Comissões Permanentes.",
+            "B": "Conta com comissão de servidores nomeados pelo Plenário da Assembleia Legislativa.",
+            "C": "Aprecia proposições legislativas apresentadas por sindicatos e associações.",
+            "D": "Tem em seu campo temático pareceres técnicos oriundos de entidades científicas e culturais.",
+            "E": "A competência relativa a proposições legislativas de entidades da sociedade civil excetua Partidos Políticos."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). A composição está prevista no art. 54, inciso XVIII.\nB) INCORRETA (gabarito). O art. 55, § 2°, atribui a nomeação dos servidores ao Presidente da Assembleia Legislativa.\nC) CORRETA (opção verdadeira). O art. 55, inciso XVIII, alínea a, inclui sindicatos e associações.\nD) CORRETA (opção verdadeira). O art. 55, inciso XVIII, alínea b, abrange pareceres técnicos dessas entidades.\nE) CORRETA (opção verdadeira). O art. 55, inciso XVIII, alínea a, estabelece a exceção referente a Partidos Políticos.",
+          "base_legal": {
+            "dispositivo": "Arts. 54 e 55",
+            "texto": "Art. 54. São as seguintes as Comissões Permanentes, com os respectivos números de membros:\nXVIII - Comissão de Legislação Participativa, composta por todos os Presidentes das demais Comissões Permanentes.\nArt. 55. Os campos temáticos ou áreas de atividade das Comissões estão assim distribuídos:\nXVIII - Comissão de Legislação Participativa:\na) proposições legislativas apresentadas por associações e órgãos de classe, sindicatos e entidades organizadas da sociedade civil, exceto Partidos Políticos;\nb) pareceres técnicos, exposições e propostas oriundas de entidades científicas e culturais e de qualquer das entidades mencionadas na alínea “a”, deste inciso.\n§ 2° A Comissão de Legislação participativa, para realizar suas atribuições, contará com comissão de servidores nomeados pelo Presidente da Assembleia Legislativa."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca dos campos temáticos das Comissões Permanentes, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O seguro agrícola integra a competência da Comissão de Agricultura, Terras, Indústria, Comércio e Serviços.",
+            "B": "A regularização dominial de terras rurais integra a competência da Comissão de Agricultura, Terras, Indústria, Comércio e Serviços.",
+            "C": "O tratamento preferencial para microempresas integra a competência da Comissão de Agricultura, Terras, Indústria, Comércio e Serviços.",
+            "D": "A política e o programa de irrigação integram a competência da Comissão de Agricultura, Terras, Indústria, Comércio e Serviços.",
+            "E": "O regime previdenciário dos servidores públicos estaduais integra a competência da Comissão de Agricultura, Terras, Indústria, Comércio e Serviços."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 55, inciso I, alínea a, item 5, prevê o seguro agrícola.\nB) CORRETA (opção verdadeira). O art. 55, inciso I, alínea b, item 3, prevê a regularização dominial.\nC) CORRETA (opção verdadeira). O art. 55, inciso I, alínea c, item 4, inclui esse tratamento preferencial.\nD) CORRETA (opção verdadeira). O art. 55, inciso I, alínea a, item 8, inclui a política e o programa de irrigação.\nE) INCORRETA (gabarito). O regime previdenciário dos servidores públicos estaduais consta do art. 55, inciso XIII, alínea e.",
+          "base_legal": {
+            "dispositivo": "Art. 55",
+            "texto": "Art. 55. Os campos temáticos ou áreas de atividade das Comissões estão assim distribuídos:\nI - Comissão de Agricultura, Terras, Indústria, Comércio e Serviços:\na) política agrícola e assuntos atinentes à agricultura, destacadamente:\n5 - seguro agrícola;\n8 - política e programa de irrigação;\nb) política e questões fundiárias; reforma agrária; justiça agrária; direito agrário, destacadamente:\n3 - regularização dominial de terras rurais e de sua ocupação;\nc) política e atividades industriais, comerciais e de serviços, destacadamente:\n4 - regime jurídico das empresas e tratamento preferencial para microempresas e para empresas de pequeno porte;\nXIII - Comissão de Relações de Trabalho, Previdência e Assistência Social:\ne) regime previdenciário dos servidores públicos estaduais;"
+          }
+        },
+        {
+          "enunciado": "No Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), considerando as Comissões de Ciência, Tecnologia, Inovação e Comunicação e de Cultura, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "À Comissão de Ciência, Tecnologia, Inovação e Comunicação cabe o sistema estatístico, cartográfico e demográfico relacionado ao Pará.",
+            "B": "À Comissão de Cultura cabe a produção intelectual e sua proteção, inclusive direitos autorais e conexos.",
+            "C": "À Comissão de Ciência, Tecnologia, Inovação e Comunicação cabe a gestão da documentação governamental e do patrimônio arquivístico nacional.",
+            "D": "À Comissão de Ciência, Tecnologia, Inovação e Comunicação cabe incentivar portais eletrônicos de informação na administração pública.",
+            "E": "À Comissão de Cultura cabem as datas comemorativas e as homenagens cívicas."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 55, inciso II, alínea c, inclui o sistema estatístico, cartográfico e demográfico relacionado ao Estado do Pará.\nB) CORRETA (opção verdadeira). O art. 55, inciso IV, alínea c, contempla produção intelectual, direitos autorais e conexos.\nC) INCORRETA (gabarito). A gestão da documentação governamental e do patrimônio arquivístico nacional está no art. 55, inciso IV, alínea d, relativo à Cultura.\nD) CORRETA (opção verdadeira). O art. 55, inciso II, alínea g, contempla a difusão e o incentivo de portais eletrônicos na administração pública.\nE) CORRETA (opção verdadeira). O art. 55, inciso IV, alíneas f e g, inclui datas comemorativas e homenagens cívicas.",
+          "base_legal": {
+            "dispositivo": "Art. 55",
+            "texto": "Art. 55. Os campos temáticos ou áreas de atividade das Comissões estão assim distribuídos:\nII - Comissão de Ciência, Tecnologia, Inovação e Comunicação:\nc) sistema estatístico, cartográfico e demográfico relacionado ao Estado do Pará;\ng) difusão e incentivo, na administração pública, de novos meios de prestação de informações à sociedade, tais como redes, sítios e portais eletrônicos, e apoio a Municípios na implantação desses meios;\nIV - Comissão de Cultura:\nc) produção intelectual e sua proteção, direitos autorais e conexos;\nd) gestão da documentação governamental e patrimônio arquivístico nacional;\nf) datas comemorativas;\ng) homenagens cívicas;"
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, qual das matérias relacionadas pertence ao campo temático da Comissão de Constituição e Justiça e de Redação Final?",
+          "alternativas": {
+            "A": "A análise das representações do Tribunal de Contas do Estado que solicitam a sustação de contrato impugnado.",
+            "B": "A admissibilidade de proposta de emenda à Constituição.",
+            "C": "A autorização da realização de plebiscito em alteração político-administrativa do Estado.",
+            "D": "O exame de assuntos relacionados à saúde ambiental e à saúde ocupacional.",
+            "E": "O regime jurídico do transporte de passageiros e de cargas."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. Essa matéria é da Comissão de Fiscalização Financeira e Orçamentária, conforme o art. 55, inciso IX, alínea f.\nB) CORRETA. O art. 55, inciso III, alínea b, atribui essa admissibilidade à Comissão de Constituição e Justiça e de Redação Final.\nC) INCORRETA. O art. 55, inciso VII, alínea a, trata dessa autorização na Comissão de Divisão Administrativa do Estado, Assuntos Municipais e Tributação.\nD) INCORRETA. O art. 55, inciso XIV, alínea j, inclui saúde ambiental e saúde ocupacional na Comissão de Saúde.\nE) INCORRETA. O art. 55, inciso XVII, alínea g, inclui esse regime na Comissão de Viação, Transportes, Infraestrutura e Obras Públicas.",
+          "base_legal": {
+            "dispositivo": "Art. 55",
+            "texto": "Art. 55. Os campos temáticos ou áreas de atividade das Comissões estão assim distribuídos:\nIII - Comissão de Constituição e Justiça e de Redação Final:\nb) admissibilidade de proposta de emenda à Constituição;\nVII - Comissão de Divisão Administrativa do Estado, Assuntos Municipais e Tributação:\na) propostas que visem à alteração político-administrativa do Estado, especialmente de criação, incorporação, fusão e desmembramento de Municípios, verificando o cumprimento dos requisitos constitucionais e legais, particularmente o art. 83 da Constituição Estadual, promovendo diligências, obtendo informações e dados indispensáveis, elaborando o projeto de decreto legislativo, autorizando a realização do plebiscito e, conforme o resultado deste, o respectivo projeto de lei;\nIX - Comissão de Fiscalização Financeira e Orçamentária:\nf) representações do Tribunal de Contas do Estado solicitando sustação de contrato impugnado ou outras providências a cargo da Assembleia Legislativa, elaborando, em caso de parecer favorável, o respectivo projeto de decreto legislativo (Constituição Estadual, art. 116, § 1°);\nXIV - Comissão de Saúde:\nj) saúde ambiental, saúde ocupacional e infortunística; seguro de acidentes do trabalho urbano e rural;\nXVII - Comissão de Viação, Transportes, Infraestrutura e Obras Públicas:\ng) transporte de passageiros e de cargas; regime jurídico e legislação setorial; acordos e convenções internacionais; responsabilidade civil do transportador;"
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual atribuição pertence à Comissão de Defesa da Primeira Infância, Criança e Adolescente?",
+          "alternativas": {
+            "A": "O recebimento, a avaliação e as providências diante de ameaça ou violação do estatuto da primeira infância.",
+            "B": "O recebimento de denúncias relativas a ameaças aos direitos das pessoas com deficiência.",
+            "C": "O monitoramento da saúde materno-infantil e neonatal, inclusive de programas de apoio às puérperas.",
+            "D": "A informação às autoridades competentes acerca de denúncias de violação aos direitos humanos.",
+            "E": "A análise de temas referentes às migrações internas no Estado."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 55, inciso V, alínea c, prevê o recebimento, a avaliação e as providências referentes à ameaça ou violação do estatuto da primeira infância.\nB) INCORRETA. O art. 55, inciso VI, alínea c, item 2, situa esse assunto na defesa das pessoas com deficiência.\nC) INCORRETA. O art. 55, inciso VI, alínea d, item 4, situa esse monitoramento na defesa dos direitos da mulher.\nD) INCORRETA. O art. 55, inciso VI, alínea a, item 4, prevê essa informação no campo dos Direitos Humanos.\nE) INCORRETA. O art. 55, inciso VII, alínea i, inclui migrações internas na Comissão de Divisão Administrativa do Estado, Assuntos Municipais e Tributação.",
+          "base_legal": {
+            "dispositivo": "Art. 55",
+            "texto": "Art. 55. Os campos temáticos ou áreas de atividade das Comissões estão assim distribuídos:\nV - Comissão de Defesa da Primeira Infância, Criança e Adolescente:\nc) recebimento, avaliação e providências em relação à ameaça ou violação do estatuto da primeira infância;\nVI - Comissão de Direitos Humanos, Defesa do Consumidor, Defesa dos Direitos das Pessoas com Deficiência, da Mulher, da Juventude, da Pessoa Idosa e Minorias:\na) Direitos Humanos:\n4 - informação às autoridades competentes sobre denúncias de violação aos direitos humanos;\nc) Defesa dos Direitos das Pessoas com Deficiência:\n2 - recebimento, avaliação e providências em relação a denúncias relativas a ameaça ou a violação dos direitos das pessoas com deficiência;\nd) Defesa dos Direitos da Mulher:\n4 - monitoramento da saúde materno-infantil e neonatal, dos programas de apoio a mulheres em estado puerperal, em especial nas regiões mais carentes do Estado;\nVII - Comissão de Divisão Administrativa do Estado, Assuntos Municipais e Tributação:\ni) migrações internas;"
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre as competências das Comissões de Divisão Administrativa do Estado, Assuntos Municipais e Tributação, de Educação e de Fiscalização Financeira e Orçamentária, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Comissão de Divisão Administrativa do Estado, Assuntos Municipais e Tributação cuida de assuntos tributários.",
+            "B": "A Comissão de Educação trata de recursos humanos e financeiros para a educação.",
+            "C": "A Comissão de Fiscalização Financeira e Orçamentária examina projetos relativos ao plano plurianual e às diretrizes orçamentárias.",
+            "D": "A Comissão de Divisão Administrativa do Estado, Assuntos Municipais e Tributação cuida do sistema estadual de defesa civil.",
+            "E": "A Comissão de Educação examina os relatórios trimestrais e anuais de atividades do Tribunal de Contas do Estado."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 55, inciso VII, alínea b, prevê assuntos de natureza tributária.\nB) CORRETA (opção verdadeira). O art. 55, inciso VIII, alínea d, prevê recursos humanos e financeiros para a educação.\nC) CORRETA (opção verdadeira). O art. 55, inciso IX, alínea a, atribui à Comissão o exame desses projetos.\nD) CORRETA (opção verdadeira). O art. 55, inciso VII, alínea h, inclui o sistema estadual de defesa civil.\nE) INCORRETA (gabarito). O exame dos relatórios trimestrais e anuais do Tribunal de Contas compete à Comissão de Fiscalização Financeira e Orçamentária, segundo o art. 55, inciso IX, alínea g.",
+          "base_legal": {
+            "dispositivo": "Art. 55",
+            "texto": "Art. 55. Os campos temáticos ou áreas de atividade das Comissões estão assim distribuídos:\nVII - Comissão de Divisão Administrativa do Estado, Assuntos Municipais e Tributação:\nb) assuntos de natureza tributária;\nh) sistema estadual de defesa civil; política de combate às calamidades;\nVIII - Comissão de Educação:\nd) recursos humanos e financeiros para a educação;\nIX - Comissão de Fiscalização Financeira e Orçamentária:\na) exame e emissão de parecer sobre projetos relativos ao plano plurianual, diretrizes orçamentárias, orçamento anual, créditos adicionais e sobre as contas apresentadas anualmente pelo Governador do Estado, conforme estabelece o art. 205 da Constituição Estadual, e aspectos financeiros e orçamentários de todas as proposições;\ng) exame dos relatórios trimestrais e anuais de atividades do Tribunal de Contas do Estado (Constituição Estadual, art. 116, § 4°);"
+          }
+        },
+        {
+          "enunciado": "Uma Comissão Permanente acompanha a execução orçamentária de um programa governamental ligado ao seu campo temático. Questiona-se se tal acompanhamento afasta a competência da Comissão de Fiscalização Financeira e Orçamentária. Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual é a solução correta?",
+          "alternativas": {
+            "A": "A comissão temática pode acompanhar e fiscalizar o orçamento do programa, sem prejuízo da competência da Comissão de Fiscalização Financeira e Orçamentária.",
+            "B": "O acompanhamento orçamentário cabe exclusivamente à Comissão de Fiscalização Financeira e Orçamentária.",
+            "C": "A comissão temática pode acompanhar o órgão governamental, mas não o programa a ele relacionado.",
+            "D": "A comissão temática depende de autorização da Comissão de Fiscalização Financeira e Orçamentária para realizar o acompanhamento.",
+            "E": "A Comissão de Fiscalização Financeira e Orçamentária perde sua atribuição quando outra Comissão atua na mesma matéria."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 55, § 1°, abrange o acompanhamento e a fiscalização orçamentária de programas relacionados aos campos temáticos, sem afastar a competência da Comissão de Fiscalização Financeira e Orçamentária.\nB) INCORRETA. O art. 55, § 1°, também atribui acompanhamento e fiscalização orçamentária às comissões temáticas.\nC) INCORRETA. O art. 55, § 1°, inclui tanto órgãos quanto programas governamentais relacionados.\nD) INCORRETA. O art. 55, § 1°, prevê essa atribuição sem condicionar o exercício à autorização da comissão financeira.\nE) INCORRETA. O art. 55, § 1°, preserva expressamente a competência da Comissão de Fiscalização Financeira e Orçamentária.",
+          "base_legal": {
+            "dispositivo": "Art. 55",
+            "texto": "Art. 55. Os campos temáticos ou áreas de atividade das Comissões estão assim distribuídos:\n§ 1° Os campos temáticos ou áreas de atividades de cada Comissão Permanente abrangem ainda os órgãos e programas governamentais com eles relacionados e respectivo acompanhamento e fiscalização orçamentária, sem prejuízo da competência da Comissão de Fiscalização Financeira e Orçamentária da Assembleia Legislativa a que se refere o art. 205 da Constituição Estadual."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), quanto às Comissões de Pesca e Aquicultura, de Prevenção às Drogas e de Relações de Trabalho, Previdência e Assistência Social, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Comissão de Pesca e Aquicultura abrange a política de comercialização e exportação de peixes, algas, crustáceos e moluscos.",
+            "B": "A Comissão de Prevenção às Drogas promove estudos e medidas voltados à prevenção do uso indevido de drogas.",
+            "C": "A Comissão de Relações de Trabalho, Previdência e Assistência Social trata do regime previdenciário dos servidores públicos estaduais.",
+            "D": "A Comissão de Prevenção às Drogas tem competência sobre controle e comercialização de armas.",
+            "E": "A Comissão de Relações de Trabalho, Previdência e Assistência Social informa às autoridades denúncias de violação de acordos coletivos."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 55, inciso XI, alínea b, abrange comercialização e exportação desses produtos.\nB) CORRETA (opção verdadeira). O art. 55, inciso XII, alínea b, contempla estudos e medidas de prevenção do uso indevido de drogas.\nC) CORRETA (opção verdadeira). O art. 55, inciso XIII, alínea e, inclui o regime previdenciário dos servidores públicos estaduais.\nD) INCORRETA (gabarito). O controle e a comercialização de armas pertencem à Comissão de Segurança Pública, conforme o art. 55, inciso XV, alínea c.\nE) CORRETA (opção verdadeira). O art. 55, inciso XIII, alínea d, prevê a comunicação às autoridades competentes dessas denúncias.",
+          "base_legal": {
+            "dispositivo": "Art. 55",
+            "texto": "Art. 55. Os campos temáticos ou áreas de atividade das Comissões estão assim distribuídos:\nXI - Comissão de Pesca e Aquicultura:\nb) política de abastecimento, comercialização e exportação de peixes, algas, crustáceos e moluscos, tanto oriundos da pesca como do cultivo e da reprodução aquícola;\nXII - Comissão de Prevenção às Drogas:\nb) promoção em todos os níveis de estudos e medidas que tenham em vista a prevenção do uso indevido de drogas;\nXIII - Comissão de Relações de Trabalho, Previdência e Assistência Social:\nd) informação às autoridades competentes de denúncias sobre violação a acordos coletivos, dissídios, contratos coletivos, convenções ou qualquer outra forma de contrato de trabalho, solicitando a tomada de providências;\ne) regime previdenciário dos servidores públicos estaduais;\nXV - Comissão de Segurança Pública:\nc) controle e comercialização de armas, proteção a testemunhas vítimas de crime e suas famílias;"
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual matéria integra a competência da Comissão de Saúde?",
+          "alternativas": {
+            "A": "A proteção de testemunhas vítimas de crime e de suas famílias.",
+            "B": "A realização de audiências públicas sobre questões de segurança pública no Estado.",
+            "C": "A vigilância epidemiológica, a bioestatística e as imunizações.",
+            "D": "A política de segurança pública e seus órgãos institucionais.",
+            "E": "A solicitação de informações ao Comandante-Geral da Polícia Militar sobre fato determinado."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 55, inciso XV, alínea c, situa a proteção de testemunhas vítimas de crime e de suas famílias na Comissão de Segurança Pública.\nB) INCORRETA. O art. 55, inciso XV, alínea j, prevê audiências públicas sobre questões de segurança pública na Comissão de Segurança Pública.\nC) CORRETA. O art. 55, inciso XIV, alínea c, inclui vigilância epidemiológica, bioestatística e imunizações na Comissão de Saúde.\nD) INCORRETA. O art. 55, inciso XV, alínea g, atribui políticas de segurança pública à Comissão de Segurança Pública.\nE) INCORRETA. O art. 55, inciso XV, alínea n, atribui essa solicitação à Comissão de Segurança Pública.",
+          "base_legal": {
+            "dispositivo": "Art. 55",
+            "texto": "Art. 55. Os campos temáticos ou áreas de atividade das Comissões estão assim distribuídos:\nXIV - Comissão de Saúde:\nc) ações e serviços de saúde pública, campanhas de saúde pública, erradicação de doenças endêmicas; vigilância epidemiológica, bioestatística e imunizações;\nXV - Comissão de Segurança Pública:\nc) controle e comercialização de armas, proteção a testemunhas vítimas de crime e suas famílias;\ng) políticas de segurança pública e seus órgãos institucionais;\nj) audiências públicas para discutir com a sociedade civil organizada soluções para as questões de segurança pública no Estado, encaminhando os resultados para o Poder Executivo;\nn) solicitação ao Comandante-Geral da Polícia Militar e ao Secretário de Estado de Segurança Pública das informações julgadas necessárias sobre fato determinado;"
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre as Comissões de Turismo e Esportes e de Viação, Transportes, Infraestrutura e Obras Públicas, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Comissão de Turismo e Esportes trata de normas gerais sobre desporto e justiça desportiva.",
+            "B": "A Comissão de Viação, Transportes, Infraestrutura e Obras Públicas trata de portos e vias navegáveis.",
+            "C": "A Comissão de Turismo e Esportes trata da exploração das atividades e dos serviços turísticos.",
+            "D": "A Comissão de Viação, Transportes, Infraestrutura e Obras Públicas trata da segurança e do controle do tráfego aéreo.",
+            "E": "A Comissão de Turismo e Esportes trata do transporte por dutos."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 55, inciso XVI, alínea f, inclui normas gerais sobre desporto e justiça desportiva.\nB) CORRETA (opção verdadeira). O art. 55, inciso XVII, alínea e, inclui portos e vias navegáveis.\nC) CORRETA (opção verdadeira). O art. 55, inciso XVI, alínea b, inclui exploração de atividades e serviços turísticos.\nD) CORRETA (opção verdadeira). O art. 55, inciso XVII, alínea f, contempla segurança e controle do tráfego aéreo.\nE) INCORRETA (gabarito). O transporte por dutos está no art. 55, inciso XVII, alínea b, relativo à Comissão de Viação, Transportes, Infraestrutura e Obras Públicas.",
+          "base_legal": {
+            "dispositivo": "Art. 55",
+            "texto": "Art. 55. Os campos temáticos ou áreas de atividade das Comissões estão assim distribuídos:\nXVI - Comissão de Turismo e Esportes:\nb) exploração das atividades e dos serviços turísticos;\nf) normas gerais sobre desporto; justiça desportiva;\nXVII - Comissão de Viação, Transportes, Infraestrutura e Obras Públicas:\nb) transporte aéreo, marítimo, aquaviário, ferroviário, rodoviário, metroviário e por dutos;\ne) portos e vias navegáveis; navegação marítima e de cabotagem e a interior; direito marítimo;\nf) aviação civil, aeroportos e infraestrutura aeroportuária; segurança e controle do tráfego aéreo; direito aeronáutico;"
+          }
+        },
+        {
+          "enunciado": "No âmbito da Comissão de Direitos Humanos, Defesa do Consumidor, Defesa dos Direitos das Pessoas com Deficiência, da Mulher, da Juventude, da Pessoa Idosa e Minorias, prevista no Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Na defesa dos direitos das pessoas com deficiência, o acompanhamento abrange somente conselhos de direitos instalados no Estado.",
+            "B": "Na defesa do consumidor, são examinadas a publicidade e a distribuição de bens e serviços.",
+            "C": "Na defesa dos direitos da mulher, são incentivados programas de apoio às mulheres chefes de família monoparentais.",
+            "D": "Em Direitos Humanos, são tratados assuntos referentes às minorias étnicas e sociais, especialmente aos indígenas e suas comunidades.",
+            "E": "Na defesa da juventude e da pessoa idosa, está previsto o monitoramento de políticas públicas."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 55, inciso VI, alínea c, item 4, prevê conselhos instalados nos Estados e nos Municípios.\nB) CORRETA (opção verdadeira). O art. 55, inciso VI, alínea b, item 3, contempla publicidade e distribuição de bens e serviços.\nC) CORRETA (opção verdadeira). O art. 55, inciso VI, alínea d, item 3, prevê o incentivo a programas para mulheres chefes de família monoparentais.\nD) CORRETA (opção verdadeira). O art. 55, inciso VI, alínea a, item 9, inclui minorias étnicas e sociais, especialmente indígenas e suas comunidades.\nE) CORRETA (opção verdadeira). O art. 55, inciso VI, alínea e, item 4, prevê o monitoramento de políticas públicas nesses segmentos.",
+          "base_legal": {
+            "dispositivo": "Art. 55",
+            "texto": "Art. 55. Os campos temáticos ou áreas de atividade das Comissões estão assim distribuídos:\nVI - Comissão de Direitos Humanos, Defesa do Consumidor, Defesa dos Direitos das Pessoas com Deficiência, da Mulher, da Juventude, da Pessoa Idosa e Minorias:\na) Direitos Humanos:\n9 - assuntos referentes às minorias étnicas e sociais, especialmente aos indígenas e às suas comunidades; regime das terras tradicionalmente ocupadas pelos indígenas;\nb) Defesa do Consumidor:\n3 - composição, qualidade, apresentação, publicidade e distribuição de bens e serviços, inclusive de concessionários ou permissionários de serviços públicos, órgãos da administração indireta e sociedades de economia mista, recebendo e verificando denúncias sobre a questão, propondo medidas administrativas e legislativas em defesa do consumidor, e atuando, em caráter permanente, com a colaboração das demais Comissões da Assembleia e associações de defesa do consumidor para o efetivo desempenho de suas funções;\nc) Defesa dos Direitos das Pessoas com Deficiência:\n4 - acompanhamento da ação dos conselhos de direitos das pessoas com deficiência instalados nos Estados e nos Municípios;\nd) Defesa dos Direitos da Mulher:\n3 - incentivo e fiscalização de programas de apoio às mulheres chefes de família monoparentais;\ne) Defesa da Juventude, da Pessoa Idosa, da Família e Minorias:\n4 - monitoramento de políticas públicas;"
+          }
+        }
+      ]
     }
   ]
 }
