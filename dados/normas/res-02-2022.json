@@ -3258,6 +3258,316 @@
           }
         }
       ]
+    },
+    {
+      "numero": 12,
+      "titulo": "Fases do processo legislativo: turnos, urgência, preferência, destaque, sanção, veto e promulgação (arts. 236 a 260)",
+      "artigos": "Arts. 236 a 260",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "Regra: **turno único**, salvo PEC, lei complementar e resolução que modifique ou reforme o Regimento. Cada turno reúne **discussão** e **votação**, com exceções. **Urgência** não dispensa publicação, parecer nem quórum. **Urgência urgentíssima** admite apreciação na própria sessão, com requerimento e aprovação por **maioria absoluta**."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Interstício",
+              "**2 sessões**; dispensa por **maioria absoluta**."
+            ],
+            [
+              "Urgência",
+              "Sem parecer: até **2 sessões** conjuntas."
+            ],
+            [
+              "Emendas",
+              "Parecer em **1 sessão**; hipótese de **10 minutos**."
+            ],
+            [
+              "Prioridade",
+              "Sessão seguinte, após as urgentes."
+            ],
+            [
+              "Preferência",
+              "**Urgência** antes de prioridade."
+            ],
+            [
+              "Destaque",
+              "**1/10** para parte; novo texto em **2 sessões**."
+            ],
+            [
+              "Recurso",
+              "Prejudicialidade: **5 sessões**."
+            ],
+            [
+              "Sanção",
+              "**15 dias úteis**; silêncio é sanção."
+            ],
+            [
+              "Veto",
+              "**30 dias**; rejeição por **maioria absoluta** e voto secreto."
+            ],
+            [
+              "Promulgação",
+              "Sanção tácita: **48 horas** para o Governador."
+            ],
+            [
+              "Publicação",
+              "Lei: **DOE**; emenda/decreto/resolução: **Diário da Assembleia**."
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Três pegadinhas:** a **urgência urgentíssima** exige publicação prévia; o **veto parcial** só alcança artigo, parágrafo ou alínea integral; no **recesso**, o prazo para apreciar veto começa com o reinício das sessões."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), quanto aos turnos de apreciação das proposições, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Os projetos de lei complementar são necessariamente apreciados em turno único.",
+            "B": "O encerramento do segundo turno sem emendas exige votação para a aprovação definitiva.",
+            "C": "Cada turno compreende discussão e votação, ressalvadas as exceções previstas no Regimento.",
+            "D": "Os requerimentos mencionados no art. 183 são submetidos à discussão antes de sua votação.",
+            "E": "A dispensa da redação final, por falta de emendas ou retificações, impede a aprovação definitiva."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. Os projetos de lei complementar estão entre as exceções ao turno único (art. 236).\nB) INCORRETA. No segundo turno, sem emendas, o encerramento da discussão produz aprovação definitiva sem votação (art. 237, inciso II).\nC) CORRETA. Essa é a regra expressa para cada turno, sujeita às exceções do artigo (art. 237, caput).\nD) INCORRETA. Nesses requerimentos não há discussão (art. 237, inciso I).\nE) INCORRETA. A dispensa da redação final nessas circunstâncias considera a matéria definitivamente aprovada (art. 237, inciso III).",
+          "base_legal": {
+            "dispositivo": "Art. 236, Art. 237",
+            "texto": "Art. 236. As proposições em tramitação na Assembleia são subordinadas, na sua apreciação, a turno único, excetuadas as propostas de emenda à Constituição, os projetos de lei complementar e os projetos de resolução que visem modificar ou reformar o Regimento Interno.\nArt. 237. Cada turno é constituído de discussão e votação, exceto:\nI - no caso dos requerimentos mencionados no art. 183, em que não há discussão;\nII - no caso de encerramento da discussão em segundo turno, sem emendas, quando a matéria será dada como definitivamente aprovada, sem votação;\nIII - quando, nos termos do § 2° inciso II do art. 152, a redação final for dispensada pela falta de emendas ou retificações, considerando-se a matéria definitivamente aprovada."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno, sobre o interstício e sua dispensa, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Plenário pode aprovar a dispensa de interstício pelo voto da maioria simples dos membros da Assembleia.",
+            "B": "Interstício é o intervalo de tempo existente entre dois atos do processo legislativo.",
+            "C": "Fora da urgência, há interstício de duas sessões entre publicar os pareceres e iniciar a discussão ou votação.",
+            "D": "Na matéria aprovada sem emendas, há interstício de duas sessões antes do início do turno seguinte.",
+            "E": "Um décimo da composição da Assembleia pode requerer a dispensa de interstício ao Plenário."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O Plenário exige voto da maioria absoluta, e não simples, além de publicação prévia (art. 238, § 2°).\nB) CORRETA (opção verdadeira). A definição de interstício consta do art. 238, caput.\nC) CORRETA (opção verdadeira). O interstício de duas sessões é a regra, exceto em urgência (art. 238, § 1°, inciso I).\nD) CORRETA (opção verdadeira). O intervalo entre a aprovação sem emendas e o próximo turno é de duas sessões (art. 238, § 1°, inciso II).\nE) CORRETA (opção verdadeira). Um décimo da composição pode requerer a dispensa, sujeita à deliberação do Plenário (art. 238, § 2°).",
+          "base_legal": {
+            "dispositivo": "Art. 238",
+            "texto": "Art. 238. Interstício é o intervalo de tempo entre dois atos do processo legislativo.\n§ 1° Excetuada a matéria em regime de urgência, é de duas sessões o interstício entre:\nI - a publicação dos pareceres das Comissões no Sistema de Tramitação e o início da discussão ou votação correspondente;\nII - a aprovação da matéria, sem emendas, e o início do turno seguinte.\n§ 2° Por proposta do Presidente da Casa, ou a requerimento de um décimo da composição da Assembleia, o Plenário poderá aprovar, pelo voto da maioria absoluta dos seus membros, a dispensa de interstício para a inclusão de matéria na Ordem do Dia, desde que procedida, previamente, a respectiva publicação no Sistema de Tramitação."
+          }
+        },
+        {
+          "enunciado": "Quanto à natureza da tramitação das proposições, prevista no Regimento Interno, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A urgência constitucional pode ser solicitada pelo Presidente do Tribunal de Justiça em projetos de sua iniciativa.",
+            "B": "A autorização para Governador e Vice-Governador se ausentarem do País integra os casos de urgência regimental.",
+            "C": "Os projetos de iniciativa popular classificam-se como proposições com tramitação em prioridade.",
+            "D": "Os projetos de lei com prazo determinado estão entre aqueles sujeitos à tramitação com prioridade.",
+            "E": "A ausência do Governador e do Vice-Governador da Capital por mais de dez dias consecutivos configura urgência regimental."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O Presidente do Tribunal de Justiça figura entre os solicitantes de urgência constitucional para projetos de sua iniciativa (art. 239, inciso I, alínea a).\nB) CORRETA (opção verdadeira). A autorização de ausência do País consta das hipóteses de urgência regimental (art. 239, inciso I, alínea b, item 3).\nC) CORRETA (opção verdadeira). A iniciativa popular está abrangida pela tramitação com prioridade (art. 239, inciso II, alínea a).\nD) CORRETA (opção verdadeira). A lei com prazo determinado integra as hipóteses de prioridade (art. 239, inciso II, alínea b, item 2).\nE) INCORRETA (gabarito). A ausência da Capital deve exceder quinze dias consecutivos, não dez (art. 239, inciso I, alínea b, item 2).",
+          "base_legal": {
+            "dispositivo": "Art. 239",
+            "texto": "Art. 239. Quanto à natureza de sua tramitação as proposições podem ser:\nI - de urgência:\na) constitucional, por solicitação do Governador, Presidente da Assembleia Legislativa ou do Presidente do Tribunal de Justiça, em projetos de sua iniciativa, observando-se o disposto no art. 107 da Constituição Estadual;\nb) regimental, específica nos casos a seguir:\n2 - autorização ao Governador e ao Vice-Governador para se ausentarem da Capital do Estado quando a ausência exceder quinze dias consecutivos;\n3 - autorização ao Governador e ao Vice-Governador para se ausentarem do País;\nII - de tramitação com prioridade:\na) os projetos de iniciativa do Poder Executivo, do Poder Judiciário, do Ministério Público, do Tribunal de Contas do Estado, do Tribunal de Contas dos Municípios, da Defensoria Pública, da Mesa, de Comissão Permanente ou de iniciativa popular;\nb) os projetos:\n2 - de lei com prazo determinado;"
+          }
+        },
+        {
+          "enunciado": "No regime e no requerimento de urgência previstos no Regimento Interno, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A urgência não dispensa a publicação nem a distribuição da proposição e de suas acessórias, quando houver.",
+            "B": "O requerimento de urgência pode ser apresentado pela metade dos membros de Comissão competente para o mérito.",
+            "C": "A urgência não afasta a exigência de quórum para deliberação da proposição.",
+            "D": "O requerimento de urgência não tem discussão, mas sua votação pode ser encaminhada.",
+            "E": "Em tramitação duas matérias sob urgência por requerimento aprovado, não se votará outro."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). A publicação e a distribuição da proposição e das acessórias permanecem obrigatórias (art. 240, § 1°, inciso I).\nB) INCORRETA (gabarito). São exigidos dois terços dos membros da Comissão, e não metade (art. 241, inciso III).\nC) CORRETA (opção verdadeira). O quórum deliberativo é requisito não dispensável (art. 240, § 1°, inciso III).\nD) CORRETA (opção verdadeira). A discussão é vedada, mas há encaminhamento nos termos regimentais (art. 241, § 1°).\nE) CORRETA (opção verdadeira). A vedação à votação de outro requerimento de urgência consta do art. 241, § 2°.",
+          "base_legal": {
+            "dispositivo": "Art. 240, Art. 241",
+            "texto": "Art. 240. Urgência é a dispensa de exigências, interstícios ou formalidades regimentais, salvo as referidas no § 1° deste artigo, para que determinada proposição, nas condições previstas no inciso I do art. 239, seja de logo considerada, até sua decisão final.\n§ 1° Não se dispensam os seguintes requisitos:\nI - publicação no Sistema de Tramitação e distribuição da proposição principal e, se houver, das emendas e outras proposições acessórias;\nIII - quórum para deliberação.\nArt. 241. Os requerimentos de urgência, para apreciação de proposições, somente poderão ser submetidos à deliberação do Plenário se forem apresentados por:\nIII - dois terços dos membros de Comissão competente para opinar sobre o mérito da proposição.\n§ 1° O requerimento de urgência não tem discussão, mas a sua votação pode ser encaminhada pelo Autor e por um Deputado que lhe seja contrário, um e outro com o prazo improrrogável de cinco minutos, sendo que nos casos dos incisos I e III, o orador favorável será o membro da Mesa ou de Comissão designado pelo respectivo Presidente.\n§ 2° Estando em tramitação duas matérias em regime de urgência, em razão de requerimento aprovado pelo Plenário, não se votará outro."
+          }
+        },
+        {
+          "enunciado": "À luz do Regimento Interno, sobre a urgência urgentíssima e a retirada da urgência, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A matéria de relevante e célere interesse estadual pode ser apreciada ainda na sessão em que for apresentada.",
+            "B": "O requerimento de urgência urgentíssima pode partir da maioria absoluta da composição ou de Líderes representativos.",
+            "C": "A urgência urgentíssima aprovada impede requerimento de retirada de pauta na mesma sessão.",
+            "D": "A inclusão da matéria em urgência urgentíssima dispensa a publicação prévia no Sistema de Tramitação.",
+            "E": "A retirada do requerimento e a extinção do regime de urgência seguem as regras do art. 212."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). A apreciação imediata, inclusive na sessão de apresentação, é prevista no art. 242.\nB) CORRETA (opção verdadeira). São esses os legitimados, exigindo-se também aprovação pela maioria absoluta (art. 242).\nC) CORRETA (opção verdadeira). A restrição está expressa no art. 242, parágrafo único, inciso I.\nD) INCORRETA (gabarito). É necessária a publicação prévia no Sistema de Tramitação (art. 245).\nE) CORRETA (opção verdadeira). A remissão ao art. 212 é expressa no art. 243.",
+          "base_legal": {
+            "dispositivo": "Art. 242, Art. 243, Art. 245",
+            "texto": "Art. 242. Poderá ser incluída automaticamente na Ordem do Dia para discussão e votação imediata, proposição que verse sobre matéria de relevante e célere interesse estadual, ainda que iniciada a sessão em que for apresentada, desde que haja requerimento da maioria absoluta da composição da Assembleia, ou de Líderes que representem esse número, aprovado pela maioria absoluta dos Deputados, sem a restrição contida no § 2° do artigo antecedente.\nParágrafo único. A aprovação da urgência urgentíssima, nos termos deste artigo impede:\nI - a apresentação, na mesma sessão, de requerimento de retirada de pauta;\nArt. 243. A retirada do requerimento de urgência, bem como a extinção do regime de urgência, atenderá às regras contidas no art. 212.\nArt. 245. Para efeito do cumprimento da urgência urgentíssima de que trata o art. 242, é necessário que a matéria esteja previamente publicada no Sistema de Tramitação."
+          }
+        },
+        {
+          "enunciado": "Na apreciação de matéria urgente, conforme o Regimento Interno, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Aprovada a urgência, a matéria entra em discussão na sessão imediata, em primeiro lugar na Ordem do Dia, ressalvada a urgentíssima.",
+            "B": "Anunciada a discussão sem parecer de qualquer Comissão, o Presidente designará Relator.",
+            "C": "As Comissões dispõem de duas sessões, desde o recebimento das emendas apresentadas na discussão, para emitir parecer.",
+            "D": "A realização de diligência sobre projeto urgente não amplia os prazos de sua apreciação.",
+            "E": "Quando o Relator apresenta parecer a emendas durante a sessão, aguarda-se interstício de dez minutos após sua disponibilização."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). A regra e sua exceção estão no art. 244, caput.\nB) CORRETA (opção verdadeira). O Presidente designará Relator quando, anunciada a discussão, não houver parecer de qualquer Comissão (art. 244, § 2°).\nC) INCORRETA (gabarito). O prazo para parecer às emendas, após o seu recebimento, é de uma sessão (art. 244, § 5°).\nD) CORRETA (opção verdadeira). As diligências não produzem dilação dos prazos (art. 244, § 6°).\nE) CORRETA (opção verdadeira). O interstício de dez minutos segue a disponibilização do parecer no Sistema de Tramitação (art. 244, § 7°).",
+          "base_legal": {
+            "dispositivo": "Art. 244",
+            "texto": "Art. 244. Aprovado o requerimento de urgência, entrará a matéria em discussão na sessão imediata, ocupando o primeiro lugar na Ordem do Dia, salvo o disposto no art. 242 em que a apreciação se dará na mesma sessão.\n§ 2° Findo o prazo concedido, a proposição será incluída na Ordem do Dia para imediata discussão e votação, com ou sem parecer. Anunciada a discussão, sem parecer de qualquer Comissão, o Presidente designará Relator que poderá fazê-lo verbalmente no decorrer da sessão, desde que reduzida a termo e juntada até a sessão seguinte.\n§ 5° Encerrada a discussão com emendas apresentadas, serão elas imediatamente distribuídas às Comissões respectivas e mandadas a publicar. As Comissões têm prazo de uma sessão, a contar do recebimento das emendas, para emitir parecer.\n§ 6° A realização de diligência nos projetos em regime de urgência não implica dilação dos prazos para sua apreciação.\n§ 7° Quando o parecer às emendas de plenário for oferecido no decorrer da sessão, por Relator designado, o Presidente aguardará o interstício de dez minutos, após a disponibilização do parecer no Sistema de Tramitação, para iniciar o processo de votação."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno, sobre os requisitos e a proposição de tramitação prioritária, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O Autor, desde que apoiado por um quarto dos Deputados, pode propor prioridade ao Plenário.",
+            "B": "A prioridade assegura inclusão na Ordem do Dia da própria sessão em que tenha sido solicitada.",
+            "C": "A prioridade admite proposição ainda não numerada, se publicada no Sistema de Tramitação.",
+            "D": "Os pareceres podem ser publicados apenas no início da sessão em que será apreciada a prioridade.",
+            "E": "Qualquer Comissão pode propor prioridade, mesmo sem haver apreciado a proposição."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O Autor apoiado por um quarto dos Deputados é legitimado a propor prioridade (art. 246, § 2°, inciso III).\nB) INCORRETA. A inclusão ocorre na Ordem do Dia da sessão seguinte (art. 246, caput).\nC) INCORRETA. A proposição deve estar numerada (art. 246, § 1°, inciso I).\nD) INCORRETA. A publicação com pareceres exige antecedência mínima de uma sessão (art. 246, § 1°, inciso II).\nE) INCORRETA. A Comissão deve haver apreciado a proposição (art. 246, § 2°, inciso II).",
+          "base_legal": {
+            "dispositivo": "Art. 246",
+            "texto": "Art. 246. Prioridade é a dispensa de exigências regimentais para que determinada proposição seja incluída na Ordem do Dia da sessão seguinte, logo após as proposições em regime de urgência.\n§ 1° Somente poderá ser admitida a prioridade para a proposição:\nI - numerada;\nII - publicada no Sistema de Tramitação com pareceres sobre a proposição principal e as acessórias, se houver, pelo menos uma sessão antes.\n§ 2° Além dos projetos mencionados no art. 239, II, com tramitação em prioridade, poderá esta ser proposta ao Plenário:\nII - por Comissão que houver apreciado a proposição;\nIII - pelo Autor da proposição, apoiado por um quarto dos Deputados."
+          }
+        },
+        {
+          "enunciado": "No que se refere à preferência para discussão ou votação, segundo o Regimento Interno, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os projetos em regime de urgência têm preferência sobre os projetos em prioridade.",
+            "B": "Entre os projetos em prioridade, têm preferência os de iniciativa da Mesa ou de Comissões Permanentes.",
+            "C": "Quando requerimentos têm fins idênticos, são votados conjuntamente, e a adoção de um prejudica os demais.",
+            "D": "Qualquer Deputado pode requerer preferência para proposição do mesmo grupo antes de iniciada a Ordem do Dia.",
+            "E": "A decisão sobre preferência requerida por Deputado, entre proposições do mesmo grupo, compete ao Plenário."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). A ordem entre urgência e prioridade consta do art. 247, § 1°.\nB) CORRETA (opção verdadeira). Essa precedência está prevista no art. 247, § 2°.\nC) CORRETA (opção verdadeira). Os requerimentos idênticos em seus fins são votados conjuntamente, prejudicando-se os demais pela adoção de um (art. 247, § 3°, inciso IV).\nD) CORRETA (opção verdadeira). A legitimidade e o momento do requerimento estão no art. 248.\nE) INCORRETA (gabarito). Cabe ao Presidente, e não ao Plenário, decidir o requerimento (art. 248).",
+          "base_legal": {
+            "dispositivo": "Art. 247, Art. 248",
+            "texto": "Art. 247. Denomina-se preferência a primazia na discussão, ou na votação, de uma proposição sobre outra, ou outras.\n§ 1° Os projetos em regime de urgência gozam de preferência sobre os em prioridade, que, por sua vez, têm preferência sobre os de tramitação ordinária e, entre estes, os projetos para os quais tenha sido concedida preferência, seguidos dos que tenham pareceres favoráveis de todas as Comissões a que foram distribuídos.\n§ 2° Entre os projetos em prioridade, as proposições de iniciativa da Mesa ou de Comissões Permanentes têm preferência sobre as demais.\n§ 3° Entre os requerimentos haverá a seguinte precedência:\nIII - quando ocorrer a apresentação de mais de um requerimento, o Presidente regulará a preferência pela ordem de apresentação ou, se simultâneos, pela maior importância das matérias a que se reportarem;\nIV - quando os requerimentos apresentados, na forma do inciso anterior, forem idênticos em seus fins, serão postos em votação conjuntamente, e a adoção de um prejudicará os demais, o mais amplo tendo preferência sobre o mais restrito.\nArt. 248. Será permitido a qualquer Deputado, antes de iniciada a Ordem do Dia, requerer preferência para votação ou discussão de uma proposição sobre as do mesmo grupo, cabendo a decisão ao Presidente."
+          }
+        },
+        {
+          "enunciado": "Sobre o destaque de proposições e emendas, conforme o Regimento Interno, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O destaque para votação em separado de parte de proposição exige requerimento de um décimo dos Deputados.",
+            "B": "Concedido destaque para projeto em separado, o Autor tem três sessões para oferecer o novo texto.",
+            "C": "No destaque para votação em separado, a matéria principal é votada antes da destacada.",
+            "D": "Não se permite destacar expressão cuja retirada modifique substancialmente a proposição.",
+            "E": "O projeto resultante de destaque passa a tramitar como proposição inicial."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). Exige-se requerimento de um décimo dos Deputados e aprovação pelo Plenário (art. 249, inciso I).\nB) INCORRETA (gabarito). O prazo do Autor para apresentar o texto é de duas sessões (art. 250, inciso IX).\nC) CORRETA (opção verdadeira). A matéria principal precede a destacada, que só se integra se aprovada (art. 250, inciso VI).\nD) CORRETA (opção verdadeira). A vedação está no art. 250, inciso IV.\nE) CORRETA (opção verdadeira). A tramitação será a de proposição inicial (art. 250, inciso X).",
+          "base_legal": {
+            "dispositivo": "Art. 249, Art. 250",
+            "texto": "Art. 249. Poderá ser concedido, mediante requerimento aprovado pelo Plenário, destaque para:\nI - votação em separado de parte de proposição, desde que requerido por um décimo dos Deputados;\nArt. 250. Em relação aos destaques, serão obedecidas as seguintes normas:\nIV - não será permitido destaque de expressão cuja retirada inverta o sentido da proposição ou a modifique substancialmente;\nVI - concedido o destaque para votação em separado, submeter-se-á a votos, primeiramente, a matéria principal e, em seguida, a destacada, que somente integrará o texto se for aprovada;\nIX - concedido o destaque para projeto em separado, o Autor do requerimento terá o prazo de duas sessões para oferecer o texto com que deverá tramitar o novo projeto;\nX - o projeto resultante de destaque terá a tramitação de proposição inicial;"
+          }
+        },
+        {
+          "enunciado": "Acerca da prejudicialidade no Regimento Interno, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Projeto idêntico a outro rejeitado no mesmo ano legislativo tem sua discussão ou votação prejudicada.",
+            "B": "O Presidente pode declarar prejudicada matéria pendente de deliberação por perda de oportunidade.",
+            "C": "O despacho de declaração de prejudicialidade deve ser publicado no Sistema de Tramitação.",
+            "D": "O Autor dispõe de três sessões, após a publicação do despacho, para recorrer ao Plenário.",
+            "E": "A proposição declarada prejudicada será definitivamente arquivada pelo Presidente da Assembleia."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). A prejudicialidade alcança projeto idêntico a outro rejeitado no mesmo ano legislativo (art. 251, inciso I).\nB) CORRETA (opção verdadeira). A perda de oportunidade é fundamento expresso (art. 252, inciso I).\nC) CORRETA (opção verdadeira). A publicação do despacho é obrigatória (art. 252, § 1°).\nD) INCORRETA (gabarito). O prazo é de cinco sessões, e há hipótese de recurso imediato (art. 252, § 2°).\nE) CORRETA (opção verdadeira). O arquivamento definitivo cabe ao Presidente da Assembleia (art. 252, § 4°).",
+          "base_legal": {
+            "dispositivo": "Art. 251, Art. 252",
+            "texto": "Art. 251. Consideram-se prejudicados:\nI - a discussão ou a votação de qualquer projeto idêntico a outro que já tenha sido aprovado, ou rejeitado, no mesmo ano legislativo, ou transformado em diploma legal;\nArt. 252. O Presidente da Assembleia, de ofício ou mediante provocação de qualquer Deputado, poderá declarar prejudicada matéria pendente de deliberação:\nI - por haver perdido a oportunidade;\n§ 1° Em qualquer caso, a declaração de prejudicialidade será feita perante a Assembleia ou Comissão, sendo o despacho publicado no Sistema de Tramitação.\n§ 2° Da declaração de prejudicialidade poderá o Autor da proposição, no prazo de cinco sessões a partir da publicação do despacho, ou imediatamente, na hipótese do parágrafo subsequente, interpor recurso ao Plenário da Assembleia Legislativa, que deliberará, ouvida a Comissão de Constituição e Justiça e de Redação Final.\n§ 4° A proposição dada como prejudicada será definitivamente arquivada pelo Presidente da Assembleia."
+          }
+        },
+        {
+          "enunciado": "Quanto à deliberação parlamentar estabelecida no Regimento Interno, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O art. 253 remete, para aplicação no que couber, aos atos processuais dos arts. 216 a 251.",
+            "B": "Na apreciação de veto, o art. 253 remete aos §§ 2° e 4° do art. 257.",
+            "C": "Discussão e votação são etapas sequenciais, observado o enquadramento de turnos dos arts. 236 e 237.",
+            "D": "Na deliberação parlamentar, as etapas são observadas sequencialmente, com votação antes da discussão.",
+            "E": "A redação final é tratada pelos arts. 152 a 155, excluindo-se o art. 151."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 253, inciso III, remete ao art. 164 e aos arts. 216 a 252, para aplicação no que couber.\nB) INCORRETA. A remissão é aos §§ 1° e 3° do art. 257 (art. 253, inciso II).\nC) CORRETA. O art. 253, inciso I, alínea a, determina essa sequência e remete aos turnos dos arts. 236 e 237.\nD) INCORRETA. A sequência regimental é discussão seguida de votação (art. 253, inciso I).\nE) INCORRETA. A redação final está abrangida pela remissão aos arts. 151 a 155 (art. 253, inciso I, alínea b).",
+          "base_legal": {
+            "dispositivo": "Art. 253",
+            "texto": "Art. 253. Na apreciação de cada matéria observar-se-á, dentro da deliberação parlamentar:\nI - sequencialmente as etapas de discussão e votação, conforme disposições dos arts. 123 a 155, observando-se:\na) o enquadramento estabelecido nos arts. 236 e 237 sobre as matérias serem votadas em turno único, segundo turno ou primeiro turno;\nb) a redação de encerramento do primeiro turno e a redação final, dispostas nos arts. 151 a 155;\nII - os §§ 1° e 3° do art. 257, tratando-se de apreciação de veto;\nIII - aplicação, no que couber, dos atos processuais de tramitação estabelecidos no art. 164 e nos arts. 216 a 252."
+          }
+        },
+        {
+          "enunciado": "Em caso concreto, a Assembleia encaminhou ao Governador projeto de lei ordinária aprovado. Transcorreram quinze dias úteis desde o recebimento, sem sanção expressa nem veto. Segundo o Regimento Interno, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O silêncio importa sanção, porque o prazo de manifestação se conta do recebimento do projeto.",
+            "B": "O silêncio equivale a veto, porque a fase executiva exige rejeição expressa ou presumida.",
+            "C": "O prazo foi contado incorretamente, pois deveria começar na aprovação do projeto pela Assembleia.",
+            "D": "O prazo aplicável era de quinze dias corridos, contados do recebimento do projeto.",
+            "E": "A regra de sanção pelo silêncio aplica-se apenas aos projetos de lei complementar."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. Após quinze dias úteis do recebimento sem manifestação, o silêncio importa sanção (art. 255).\nB) INCORRETA. O silêncio produz sanção, e não veto (art. 255).\nC) INCORRETA. O prazo começa com o recebimento do projeto, não com sua aprovação (art. 255).\nD) INCORRETA. O prazo é contado em dias úteis, não corridos (art. 255).\nE) INCORRETA. A deliberação executiva abrange projetos de lei complementar e ordinária, e o art. 255 não restringe a sanção tácita aos complementares (arts. 254 e 255).",
+          "base_legal": {
+            "dispositivo": "Art. 254, Art. 255",
+            "texto": "Art. 254. A fase de deliberação executiva é a aquiescência ou rejeição do Governador aos termos do projeto de lei complementar ou projeto de lei ordinária aprovado pela Assembleia Legislativa, por meio da sanção ou do veto conforme estipulado na alínea “c” do inciso II do art. 202, representando o ato final da fase constitutiva do processo legislativo, por força do que determina o art. 108 da Constituição Estadual.\nArt. 255. O Governador tem o prazo de quinze dia úteis, contados da data do recebimento do projeto de lei aprovado pela Assembleia para sancioná-lo ou vetá-lo, conforme exige o art. 108, §§ 1° e 3° da Constituição Estadual. Decorrido esse prazo sem manifestação, o silêncio importará em sanção."
+          }
+        },
+        {
+          "enunciado": "Sobre a comunicação e a apreciação do veto no Regimento Interno, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O veto motivado deve ser comunicado pelo Governador ao Presidente da Assembleia em quarenta e oito horas.",
+            "B": "O veto parcial somente pode abranger o texto integral de artigo, parágrafo ou alínea.",
+            "C": "A rejeição do veto depende do voto da maioria absoluta dos Deputados, em escrutínio secreto.",
+            "D": "Após trinta dias sem deliberação, o veto entra na Ordem do Dia da sessão imediata, com sobrestamento das demais proposições.",
+            "E": "Durante o recesso, o prazo para a apreciação do veto começa a correr da data de sua publicação."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). A comunicação motivada deve ocorrer em quarenta e oito horas (art. 256).\nB) CORRETA (opção verdadeira). O veto parcial não alcança palavras ou períodos isolados (art. 257, caput).\nC) CORRETA (opção verdadeira). A rejeição exige maioria absoluta em escrutínio secreto (art. 257, § 1°).\nD) CORRETA (opção verdadeira). Esgotado o prazo, o veto entra na sessão imediata e sobresta as demais proposições (art. 257, § 3°).\nE) INCORRETA (gabarito). No recesso, o prazo começa no dia do reinício das sessões (art. 257, § 5°).",
+          "base_legal": {
+            "dispositivo": "Art. 256, Art. 257",
+            "texto": "Art. 256. O veto aposto ao projeto, com suas motivações, será informado pelo Governador no prazo de quarenta e oito horas ao Presidente da Assembleia Legislativa.\nArt. 257. Não são passíveis de veto as palavras ou períodos de algum dispositivo, mas o veto parcial somente abrangerá texto integral de artigo, de parágrafo ou de alínea.\n§ 1° O veto será apreciado dentro de trinta dias, a contar de seu recebimento, só podendo ser rejeitado pelo voto da maioria absoluta dos Deputados, em escrutínio secreto.\n§ 3° Esgotado sem deliberação o prazo estabelecido no § 1°, o veto será colocado na Ordem do Dia da sessão imediata, sobrestadas as demais proposições, até sua votação final.\n§ 5° Se a Assembleia estiver em recesso, o veto será publicado e o prazo referido no § 1° deste artigo começará a correr do dia do reinício das sessões."
+          }
+        },
+        {
+          "enunciado": "No tocante à fase complementar e à promulgação, de acordo com o Regimento Interno, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A promulgação de emendas à Constituição Estadual compete ao Governador.",
+            "B": "Na sanção expressa, a promulgação é subtendida no mesmo instrumento sancionador.",
+            "C": "Em caso de sanção tácita, o Governador dispõe de setenta e duas horas para promulgar a lei.",
+            "D": "Quando o veto é rejeitado, o projeto de lei é enviado diretamente à Mesa da Assembleia para promulgação.",
+            "E": "A publicação cria a existência jurídica da espécie normativa, enquanto a promulgação divulga seu conteúdo."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. A promulgação de emendas à Constituição Estadual compete à Mesa da Assembleia Legislativa (art. 259, § 5°, inciso I).\nB) CORRETA. A sanção expressa subtende a promulgação no mesmo instrumento (art. 259, § 1°).\nC) INCORRETA. O prazo é de quarenta e oito horas (art. 259, § 2°).\nD) INCORRETA. Rejeitado o veto, o projeto é enviado ao Governador (art. 259, § 3°).\nE) INCORRETA. A promulgação dá existência jurídica, enquanto a publicação divulga e torna obrigatório o conteúdo (art. 258).",
+          "base_legal": {
+            "dispositivo": "Art. 258, Art. 259",
+            "texto": "Art. 258. Consoante o inciso III do art. 202, a fase complementar traz, pela promulgação, a espécie normativa à existência na ordem jurídica, depois da conclusão do respectivo processo legislativo; e, mediante a publicação, torna o seu conteúdo de conhecimento público e obrigatório a todos.\nArt. 259. A promulgação, feita por quem tem legitimidade constitucional, é o ato solene que incide sobre o projeto de lei, transformando-o em lei que passa a existir com o caráter de executoriedade.\n§ 1° Havendo a sanção expressa de que trata o art. 108, caput da Constituição Estadual, não haverá um ato distinto promulgador, sendo a promulgação feita, de forma subtendida, pelo mesmo instrumento sancionador.\n§ 2° O Governador terá o prazo de quarenta e oito horas para promulgar a lei, se houver a sanção tácita por ele não ter sancionado expressamente nem vetado o respectivo projeto, dentro do período de quinze dias úteis, mencionado no art. 108, § 3° da Constituição Estadual.\n§ 3° Havendo rejeição de veto, conforme determinam os §§ 4° e 5° do art. 108 da Constituição Estadual, o projeto de lei será enviado ao Governador para promulgação.\n§ 5° Compete à Mesa da Assembleia Legislativa promulgar:\nI - a emenda à Constituição Estadual, com o respectivo número de ordem, conforme determina o art. 103, § 3° da Constituição Estadual;"
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, sobre a promulgação não realizada e a publicação das espécies normativas, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "As leis são publicadas no Diário Oficial da Assembleia Legislativa por ordem da Mesa Diretora.",
+            "B": "As emendas à Constituição são publicadas no Diário Oficial do Estado por determinação da Mesa Diretora.",
+            "C": "Na publicação, a espécie normativa deve adotar a data do próprio ato de publicação.",
+            "D": "A publicação deve ser imediata, com leis no Diário Oficial do Estado e resoluções no Diário Oficial da Assembleia.",
+            "E": "Se o Governador não promulgar a lei no prazo regimental, compete diretamente à Mesa fazer a promulgação."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. As leis são publicadas no Diário Oficial do Estado por determinação do Governador (art. 260, inciso I).\nB) INCORRETA. As emendas à Constituição são publicadas no Diário Oficial da Assembleia Legislativa por ordem da Mesa Diretora (art. 260, inciso II).\nC) INCORRETA. A espécie normativa toma a data de sua promulgação, não da publicação (art. 258, parágrafo único).\nD) CORRETA. A publicação imediata e os órgãos de publicidade indicados estão no art. 260, caput e incisos I e II.\nE) INCORRETA. Na omissão do Governador, promulga o Presidente da Assembleia e, se também omisso, os Vice-Presidentes em sequência (art. 259, § 4°).",
+          "base_legal": {
+            "dispositivo": "Art. 258, Art. 259, Art. 260",
+            "texto": "Art. 258. Consoante o inciso III do art. 202, a fase complementar traz, pela promulgação, a espécie normativa à existência na ordem jurídica, depois da conclusão do respectivo processo legislativo; e, mediante a publicação, torna o seu conteúdo de conhecimento público e obrigatório a todos.\nParágrafo único. Na publicação, a espécie normativa tomará a data da sua promulgação.\nArt. 259. A promulgação, feita por quem tem legitimidade constitucional, é o ato solene que incide sobre o projeto de lei, transformando-o em lei que passa a existir com o caráter de executoriedade.\n§ 2° O Governador terá o prazo de quarenta e oito horas para promulgar a lei, se houver a sanção tácita por ele não ter sancionado expressamente nem vetado o respectivo projeto, dentro do período de quinze dias úteis, mencionado no art. 108, § 3° da Constituição Estadual.\n§ 3° Havendo rejeição de veto, conforme determinam os §§ 4° e 5° do art. 108 da Constituição Estadual, o projeto de lei será enviado ao Governador para promulgação.\n§ 4° Se a lei não for promulgada dentro de quarenta e oito horas, nos casos dos §§ 2° e 3°, o Presidente da Assembleia a promulgará e, se este não o fizer em igual prazo, deverão fazê-lo os Vice-Presidentes, sucessivamente, na ordem de numeração.\nArt. 260. A publicação tornando de conhecimento geral a existência do novo ato normativo e a sua obrigatoriedade será feita imediatamente, respeitada a respectiva ordem de promulgação:\nI - no Diário Oficial do Estado por determinação do Governador, no caso de lei, conforme prevê o art. 109 da Constituição Estadual;\nII - no Diário Oficial da Assembleia Legislativa, por ordem da Mesa Diretora, nos casos de emenda à Constituição, decreto legislativo e resolução em observância ao disposto no art. 103, § 3° e art. 114, Parágrafo único ambos da Constituição Estadual."
+          }
+        }
+      ]
     }
   ]
 }
