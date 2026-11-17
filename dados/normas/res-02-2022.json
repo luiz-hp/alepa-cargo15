@@ -2944,6 +2944,320 @@
           }
         }
       ]
+    },
+    {
+      "numero": 11,
+      "titulo": "Fases do processo legislativo: apresentação, recebimento, tramitação e quórum (arts. 202 a 235)",
+      "artigos": "Arts. 202 a 235",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "O processo possui três fases: **introdutória** (apresentação e autorização), **constitutiva** (tramitação e deliberações) e **complementar** (promulgação e publicação). A proposição deve atender ao **art. 204**; sua disponibilização no **Sistema de Tramitação** equivale à distribuição."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Recurso",
+              "**5 sessões** contra devolução pelo Presidente"
+            ],
+            [
+              "Retirada",
+              "**Metade mais um** dos subscritores"
+            ],
+            [
+              "Distribuição",
+              "**2 sessões**; urgência: envio imediato"
+            ],
+            [
+              "Mérito",
+              "Até **3 Comissões** de Mérito"
+            ],
+            [
+              "Abertura",
+              "**1/10** dos Deputados; despreza-se fração"
+            ],
+            [
+              "Pauta",
+              "**Maioria absoluta** para apreciar"
+            ],
+            [
+              "Lei comum",
+              "**Maioria simples**; maioria absoluta presente"
+            ],
+            [
+              "Lei compl.",
+              "**Maioria absoluta**"
+            ],
+            [
+              "PEC",
+              "**3/5**, em **2 turnos**"
+            ],
+            [
+              "Crime",
+              "**2/3** para autorizar instauração"
+            ],
+            [
+              "Desarquivar",
+              "**180 dias** no primeiro ano subsequente"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "Ao fim da legislatura, há **arquivamento**, ressalvadas as hipóteses do art. 213. Certas exceções são arquivadas após **4 anos**, exceto proposições já aprovadas em turno. A **apreciação preliminar** restringe-se à constitucionalidade, juridicidade ou adequação financeira e orçamentária."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Pegadinhas:** **5 sessões** não são cinco dias; o limite de **3** refere-se às **Comissões de Mérito**; parecer contrário à **emenda** não impede a tramitação da proposição principal."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa correta sobre as fases do processo legislativo.",
+          "alternativas": {
+            "A": "A autorização do início da tramitação da proposição integra a fase complementar.",
+            "B": "A divulgação da espécie normativa em Diário Oficial integra a fase constitutiva.",
+            "C": "A promulgação é o ato expresso que torna a espécie normativa existente no ordenamento jurídico paraense.",
+            "D": "A discussão e a votação nas Comissões Temáticas integram a fase introdutória.",
+            "E": "A apresentação da espécie adequada de proposição integra a fase constitutiva."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. A autorização da tramitação integra a fase introdutória, conforme o art. 202, I, b.\nB) INCORRETA. A publicação em Diário Oficial integra a fase complementar, conforme o art. 202, III, b.\nC) CORRETA. Essa é a definição da promulgação, conforme o art. 202, III, a.\nD) INCORRETA. A deliberação parlamentar ocorre na fase constitutiva, conforme o art. 202, II, b.\nE) INCORRETA. A apresentação da proposição integra a fase introdutória, conforme o art. 202, I, a.",
+          "base_legal": {
+            "dispositivo": "Art. 202, incisos I, II e III",
+            "texto": "Art. 202. Para efeito didático deste Regimento e fundamentado nos arts. 102 a 114 da Constituição Estadual, o processo legislativo, quanto à instância decisória e o momento de ocorrência dos respectivos atos, engloba três fases distintas:\nI - introdutória ou de iniciativa, que representa o início do processo legislativo, compreendido:\na) pela apresentação da espécie adequada de proposição, feita por pessoas ou órgãos que possuem a competência constitucional para fazê-la;\nb) e a respectiva autorização de tramitação feita diretamente pelo presidente da Assembleia ou mediante delegação, depois de observado o cumprimento do art. 204;\nII - constitutiva, que na Assembleia envolve toda a tramitação da proposição, após a autorização do início do seu curso objeto da alínea “b” do inciso I deste artigo, compreendendo-se nessa fase:\nb) a deliberação parlamentar, constituída pela discussão e votação das matérias no âmbito das Comissões Temáticas conforme estipulado nos arts. 66 a 73, e do Plenário, segundo disciplinado nos arts. 123 a 155;\nIII - complementar, que atesta o surgimento da espécie normativa e a notifica para a população, sendo dividida em:\na) promulgação, que é o ato expresso que torna a espécie normativa existente no ordenamento jurídico paraense, na data de sua ocorrência;\nb) publicação, que é a divulgação da espécie normativa em Diário Oficial para conhecimento público."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca dos requisitos para o início do curso de uma proposição, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A manifesta inconstitucionalidade da proposição não impede o início de seu curso, desde que sua redação seja clara.",
+            "B": "A proposição deve ser redigida com clareza, em termos explícitos e concisos.",
+            "C": "A proposição que fizer referência a uma lei deve vir acompanhada do respectivo texto.",
+            "D": "A matéria proposta deve relacionar-se com o enunciado objetivamente expresso na ementa ou dele decorrer.",
+            "E": "A proposição deve ser dividida em artigos numerados, precedidos de ementa."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 204, III, veda manifesta inconstitucionalidade já como requisito para iniciar o curso.\nB) CORRETA (opção verdadeira). É requisito textual do art. 204, I.\nC) CORRETA (opção verdadeira). O respectivo texto é obrigatório na hipótese do art. 204, IV.\nD) CORRETA (opção verdadeira). A relação com a ementa é exigida pelo art. 204, V.\nE) CORRETA (opção verdadeira). A divisão em artigos e a ementa constam do art. 204, VI.",
+          "base_legal": {
+            "dispositivo": "Art. 204, incisos I, III, IV, V e VI",
+            "texto": "Art. 204. Toda proposição para iniciar o seu curso deverá:\nI - ser redigida com clareza, em termos explícitos e concisos;\nIII - não apresentar manifesta inconstitucionalidade em seu conteúdo;\nIV - ser acompanhada do respectivo texto quando contiver referência a uma lei ou tiver sido precedida de estudo, parecer, decisão ou despacho;\nV - ater-se à matéria que não seja estranha ao enunciado objetivamente expresso na ementa, ou dele decorrente;\nVI - ser dividida em artigos numerados e estes, se necessário tecnicamente, subdivididos em incisos, parágrafos, alíneas e números, redigidos de forma concisa e clara, precedidos, sempre, da respectiva ementa, observando-se em tudo a legislação sobre a elaboração, a redação, a alteração e a consolidação das leis."
+          }
+        },
+        {
+          "enunciado": "À luz do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), a respeito do Sistema de Tramitação e da autoria das proposições, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Sistema de Tramitação é a plataforma digital de realização e consulta dos atos do processo legislativo.",
+            "B": "Quando expressamente permitido, o Líder pode subscrever iniciativa coletiva representando o número de Deputados de sua legenda na data da apresentação.",
+            "C": "Uma proposição de iniciativa de Deputado pode ser apresentada individual ou coletivamente.",
+            "D": "As prerrogativas regimentais do Autor são exercidas em Plenário por um signatário, observada a ordem das subscrições.",
+            "E": "As assinaturas necessárias ao trâmite podem ser acrescentadas após a disponibilização no sistema, mediante autorização do primeiro signatário."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). A plataforma digital e suas funções estão previstas no art. 205.\nB) CORRETA (opção verdadeira). A representação por Líder depende de permissão expressa e do quantitativo na data da apresentação, conforme o art. 206, § 3°.\nC) CORRETA (opção verdadeira). O art. 206 admite ambas as formas de apresentação.\nD) CORRETA (opção verdadeira). O art. 206, § 2°, limita o exercício a um signatário e define a precedência.\nE) INCORRETA (gabarito). O art. 206, § 4°, veda acréscimo ou retirada de assinaturas necessárias ao trâmite após a disponibilização.",
+          "base_legal": {
+            "dispositivo": "Arts. 205 e 206, §§ 2°, 3° e 4°",
+            "texto": "Art. 205. O Sistema de Tramitação é a plataforma digital onde serão realizados e consultados todos os atos do Processo Legislativo, nos termos do art. 20, dentre eles a apresentação e a subscrição de proposições.\nArt. 206. A proposição de iniciativa de Deputado poderá ser apresentada individual ou coletivamente.\n§ 2° As atribuições ou prerrogativas regimentais conferidas ao Autor serão exercidas em Plenário por um só dos signatários da proposição, regulando-se a precedência segundo a ordem em que a subscreveram.\n§ 3° O quórum para a iniciativa coletiva das proposições pode ser obtido mediante as assinaturas dos Deputados, apostas por meio eletrônico ou, quando expressamente permitido, de Líder ou Líderes, representando estes últimos exclusivamente o número de Deputados de sua legenda partidária ou parlamentar na data da apresentação da proposição.\n§ 4° Nos casos em que as assinaturas de uma proposição sejam necessárias ao seu trâmite, não poderão ser retiradas ou acrescentadas após a respectiva disponibilização no Sistema de Tramitação, ou ainda em se tratando de requerimento, depois da apresentação à Mesa."
+          }
+        },
+        {
+          "enunciado": "Caso prático: a Presidência da Assembleia devolveu ao Autor uma proposição por descumprimento do art. 204. Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual providência recursal é admitida?",
+          "alternativas": {
+            "A": "Interpor recurso ao Plenário em dez sessões da publicação do despacho, ouvida a Comissão de Constituição e Justiça e de Redação Final.",
+            "B": "Interpor recurso ao Plenário em cinco sessões da publicação do despacho, ouvida previamente a Comissão de Constituição e Justiça e de Redação Final.",
+            "C": "Interpor recurso ao Plenário em cinco dias úteis da publicação do despacho, ouvida a Comissão de Constituição e Justiça e de Redação Final.",
+            "D": "Interpor recurso ao Plenário em cinco sessões da publicação do despacho, ouvida a Comissão de Fiscalização Financeira e Orçamentária.",
+            "E": "Interpor recurso à Mesa em cinco sessões da publicação do despacho, ouvida a Comissão de Constituição e Justiça e de Redação Final."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O prazo é de cinco sessões, e não dez, conforme o art. 208, § 4°.\nB) CORRETA. O recurso é dirigido ao Plenário nesse prazo e exige a oitiva prévia da Comissão indicada, conforme o art. 208, § 4°.\nC) INCORRETA. O prazo é contado em sessões, não em dias úteis, conforme o art. 208, § 4°.\nD) INCORRETA. A Comissão ouvida é a de Constituição e Justiça e de Redação Final, conforme o art. 208, § 4°.\nE) INCORRETA. O recurso cabe ao Plenário, e não à Mesa, conforme o art. 208, § 4°.",
+          "base_legal": {
+            "dispositivo": "Art. 208, §§ 3° e 4°",
+            "texto": "Art. 208. Toda proposição recebida pela Mesa, depois de observar o que dispõe o art. 204, será numerada, datada, publicada no Sistema de Tramitação e despachada às Comissões competentes para conhecimento público e distribuição aos Deputados, às Lideranças e Comissões.\n§ 3° A Presidência da Assembleia devolverá ao Autor qualquer proposição que não observar o disposto no art. 204.\n§ 4° Na hipótese do parágrafo anterior, poderá o Autor da proposição recorrer ao Plenário, no prazo de cinco sessões da publicação do despacho, ouvida a Comissão de Constituição e Justiça e de Redação Final antes da apreciação do recurso. Caso seja provido o recurso, a proposição voltará à Presidência para o devido trâmite."
+          }
+        },
+        {
+          "enunciado": "Quanto à numeração de proposições e emendas no Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "As propostas de emenda à Constituição terão numeração anual em série específica.",
+            "B": "As emendas serão numeradas em cada turno pela ordem de entrada e organizadas pela ordem dos artigos do projeto.",
+            "C": "As subemendas de Comissão figurarão ao fim da série de suas emendas, sob o título \"Subemendas\".",
+            "D": "As emendas serão ordenadas por natureza como supressivas, substitutivas, aglutinativas, modificativas e aditivas.",
+            "E": "A emenda que substituir integralmente o projeto terá a indicação \"Substitutivo\" após o número, entre parênteses."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). As propostas de emenda à Constituição estão no art. 209, I, a.\nB) CORRETA (opção verdadeira). A numeração e a organização estão no art. 209, II.\nC) CORRETA (opção verdadeira). A posição e o título constam do art. 209, III.\nD) INCORRETA (gabarito). A ordem regimental é supressivas, aglutinativas, substitutivas, modificativas e aditivas, conforme o art. 209, II.\nE) CORRETA (opção verdadeira). A indicação entre parênteses está prevista no art. 209, § 3°.",
+          "base_legal": {
+            "dispositivo": "Art. 209, incisos I, II e III e § 3°",
+            "texto": "Art. 209. As proposições serão numeradas de acordo com as seguintes normas:\nI - terão numeração anual em séries específicas:\na) as propostas de emenda à Constituição;\nII - as emendas serão numeradas, em cada turno, pela ordem de entrada e organizadas pela ordem dos artigos do projeto, guardada a sequência determinada pela sua natureza, a saber: supressivas, aglutinativas, substitutivas, modificativas e aditivas;\nIII - as subemendas de Comissão figurarão ao fim da série das emendas de sua iniciativa, subordinadas ao título \"Subemendas\", com a indicação das emendas a que correspondam; quando à mesma emenda forem apresentadas várias subemendas, terão estas numeração ordinal em relação à emenda respectiva.\n§ 3° A emenda que substituir integralmente o projeto terá, em seguida ao número, entre parênteses, a indicação \"Substitutivo\"."
+          }
+        },
+        {
+          "enunciado": "Em relação à retirada de proposições, nos termos do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A retirada pode ser requerida pelo Autor ao Presidente em qualquer fase, cabendo recurso ao Plenário.",
+            "B": "Existindo ao menos um parecer favorável, a deliberação sobre retirada compete somente ao Plenário.",
+            "C": "Na iniciativa coletiva, a retirada depende de requerimento de pelo menos um terço dos subscritores.",
+            "D": "Uma proposição da Mesa só pode ser retirada a requerimento de seu Presidente, com autorização prévia do colegiado.",
+            "E": "A proposição retirada não poderá ser reapresentada no mesmo ano legislativo, salvo deliberação do Plenário."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). A competência inicial e o recurso estão no art. 212, caput.\nB) CORRETA (opção verdadeira). O art. 212, § 1°, reserva a deliberação ao Plenário nesse caso.\nC) INCORRETA (gabarito). O art. 212, § 2°, exige pelo menos metade mais um dos subscritores.\nD) CORRETA (opção verdadeira). O art. 212, § 3°, exige requerimento do Presidente com prévia autorização do colegiado.\nE) CORRETA (opção verdadeira). A vedação e a ressalva constam do art. 212, § 4°.",
+          "base_legal": {
+            "dispositivo": "Art. 212, §§ 1° a 4°",
+            "texto": "Art. 212. A retirada de proposição, em qualquer fase do seu andamento, será requerida pelo Autor ao Presidente da Assembleia Legislativa, que, tendo obtido as informações necessárias, deferirá ou não o pedido, com recurso para o Plenário.\n§ 1° Se a proposição já tiver ao menos um parecer favorável, somente ao Plenário cumpre deliberar.\n§ 2° No caso de iniciativa coletiva, a retirada será feita a requerimento de, pelo menos, metade mais um dos subscritores da proposição.\n§ 3° A proposição de Comissão ou da Mesa só poderá ser retirada a requerimento de seu Presidente, com prévia autorização do colegiado.\n§ 4° A proposição retirada na forma deste artigo não pode ser reapresentada no mesmo ano legislativo, salvo deliberação do Plenário."
+          }
+        },
+        {
+          "enunciado": "Sobre o arquivamento e o desarquivamento de proposições, conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "As proposições de iniciativa popular são excepcionadas do arquivamento geral ao término da legislatura.",
+            "B": "Todas as proposições excepcionadas do arquivamento geral, inclusive as aprovadas em primeiro turno, são arquivadas após quatro anos de tramitação.",
+            "C": "As proposições de iniciativa de outro Poder, dos Tribunais de Contas ou da Defensoria Pública são excepcionadas do arquivamento geral.",
+            "D": "O Autor pode requerer desarquivamento nos primeiros cento e oitenta dias do primeiro ano legislativo da legislatura subsequente.",
+            "E": "As proposições com pareceres favoráveis de todas as Comissões Permanentes relacionadas à matéria são excepcionadas do arquivamento geral."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). As proposições de iniciativa popular integram a ressalva do art. 213, III.\nB) INCORRETA (gabarito). O art. 213, § 1°, exclui dessa regra de quatro anos as proposições do inciso II, como as aprovadas em primeiro turno.\nC) CORRETA (opção verdadeira). Essas iniciativas integram a ressalva do art. 213, IV.\nD) CORRETA (opção verdadeira). O art. 213, § 2°, fixa o prazo e o momento para requerer o desarquivamento.\nE) CORRETA (opção verdadeira). A ressalva depende de pareceres favoráveis de todas as Comissões pertinentes, conforme o art. 213, I.",
+          "base_legal": {
+            "dispositivo": "Art. 213, incisos I a IV e §§ 1° e 2°",
+            "texto": "Art. 213. Finda a legislatura, arquivar-se-ão todas as proposições que no seu decurso tenham sido submetidas à deliberação da Assembleia Legislativa e ainda se encontrem em tramitação, bem como as que abram crédito suplementar, com pareceres ou sem eles, salvo as:\nI - com pareceres favoráveis de todas as Comissões Permanentes relacionadas às respectivas matérias;\nII - já aprovadas em turno único, em primeiro ou segundo turno;\nIII - de iniciativa popular;\nIV - de iniciativa de outro Poder, do Procurador-Geral de Justiça, dos Tribunais de Contas ou da Defensoria Pública.\n§ 1° As proposições previstas nas exceções acima serão arquivadas logo após completarem quatro anos de tramitação, salvo as do inciso II do caput, sendo que nos casos do inciso IV a Assembleia dará conhecimento ao Autor.\n§ 2° A proposição poderá ser desarquivada mediante requerimento do Autor, ou Autores, dentro dos primeiros cento e oitenta dias do primeiro ano legislativo da legislatura subsequente, retomando a tramitação a partir do estágio em que se encontrava."
+          }
+        },
+        {
+          "enunciado": "Quanto à reconstituição de processos e à publicação após o retorno das Comissões, segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Por extravio ou retenção indevida que impeça o andamento, vencidos os prazos regimentais, a Mesa reconstituirá o processo.",
+            "B": "A publicação indicará o Autor e o número de Autores da iniciativa que se seguirem ao primeiro, ou assinaturas de apoiamento.",
+            "C": "A publicação indicará se as conclusões dos pareceres são favoráveis ou contrárias e se contêm emendas ou substitutivos.",
+            "D": "Os pareceres e os respectivos votos em separado deverão constar da publicação que complementa a proposição inicial.",
+            "E": "Os projetos de lei aprovados conclusivamente pelas Comissões serão publicados sem ressaltar o prazo para eventual recurso."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 214 atribui a reconstituição à Mesa, após vencidos os prazos regimentais.\nB) CORRETA (opção verdadeira). É exigência da publicação prevista no art. 215, I.\nC) CORRETA (opção verdadeira). O art. 215, IV, exige essas informações sobre os pareceres.\nD) CORRETA (opção verdadeira). A exigência está no art. 215, § 1°, I.\nE) INCORRETA (gabarito). O art. 215, § 2°, determina que a publicação ressalte a fluência do prazo para eventual recurso.",
+          "base_legal": {
+            "dispositivo": "Arts. 214 e 215, incisos I e IV e §§ 1° e 2°",
+            "texto": "Art. 214. Quando, por extravio ou retenção indevida, não for possível o andamento de qualquer proposição, vencidos os prazos regimentais, a Mesa fará reconstituir o respectivo processo pelos meios ao seu alcance para a tramitação ulterior.\nArt. 215. A publicação de proposição no Sistema de Tramitação, quando de volta das Comissões, assinalará, obrigatoriamente, após o respectivo número:\nI - o Autor e o número de Autores da iniciativa, que se seguirem ao primeiro, ou de assinaturas de apoiamento;\nIV - a conclusão dos pareceres, se favoráveis ou contrários, e com emendas ou substitutivos;\n§ 1° Deverão constar da publicação, complementando a proposição inicial e sua justificativa já publicadas, nos termos do art. 208, o seguinte:\nI - os pareceres, com os respectivos votos em separado;\n§ 2° Os projetos de lei aprovados conclusivamente pelas Comissões, na forma do art. 56, II, serão publicados com os documentos mencionados no parágrafo anterior, ressaltando-se a fluência do prazo para eventual apresentação do recurso a que se refere o art. 73, § 1°."
+          }
+        },
+        {
+          "enunciado": "Considerando a tramitação e a deliberação sobre proposições no Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa correta.",
+          "alternativas": {
+            "A": "Pareceres contrários de todas as Comissões, com eficácia conclusiva e sem recurso, resultam em arquivamento por despacho do Presidente.",
+            "B": "O parecer contrário a uma emenda impede que a proposição principal continue o curso regimental.",
+            "C": "Emenda, recurso e parecer seguem obrigatoriamente curso próprio, assim como as demais proposições.",
+            "D": "O recurso para que o Plenário aprecie projeto concluído pelas Comissões depende de aprovação pela Mesa.",
+            "E": "Nos requerimentos, é obrigatória a manifestação das Comissões antes de eventual deliberação do Plenário."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 219, caput, prevê rejeição e arquivamento por despacho do Presidente, ressalvados recurso e ausência de eficácia conclusiva.\nB) INCORRETA. O art. 219, parágrafo único, afirma que parecer contrário à emenda não obsta o curso da principal.\nC) INCORRETA. Emenda, recurso e parecer são exceções ao curso próprio, conforme o art. 217.\nD) INCORRETA. O recurso deve ser aprovado por decisão do Plenário, conforme o art. 218, § 2°.\nE) INCORRETA. O art. 218, § 1°, excepciona os requerimentos da manifestação prévia das Comissões.",
+          "base_legal": {
+            "dispositivo": "Arts. 217, 218, §§ 1° e 2°, e 219, parágrafo único",
+            "texto": "Art. 217. Cada proposição, salvo emenda, recurso ou parecer, terá curso próprio.\nArt. 218. Apresentada perante o Plenário, a proposição, obedecida a sequência da sua tramitação, será objeto de deliberação:\n§ 1° Antes da deliberação do Plenário, haverá manifestação das Comissões competentes para estudo da matéria, exceto quando se tratar de requerimento.\n§ 2° Não se dispensará a competência do Plenário para discutir e votar, globalmente ou em parte, projeto de lei apreciado conclusivamente pelas Comissões se, no prazo de cinco sessões da publicação do respectivo anúncio na Ordem do Dia, no Sistema de Tramitação, houver recurso nesse sentido, apresentado em sessão por no mínimo um décimo dos membros da Casa, o qual tenha sido aprovado por decisão do Plenário.\nArt. 219. Ressalvada a hipótese de interposição do recurso de que trata o § 2° do artigo anterior, e excetuados os casos em que as deliberações dos órgãos técnicos não têm eficácia conclusiva, a proposição que receber pareceres contrários, quanto ao mérito, de todas as Comissões a que for distribuída será tida como rejeitada e arquivada definitivamente por despacho do Presidente, dando-se conhecimento ao Plenário.\nParágrafo único. O parecer contrário à emenda não obsta a que a proposição principal siga seu curso regimental."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa correta a respeito da Ordem do Dia.",
+          "alternativas": {
+            "A": "Após o vencimento dos prazos, o Autor pode requerer inclusão na Ordem do Dia mesmo antes de receber pareceres dos órgãos técnicos.",
+            "B": "As deliberações do Plenário podem ocorrer independentemente de inclusão da matéria na Ordem do Dia.",
+            "C": "O processo da proposição permanecerá na secretaria da Comissão durante sua tramitação em Plenário.",
+            "D": "Decorridos os prazos regimentais e já recebidos os pareceres dos órgãos técnicos, o Autor poderá requerer ao Presidente a inclusão na Ordem do Dia.",
+            "E": "A publicação da proposição devolvida das Comissões observará o art. 208, em substituição ao art. 215."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 221 exige que a proposição já tenha recebido pareceres dos órgãos técnicos.\nB) INCORRETA. O art. 222, caput, exige inclusão na Ordem do Dia.\nC) INCORRETA. O art. 222, parágrafo único, mantém o processo sobre a mesa durante a tramitação em Plenário.\nD) CORRETA. São as condições e a iniciativa previstas no art. 221.\nE) INCORRETA. O art. 220 remete expressamente ao art. 215 para publicação após retorno das Comissões.",
+          "base_legal": {
+            "dispositivo": "Arts. 220, 221 e 222, parágrafo único",
+            "texto": "Art. 220. Logo que a proposição for devolvida das Comissões a que tenha sido remetida, observar-se-á, quanto à publicação no Sistema de Tramitação, o disposto no art. 215.\nArt. 221. Decorridos os prazos previstos neste Regimento para tramitação nas Comissões ou no Plenário, o Autor de proposição que já tenha recebido pareceres dos órgãos técnicos poderá requerer ao Presidente a inclusão da matéria na Ordem do Dia.\nArt. 222. As deliberações do Plenário ocorrerão mediante inclusão na Ordem do Dia.\nParágrafo único. O processo referente à proposição ficará sobre a mesa durante sua tramitação em Plenário."
+          }
+        },
+        {
+          "enunciado": "Quanto à distribuição de proposições às Comissões, nos termos do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A distribuição será determinada pelo Presidente ou por delegação, dentro em duas sessões.",
+            "B": "A Comissão de Constituição e Justiça e de Redação Final receberá obrigatoriamente a proposição para exame dos aspectos de sua competência.",
+            "C": "Nenhuma proposição poderá ser distribuída a mais de quatro Comissões de Mérito.",
+            "D": "Havendo aspectos financeiro ou orçamentário públicos, haverá remessa à Comissão de Fiscalização Financeira e Orçamentária.",
+            "E": "A distribuição às Comissões será feita ao seu destino até a sessão seguinte, ou imediatamente em caso de urgência."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). A competência e o prazo constam do art. 223, caput.\nB) CORRETA (opção verdadeira). A distribuição obrigatória e os aspectos examinados estão no art. 223, II, a.\nC) INCORRETA (gabarito). O limite é de três Comissões de Mérito, conforme o art. 223, V.\nD) CORRETA (opção verdadeira). O encaminhamento é previsto no art. 223, II, b.\nE) CORRETA (opção verdadeira). O art. 223, III, determina a remessa até a sessão seguinte, ou imediatamente em caso de urgência.",
+          "base_legal": {
+            "dispositivo": "Art. 223, incisos II, III e V",
+            "texto": "Art. 223. A matéria recebida na Assembleia, nos termos do art. 208, será distribuída às Comissões por despacho do Presidente, ou mediante sua delegação, dentro em duas sessões, observado o seguinte:\nII - a proposição será distribuída às Comissões, devendo a ordem sequencial ser anotada pelo órgão de assessoramento da Mesa, antes de ser enviada à primeira Comissão que deva pronunciar-se, observando-se a seguinte sequência de tramitação:\na) obrigatoriamente à Comissão de Constituição e Justiça e de Redação Final para o exame dos aspectos de constitucionalidade, legalidade, juridicidade, regimentalidade e de técnica legislativa, e, juntamente com as Comissões técnicas, para pronunciar-se sobre o seu mérito, quando for o caso;\nb) quando envolver aspectos financeiro ou orçamentário públicos, à Comissão de Fiscalização Financeira e Orçamentária, para o exame da compatibilidade ou adequação orçamentária;\nIII - a distribuição de proposição às Comissões, de que trata o inciso anterior, será feita ao seu destino até a sessão seguinte, ou imediatamente, em caso de urgência;\nV - nenhuma proposição será distribuída a mais do que três Comissões de Mérito;"
+          }
+        },
+        {
+          "enunciado": "Sobre competência das Comissões e tramitação conjunta no Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A tramitação conjunta poderá ser deferida se requerida por Deputado após a entrada da matéria na Ordem do Dia, desde que antes da votação.",
+            "B": "Uma Comissão que pretenda manifestação de outra deverá formular requerimento escrito ao Presidente, indicando precisamente a questão.",
+            "C": "O conflito de competência de Comissão será dirimido pelo Presidente, imediatamente se a matéria estiver em urgência.",
+            "D": "Em proposições apensadas, o parecer da Comissão será considerado um só.",
+            "E": "Na tramitação conjunta, a proposição mais antiga terá precedência, e o regime especial alcançará as apensas."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 226, parágrafo único, condiciona a tramitação conjunta a pedido anterior à Ordem do Dia ou, no caso indicado, anterior à manifestação da Comissão de mérito.\nB) CORRETA (opção verdadeira). O procedimento consta do art. 224, caput.\nC) CORRETA (opção verdadeira). O art. 225 define a autoridade e a imediatidade na urgência.\nD) CORRETA (opção verdadeira). O art. 226, II, considera um só o parecer sobre as apensadas.\nE) CORRETA (opção verdadeira). As regras decorrem do art. 227, II e parágrafo único.",
+          "base_legal": {
+            "dispositivo": "Arts. 224, 225, 226, inciso II e parágrafo único, e 227, inciso II e parágrafo único",
+            "texto": "Art. 224. Quando qualquer Comissão pretender que outra se manifeste sobre determinada matéria, apresentará requerimento escrito nesse sentido ao Presidente da Assembleia com a indicação precisa da questão sobre a qual deseja o pronunciamento, observando-se que:\nArt. 225. Se a Comissão a que for distribuída uma proposição se julgar incompetente para apreciar a matéria, ou se, no prazo para a apresentação de emendas, qualquer Deputado ou Comissão suscitar conflito de competência em relação a ela, será este dirimido pelo Presidente da Assembleia, sendo essa deliberação imediata se a matéria estiver em regime de urgência.\nArt. 226. Se for observado que estão em curso duas ou mais proposições da mesma espécie, que regulem matéria idêntica ou correlata, é lícito promover sua tramitação conjunta, mediante requerimento de qualquer Comissão ou Deputado ao Presidente da Assembleia, observando-se que:\nII - considera-se um só o parecer da Comissão sobre as proposições apensadas.\nParágrafo único. A tramitação conjunta só será deferida se solicitada antes de a matéria entrar na Ordem do Dia ou, na hipótese do art. 56, II, antes do pronunciamento da única ou da primeira Comissão incumbida de examinar o mérito da proposição.\nArt. 227. Na tramitação em conjunto ou por dependência, serão obedecidas as seguintes normas:\nII - terá precedência a mais antiga sobre as mais recentes proposições;\nParágrafo único. O regime especial de tramitação de uma proposição estende-se às demais que lhe estejam apensas."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa correta sobre os quóruns para sessões e emendas.",
+          "alternativas": {
+            "A": "O quórum é exigido apenas para votação, não para a abertura de sessão do Plenário.",
+            "B": "No cálculo proporcional de quórum, a fração é arredondada para o inteiro imediatamente superior.",
+            "C": "O quórum mínimo de abertura da sessão corresponde a um quinto do número total de Deputados.",
+            "D": "As emendas em Plenário podem ser apresentadas sem observar quórum específico.",
+            "E": "A apreciação das matérias constantes da Ordem do Dia exige a maioria absoluta dos Deputados."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O art. 228 também exige quórum para início de sessão e outros atos.\nB) INCORRETA. O art. 229 manda desprezar a fração, sem arredondamento para cima.\nC) INCORRETA. O art. 230, I, prevê a décima parte do número total de Deputados.\nD) INCORRETA. O art. 231 remete ao quórum respectivo estabelecido no art. 188.\nE) CORRETA. É o quórum de apreciação previsto no art. 230, II.",
+          "base_legal": {
+            "dispositivo": "Arts. 228, 229, 230, incisos I e II, e 231",
+            "texto": "Art. 228. Quórum é o mínimo de Deputados, fixado como número inteiro ou mediante proporção, exigido por força da Constituição ou do Regimento Interno para que possa ser iniciada uma sessão do Plenário, tenha início a apreciação da Ordem do Dia, seja apresentada emenda ou haja votação, mediante a aprovação ou rejeição de uma matéria.\nArt. 229. Nos casos de quórum a ser calculado mediante proporção, o quociente será fixado desprezando-se a fração.\nArt. 230. O quórum para efeito de sessão observará as seguintes proporções, segundo o Regimento Interno:\nI - décima parte do número total de Deputados, desprezada a fração, para que o Presidente possa declarar aberta a sessão, conforme o art. 108, § 2º;\nII - a maioria absoluta dos Deputados para que possam ser apreciadas as matérias constantes da Ordem do Dia.\nArt. 231. As emendas em Plenário poderão ser apresentadas, conforme o caso, observando-se o respectivo quórum estabelecido no art. 188."
+          }
+        },
+        {
+          "enunciado": "Em relação aos quóruns deliberativos do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa correta.",
+          "alternativas": {
+            "A": "O projeto de lei complementar depende do voto de dois terços dos integrantes da Assembleia.",
+            "B": "A rejeição de veto exige apenas maioria simples de votos, presente a maioria absoluta dos membros.",
+            "C": "A proposta de emenda à Constituição exige três quintos dos parlamentares, em turno único.",
+            "D": "A autorização para instaurar processo por crime de responsabilidade contra Governador, Vice-Governador ou Secretários de Estado exige dois terços dos integrantes da Assembleia.",
+            "E": "Os projetos de resolução exigem maioria absoluta de votos para sua aprovação."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O projeto de lei complementar exige maioria absoluta, conforme o art. 232, § 2°, I.\nB) INCORRETA. A rejeição de veto exige maioria absoluta, conforme o art. 232, § 2°, II.\nC) INCORRETA. A proposta de emenda exige três quintos em dois turnos, conforme o art. 232, § 3°, I.\nD) CORRETA. O art. 232, § 3°, II, exige dois terços dos integrantes para essa autorização.\nE) INCORRETA. O art. 232, § 1°, inclui resolução entre as espécies votadas por maioria simples, presente a maioria absoluta.",
+          "base_legal": {
+            "dispositivo": "Art. 232, incisos I a III e §§ 1° a 3°",
+            "texto": "Art. 232. O quórum deliberativo de votação da Assembleia pode ser por maioria:\nI - simples, relativa ou ordinária, que é o número inteiro maior que a metade do total dos presentes ou o maior resultado, no caso de haver dispersão de votos, desde que, na sessão, haja a presença da maioria absoluta dos membros da Casa;\nII - absoluta, que é definida como o primeiro número inteiro superior à metade dos integrantes da Assembleia Legislativa;\nIII - qualificada, que é o número superior à maioria absoluta.\n§ 1° Nos termos do art. 88 da Constituição Estadual, salvo disposição constitucional em contrário as deliberações das espécies normativas pela Assembleia Legislativa serão tomadas por maioria simples de votos, presente a maioria absoluta de seus membros, dentre elas os projetos de lei ordinária, resolução e decreto legislativo.\n§ 2° Exigem a maioria absoluta para deliberação:\nI - projeto de lei complementar, conforme o art. 113, caput da Constituição Estadual, combinado com o art. 172, deste Regimento;\nII - rejeição de veto, nos termos do art. 108, § 4° da Constituição Estadual, combinado com os art. 257, § 1° deste Regimento.\n§ 3° A maioria qualificada será necessária:\nI - na proposta de emenda à Constituição que é aprovada mediante o voto mínimo de três quintos dos parlamentares, em dois turnos, consoante determina o art. 103, § 2° da Constituição Estadual e os §§ 2° e 3° do art. 261 deste Regimento;\nII - na autorização para instaurar processo por crime de responsabilidade contra o Governador, o Vice-Governador ou os Secretários de Estado pelo voto de dois terços dos integrantes da Assembleia."
+          }
+        },
+        {
+          "enunciado": "Sobre a apreciação preliminar, conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa correta.",
+          "alternativas": {
+            "A": "Reconhecida pelo Plenário a constitucionalidade da proposição, essa preliminar poderá ser novamente arguida em contrário.",
+            "B": "Acolhida emenda saneadora, a proposição é considerada aprovada quanto à preliminar, com a modificação, prosseguindo sua tramitação.",
+            "C": "A apreciação preliminar constitui turno autônomo, anterior ao turno em que se encontrar a matéria.",
+            "D": "Em apreciação preliminar, o Plenário delibera também sobre o mérito integral da proposição.",
+            "E": "Rejeitada a emenda saneadora, a proposição será definitivamente arquivada sem votação."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 235 veda nova arguição contrária da preliminar já reconhecida pelo Plenário.\nB) CORRETA. O art. 234, § 2°, prevê aprovação quanto à preliminar, modificação e prosseguimento.\nC) INCORRETA. O art. 233, parágrafo único, integra a apreciação ao turno em curso.\nD) INCORRETA. O art. 234, caput, limita a apreciação preliminar aos aspectos ali indicados.\nE) INCORRETA. O art. 234, § 3°, manda votar a proposição após rejeição da emenda.",
+          "base_legal": {
+            "dispositivo": "Arts. 233, parágrafo único, 234, §§ 1° a 3°, e 235",
+            "texto": "Art. 233. Haverá apreciação preliminar em Plenário quando for provido recurso contra parecer terminativo da Comissão de Constituição e Justiça e de Redação Final e da Comissão de Fiscalização Financeira e Orçamentária, emitido na forma do art. 71.\nParágrafo único. A apreciação preliminar é parte integrante do turno em que se achar a matéria.\nArt. 234. Em apreciação preliminar, o Plenário deliberará sobre a proposição somente quanto à sua constitucionalidade e juridicidade ou adequação financeira e orçamentária.\n§ 1° Havendo emenda saneadora da inconstitucionalidade ou injuridicidade e da inadequação ou incompatibilidade financeira ou orçamentária, a votação far-se-á primeiro sobre ela.\n§ 2° Acolhida a emenda, considerar-se-á a proposição aprovada quanto à preliminar, com a modificação decorrente da emenda, prosseguindo-se a matéria na sua respectiva tramitação regimental.\n§ 3° Rejeitada a emenda, votar-se-á a proposição que, se aprovada, retomará o seu curso, e, em caso contrário, será definitivamente arquivada.\nArt. 235. Reconhecidas pelo Plenário, a constitucionalidade e a juridicidade ou a adequação financeira e orçamentária da proposição não poderão essas preliminares ser novamente arguidas em contrário."
+          }
+        }
+      ]
     }
   ]
 }
