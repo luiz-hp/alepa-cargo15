@@ -4120,6 +4120,268 @@
           }
         }
       ]
+    },
+    {
+      "numero": 15,
+      "titulo": "Participação da sociedade, administração e disposições finais (arts. 319 a 352)",
+      "artigos": "Arts. 319 a 352",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "**Iniciativa popular:** mínimo de **0,5%** do eleitorado estadual. Emenda constitucional: **10 Municípios**; projeto de lei: **5 Municípios**. Em ambos, mínimo de **0,3%** dos eleitores de cada Município."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Petição",
+              "**Ouvidoria**, **Comissões** ou **Mesa**."
+            ],
+            [
+              "Sugestão",
+              "Parecer favorável: proposição da **Comissão de Legislação Participativa**."
+            ],
+            [
+              "Audiência",
+              "**Ouvidoria** e Comissões **Permanentes/Temporárias**."
+            ],
+            [
+              "Credencial",
+              "**1° Secretário** expede; sem vínculo trabalhista."
+            ],
+            [
+              "Serviços",
+              "**Plenário** aprova regulamentos; **Mesa** dirige; **72 horas**."
+            ],
+            [
+              "Finanças",
+              "**Presidente** ordena despesas; contas ao TCE até **30/6**."
+            ],
+            [
+              "Delegação",
+              "Regulamentação por **Ato da Mesa**; atribuições precisas."
+            ],
+            [
+              "Frentes",
+              "Mínimo de **1/3**; máximo de **5** simultâneas."
+            ],
+            [
+              "Expediente",
+              "**8h–14h**, de segunda a sexta, com exceções."
+            ],
+            [
+              "Gabinetes",
+              "Até **3 servidores efetivos** por gabinete."
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "O **Plenário** avoca matérias por **maioria de seus membros**. Prazos em dias são **corridos**: exclui-se o início, inclui-se o vencimento e suspendem-se no **recesso**, salvo disposição contrária. Sessões plenárias transmitidas pela **TV Alepa** têm **LIBRAS**. Em períodos excepcionais, **Ato da Mesa** regulamenta reuniões remotas e dispensa de prazos."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "Pegadinhas: **emenda = 10 Municípios**, **lei = 5**; reclamação administrativa = **72 horas**, não 48; expediente = **8h às 14h**, não até 16h."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA acerca da iniciativa popular.",
+          "alternativas": {
+            "A": "A apresentação de proposta de emenda constitucional ou projeto de lei exige subscrição por pelo menos meio por cento do eleitorado estadual.",
+            "B": "Os subscritores de proposta de emenda à Constituição deverão estar distribuídos por pelo menos oito Municípios.",
+            "C": "Os subscritores de projeto de lei deverão estar distribuídos por pelo menos cinco Municípios.",
+            "D": "Em qualquer dessas modalidades, é exigido o mínimo de três décimos por cento dos eleitores de cada Município.",
+            "E": "A proposição deverá ser protocolizada perante a Mesa Diretora, que verificará o cumprimento das exigências constitucionais."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 319 exige, no mínimo, meio por cento do eleitorado do Estado.\nB) INCORRETA (gabarito). O art. 319, parágrafo único, exige pelo menos dez Municípios para proposta de emenda constitucional, não oito.\nC) CORRETA (opção verdadeira). O art. 319, parágrafo único, prevê pelo menos cinco Municípios para projeto de lei.\nD) CORRETA (opção verdadeira). O art. 319, parágrafo único, exige o mínimo de três décimos por cento dos eleitores de cada Município em qualquer hipótese.\nE) CORRETA (opção verdadeira). O art. 319, parágrafo único, IV, atribui à Mesa Diretora essa verificação.",
+          "base_legal": {
+            "dispositivo": "Art. 319, caput, parágrafo único, inciso IV",
+            "texto": "Art. 319. A iniciativa popular no processo legislativo pode ser exercida pela apresentação à Assembleia Legislativa de proposta de emenda à Constituição e de projeto de lei, subscritos por, no mínimo, meio por cento do eleitorado do Estado, nos termos do art. 8° da Constituição Estadual.\nParágrafo único. Tratando-se de projeto de emenda à Constituição, os subscritores devem estar distribuídos, pelo menos, por dez Municípios e, no caso de projeto de lei, no mínimo, por cinco Municípios, sendo necessário, em qualquer hipótese, o mínimo de três décimos por cento dos eleitores de cada Município, obedecidas as seguintes condições:\nIV - a proposição será protocolizada perante à Mesa Diretora, que verificará se foram cumpridas as exigências constitucionais para sua apresentação;"
+          }
+        },
+        {
+          "enunciado": "Uma associação de classe apresentou sugestão de iniciativa legislativa sobre matéria de competência da Assembleia, devidamente identificada. A Comissão de Legislação Participativa emitiu parecer favorável. Segundo o Regimento Interno, qual é a consequência prevista?",
+          "alternativas": {
+            "A": "A sugestão será encaminhada ao arquivo, em razão do parecer favorável emitido pela Comissão de Legislação Participativa.",
+            "B": "A sugestão será transformada em proposição de iniciativa da Ouvidoria, encaminhada à Mesa para tramitação.",
+            "C": "A sugestão será transformada em proposição de iniciativa da associação, encaminhada à Mesa para tramitação.",
+            "D": "A sugestão será transformada em proposição de iniciativa da Comissão, encaminhada à Mesa para tramitação.",
+            "E": "A sugestão será transformada em proposição de iniciativa da Comissão, encaminhada ao Plenário para tramitação."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 321, § 1°, II, reserva o arquivo às sugestões que receberem parecer contrário.\nB) INCORRETA. O art. 321, § 1°, II, atribui a iniciativa da proposição à Comissão de Legislação Participativa, não à Ouvidoria.\nC) INCORRETA. O art. 321, § 1°, II, prevê proposição de iniciativa da Comissão, não da entidade que ofereceu a sugestão.\nD) CORRETA. O art. 321, § 1°, II, determina a transformação da sugestão favorável em proposição de iniciativa da Comissão e seu encaminhamento à Mesa.\nE) INCORRETA. O art. 321, § 1°, II, prevê encaminhamento à Mesa para tramitação, não ao Plenário.",
+          "base_legal": {
+            "dispositivo": "Art. 320, caput, incisos I e II; Art. 321, caput, § 1°, incisos I e II",
+            "texto": "Art. 320. As petições, reclamações, representações ou queixas apresentadas por pessoas físicas ou jurídicas contra atos ou omissões das autoridades ou entidades públicas, ou imputados a membros da Casa, serão recebidas e examinadas pela Ouvidoria da Assembleia Legislativa, pelas Comissões ou pela Mesa, conforme o caso, desde que:\nI - encaminhadas por escrito ou por meio eletrônico, devidamente identificadas em formulário próprio, ou por telefone, com a identificação do autor;\nII - o assunto envolva matéria de competência da Assembleia Legislativa.\nArt. 321. A participação da sociedade civil poderá, ainda, ser exercida mediante o oferecimento de sugestões de iniciativa legislativa, de pareceres técnicos, de exposições e propostas oriundas de entidades científicas e culturais e de associações e órgãos de classe, sindicatos e entidades organizadas da sociedade civil, exceto partidos políticos, conforme estabelece a alínea “a” do inciso XVIII do art. 55.\n§ 1° Ao serem recebidas sugestões de iniciativa legislativa, adotar-se-á o seguinte:\nI - serão encaminhadas por qualquer um dos órgãos receptores de que trata o art. 320, caput, depois de prévia análise, para a Comissão de Legislação Participativa, nos termos do art. 55, XVIII;\nII - as sugestões que receberem parecer favorável da Comissão de Legislação Participativa serão transformadas em proposições legislativas de sua iniciativa, que serão encaminhadas à Mesa para tramitação; enquanto as que receberem parecer contrário serão encaminhadas ao arquivo."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), quais órgãos podem realizar reuniões de audiência pública com participação de entidades da sociedade civil?",
+          "alternativas": {
+            "A": "A Ouvidoria da Assembleia Legislativa e as Comissões Permanentes e Temporárias.",
+            "B": "A Ouvidoria da Assembleia Legislativa e somente as Comissões Permanentes.",
+            "C": "A Mesa Diretora e as Comissões Permanentes e Temporárias.",
+            "D": "A Presidência da Assembleia Legislativa e as Comissões Permanentes e Temporárias.",
+            "E": "A Mesa Diretora e a Comissão de Legislação Participativa, exclusivamente."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 322 prevê expressamente a Ouvidoria e as Comissões Permanentes e Temporárias.\nB) INCORRETA. O art. 322 inclui também as Comissões Temporárias.\nC) INCORRETA. O art. 322 não inclui a Mesa Diretora entre os órgãos expressamente indicados.\nD) INCORRETA. O art. 322 menciona a Ouvidoria, não a Presidência, entre os órgãos expressamente indicados.\nE) INCORRETA. O art. 322 não restringe essa faculdade aos órgãos mencionados na alternativa.",
+          "base_legal": {
+            "dispositivo": "Art. 322",
+            "texto": "Art. 322. A Ouvidoria da Assembleia Legislativa e as Comissões Permanentes e Temporárias poderão realizar reuniões de audiência pública, com a participação de entidades da sociedade civil, observando-se o que dispõe o art. 33, VII e os arts. 91 a 94."
+          }
+        },
+        {
+          "enunciado": "Sobre o credenciamento de representantes e profissionais da imprensa, assinale a alternativa INCORRETA conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022).",
+          "alternativas": {
+            "A": "O credenciamento previsto para representantes e profissionais da imprensa não gera ônus nem vínculo trabalhista com a Assembleia.",
+            "B": "Cada Secretaria ou entidade poderá indicar apenas um representante, responsável pelas informações e opiniões que prestar.",
+            "C": "Os representantes credenciados fornecerão exclusivamente subsídios de caráter técnico, documental, informativo e instrutivo.",
+            "D": "Os jornalistas e profissionais de imprensa credenciados poderão congregar-se em comitê representativo junto à Mesa.",
+            "E": "Compete à Mesa expedir as credenciais de acesso dos representantes às dependências da Assembleia, exceto às privativas dos Deputados."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 325 afasta ônus e vínculo trabalhista com a Assembleia Legislativa.\nB) CORRETA (opção verdadeira). O art. 323, § 1°, permite apenas um representante por Secretaria ou entidade e estabelece sua responsabilidade.\nC) CORRETA (opção verdadeira). O art. 323, § 2°, delimita os subsídios que os representantes podem fornecer.\nD) CORRETA (opção verdadeira). O art. 324, § 2°, admite o comitê como órgão representativo junto à Mesa.\nE) INCORRETA (gabarito). O art. 323, § 3°, atribui a expedição dessas credenciais ao 1° Secretário, não à Mesa.",
+          "base_legal": {
+            "dispositivo": "Art. 323, caput, §§ 1°, 2° e 3°; Art. 324, caput, § 2°; Art. 325",
+            "texto": "Art. 323. Além das Secretarias e entidades da administração estadual indireta, poderão as entidades de classe, de empregados e empregadores, autarquias profissionais e outras instituições de âmbito estadual da sociedade civil credenciar junto à Mesa representantes que possam, eventualmente, prestar esclarecimentos específicos à Assembleia, a sua Ouvidoria, as suas Comissões, às Lideranças e aos Deputados em geral e a órgão de assessoramento institucional.\n§ 1° Cada Secretaria ou entidade poderá indicar apenas um representante, que será responsável perante a Casa por todas as informações que prestar ou opiniões que emitir quando solicitadas pela Mesa, por Comissão ou Deputado.\n§ 2° Os representantes fornecerão exclusivamente subsídios de caráter técnico, documental, informativo e instrutivo.\n§ 3° Caberá ao 1° Secretário expedir credenciais a fim de que os representantes indicados possam ter acesso às dependências da Assembleia, excluídas as privativas dos Deputados.\nArt. 324. Os órgãos da Imprensa escrita, televisão, rádio e veículos de Comunicação on-line - web poderão credenciar seus profissionais perante à Mesa para exercício das atividades jornalísticas, de informação e divulgação pertinentes à Casa e a seus membros.\n§ 2° Os jornalistas e demais profissionais de Imprensa credenciados pela Assembleia poderão congregar-se em comitê, como seu órgão representativo junto à Mesa.\nArt. 325. O credenciamento previsto nos artigos precedentes será exercido sem ônus ou vínculo trabalhista com a Assembleia Legislativa."
+          }
+        },
+        {
+          "enunciado": "Em relação aos serviços administrativos da Assembleia, assinale a alternativa INCORRETA de acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022).",
+          "alternativas": {
+            "A": "Os regulamentos especiais dos serviços administrativos são aprovados pelo Plenário e considerados integrantes do Regimento.",
+            "B": "A Mesa dirige os serviços administrativos e expede as normas ou instruções complementares necessárias.",
+            "C": "As reclamações sobre irregularidades nos serviços administrativos deverão ser encaminhadas à Mesa para providência dentro de quarenta e oito horas.",
+            "D": "Proposição que modifique os serviços administrativos não pode ser submetida ao Plenário sem parecer da Mesa.",
+            "E": "Os regulamentos administrativos observarão a descentralização e a agilização de procedimentos com processamento eletrônico de dados."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 326 determina a aprovação dos regulamentos especiais pelo Plenário e sua integração ao Regimento.\nB) CORRETA (opção verdadeira). O art. 326 atribui a direção dos serviços e a expedição das normas complementares à Mesa.\nC) INCORRETA (gabarito). O art. 328 fixa o prazo de setenta e duas horas, não de quarenta e oito horas.\nD) CORRETA (opção verdadeira). O art. 327 exige parecer da Mesa antes da deliberação plenária.\nE) CORRETA (opção verdadeira). O art. 326, parágrafo único, I, estabelece esse princípio.",
+          "base_legal": {
+            "dispositivo": "Art. 326, caput, parágrafo único, inciso I; Arts. 327 e 328",
+            "texto": "Art. 326. Os serviços administrativos da Assembleia reger-se-ão por regulamentos especiais, aprovados pelo Plenário, considerados partes integrantes deste Regimento, e serão dirigidos pela Mesa, que expedirá as normas ou instruções complementares necessárias.\nParágrafo único. Os regulamentos mencionados no caput obedecerão ao disposto no art. 20 da Constituição Estadual e aos seguintes princípios:\nI - descentralização administrativa e agilização de procedimentos com a utilização do processamento eletrônico de dados;\nArt. 327. Nenhuma proposição que modifique os serviços administrativos da Assembleia poderá ser submetida à deliberação do Plenário sem parecer da Mesa.\nArt. 328. As reclamações sobre irregularidades nos serviços administrativos deverão ser encaminhadas à Mesa para providência dentro de setenta e duas horas. Decorrido esse prazo, poderão ser levadas ao Plenário."
+          }
+        },
+        {
+          "enunciado": "A respeito da administração contábil, financeira e patrimonial, assinale a alternativa CORRETA segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022).",
+          "alternativas": {
+            "A": "A movimentação financeira dos recursos orçamentários será realizada junto a instituição privada de crédito.",
+            "B": "O Presidente encaminhará até trinta de junho, ao Tribunal de Contas do Estado, a prestação de contas do exercício anterior.",
+            "C": "As despesas da Assembleia serão ordenadas pela Mesa, com aprovação do orçamento analítico pelo Presidente.",
+            "D": "O sistema de controle interno será coordenado e executado diretamente pelo Tribunal de Contas do Estado.",
+            "E": "O patrimônio da Assembleia será constituído exclusivamente por bens imóveis do Estado postos à sua disposição."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 329, § 2°, exige instituição oficial de crédito.\nB) CORRETA. O art. 329, § 3°, estabelece o prazo, o responsável e o destinatário indicados.\nC) INCORRETA. O art. 329, § 1°, prevê orçamento analítico aprovado pela Mesa e despesas ordenadas pelo Presidente.\nD) INCORRETA. O art. 329, caput, determina coordenação e execução por órgãos próprios da estrutura administrativa da Casa.\nE) INCORRETA. O art. 330 abrange bens móveis e imóveis do Estado, adquiridos ou colocados à disposição.",
+          "base_legal": {
+            "dispositivo": "Art. 329, caput, §§ 1°, 2° e 3°; Art. 330",
+            "texto": "Art. 329. A administração contábil, orçamentária, financeira, operacional e patrimonial e o sistema de controle interno serão coordenados e executados por órgãos próprios, integrantes da estrutura dos serviços administrativos da Casa.\n§ 1° As despesas da Assembleia, dentro dos limites das disponibilidades orçamentárias consignadas no Orçamento do Estado e dos créditos adicionais discriminados no orçamento analítico, devidamente aprovado pela Mesa, serão ordenadas pelo Presidente da Assembleia.\n§ 2° A movimentação financeira dos recursos orçamentários da Assembleia será efetuada junto a instituição oficial de crédito.\n§ 3° Até trinta de junho de cada ano, o Presidente encaminhará ao Tribunal de Contas do Estado a prestação de contas relativa ao exercício anterior.\nArt. 330. O patrimônio da Assembleia é constituído de bens móveis e imóveis do Estado que adquirir ou forem colocados à disposição."
+          }
+        },
+        {
+          "enunciado": "A respeito da polícia e da disciplina nos edifícios da Assembleia, assinale a alternativa INCORRETA conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022).",
+          "alternativas": {
+            "A": "A Mesa fará manter a ordem e a disciplina nos edifícios da Assembleia e em suas adjacências.",
+            "B": "O Deputado que comparecer armado será advertido pelo Presidente da Mesa, que solicitará o depósito da arma no Gabinete do 1° Secretário.",
+            "C": "Em caso de delito nos edifícios, o inquérito será presidido por autoridade dos serviços de segurança indicada pelo Presidente em Ato da Presidência.",
+            "D": "O policiamento dos edifícios e dependências externas compete privativamente ao Presidente, sob a direção da Mesa e sem intervenção de outro Poder.",
+            "E": "O exercício de comércio nas dependências da Assembleia é proibido, ressalvada a expressa autorização da Mesa."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 331 atribui à Mesa a manutenção da ordem e da disciplina.\nB) CORRETA (opção verdadeira). O art. 332, § 1°, prevê a advertência e a solicitação de depósito da arma no Gabinete do 1° Secretário.\nC) CORRETA (opção verdadeira). O art. 333 prevê a indicação da autoridade por meio de Ato da Presidência.\nD) INCORRETA (gabarito). O art. 334 atribui o policiamento privativamente à Mesa, sob a suprema direção do Presidente, e não o inverso.\nE) CORRETA (opção verdadeira). O art. 337 admite a exceção mediante expressa autorização da Mesa.",
+          "base_legal": {
+            "dispositivo": "Art. 331; Art. 332, caput, § 1°; Arts. 333, 334 e 337",
+            "texto": "Art. 331. A Mesa fará manter a ordem e a disciplina nos edifícios da Assembleia e suas adjacências.\nArt. 332. É expressamente proibido o porte de arma, de qualquer espécie, no edifício da Assembleia, salvo pelo pessoal encarregado da segurança.\n§ 1° O Deputado que comparecer armado às dependências da Assembleia será advertido pelo Presidente da Mesa, o qual solicitará que seja depositada a arma no Gabinete do 1° Secretário.\nArt. 333. Quando, nos edifícios da Assembleia, for cometido algum delito, instaurar-se-á inquérito a ser presidido pela autoridade de serviços de segurança, indicada pelo Presidente, por meio de Ato da Presidência.\nArt. 334. O policiamento dos edifícios da Assembleia e de suas dependências externas, compete, privativamente, à Mesa, sob a suprema direção do Presidente, sem intervenção de qualquer outro Poder.\nArt. 337. É proibido o exercício de comércio nas dependências da Assembleia, salvo em caso de expressa autorização da Mesa."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual afirmação sobre a delegação de competência administrativa está CORRETA?",
+          "alternativas": {
+            "A": "O ato de delegação indicará, com precisão, a autoridade delegante, a autoridade delegada e as atribuições objeto da delegação.",
+            "B": "A faculdade de delegar competência para atos administrativos pertence exclusivamente ao Presidente da Assembleia.",
+            "C": "A delegação buscará maior rapidez decisória e a aproximação das decisões à autoridade delegante.",
+            "D": "A delegação de competência para atos administrativos será regulamentada exclusivamente por Ato da Presidência.",
+            "E": "O ato de delegação indicará as autoridades envolvidas, admitindo descrição genérica das atribuições delegadas."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 338, § 2°, exige expressamente a indicação precisa das autoridades delegante e delegada e das atribuições objeto da delegação.\nB) INCORRETA. O art. 338, § 1°, faculta a delegação também à Mesa, a seus membros e às demais autoridades dos serviços administrativos.\nC) INCORRETA. O art. 338, caput, estabelece a proximidade das decisões em relação aos fatos, pessoas ou problemas a atender, não à autoridade delegante.\nD) INCORRETA. O art. 338, § 1°, remete à regulamentação por Ato da Mesa, não por Ato da Presidência.\nE) INCORRETA. O art. 338, § 2°, exige indicação precisa das atribuições objeto da delegação, não uma descrição genérica.",
+          "base_legal": {
+            "dispositivo": "Art. 338, caput, §§ 1° e 2°",
+            "texto": "Art. 338. A delegação de competência será utilizada como instrumento de descentralização administrativa, visando a assegurar maior rapidez e objetividade às decisões e situá-las na proximidade dos fatos, pessoas ou problemas a atender.\n§ 1° É facultado à Mesa, a qualquer de seus membros e às demais autoridades dos serviços administrativos da Assembleia, delegar competência para a prática de atos administrativos na conformidade da legislação vigente e de regulamentação por Ato da Mesa.\n§ 2° O ato de delegação indicará, com precisão, a autoridade delegante, a autoridade delegada e as atribuições objeto da delegação."
+          }
+        },
+        {
+          "enunciado": "Sobre os órgãos de assessoramento e o Centro de Estudos e Debates Estratégicos, assinale a alternativa INCORRETA nos termos do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022).",
+          "alternativas": {
+            "A": "A Procuradoria, a Consultoria Técnica, a Assessoria Técnica e a Coordenadoria Técnico-Legislativa assessoram a Mesa, as Comissões, as Lideranças, os Deputados e a Administração.",
+            "B": "O Centro de Estudos e Debates Estratégicos realiza estudos referentes à formulação de políticas e diretrizes legislativas ou institucionais.",
+            "C": "O Centro de Estudos e Debates Estratégicos realiza estudos de viabilidade e análises de impactos, riscos e benefícios de diversas naturezas.",
+            "D": "O Centro de Estudos e Debates Estratégicos produz documentação de alta densidade crítica e especialização técnica ou científica.",
+            "E": "A estrutura, a interação, as atribuições e o funcionamento do Centro de Estudos e Debates Estratégicos serão regulados por Ato da Presidência."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 339 relaciona esses órgãos e destinatários de assessoramento.\nB) CORRETA (opção verdadeira). O art. 340, I, inclui esses estudos entre as incumbências do Centro.\nC) CORRETA (opção verdadeira). O art. 340, II, prevê os estudos de viabilidade e a análise de impactos, riscos e benefícios.\nD) CORRETA (opção verdadeira). O art. 340, III, prevê a produção documental com essas características.\nE) INCORRETA (gabarito). O art. 340, parágrafo único, exige resolução própria, não Ato da Presidência.",
+          "base_legal": {
+            "dispositivo": "Art. 339; Art. 340, caput, incisos I, II e III, parágrafo único",
+            "texto": "Art. 339. A Procuradoria, Consultoria Técnica, Assessoria Técnica e Coordenadoria Técnico-Legislativa, que são órgãos de assessoramento da Assembleia Legislativa instituídos segundo o Parágrafo único do art. 90 da Constituição Estadual, exercerão o assessoramento à Mesa, às Comissões, às Lideranças, aos Deputados e à Administração da Casa com o apoio dos sistemas de documentação e informação, de informática e processamento de dados.\nArt. 340. O Centro de Estudos e Debates Estratégicos, órgão técnico-consultivo diretamente jurisdicionado ao Presidente da Assembleia Legislativa terá por incumbência:\nI - os estudos concernentes à formulação de políticas e diretrizes legislativas ou institucionais, das linhas de ação ou suas alternativas e respectivos instrumentos normativos, quanto a planos, programas e projetos, políticas e ações governamentais;\nII - os estudos de viabilidade e análise de impactos, riscos e benefícios de natureza tecnológica, ambiental, econômica, social, política, jurídica, cultural, estratégica e de outras espécies em relação a tecnologias, planos, programas ou projetos, políticas ou ações governamentais de alcance setorial, regional ou nacional;\nIII - a produção documental de alta densidade crítica e especialização técnica ou científica que possa ser útil ao trato qualificado de matérias objeto de trâmite legislativo ou de interesse da Casa ou de suas Comissões.\nParágrafo único. O Centro de Estudos e Debates Estratégicos terá sua estrutura, interação, atribuições e funcionamento regulados por resolução própria."
+          }
+        },
+        {
+          "enunciado": "Sobre a soberania do Plenário e a contagem de prazos, assinale a alternativa CORRETA segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022).",
+          "alternativas": {
+            "A": "O Plenário poderá avocar matéria submetida à Mesa por voto da maioria dos membros presentes à sessão.",
+            "B": "Na contagem de prazos, inclui-se o dia ou sessão inicial e exclui-se o dia ou sessão do vencimento.",
+            "C": "A data da publicação é a primeira disponibilização no Diário Oficial da Assembleia ou no Sistema de Tramitação.",
+            "D": "Se forem realizadas várias sessões deliberativas no mesmo dia, todas serão computadas para fins de prazo.",
+            "E": "Os prazos regimentais continuarão a correr durante os períodos de recesso da Assembleia, salvo disposição contrária."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 341, § 1°, exige voto da maioria dos membros do Plenário, não apenas dos presentes.\nB) INCORRETA. O art. 342, § 1°, exclui o dia ou a sessão inicial e inclui o vencimento.\nC) CORRETA. O art. 342, § 5°, adota a primeira disponibilização entre os dois meios indicados.\nD) INCORRETA. O art. 342, § 3°, permite computar apenas a primeira sessão deliberativa do dia.\nE) INCORRETA. O art. 342, § 4°, estabelece suspensão dos prazos durante o recesso, salvo disposição em contrário.",
+          "base_legal": {
+            "dispositivo": "Art. 341, caput, § 1°; Art. 342, caput, §§ 1°, 3°, 4° e 5°",
+            "texto": "Art. 341. O Plenário da Assembleia Legislativa é soberano, e todos os atos da Mesa, de sua Presidência, bem como das Comissões, estão sujeitos ao seu império, observadas as Constituições Federal e Estadual e as leis.\n§ 1° O Plenário tem poder de avocar, pelo voto da maioria dos seus membros, toda e qualquer matéria ou ato submetido à Mesa, à Presidência ou à Comissão, para, sobre ele, deliberar.\nArt. 342. Salvo disposição em contrário, os prazos assinalados em dias ou sessões neste Regimento computar-se-ão, respectivamente, como dias corridos ou por sessões deliberativas da Assembleia Legislativa efetivamente realizadas; os fixados por mês ou por ano, contam-se de data a data.\n§ 1° Exclui-se do cômputo o dia ou sessão inicial e inclui-se o dia ou a sessão do vencimento.\n§ 3° Caso sejam realizadas várias sessões deliberativas no mesmo dia, será computada apenas a primeira delas para o fim da contagem de prazo.\n§ 4° Os prazos, salvo disposição em contrário, ficarão suspensos durante os períodos de recesso da Assembleia.\n§ 5° Para efeito de contagem de prazo considera-se data da publicação o dia da disponibilização da informação no Diário Oficial da Assembleia Legislativa ou no Sistema de Tramitação, prevalecendo o que ocorrer primeiro."
+          }
+        },
+        {
+          "enunciado": "Considerando as disposições finais do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "É vedado dar denominação de pessoas vivas a dependências ou edifícios da Assembleia Legislativa.",
+            "B": "O expediente administrativo da Assembleia ocorre de segunda a sexta-feira, das oito às dezesseis horas, ressalvados os gabinetes expressamente previstos.",
+            "C": "Os atos administrativos da Mesa e os de seus membros isoladamente só entram em vigor após publicação no Diário Oficial da Assembleia.",
+            "D": "O registro das Frentes Parlamentares ocorre perante a Mesa, exigindo-se associação suprapartidária de pelo menos um terço dos membros do Legislativo estadual.",
+            "E": "A transmissão ou gravação das sessões por rádio, televisão ou mídias digitais depende de autorização prévia do Presidente e das normas da Mesa."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 343 veda denominações de pessoas vivas para dependências ou edifícios.\nB) INCORRETA (gabarito). O art. 344 fixa o expediente das oito às quatorze horas, ressalvados os Gabinetes Civil e Militar e o Gabinete da Presidência.\nC) CORRETA (opção verdadeira). O art. 345 condiciona a vigência desses atos à publicação no Diário Oficial da Assembleia.\nD) CORRETA (opção verdadeira). O art. 346 e seu § 1° estabelecem o registro perante a Mesa e o mínimo de um terço dos membros.\nE) CORRETA (opção verdadeira). O art. 348 exige autorização prévia do Presidente e observância das normas fixadas pela Mesa.",
+          "base_legal": {
+            "dispositivo": "Arts. 343, 344 e 345; Art. 346, caput, § 1°; Art. 348",
+            "texto": "Art. 343. É vedado dar denominação de pessoas vivas a qualquer das dependências ou edifícios da Assembleia Legislativa.\nArt. 344. O expediente administrativo da Assembleia Legislativa é de segunda a sexta-feira, no horário de oito às quatorze horas, exceto em relação aos Gabinetes Civil e Militar e ao Gabinete da Presidência.\nArt. 345. Os atos administrativos da Mesa, bem como de seus membros, isoladamente, só entram em vigor após serem publicados no Diário Oficial da Assembleia Legislativa.\nArt. 346. O registro de Frentes Parlamentares será feito perante a Mesa da Assembleia Legislativa.\n§ 1° Considera-se Frente Parlamentar a associação suprapartidária de pelo menos um terço de membros do Poder Legislativo Estadual, destinada a promover o debate e o aprimoramento da legislação sobre determinado tema ou setor da sociedade.\nArt. 348. A transmissão por rádio, televisão ou mídias digitais, bem como gravação das sessões da Assembleia Legislativa, dependem de prévia autorização do Presidente e obedecerão às normas fixadas pela Mesa."
+          }
+        },
+        {
+          "enunciado": "À luz das disposições finais do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual alternativa está CORRETA?",
+          "alternativas": {
+            "A": "A legislatura de 2023 a 2027 é considerada a sexagésima da ordem geral de legislaturas do Parlamento paraense.",
+            "B": "O Conselho Geral da Província do Pará, reconhecido como precursor do Parlamento paraense, possuía Poder Legislativo.",
+            "C": "Poderão ser lotados até quatro servidores efetivos em cada gabinete parlamentar da Assembleia Legislativa.",
+            "D": "Em períodos excepcionais, a Assembleia poderá realizar sessões remotamente com dispensa de prazos e interstícios, mediante regulamentação por Ato da Mesa.",
+            "E": "As resoluções do Conselho Geral da Província eram encaminhadas diretamente à Assembleia Geral, sem intermediação do Presidente da Província e do Executivo."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 349, parágrafo único, considera a legislatura de 2023 a 2027 a 61ª, e não a 60ª.\nB) INCORRETA. O art. 350, I, afirma expressamente que o Conselho Geral não tinha Poder Legislativo.\nC) INCORRETA. O art. 351 fixa o máximo de três servidores efetivos em cada gabinete parlamentar.\nD) CORRETA. O art. 352 permite essas medidas em períodos excepcionais, inclusive de forma remota, mediante regulamentação por Ato da Mesa.\nE) INCORRETA. O art. 350, I, indica o encaminhamento por intermédio do Presidente da Província ao Executivo e deste à Assembleia Geral.",
+          "base_legal": {
+            "dispositivo": "Art. 349, caput, parágrafo único; Art. 350, caput, inciso I; Arts. 351 e 352",
+            "texto": "Art. 349. A Mesa, na designação da legislatura pelo respectivo número de ordem, tomará por base a que se iniciou em 1838, concluída em 1839, como o primeiro mandato legislativo cumprido por Deputados eleitos, sendo o Parlamento denominado, na época, de Assembleia Legislativa Provincial do Pará por força do art. 1° do Ato Adicional de 1834, que criou as Assembleias Legislativas Provinciais, em substituição aos Conselhos Gerais das Províncias que haviam sido instituídos pela Constituição Imperial, outorgada em 1824.\nParágrafo único. A legislatura de 2023 a 2027 é considerada a 61ª (sexagésima primeira) da ordem geral de legislaturas, cujos números, segundo as denominações do Parlamento paraense por período histórico, são os seguintes:\nArt. 350. A Assembleia Legislativa considera, para efeito de seu registro histórico, o Conselho Geral da Província do Pará como órgão precursor do Parlamento paraense, instalado em cumprimento da Lei, de 27 de agosto de 1828 que regulamentou, tardiamente, os Conselhos Gerais das Províncias criados pela Constituição do Império do Brasil, outorgada em 1824, sendo as seguintes as razões da precursão do Conselho:\nI - mesmo sem ter Poder Legislativo, suas resoluções, por força da Constituição Imperial de 1824, possuíam caráter propositivo, encaminhadas, por intermédio do Presidente da Província, diretamente ao Poder Executivo e por este à Assembleia Geral, composta pela Câmara dos Deputados e pelo Senado, que poderia propô-las como projetos de lei;\nArt. 351. Poderão ser lotados, no máximo, três servidores efetivos em cada gabinete parlamentar.\nArt. 352. A Assembleia Legislativa poderá realizar, nos termos do Art. 99, § 11 da Constituição Estadual, sessões deliberativas, ordinárias ou extraordinárias e quaisquer outras reuniões, bem como suas Comissões, com a dispensa de prazos e interstícios regimentais, em períodos excepcionais, tais como declaração de calamidade pública, situação de emergência e estado de sítio ou defesa, entre outros eventos assemelhados, inclusive de forma remota, mediante regulamentação por Ato da Mesa."
+          }
+        }
+      ]
     }
   ]
 }
