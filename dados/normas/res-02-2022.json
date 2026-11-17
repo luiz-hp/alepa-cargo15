@@ -2288,6 +2288,360 @@
           }
         }
       ]
+    },
+    {
+      "numero": 9,
+      "titulo": "Sessões: discussão, votação, redação final, outras sessões, questões de ordem e ata (arts. 123 a 166)",
+      "artigos": "Arts. 123 a 166",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "**Discussão:** abrange a proposição e suas emendas. Limite de **6 sessões** por turno, exceto projetos de código e lei orgânica. Fala: **10 minutos**, uma vez, prorrogável por até **2 minutos**, salvo urgência, segundo turno ou existência de **3 ou mais inscritos**."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Discussão",
+              "Adiamento: até **10 sessões**; urgência: **1/4**, até **3**."
+            ],
+            [
+              "Votação",
+              "Adiamento: até **5 sessões**; urgência: **1/4**, até **2**, com aprovação do **Plenário**."
+            ],
+            [
+              "Deliberação",
+              "**Maioria simples**; presença da **maioria absoluta**."
+            ],
+            [
+              "Redação",
+              "Ordinária: **10**; prioridade: **5**; urgência: **1+1** sessões."
+            ],
+            [
+              "Autógrafos",
+              "Assinados pelo **Presidente**; envio até a **2ª sessão** seguinte."
+            ],
+            [
+              "Especial",
+              "Antecedência mínima de **48 horas**."
+            ],
+            [
+              "Secreta",
+              "**1/3** ou Comissão: **Presidente**; Líder ou **1/5**: **Plenário**."
+            ],
+            [
+              "Ordem",
+              "Fala de **3 minutos**; recurso sem efeito suspensivo automático."
+            ],
+            [
+              "Ata",
+              "Revisão de discurso: **5 dias úteis**."
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "**Encerramento da discussão:** requerimento da **maioria absoluta** dos membros, após debate por pelo menos **10 oradores**. **Sessão extraordinária:** máximo de **4 horas**, sem sessões ordinárias nem funcionamento das Comissões Permanentes. **Sessões não deliberativas:** máximo de **2** por turno do dia."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Atenção:** adiamento da discussão urgente: até **3 sessões**; da votação urgente: até **2 sessões**. **Maioria simples** é regra de aprovação, mas exige presença da **maioria absoluta**. O recurso de **Questão de Ordem** não suspende automaticamente a decisão da Presidência."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre as disposições gerais da discussão, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A discussão abrange o conjunto da proposição e das emendas, quando houver.",
+            "B": "A discussão encerrada na legislatura anterior somente será reaberta mediante requerimento de Líder.",
+            "C": "A dispensa da discussão de proposição com todos os pareceres favoráveis depende de deliberação do Plenário, mediante requerimento de Líder.",
+            "D": "Os projetos de código e de lei orgânica não se submetem ao limite geral de seis sessões para discussão em cada turno.",
+            "E": "Com orador na tribuna, a Questão de Ordem pode ser suscitada com sua permissão, computando-se o tempo utilizado no do orador."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 123, parágrafo único, determina que a discussão abrange a proposição e suas emendas.\nB) INCORRETA (gabarito). O art. 124 determina que a discussão encerrada na legislatura anterior será sempre reaberta para receber novas emendas, sem exigir requerimento de Líder.\nC) CORRETA (opção verdadeira). O art. 125 exige pareceres favoráveis, requerimento de Líder e deliberação do Plenário.\nD) CORRETA (opção verdadeira). O art. 126 excepciona expressamente os projetos de código e de lei orgânica.\nE) CORRETA (opção verdadeira). O art. 127 admite Questão de Ordem com permissão do orador e determina que o tempo utilizado seja computado no tempo deste.",
+          "base_legal": {
+            "dispositivo": "Art. 123, parágrafo único; arts. 124, 125, 126 e 127",
+            "texto": "Art. 123. A discussão da matéria em Plenário, complementada pela votação, integra a deliberação parlamentar dentro da fase constitutiva do processo legislativo, conforme a alínea “b” do inciso II do art. 202.\nParágrafo único. A discussão será feita sobre o conjunto da proposição e das emendas, se houver.\nArt. 124. A discussão de proposição encerrada na legislatura anterior será sempre reaberta para receber novas emendas.\nArt. 125. A proposição com todos os pareceres favoráveis poderá ter a discussão dispensada por deliberação do Plenário, mediante requerimento de Líder.\nArt. 126. Excetuados os projetos de código e de lei orgânica, nenhuma matéria ficará inscrita na Ordem do Dia para discussão por mais de seis sessões, em cada turno ou turno único.\nArt. 127. Nenhum Deputado poderá solicitar a palavra quando houver orador na tribuna, exceto para requerer prorrogação de tempo da sessão, levantar Questão de Ordem ou fazer comunicação de natureza urgentíssima, sempre com permissão do orador, sendo o tempo usado, porém, computado no de que este dispõe."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno, quanto à inscrição dos debatedores e ao uso da palavra na discussão de proposições, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O Deputado pode inscrever-se para o debate perante a Mesa depois de iniciada a discussão da matéria.",
+            "B": "A permuta de inscrição entre Deputados depende de autorização expressa do Plenário.",
+            "C": "O Deputado ausente quando chamado mantém sua inscrição para a discussão seguinte.",
+            "D": "Em regra, cada Deputado só pode falar uma vez, por dez minutos, na discussão de qualquer proposição.",
+            "E": "Com três ou mais oradores inscritos, o Presidente poderá prorrogar por dois minutos a fala de cada um."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 129 exige inscrição junto à Mesa antes do início da discussão da respectiva matéria.\nB) INCORRETA. O art. 130 permite a permuta de inscrição entre Deputados, sem estabelecer autorização do Plenário como condição.\nC) INCORRETA. O art. 130 determina a perda definitiva da inscrição pelo Deputado ausente no momento da chamada.\nD) CORRETA. O art. 132 estabelece uma intervenção de dez minutos por Deputado, ressalvada expressa disposição regimental.\nE) INCORRETA. O art. 132, § 2°, proíbe a prorrogação quando houver três ou mais oradores inscritos.",
+          "base_legal": {
+            "dispositivo": "Arts. 129 e 130; art. 132, caput e §§ 1° e 2°",
+            "texto": "Art. 129. Os Deputados que desejarem discutir proposição incluída na Ordem do Dia devem inscrever-se previamente junto à Mesa, antes do início da discussão da respectiva matéria.\nArt. 130. É permitida a permuta de inscrição entre os Deputados, mas os que não se encontrarem presentes na hora da chamada perderão definitivamente a inscrição.\nArt. 132. O Deputado, salvo expressa disposição regimental, só poderá falar uma vez e pelo prazo de dez minutos na discussão de qualquer proposição, observadas, ainda, as restrições contidas nos parágrafos deste artigo.\n§ 1° Qualquer prazo para uso da palavra, salvo expressa proibição regimental, poderá ser prorrogado pelo Presidente, por dois minutos, no máximo, se não se tratar de proposição em regime de urgência ou em segundo turno.\n§ 2° Havendo três ou mais oradores inscritos para discussão da mesma proposição, não será concedida a prorrogação de tempo de que trata o parágrafo anterior."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno, no tocante aos apartes durante a discussão, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O aparte depende de solicitação e permissão do orador, devendo o Deputado, em regra, permanecer de pé.",
+            "B": "Não se admite aparte à palavra do Presidente da Assembleia.",
+            "C": "Não se admite aparte durante o encaminhamento de votação.",
+            "D": "O tempo empregado em apartes integra o tempo destinado ao orador.",
+            "E": "Os apartes irregulares serão publicados se o orador autorizar sua divulgação."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 134, § 1°, exige permissão do orador e estabelece a regra de permanecer de pé, com exceções para deficiência ou enfermidade.\nB) CORRETA (opção verdadeira). O art. 134, § 2°, I, veda aparte à palavra do Presidente.\nC) CORRETA (opção verdadeira). O art. 134, § 2°, III, proíbe aparte durante encaminhamento de votação.\nD) CORRETA (opção verdadeira). O art. 134, § 3°, inclui o tempo do aparte no tempo destinado ao orador.\nE) INCORRETA (gabarito). O art. 134, § 4°, determina que os apartes proferidos em desacordo com o Regimento não serão publicados.",
+          "base_legal": {
+            "dispositivo": "Art. 134, caput, §§ 1°, 2°, incisos I e III, 3° e 4°",
+            "texto": "Art. 134. Aparte é a interrupção, breve e oportuna, do orador para indagação, ou esclarecimento, relativos à matéria em debate.\n§ 1° O Deputado só poderá apartear o orador se lhe solicitar e obtiver permissão, devendo permanecer de pé ao fazê-lo, salvo se for portador de deficiência ou estiver enfermo, hipóteses que permitirão proferir o aparte de sua própria bancada.\n§ 2° Não será admitido aparte:\nI - à palavra do Presidente;\nIII - no pequeno expediente, no horário de Liderança, por ocasião de encaminhamento de votação e justificativa de voto;\n§ 3° Os apartes subordinam-se às disposições relativas à discussão, em tudo que lhes for aplicável, e incluem-se no tempo destinado ao orador.\n§ 4° Não serão publicados os apartes proferidos em desacordo com os dispositivos regimentais."
+          }
+        },
+        {
+          "enunciado": "Caso prático: antes do início da discussão de uma proposição em regime de urgência, um grupo que representa exatamente um quarto dos membros da Assembleia requer o adiamento por três sessões. De acordo com o Regimento Interno, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O requerimento é admissível, sujeitando-se à aprovação do Plenário para adiamento por três sessões.",
+            "B": "O pedido é inadmissível, pois o regime de urgência impede qualquer adiamento de discussão.",
+            "C": "O pedido será decidido exclusivamente pela Mesa Diretora, sem possibilidade de deliberação do Plenário.",
+            "D": "O pedido somente seria admissível se subscrito pela maioria absoluta dos membros da Assembleia.",
+            "E": "O pedido admite adiamento de até dez sessões, mesmo sob regime de urgência."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 135, caput e § 1°, admite excepcionalmente o adiamento de discussão urgente requerido por um quarto dos membros, por até três sessões, observada a deliberação aplicável.\nB) INCORRETA. O art. 135, § 1°, estabelece exceção à vedação de adiamento em regime de urgência.\nC) INCORRETA. O art. 135, caput, prevê decisão do Presidente ou requerimento de Deputado aprovado pelo Plenário, não competência exclusiva da Mesa Diretora.\nD) INCORRETA. O art. 135, § 1°, exige requerimento de um quarto dos membros, e não da maioria absoluta.\nE) INCORRETA. O art. 135, § 1°, limita o adiamento da discussão urgente a três sessões, afastando o limite geral de dez sessões.",
+          "base_legal": {
+            "dispositivo": "Art. 135, caput e § 1°",
+            "texto": "Art. 135. Antes de ser iniciada a discussão de uma proposição, será permitido o seu adiamento, por prazo não superior a dez sessões, mediante decisão do Presidente da Assembleia ou a requerimento de qualquer Deputado e aprovado pelo Plenário, observado em qualquer caso o disposto no inciso IX do art. 251 deste Regimento.\n§ 1° Não admite adiamento de discussão a proposição em regime de urgência, salvo se requerido por um quarto dos membros da Assembleia, por prazo não superior a três sessões."
+          }
+        },
+        {
+          "enunciado": "Nos termos do Regimento Interno, acerca do encerramento da discussão, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A discussão poderá ser encerrada pela ausência de oradores.",
+            "B": "O decurso dos prazos regimentais também pode determinar o encerramento da discussão.",
+            "C": "O requerimento de encerramento pode ser votado se subscrito por um terço dos membros, após debate por dez oradores.",
+            "D": "O encaminhamento da votação do encerramento admite um orador contra e um a favor, por cinco minutos cada.",
+            "E": "A aprovação do encerramento prejudica, na mesma sessão, requerimento de adiamento de votação, ressalvada reformulação de mérito do parecer pelo Relator."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 136, caput e § 1°, prevê encerramento por ausência de oradores.\nB) CORRETA (opção verdadeira). O art. 136, caput, prevê encerramento pelo decurso dos prazos regimentais.\nC) INCORRETA (gabarito). O art. 136, § 2°, exige subscrição pela maioria absoluta dos membros da Casa, além de discussão por pelo menos dez oradores.\nD) CORRETA (opção verdadeira). O art. 136, § 2°, admite encaminhamento por um orador contra e um a favor, com cinco minutos cada.\nE) CORRETA (opção verdadeira). O art. 136, § 3°, estabelece a prejudicialidade do adiamento da votação, ressalvada reformulação do parecer para alterar o mérito.",
+          "base_legal": {
+            "dispositivo": "Art. 136, caput e §§ 1°, 2° e 3°",
+            "texto": "Art. 136. O encerramento da discussão dar-se-á pela ausência de oradores, pelo decurso dos prazos regimentais ou por deliberação do Plenário.\n§ 1° Se não houver orador inscrito, declarar-se-á encerrada a discussão.\n§ 2° O requerimento de encerramento de discussão será submetido pelo Presidente à votação, desde que o pedido seja subscrito pela maioria absoluta dos membros da Casa, tendo sido a proposição discutida pelo menos por dez oradores. Será permitido o encaminhamento da votação, pelo prazo de cinco minutos, por um orador contra e um a favor.\n§ 3° A aprovação do requerimento de encerramento de discussão impede a apresentação ou implica a prejudicialidade, na mesma sessão, de requerimento de adiamento de votação, salvo se o Relator reformular o parecer para promover alterações de mérito."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, sobre as emendas apresentadas durante a discussão e o retorno de projetos às Comissões, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Encerrada a discussão de projeto com emendas, a matéria será enviada às Comissões competentes para apreciá-las.",
+            "B": "Publicados os pareceres das emendas no Sistema de Tramitação, a matéria poderá figurar na Ordem do Dia, respeitado o interstício regimental.",
+            "C": "A apreciação de matéria urgente observará as prescrições dos arts. 244 e 245 do Regimento.",
+            "D": "A dispensa de remessa às Comissões para apreciar emendas do Plenário exige requerimento de um quinto dos membros, ou Líderes que representem esse número.",
+            "E": "Projeto emendado pela Comissão de Fiscalização Financeira e Orçamentária poderá retornar à Comissão de Constituição e Justiça e de Redação Final, mediante requerimento aprovado."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 137, caput, determina a remessa às Comissões competentes após a discussão com apresentação de emendas, ressalvadas as regras pertinentes.\nB) CORRETA (opção verdadeira). O art. 137, § 1°, exige publicação dos pareceres no Sistema de Tramitação e observância do interstício regimental.\nC) CORRETA (opção verdadeira). O art. 137, § 2°, remete expressamente aos arts. 244 e 245 para apreciação de matéria urgente.\nD) INCORRETA (gabarito). O art. 137, § 3°, prevê requerimento de um décimo dos membros da Casa, ou Líderes que representem esse número, com aprovação da dispensa.\nE) CORRETA (opção verdadeira). O art. 137, § 4°, admite devolução à Comissão de Constituição e Justiça e de Redação Final mediante aprovação de requerimento com a subscrição exigida.",
+          "base_legal": {
+            "dispositivo": "Art. 137, caput e §§ 1° a 4°",
+            "texto": "Art. 137. Encerrada a discussão do projeto, com a apresentação de emendas, a matéria irá às Comissões que a devam apreciar, observado o que dispõem o art. 223, II e o § 1° do art. 189.\n§ 1° Publicados os pareceres sobre as emendas no Sistema de Tramitação, estará a matéria em condições de figurar em Ordem do Dia, obedecido o interstício regimental.\n§ 2° No caso da apreciação de matéria urgente se atentará para as prescrições dos arts. 244 e 245.\n§ 3° Não será feita a remessa do projeto às Comissões para a apreciação das emendas apresentadas em Plenário, desde que a dispensa seja aprovada pelos membros da Assembleia por requerimento de um décimo dos membros da Casa, ou Líderes que representem esse número.\n§ 4° O projeto constante da Ordem do Dia que durante a sua tramitação tiver sido emendado pelas Comissões de Mérito ou pela Comissão de Fiscalização Financeira e Orçamentária, poderá ser devolvido à Comissão de Constituição e Justiça e de Redação Final para a apreciação dos aspectos de competência desta, caso haja a aprovação de requerimento subscrito por dez por cento dos membros da Casa, ou Líderes que representem esse percentual."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno, acerca das regras gerais da votação, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Como regra, as deliberações ocorrem por maioria simples de votos, desde que presente um terço dos membros da Assembleia.",
+            "B": "O Deputado pode escusar-se de participar da votação, registrando simplesmente abstenção.",
+            "C": "Em votação secreta empatada, haverá nova votação, renovada em sessões posteriores se o empate persistir.",
+            "D": "Os votos em branco por cédulas e as abstenções eletrônicas são computados somente para efeito de quórum.",
+            "E": "A votação de uma proposição somente será interrompida por falta de quórum."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 141 exige a presença da maioria absoluta dos membros, salvo disposição constitucional ou regimental em contrário.\nB) CORRETA (opção verdadeira). O art. 138, § 2°, permite ao Deputado registrar abstenção.\nC) CORRETA (opção verdadeira). O art. 138, § 4°, determina nova votação secreta em caso de empate e renovações nas sessões seguintes, se necessário.\nD) CORRETA (opção verdadeira). O art. 141, parágrafo único, computa votos em branco por cédulas e abstenções eletrônicas somente para efeito de quórum.\nE) CORRETA (opção verdadeira). O art. 139 estabelece a falta de quórum como causa de interrupção da votação.",
+          "base_legal": {
+            "dispositivo": "Art. 138, caput e §§ 2° e 4°; art. 139; art. 141, caput e parágrafo único",
+            "texto": "Art. 138. A votação completa o turno regimental da discussão.\n§ 2° O Deputado poderá escusar-se de tomar parte na votação, registrando simplesmente \"abstenção\".\n§ 4° Havendo empate, em caso de escrutínio secreto, proceder-se-á à nova votação. Persistindo o empate, a votação será renovada na sessão seguinte e nas subsequentes, até que se dê o desempate.\nArt. 139. Só se interromperá a votação de uma proposição por falta de quórum.\nArt. 141. Salvo disposição constitucional ou regimental em contrário, as deliberações da Assembleia serão tomadas por maioria simples de votos, presente a maioria absoluta de seus membros, observando-se o disposto no art. 232 quanto às modalidades de quórum.\nParágrafo único. Os votos em branco que ocorrerem nas votações por meio de cédulas e as abstenções verificadas pelo sistema eletrônico só serão computados para efeito de quórum."
+          }
+        },
+        {
+          "enunciado": "No Regimento Interno, quanto às modalidades e aos processos de votação, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A votação ostensiva pode adotar o processo simbólico ou nominal.",
+            "B": "Após uma verificação de quórum em votação simbólica, outra só é permitida decorrida uma hora do requerimento anterior.",
+            "C": "Quando se exige quórum superior à maioria simples, a votação deve utilizar o processo simbólico.",
+            "D": "A listagem produzida em votação nominal será publicada juntamente com a ata da sessão.",
+            "E": "Na votação secreta eletrônica, apuram-se apenas os nomes dos votantes e o resultado final."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 142, I, admite os processos simbólico e nominal na votação ostensiva.\nB) CORRETA (opção verdadeira). O art. 143, § 2°, exige intervalo de uma hora do requerimento anterior para nova verificação de quórum.\nC) INCORRETA (gabarito). O art. 144, I, determina o processo nominal quando exigido quórum superior à maioria simples.\nD) CORRETA (opção verdadeira). O art. 145, § 2°, determina a publicação da listagem de votação com a ata.\nE) CORRETA (opção verdadeira). O art. 146, caput, estabelece que no escrutínio secreto se apuram apenas os nomes dos votantes e o resultado final.",
+          "base_legal": {
+            "dispositivo": "Art. 142, caput e inciso I; art. 143, caput e § 2°; art. 144, caput e inciso I; art. 145, caput e § 2°; art. 146, caput",
+            "texto": "Art. 142. A votação poderá ser:\nI - ostensiva, adotando-se o processo simbólico ou o nominal por meio do sistema eletrônico ou de cédulas;\nArt. 143. Pelo processo simbólico, que será utilizado na votação das proposições em geral, o Presidente, ao anunciar a votação de qualquer matéria, convidará os Deputados a se manifestarem, se contra ou a favor, proclamando na sequência o resultado manifesto dos votos.\n§ 2° Havendo-se procedido a uma verificação de quórum, outra só será permitida após o decurso de uma hora do requerimento anterior.\nArt. 144. O processo nominal será utilizado:\nI - nos casos em que seja exigido quórum superior à maioria simples de votos;\nArt. 145. A votação nominal far-se-á pelo sistema eletrônico de votos, obedecidas as instruções estabelecidas pela Mesa para sua utilização.\n§ 2° A listagem de votação será publicada juntamente com a ata da sessão.\nArt. 146. A votação por escrutínio secreto far-se-á pelo sistema eletrônico, nos termos do artigo precedente, apurando-se apenas os nomes dos votantes e o resultado final, nos seguintes casos:"
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, a respeito do processamento da votação de substitutivos e emendas, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Havendo mais de um substitutivo de Comissão, terá preferência o apresentado pela primeira Comissão.",
+            "B": "A aprovação do substitutivo conserva o projeto e as emendas a este oferecidas para votação posterior.",
+            "C": "Emendas com pareceres divergentes serão votadas em grupo, ainda que estejam destacadas.",
+            "D": "Na ordem de votação das emendas, as aditivas precedem as supressivas e as modificativas.",
+            "E": "As subemendas substitutivas têm preferência na votação em relação às emendas às quais se vinculam."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O art. 148, III, determina preferência pela ordem inversa de apresentação, prevalecendo o substitutivo da última Comissão.\nB) INCORRETA. O art. 148, IV, determina que a aprovação do substitutivo prejudica o projeto e suas emendas, ressalvadas as emendas ao substitutivo e os destaques.\nC) INCORRETA. O art. 147, § 2°, exige votação individual das emendas com pareceres divergentes e das emendas destacadas.\nD) INCORRETA. O art. 148, VIII, estabelece a votação das supressivas antes das demais espécies, deixando as aditivas por último.\nE) CORRETA. O art. 148, X, confere preferência às subemendas substitutivas sobre as respectivas emendas.",
+          "base_legal": {
+            "dispositivo": "Art. 147, caput e § 2°; art. 148, caput e incisos III, IV, VIII e X",
+            "texto": "Art. 147. A proposição, ou seu substitutivo, terá votação sempre no seu texto integral, ressalvada a matéria destacada ou deliberação diversa do Plenário.\n§ 2° A emenda que tenha pareceres divergentes e as emendas destacadas serão votadas uma a uma, conforme sua ordem e natureza.\nArt. 148. Além das regras contidas nos arts. 247, 251 e 252, serão obedecidas ainda na votação as seguintes normas de precedência ou preferência e prejudicialidade:\nIII - havendo mais de um substitutivo de Comissão, a preferência será regulada pela ordem inversa de sua apresentação, ou seja, prevalecerá o substitutivo apresentado pela última Comissão;\nIV - aprovado o substitutivo, ficam prejudicados o projeto e as emendas a este oferecidas, ressalvadas as emendas ao substitutivo e todos os destaques;\nVIII - dentre as emendas de cada grupo, oferecidas respectivamente ao substitutivo ou à proposição original, e as emendas destacadas, serão votadas, pela ordem, as supressivas, as aglutinativas, as substitutivas, as modificativas e, finalmente, as aditivas;\nX - as subemendas substitutivas têm preferência na votação sobre as respectivas emendas;"
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, quanto ao encaminhamento de votação, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Líder, ou Deputado por ele indicado, poderá encaminhar uma votação pelo prazo de cinco minutos, ressalvada disposição regimental contrária.",
+            "B": "Nas eleições, o encaminhamento de votação é permitido exclusivamente ao Líder por cinco minutos.",
+            "C": "O Autor da proposição também pode encaminhar a votação pelo mesmo prazo, cabendo a função ao primeiro signatário se houver vários.",
+            "D": "Salvo o Relator, nenhum Deputado poderá falar mais de uma vez no encaminhamento de proposição principal, substitutivo ou grupo de emendas.",
+            "E": "Não cabe encaminhamento na votação de requerimento para prorrogar a sessão nem para escolher processo de votação."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 149, caput, permite o encaminhamento pelo Líder ou por Deputado indicado, durante cinco minutos, salvo disposição contrária.\nB) INCORRETA (gabarito). O art. 149, § 4°, veda o encaminhamento de votação nas eleições.\nC) CORRETA (opção verdadeira). O art. 149, § 1°, assegura encaminhamento ao Autor ou, havendo vários subscritores, ao primeiro signatário.\nD) CORRETA (opção verdadeira). O art. 149, § 3°, limita a uma intervenção o encaminhamento por Deputado, ressalvado o Relator.\nE) CORRETA (opção verdadeira). O art. 149, § 7°, exclui encaminhamento nos requerimentos de prorrogação da sessão e de escolha de processo de votação.",
+          "base_legal": {
+            "dispositivo": "Art. 149, caput e §§ 1°, 3°, 4° e 7°",
+            "texto": "Art. 149. Anunciada uma votação, é lícito ao Líder, ou Deputado indicado por ele, encaminhá-la, salvo disposição regimental em contrário, pelo prazo de cinco minutos, a fim de esclarecer seus liderados sobre a orientação a seguir, ainda que se trate de matéria não sujeita à discussão, ou que esteja em regime de urgência.\n§ 1° Pelo mesmo prazo, o Autor da proposição poderá encaminhar a votação. Havendo vários subscritores, encaminhará o primeiro signatário.\n§ 3° Nenhum Deputado, salvo o Relator, poderá falar mais de uma vez, para encaminhar a votação de proposição principal, de substitutivo ou de grupo de emendas.\n§ 4° Não terão encaminhamento de votação as eleições.\n§ 7° Não caberá encaminhamento de votação nos requerimentos de prorrogação do tempo da sessão e para escolha de determinado processo de votação."
+          }
+        },
+        {
+          "enunciado": "À luz do Regimento Interno, sobre o adiamento da votação e a justificativa de voto, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O adiamento da votação pode ser requerido pelo Relator mesmo depois de iniciada a votação.",
+            "B": "O adiamento ordinário da votação poderá ser concedido duas vezes, por até cinco sessões cada.",
+            "C": "Em regime de urgência é vedado o adiamento da votação, ainda que um quarto dos membros o requeira.",
+            "D": "Na urgência, um quarto dos membros pode requerer ao Plenário adiamento da votação por até duas sessões.",
+            "E": "O Deputado que se absteve de votar poderá justificar a abstenção após a proclamação do resultado."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 150, caput, permite solicitar adiamento somente antes do início da votação.\nB) INCORRETA. O art. 150, § 1°, permite adiamento apenas uma vez, por prazo previamente fixado de até cinco sessões.\nC) INCORRETA. O art. 150, § 2°, prevê exceção à vedação de adiamento em regime de urgência.\nD) CORRETA. O art. 150, § 2°, admite requerimento de um quarto dos membros, por até duas sessões, condicionado à aprovação do Plenário.\nE) INCORRETA. O art. 150, § 4°, proíbe justificativa de voto quando o Deputado se absteve.",
+          "base_legal": {
+            "dispositivo": "Art. 150, caput e §§ 1° a 4°",
+            "texto": "Art. 150. O adiamento da votação de qualquer proposição só pode ser solicitado antes de seu início, mediante requerimento assinado por Líder, pelo Autor ou Relator da matéria e aprovado pelo Plenário, observado em qualquer caso o disposto no inciso IX do art. 251 deste Regimento.\n§ 1° O adiamento da votação só poderá ser concedido uma vez e por prazo previamente fixado, não superior a cinco sessões.\n§ 2° Não admite adiamento de votação a proposição em regime de urgência, salvo se aprovado pelo Plenário requerimento apresentado por um quarto dos membros da Assembleia ou Líderes que representem esse número, por prazo não excedente a duas sessões, observado o disposto no § 4° do art. 244.\n§ 3° Proclamado o resultado da votação, é permitido o uso da palavra, pelo prazo de cinco minutos, para justificativa de voto, salvo se a votação for secreta, ou se o tempo da parte da reunião tiver sido prorrogado.\n§ 4° Não cabe justificativa de voto se o Deputado se absteve de votar, bem como nas decisões sobre questão de ordem"
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno, quanto à redação de encerramento do primeiro turno e à redação final, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A redação de encerramento do primeiro turno incorpora as emendas aprovadas em Plenário ao texto da proposição.",
+            "B": "Nos projetos de reforma do Regimento Interno, a redação de encerramento do primeiro turno compete à Mesa.",
+            "C": "Para projetos em tramitação ordinária, a redação final será elaborada dentro de oito sessões.",
+            "D": "Em turno único, os projetos de leis orçamentárias seguem à Comissão de Fiscalização Financeira e Orçamentária para redação final.",
+            "E": "A redação final integra o turno em que se concluir a apreciação da matéria."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 151, caput, define a incorporação das emendas aprovadas ao texto da proposição.\nB) CORRETA (opção verdadeira). O art. 151, § 1°, I, atribui à Mesa a redação de encerramento do primeiro turno nos projetos de modificação ou reforma regimental.\nC) INCORRETA (gabarito). O art. 153 fixa dez sessões, e não oito, para elaboração da redação final em tramitação ordinária.\nD) CORRETA (opção verdadeira). O art. 152, II, a, encaminha os projetos de leis orçamentárias à Comissão de Fiscalização Financeira e Orçamentária.\nE) CORRETA (opção verdadeira). O art. 152, § 1°, considera a redação final parte integrante do turno em que se concluir a apreciação.",
+          "base_legal": {
+            "dispositivo": "Art. 151, caput, § 1°, inciso I; art. 152, caput, inciso II, alínea a, § 1°; art. 153",
+            "texto": "Art. 151. A redação de encerramento do primeiro turno é aquela formalizada, depois de terminada a votação em primeiro turno, com a inclusão das emendas aprovadas em Plenário ao texto da proposição original ou de Comissão, por elas alterado.\n§ 1° A redação de encerramento do primeiro turno será feita pela:\nI - Mesa, nos casos de projeto de modificação ou reforma do Regimento Interno, por projeto de resolução de iniciativa desta, de Deputados ou Comissão Permanente, conforme o art. 290;\nArt. 152. Concluída a fase da votação e, se for o caso, as providências do art. 151, as proposições serão encaminhadas para a redação final com as respectivas emendas aprovadas, inclusive a apresentação de emendas de redação, se necessário, observando-se quanto ao envio o seguinte:\nII - as proposições tramitadas em turno único serão enviadas:\na) à Comissão de Fiscalização Financeira e Orçamentária, em se tratando dos projetos de lei orçamentárias, consoante determina o inciso XIV do art. 282;\n§ 1° A redação final é parte integrante do turno em que se concluir a apreciação da matéria.\nArt. 153. A redação final será elaborada dentro de dez sessões para os projetos em tramitação ordinária, cinco sessões para os em regime de prioridade, e uma sessão, prorrogável por outra, excepcionalmente, por deliberação do Plenário, para os em regime de urgência, entre eles incluídas as propostas de emenda à Constituição."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, a respeito da aprovação da redação final, da correção do texto e dos autógrafos, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Incluída na Ordem do Dia, a redação final sem emendas ou retificações propostas considera-se definitivamente aprovada, sem votação.",
+            "B": "As emendas à redação final poderão ser apresentadas até a proclamação do resultado de sua votação pelo Plenário.",
+            "C": "Compete à Comissão de Constituição e Justiça e de Redação Final corrigir inexatidão identificada após a aprovação da redação final.",
+            "D": "O autógrafo deve ser encaminhado à sanção ou promulgação até a terceira sessão seguinte.",
+            "E": "Os autógrafos reproduzem exclusivamente redação final aprovada pelo Plenário, mesmo quando uma Comissão decide conclusivamente."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 154, § 4°, prevê aprovação definitiva sem votação quando não houver emendas ou retificações propostas.\nB) INCORRETA. O art. 154, § 1°, admite emendas à redação final somente até o início de sua votação pelo Plenário.\nC) INCORRETA. O art. 155 atribui à Mesa a correção de inexatidão verificada após a aprovação da redação final.\nD) INCORRETA. O art. 156 estabelece encaminhamento até a segunda sessão seguinte.\nE) INCORRETA. O art. 157 admite também redação final aprovada conclusivamente pela Comissão de Constituição e Justiça e de Redação Final.",
+          "base_legal": {
+            "dispositivo": "Art. 154, caput e §§ 1° e 4°; arts. 155, 156 e 157",
+            "texto": "Art. 154. A redação final será votada depois de publicada no Sistema de Tramitação, observado o interstício regimental disposto no § 1° do art. 238.\n§ 1° Só caberão emendas à redação final aprovada por um dos órgãos competentes, mencionados nos incisos do caput do art. 152, e até o início de sua votação pelo Plenário para evitar as incorreções a que se refere o § 2° do art. 152.\n§ 4° Figurando a redação final na Ordem do Dia, se não houver emendas ou retificações propostas, será considerada definitivamente aprovada, sem votação.\nArt. 155. Quando, após a aprovação de redação final, se verificar inexatidão do texto, a Mesa procederá à respectiva correção, da qual dará conhecimento ao Plenário e fará a devida comunicação ao Governador, se o projeto já tiver subido à sanção. Não havendo impugnação, considerar-se-á aceita a correção; em caso contrário, caberá a decisão ao Plenário.\nArt. 156. Autógrafo é o documento oficial, assinado pelo Presidente, que contém o texto da versão final de uma proposição, aprovada pela Assembleia ou por suas Comissões, encaminhado à sanção ou à promulgação, até a segunda sessão seguinte, observando-se os arts. 254 e 258, conforme o caso.\nArt. 157. Os autógrafos reproduzirão a redação final aprovada pelo Plenário, ou pela Comissão de Constituição e Justiça e de Redação Final, se conclusiva."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, sobre as sessões deliberativas extraordinárias, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Governador poderá convocar sessão extraordinária quando houver matéria urgente para deliberar.",
+            "B": "O Presidente poderá convocá-la em casos de estado de defesa, estado de sítio e para compromisso e posse do Governador e do Vice-Governador.",
+            "C": "A maioria dos membros poderá requerer a convocação em caso de urgência ou de interesse público relevante.",
+            "D": "Cada sessão extraordinária terá duração máxima de quatro horas, podendo ocorrer tantas quantas forem necessárias à matéria em pauta.",
+            "E": "Durante a sessão extraordinária, as Comissões Permanentes poderão funcionar, embora não se realizem sessões ordinárias."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 158, I, admite convocação pelo Governador diante de matéria urgente.\nB) CORRETA (opção verdadeira). O art. 158, II, inclui essas hipóteses de convocação pelo Presidente.\nC) CORRETA (opção verdadeira). O art. 158, III, admite requerimento da maioria dos membros em caso de urgência ou interesse público relevante.\nD) CORRETA (opção verdadeira). O art. 158, § 3°, estabelece duração máxima de quatro horas e possibilidade de tantas sessões quantas forem necessárias.\nE) INCORRETA (gabarito). O art. 158, § 4°, determina que as Comissões Permanentes não funcionarão durante a realização de sessão extraordinária.",
+          "base_legal": {
+            "dispositivo": "Art. 158, caput, incisos I, II e III e §§ 3° e 4°",
+            "texto": "Art. 158. Conforme prevê o art. 99, § 8° da Constituição Estadual, a convocação da Assembleia Legislativa para realizar sessão extraordinária só poderá ser feita:\nI - pelo Governador, havendo matéria urgente para deliberar;\nII - pelo seu Presidente, havendo assunto urgente para ser apreciado, e em caso de estado de defesa, estado de sítio, de intervenção federal ou de intervenção no Município, bem como para o compromisso e a posse do Governador e do Vice-Governador;\nIII - a requerimento da maioria de seus membros, em caso de urgência ou de interesse público relevante.\n§ 3° Cada sessão extraordinária terá a duração máxima de quatro horas e poderão ser realizadas tantas sessões extraordinárias quantas forem necessárias para discussão e aprovação da matéria em pauta, conforme prevê o § 10 do art. 99 da Constituição Estadual.\n§ 4° Durante a realização de sessão extraordinária não serão realizadas sessões ordinárias, nem funcionarão as Comissões Permanentes."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno, acerca das sessões não deliberativas, solenes e especiais, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "As sessões não deliberativas classificam-se como solenes ou especiais.",
+            "B": "Podem ser realizadas até três sessões não deliberativas no mesmo turno do dia.",
+            "C": "A entrega de títulos, comendas e medalhas ocorrerá em sessão solene.",
+            "D": "As sessões especiais serão convocadas em Plenário com antecedência mínima de quarenta e oito horas.",
+            "E": "A convocação de sessão especial poderá ocorrer por solicitação da Mesa Diretora ou por deliberação do Plenário a requerimento de Deputado ou Comissão."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 159, caput, estabelece as sessões solenes e especiais como espécies de sessões não deliberativas.\nB) INCORRETA (gabarito). O art. 159, parágrafo único, permite no máximo duas sessões no mesmo turno do dia.\nC) CORRETA (opção verdadeira). O art. 160, § 2°, determina que a entrega de títulos, comendas e medalhas ocorrerá em sessão solene.\nD) CORRETA (opção verdadeira). O art. 161, caput, exige convocação em Plenário com antecedência mínima de quarenta e oito horas.\nE) CORRETA (opção verdadeira). O art. 161, § 1°, admite convocação por solicitação da Mesa Diretora ou por deliberação do Plenário mediante requerimento de Deputado ou Comissão.",
+          "base_legal": {
+            "dispositivo": "Art. 159, caput e parágrafo único; art. 160, caput e § 2°; art. 161, caput e § 1°",
+            "texto": "Art. 159. As sessões não deliberativas serão solenes ou especiais.\nParágrafo único. Não poderão ser realizadas no mesmo turno do dia, manhã, tarde ou noite, mais de duas sessões, independentemente de serem solenes ou especiais.\nArt. 160. As Sessões Solenes são realizadas para importantes eventos, comemorações ou homenagens.\n§ 2° A entrega de títulos, comendas e medalhas ocorrerá em Sessão Solene.\nArt. 161. As Sessões Especiais são aquelas destinadas a um fim determinado, e convocadas, em Plenário, com antecedência mínima de quarenta e oito horas.\n§ 1° As sessões especiais serão convocadas por solicitação da Mesa Diretora, ou por deliberação do Plenário, a requerimento de Deputado ou Comissão."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno, sobre a convocação e o procedimento das sessões secretas, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O requerimento escrito de Comissão para sessão secreta é necessariamente decidido pelo Plenário.",
+            "B": "O requerimento de sessão secreta subscrito por Líder depende exclusivamente de decisão do Presidente.",
+            "C": "O debate preliminar sobre a conveniência do sigilo poderá ocupar até duas horas da sessão secreta.",
+            "D": "Antes do encerramento da sessão secreta, a ata será aprovada, lacrada com os documentos, datada, rubricada pelos membros da Mesa e recolhida ao Arquivo.",
+            "E": "Os servidores da Casa poderão acompanhar integralmente a sessão secreta, desde que integrem o quadro efetivo."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 162, I, atribui ao Presidente a decisão sobre requerimento escrito de Comissão.\nB) INCORRETA. O art. 162, II, exige deliberação do Plenário para requerimento subscrito por Líder.\nC) INCORRETA. O art. 163, § 1°, limita o debate preliminar sobre o sigilo à primeira hora.\nD) CORRETA. O art. 163, § 3°, determina aprovação da ata antes do encerramento, seu acondicionamento com os documentos em invólucro lacrado, etiquetado, datado e rubricado pelos membros da Mesa, com recolhimento ao Arquivo.\nE) INCORRETA. O art. 163, caput e § 5°, exige a saída dos servidores estranhos aos trabalhos e estabelece que somente Deputados poderão assistir às sessões secretas do Plenário, ressalvadas participações temporárias previstas.",
+          "base_legal": {
+            "dispositivo": "Art. 162, caput e incisos I e II; art. 163, caput e §§ 1°, 3° e 5°",
+            "texto": "Art. 162. Excepcionalmente as sessões poderão ser secretas, com a indicação precisa de seu objetivo:\nI - a requerimento escrito de Comissão, para tratar de matéria de sua competência, ou de, pelo menos, um terço da totalidade dos membros da Assembleia, devendo ser decidido pelo Presidente, mantendo o documento em sigilo até ulterior deliberação do Plenário;\nII - por deliberação do Plenário, quando o requerimento for subscrito por Líder ou um quinto dos membros da Assembleia Legislativa.\nArt. 163. Para iniciar-se a sessão secreta, o Presidente fará sair do recinto das tribunas, das galerias e das demais dependências anexas as pessoas estranhas aos trabalhos, inclusive os servidores da Casa, sem prejuízo de outras cautelas que a Mesa adotar no sentido de resguardar o sigilo.\n§ 1° Reunida a Assembleia em sessão secreta, deliberar-se-á, preliminarmente, se o assunto que motivou a convocação deve ser tratado sigilosa ou publicamente; tal debate, porém, não poderá exceder a primeira hora, nem cada Deputado ocupará a tribuna por mais de cinco minutos.\n§ 3° Antes do encerramento da sessão secreta, a ata respectiva será aprovada e, juntamente com os documentos que a ela se refiram, encerrada em invólucro lacrado, etiquetado, datado e rubricado pelos membros da Mesa, e recolhida ao Arquivo.\n§ 5° Só Deputados poderão assistir às sessões secretas do Plenário; as autoridades, quando convocadas, ou as testemunhas chamadas a depor participarão dessas sessões apenas durante o tempo necessário."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno, sobre formulação, decisão e recurso em Questão de Ordem, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O recurso contra decisão da Presidência sobre Questão de Ordem suspende automaticamente seus efeitos até o julgamento pelo Plenário.",
+            "B": "Durante a Ordem do Dia, só se admite Questão de Ordem diretamente relacionada à matéria nela incluída.",
+            "C": "O Deputado dispõe de até três minutos para formular Questão de Ordem e não pode falar mais de uma vez sobre ela.",
+            "D": "A Questão de Ordem é resolvida pelo Presidente da sessão após as manifestações do Autor e do primeiro Deputado que contra-argumentar.",
+            "E": "A Comissão de Constituição e Justiça e de Redação Final dispõe de até três sessões para se pronunciar sobre o recurso, apreciado pelo Plenário na sessão seguinte à publicação do parecer."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 164, § 7°, estabelece que o recurso ao Plenário não possui efeito suspensivo automático.\nB) CORRETA (opção verdadeira). O art. 164, § 1°, restringe a Questão de Ordem na Ordem do Dia à matéria nela incluída.\nC) CORRETA (opção verdadeira). O art. 164, § 2°, fixa três minutos e uma única intervenção para formulação da Questão de Ordem.\nD) CORRETA (opção verdadeira). O art. 164, § 6°, atribui a decisão ao Presidente após a manifestação do Autor e do primeiro Deputado que contra-argumentar.\nE) CORRETA (opção verdadeira). O art. 164, § 7°, fixa três sessões para manifestação da Comissão e determina apreciação pelo Plenário na sessão seguinte à publicação do parecer.",
+          "base_legal": {
+            "dispositivo": "Art. 164, caput e §§ 1°, 2°, 6° e 7°",
+            "texto": "Art. 164. Considera-se Questão de Ordem toda dúvida sobre a interpretação deste Regimento, na sua prática exclusiva ou relacionada com a Constituição Federal e a Constituição Estadual, suscitada verbalmente em qualquer fase da sessão.\n§ 1° Durante a Ordem do Dia só poderá ser levantada Questão de Ordem atinente diretamente à matéria que nela figure.\n§ 2° Nenhum Deputado poderá exceder o prazo de três minutos para formular Questão de Ordem, nem falar sobre ela mais de uma vez.\n§ 6° Depois de falar somente o Autor e outro Deputado que primeiro se apresente para contra-argumentar, a Questão de Ordem será resolvida pelo Presidente da sessão, não sendo lícito ao Deputado opor-se à decisão ou criticá-la na sessão em que for proferida.\n§ 7° O Deputado, em qualquer caso, poderá recorrer da decisão da Presidência para o Plenário, sem efeito suspensivo, ouvindo-se a Comissão de Constituição e Justiça e de Redação Final, que terá o prazo máximo de três sessões para se pronunciar. Publicado o parecer da Comissão, o recurso será submetido na sessão seguinte ao Plenário."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, no que diz respeito à ata das sessões e à publicação de discursos, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A ata da última sessão do ano legislativo só poderá ser aprovada com a presença da maioria absoluta dos Deputados.",
+            "B": "O Deputado poderá sustar a publicação do seu discurso para revisão por até três dias úteis.",
+            "C": "A ata da última sessão do ano legislativo é resumida e aprovada antes do encerramento, com qualquer número de Deputados.",
+            "D": "Os pedidos de retificação da ata serão decididos pela Mesa Diretora, sem decisão do Presidente.",
+            "E": "Erros e omissões de discursos serão corrigidos mediante reprodução integral do pronunciamento no Diário Oficial da Assembleia Legislativa."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 165, § 3°, permite a aprovação da ata da última sessão com qualquer número de Deputados.\nB) INCORRETA. O art. 166, § 2°, prevê cinco dias úteis, e não três, para sustar a publicação do discurso para revisão.\nC) CORRETA. O art. 165, § 3°, determina redação resumida e discussão e aprovação da ata antes do encerramento da última sessão, presente qualquer número de Deputados.\nD) INCORRETA. O art. 166, § 7°, atribui ao Presidente a decisão sobre pedidos de retificação da ata.\nE) INCORRETA. O art. 166, § 1°, proíbe a reprodução de discursos para corrigir erros e omissões, determinando a utilização da expressão \"Errata\".",
+          "base_legal": {
+            "dispositivo": "Art. 165, caput e § 3°; art. 166, caput e §§ 1°, 2° e 7°",
+            "texto": "Art. 165. Lavrar-se-á ata com a sinopse dos trabalhos de cada sessão, cuja redação obedecerá o padrão uniforme adotado pela Mesa.\n§ 3° A ata da última sessão, ao encerrar-se o ano legislativo, será redigida, em resumo, e submetida a discussão e aprovação, presente qualquer número de Deputados, antes do encerramento da sessão.\nArt. 166. O Diário Oficial da Assembleia Legislativa publicará a ata da sessão do dia anterior com toda a sequência dos trabalhos.\n§ 1° Os discursos proferidos durante a sessão serão publicados por extenso na ata, salvo expressas restrições regimentais. Não são permitidas as reproduções de discursos no Diário Oficial da Assembleia Legislativa com o fundamento de corrigir erros e omissões; as correções serão indicadas pela expressão \"Errata\".\n§ 2° Ao Deputado é lícito sustar a publicação do seu discurso na ata respectiva, por cinco dias úteis, para efeito de revisão. Caso o orador não informe as alterações pretendidas, no referido prazo, a Taquigrafia dará à publicação o texto nos termos originais.\n§ 7° Os pedidos de retificação da ata serão decididos pelo Presidente, na forma do § 1° do art. 116."
+          }
+        }
+      ]
     }
   ]
 }
