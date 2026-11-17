@@ -1990,6 +1990,304 @@
           }
         }
       ]
+    },
+    {
+      "numero": 8,
+      "titulo": "Sessões: disposições gerais, expedientes e Ordem do Dia (arts. 95 a 122)",
+      "artigos": "Arts. 95 a 122",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "As sessões são **deliberativas** (ordinárias e extraordinárias) ou **não deliberativas** (especiais e solenes). São **públicas**, admitindo-se excepcionalmente sessões secretas."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Parte",
+            "Duração"
+          ],
+          "linhas": [
+            [
+              "Pequeno",
+              "**15 minutos**"
+            ],
+            [
+              "Liderança",
+              "**40 minutos**"
+            ],
+            [
+              "Grande",
+              "**50 minutos**"
+            ],
+            [
+              "Ordem",
+              "**1h45min**"
+            ],
+            [
+              "Total",
+              "**3h30min**"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "**Abertura:** às **9h**, com pelo menos **1/10** dos Deputados, desprezada a fração. Sem quórum, aguarda-se **15 minutos**. **Ordem do Dia:** exige **maioria absoluta** dos Deputados em Plenário."
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "**Pequeno Expediente:** até **5 minutos** por orador, sem apartes ou cessão. **Liderança:** **5 minutos** por Líder, permitidas cessão e permuta. **Grande Expediente:** **10 minutos** por orador, com apartes e sem votação."
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "**Prorrogação:** máximo de **1 hora**; para votação da Ordem do Dia, exige **maioria absoluta**. **Pauta:** publicação até **24 horas** antes, ressalvadas urgências. **Presidente** organiza a Ordem do Dia; urgência precede prioridade e tramitação ordinária."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Três pegadinhas:** 1. Suspender a sessão **não prorroga** a Ordem do Dia. 2. A ata anterior é aprovada **independentemente de votação**. 3. A primeira sessão plenária do ano legislativo **não terá Ordem do Dia**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca da classificação das sessões e das atividades admitidas durante o recesso parlamentar, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "As sessões deliberativas da Assembleia Legislativa compreendem as sessões ordinárias e extraordinárias.",
+            "B": "As duas sessões preparatórias de 1º de fevereiro do primeiro ano da legislatura destinam-se, ambas, à posse dos Deputados.",
+            "C": "As sessões especiais e solenes são classificadas pelo Regimento Interno como sessões não deliberativas.",
+            "D": "Durante o recesso parlamentar, poderão ser realizadas sessões da Comissão Representativa, na forma regimental.",
+            "E": "As sessões da Assembleia Legislativa serão públicas, admitindo-se excepcionalmente a realização de sessões secretas."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 95, inciso I, classifica como deliberativas as sessões ordinárias e extraordinárias.\nB) INCORRETA (gabarito). O art. 95, parágrafo único, inciso II, prevê duas sessões preparatórias, sendo a primeira destinada à posse dos Deputados e a segunda à eleição e posse da Mesa Diretora do primeiro biênio.\nC) CORRETA (opção verdadeira). O art. 95, inciso II, classifica as sessões especiais e solenes como não deliberativas.\nD) CORRETA (opção verdadeira). O art. 95, parágrafo único, inciso VI, admite as sessões da Comissão Representativa durante o recesso parlamentar.\nE) CORRETA (opção verdadeira). O art. 96 estabelece a publicidade das sessões como regra, admitindo excepcionalmente sessões secretas.",
+          "base_legal": {
+            "dispositivo": "Arts. 95, incisos I e II e parágrafo único, incisos II e VI; 96",
+            "texto": "Art. 95. As sessões da Assembleia Legislativa, ocorridas durante os dois períodos de funcionamento de cada ano legislativo de que tratam os incisos I e II do § 1° do art. 2° deste Regimento, são:\nI - deliberativas: ordinárias e extraordinárias;\nII - não deliberativas: especiais e solenes.\nParágrafo único. No decorrer de cada período de recesso parlamentar constitucional só poderão ser realizadas, nos termos do que dispõe o § 2° do art. 2°:\nII - duas sessões preparatórias, no dia 1º de fevereiro do primeiro ano de cada legislatura, sendo a primeira para a posse dos Deputados e a segunda para a eleição e posse da Mesa Diretora do primeiro biênio;\nVI - as sessões da Comissão Representativa que funciona durante o recesso, em cumprimento ao que dispõe o § 5° do art. 101 da Constituição Estadual, com atuação na conformidade dos arts. 86 a 87 deste Regimento.\nArt. 96. As sessões serão públicas, mas excepcionalmente poderão ser secretas, nos termos do art. 162."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno, a respeito da suspensão e do encerramento antecipado das sessões ordinárias, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Presidente poderá determinar que a Ordem do Dia absorva o tempo destinado aos oradores do Grande Expediente.",
+            "B": "A conveniência da ordem constitui uma das hipóteses regimentais que autorizam a suspensão da sessão.",
+            "C": "O acordo das Lideranças em Plenário constitui fundamento para o encerramento da sessão antes do prazo previsto.",
+            "D": "A suspensão da sessão determina automaticamente a prorrogação do tempo destinado à Ordem do Dia.",
+            "E": "A ocorrência de tumulto grave constitui uma das hipóteses de encerramento antecipado da sessão."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 97 atribui ao Presidente a possibilidade de determinar a absorção do tempo do Grande Expediente pela Ordem do Dia.\nB) CORRETA (opção verdadeira). O art. 98, inciso I, prevê a conveniência da ordem como causa de suspensão.\nC) CORRETA (opção verdadeira). O art. 99, inciso IV, admite o encerramento antecipado por acordo das Lideranças em Plenário.\nD) INCORRETA (gabarito). O art. 98, § 2°, estabelece expressamente que a suspensão não determina a prorrogação do tempo da Ordem do Dia.\nE) CORRETA (opção verdadeira). O art. 99, inciso I, prevê o tumulto grave como hipótese de encerramento antecipado.",
+          "base_legal": {
+            "dispositivo": "Arts. 97; 98, inciso I e § 2°; 99, incisos I e IV",
+            "texto": "Art. 97. Nas sessões ordinárias, o Presidente da Assembleia Legislativa poderá determinar, a fim de adequá-la às necessidades da Casa, que a Ordem do Dia absorva o tempo destinado aos oradores do Grande Expediente.\nArt. 98. Poderá a sessão ser suspensa:\nI - por conveniência da ordem;\n§ 2° A suspensão da sessão não determina a prorrogação do tempo da Ordem do Dia.\nArt. 99. A sessão da Assembleia Legislativa só poderá ser encerrada, antes do prazo previsto para o término dos seus trabalhos, no caso de:\nI - tumulto grave;\nIV - acordo das Lideranças em Plenário."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), quanto à prorrogação da duração das sessões ordinárias, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A prorrogação não poderá superar uma hora e, quando destinada à votação da Ordem do Dia, exigirá a presença da maioria absoluta dos Deputados.",
+            "B": "O requerimento de prorrogação será submetido à votação nominal, sem discussão nem encaminhamento de votação.",
+            "C": "A duração da prorrogação poderá alcançar uma hora e trinta minutos quando houver matéria urgente a ser apreciada.",
+            "D": "A prorrogação somente poderá ser proposta mediante requerimento apresentado por um dos Líderes parlamentares.",
+            "E": "Depois de aprovada, a prorrogação poderá ter seu prazo reduzido antes do encerramento da discussão e votação da matéria."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 100, caput, limita a prorrogação a uma hora, enquanto o § 4° exige maioria absoluta dos Deputados quando destinada à votação da matéria da Ordem do Dia.\nB) INCORRETA. O art. 100, § 1°, determina a votação pelo processo simbólico, e não pelo nominal.\nC) INCORRETA. O art. 100, caput, estabelece duração nunca superior a uma hora, inclusive quando houver matéria urgente, situação contemplada no § 3°.\nD) INCORRETA. O art. 100, caput, permite a prorrogação pelo Presidente, de ofício, ou por deliberação do Plenário, a requerimento de qualquer Deputado.\nE) INCORRETA. O art. 100, § 6°, impede a redução do prazo aprovado, salvo quando encerrada a discussão e votação da matéria em debate.",
+          "base_legal": {
+            "dispositivo": "Art. 100, caput e §§ 1°, 3°, 4° e 6°",
+            "texto": "Art. 100. O prazo da duração da sessão poderá ser prorrogado pelo Presidente, de ofício ou por deliberação do Plenário, a requerimento de qualquer Deputado, por tempo nunca superior a uma hora, para continuar a discussão e votação da matéria da Ordem do Dia.\n§ 1° O requerimento de prorrogação, prefixará o seu prazo, não terá discussão nem encaminhamento de votação e será votado pelo processo simbólico.\n§ 3° Havendo matéria urgente, o Presidente poderá deferir requerimento de prorrogação da sessão.\n§ 4° A prorrogação destinada à votação da matéria da Ordem do Dia só poderá ser concedida com a presença da maioria absoluta dos Deputados.\n§ 6° Aprovada a prorrogação, não lhe poderá ser reduzido o prazo, salvo se encerrada a discussão e votação da matéria em debate."
+          }
+        },
+        {
+          "enunciado": "Considerando as regras de manutenção da ordem, do respeito e da austeridade nas sessões estabelecidas pelo Regimento Interno, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O público poderá assistir às sessões nas galerias circundantes, mantida a incomunicabilidade com o recinto do Plenário.",
+            "B": "O Presidente falará sentado, enquanto os demais Deputados falarão de pé, salvo impossibilidade física.",
+            "C": "O Deputado utilizará os microfones de apartes para apartear, ressalvados os casos regimentais ou a autorização especial do Presidente.",
+            "D": "O Presidente poderá censurar oralmente o Deputado que perturbar a ordem ou o andamento regimental da sessão.",
+            "E": "Os taquígrafos poderão continuar registrando o discurso mesmo depois de o Presidente tê-lo declarado encerrado."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 101, inciso IV, franqueia o acesso do público às galerias e preserva a incomunicabilidade com o Plenário.\nB) CORRETA (opção verdadeira). O art. 101, inciso VI, estabelece as posições dos oradores e ressalva a impossibilidade física.\nC) CORRETA (opção verdadeira). O art. 101, inciso VII, disciplina a utilização dos microfones de apartes e suas exceções.\nD) CORRETA (opção verdadeira). O art. 101, inciso XII, autoriza a censura oral e, conforme a gravidade, a aplicação das sanções regimentais.\nE) INCORRETA (gabarito). O art. 101, inciso XI, determina que os taquígrafos deixem de registrar o discurso declarado findo pelo Presidente, com desligamento do microfone.",
+          "base_legal": {
+            "dispositivo": "Art. 101, incisos IV, VI, VII, XI e XII",
+            "texto": "Art. 101. Para a manutenção da ordem, respeito e austeridade das sessões, serão observadas as seguintes regras:\nIV - ao público será franqueado o acesso às galerias circundantes para assistir às sessões, mantendo-se a incomunicabilidade da assistência com o recinto do Plenário;\nVI - o Presidente falará sentado e os demais Deputados de pé, a não ser que fisicamente impossibilitados;\nVII - o Deputado deverá falar da tribuna, porém, para apartear, levantar Questão de Ordem ou recorrer, usará os microfones de apartes, salvo nos casos previstos neste Regimento, ou mediante autorização especial do Presidente;\nXI - sempre que o Presidente der por findo o discurso, os taquígrafos deixarão de registrá-lo e o respectivo microfone será desligado;\nXII - se o Deputado perturbar a ordem ou o andamento regimental da sessão, o Presidente poderá censurá-lo oralmente ou, conforme a gravidade, promover a aplicação das sanções previstas neste Regimento;"
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, relativamente ao encaminhamento de discurso escrito por Deputado inscrito que não tenha conseguido falar, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "No Pequeno Expediente, o discurso escrito poderá conter até cinco laudas digitadas em espaço dois.",
+            "B": "O discurso escrito destinado ao Pequeno Expediente poderá resultar da transcrição integral de outra matéria.",
+            "C": "O Deputado inscrito que não puder falar, quando lhe for concedida a palavra, encaminhará discurso escrito à Mesa para publicação, dispensada sua leitura.",
+            "D": "Os discursos escritos admitidos serão publicados conforme a ordem cronológica das inscrições dos Deputados.",
+            "E": "O discurso escrito que descumprir as condições estabelecidas será publicado depois de informado o Autor."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 105, inciso I, limita o discurso escrito do Pequeno Expediente a três laudas digitadas em espaço dois.\nB) INCORRETA. O art. 105, inciso I, exige que os discursos admitidos não resultem em transcrição de qualquer matéria.\nC) CORRETA. O art. 105, caput, prevê o encaminhamento de discurso escrito à Mesa, dispensando sua leitura.\nD) INCORRETA. O art. 105, inciso II, determina a publicação pela ordem de entrega, e não pela ordem de inscrição.\nE) INCORRETA. O art. 105, inciso II, estabelece que o Autor será informado de que o discurso não será admitido quando descumpridas as condições do inciso anterior.",
+          "base_legal": {
+            "dispositivo": "Art. 105, caput e incisos I e II",
+            "texto": "Art. 105. Ao ser-lhe concedida a palavra, o Deputado que, inscrito, não puder falar, encaminhará à Mesa discurso escrito para ser publicado, dispensando-se a leitura, observadas as seguintes normas:\nI - se a inscrição houver sido para o Pequeno Expediente, serão admitidos, na conformidade deste artigo, discursos que não resultem em transcrição de qualquer matéria e desde que não ultrapasse, cada um, três laudas digitadas em espaço dois;\nII - a publicação será feita pela ordem de entrega e, quando desatender às condições fixadas no inciso anterior, o Autor será informado que o discurso não será admitido."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a duração e a composição das sessões ordinárias, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Horário de Liderança tem duração normal de cinquenta minutos dentro da estrutura da sessão ordinária.",
+            "B": "O Pequeno Expediente possui duração de quinze minutos na composição das sessões ordinárias.",
+            "C": "O Grande Expediente compreende cinquenta minutos dentro da duração normal da sessão ordinária.",
+            "D": "A Ordem do Dia possui duração de uma hora e quarenta e cinco minutos.",
+            "E": "A sessão ordinária possui duração normal de três horas e trinta minutos, dividida em quatro partes."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 107, inciso II, fixa quarenta minutos para o Horário de Liderança, e não cinquenta.\nB) CORRETA (opção verdadeira). O art. 107, inciso I, destina quinze minutos ao Pequeno Expediente.\nC) CORRETA (opção verdadeira). O art. 107, inciso III, estabelece cinquenta minutos para o Grande Expediente.\nD) CORRETA (opção verdadeira). O art. 107, inciso IV, atribui uma hora e quarenta e cinco minutos à Ordem do Dia.\nE) CORRETA (opção verdadeira). O art. 107, caput, prevê duração normal de três horas e trinta minutos e composição em quatro partes.",
+          "base_legal": {
+            "dispositivo": "Art. 107, caput e incisos I a IV",
+            "texto": "Art. 107. As Sessões Ordinárias terão a duração normal de três horas e trinta minutos, compondo-se de quatro partes:\nI - Pequeno Expediente, com duração de quinze minutos;\nII - Horário de Liderança, com duração de quarenta minutos;\nIII - Grande Expediente, com duração de cinquenta minutos;\nIV - Ordem do Dia, com duração de uma hora e quarenta e cinco minutos."
+          }
+        },
+        {
+          "enunciado": "Caso prático. Em determinada sessão ordinária, às nove horas, não se verifica na Casa a presença de pelo menos a décima parte do número total de Deputados, desprezada a fração. O Presidente aguarda quinze minutos, mas a falta de quórum persiste. Conforme o Regimento Interno, qual providência deverá adotar?",
+          "alternativas": {
+            "A": "Declarar aberta a sessão e transferir o período destinado ao expediente para a Ordem do Dia.",
+            "B": "Aguardar vinte minutos para completar o quórum, descontando o retardamento do tempo destinado ao expediente.",
+            "C": "Declarar que não pode haver sessão e determinar a atribuição de falta aos ausentes para os efeitos legais.",
+            "D": "Declarar aberta a sessão mesmo com presença inferior à décima parte do número total de Deputados.",
+            "E": "Declarar que não pode haver sessão, dispensando a atribuição de falta aos Deputados ausentes."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 108, § 3°, determina que não pode haver sessão quando persistir a falta de quórum após a espera regimental.\nB) INCORRETA. O art. 108, § 3°, prevê espera de quinze minutos, com retardamento deduzido do tempo destinado ao expediente.\nC) CORRETA. O art. 108, § 3°, determina que o Presidente declare que não pode haver sessão e atribua falta aos ausentes para os efeitos legais.\nD) INCORRETA. O art. 108, § 2°, condiciona a abertura da sessão à presença de pelo menos a décima parte do número total de Deputados, desprezada a fração.\nE) INCORRETA. O art. 108, § 3°, determina a atribuição de falta aos ausentes quando persistir a insuficiência de quórum.",
+          "base_legal": {
+            "dispositivo": "Art. 108, caput e §§ 2° e 3°",
+            "texto": "Art. 108. Às nove horas, os membros da Mesa e os Deputados ocuparão os seus lugares.\n§ 2° Achando-se presente na Casa pelo menos a décima parte do número total de Deputados, desprezada a fração, o Presidente declarará aberta a sessão, proferindo as seguintes palavras: \"INVOCANDO A PROTEÇÃO DE DEUS E EM NOME DO POVO PARAENSE, INICIAMOS NOSSOS TRABALHOS\".\n§ 3° Não se verificando o quórum de presença, o Presidente aguardará, durante quinze minutos, que ele se complete, sendo o retardamento deduzido do tempo destinado ao expediente. Se persistir a falta de número, o Presidente declarará que não pode haver sessão, determinando a atribuição de falta aos ausentes para os efeitos legais."
+          }
+        },
+        {
+          "enunciado": "Conforme as disposições do Regimento Interno relativas ao Pequeno Expediente das sessões ordinárias, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Pequeno Expediente possui duração improrrogável de quinze minutos, contados do início regimental da sessão.",
+            "B": "As inscrições dos oradores são feitas eletronicamente, a partir das nove horas, em ordem cronológica.",
+            "C": "A inscrição do Deputado será cancelada quando ele estiver ausente no momento em que for chamado.",
+            "D": "No Pequeno Expediente não serão admitidos requerimentos de verificação de presença nem Questão de Ordem.",
+            "E": "Cada orador poderá falar por até cinco minutos, sendo admitida a cessão de seu tempo a outro Deputado."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 109 fixa duração improrrogável de quinze minutos, contados do início regimental da sessão.\nB) CORRETA (opção verdadeira). O art. 110, § 1°, estabelece inscrição eletrônica a partir das nove horas, seguindo a ordem cronológica.\nC) CORRETA (opção verdadeira). O art. 110, § 2°, determina o cancelamento da inscrição quando o Deputado estiver ausente ao ser chamado.\nD) CORRETA (opção verdadeira). O art. 111 veda requerimentos de verificação de presença e Questão de Ordem no Pequeno Expediente.\nE) INCORRETA (gabarito). O art. 110, caput, permite até cinco minutos por orador, mas proíbe expressamente a cessão do tempo.",
+          "base_legal": {
+            "dispositivo": "Arts. 109; 110, caput e §§ 1° e 2°; 111",
+            "texto": "Art. 109. O Pequeno Expediente terá a duração improrrogável de quinze minutos, contados do início regimental da sessão.\nArt. 110. O Presidente dará a palavra aos Deputados previamente inscritos, ou, na falta destes, aos que a solicitarem, para versar assunto de livre escolha, facultada a apresentação de proposições, não podendo, cada orador, ultrapassar o prazo de cinco minutos, proibidos os apartes e a cessão do tempo.\n§ 1° As inscrições dos oradores far-se-ão eletronicamente, nos terminais disponíveis nas Bancadas de cada Deputado, a partir das nove horas, em ordem cronológica.\n§ 2° A inscrição será cancelada se o Deputado desistir ou estiver ausente no momento em que for chamado.\nArt. 111. No Pequeno Expediente não será admitido requerimentos de verificação de presença, nem Questão de Ordem."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), relativamente ao Horário de Liderança, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Líder inscrito poderá indicar outro Deputado de sua Bancada para utilizar o Horário da Liderança.",
+            "B": "Cada Líder poderá fazer uso da palavra pelo prazo individual de dez minutos.",
+            "C": "Nesse horário, são admitidas comunicações inadiáveis e urgentes, sendo proibidos os apartes.",
+            "D": "As inscrições dos Líderes são realizadas diariamente, por meio eletrônico, a partir das nove horas, em ordem cronológica.",
+            "E": "Durante o Horário de Liderança, são permitidas a cessão do tempo e a permuta da ordem de inscrição."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 112, § 4°, faculta ao Líder inscrito indicar outro Deputado de sua Bancada para utilizar o Horário da Liderança.\nB) INCORRETA (gabarito). O art. 112, § 1°, estabelece cinco minutos para cada Líder, e não dez.\nC) CORRETA (opção verdadeira). O art. 112, § 2°, destina o horário às comunicações indicadas e proíbe apartes.\nD) CORRETA (opção verdadeira). O art. 112, § 3°, determina inscrições diárias nos terminais disponíveis nas Bancadas, a partir das nove horas, em ordem cronológica.\nE) CORRETA (opção verdadeira). O art. 112, § 5°, permite expressamente a cessão do tempo e a permuta da ordem de inscrição.",
+          "base_legal": {
+            "dispositivo": "Art. 112, caput e §§ 1°, 2°, 3°, 4° e 5°",
+            "texto": "Art. 112. Às nove horas e quinze minutos, ou esgotada a matéria do Pequeno Expediente, passar-se-á ao Horário de Liderança, que terá a duração máxima de quarenta minutos, improrrogáveis.\n§ 1° Cada Líder poderá falar por cinco minutos.\n§ 2° Este horário é destinado ao Líder de Partido, de Bloco Parlamentar, de Federação, da Oposição ou do Governo para fazer comunicações inadiáveis e urgentes e responder a críticas à política que defendam, proibidos os apartes.\n§ 3° Para falar neste horário, os Líderes se inscreverão, diariamente, nos terminais disponíveis nas Bancadas de cada Deputado, a partir das nove horas, em ordem cronológica.\n§ 4° É facultado ao Líder, se estiver inscrito, indicar outro Deputado de sua Bancada para usar o Horário da Liderança, podendo os líderes de Governo ou da Oposição indicar um dos respectivos Vice-Líderes.\n§ 5° É permitida a cessão do tempo e a permuta da ordem de inscrição."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno, quanto à utilização da palavra e à apresentação de proposições durante o Grande Expediente, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O Deputado poderá usar a palavra duas vezes no Grande Expediente quando pretender abordar assuntos diferentes.",
+            "B": "Os apartes são proibidos durante a manifestação dos Deputados que utilizarem a palavra no Grande Expediente.",
+            "C": "A votação de proposições é permitida no Grande Expediente quando houver autorização do Presidente da sessão.",
+            "D": "Ao último orador que não tenha esgotado seu prazo é garantido continuar com a palavra na sessão seguinte para completá-lo.",
+            "E": "O Deputado que não falar por duas sessões consecutivas, em razão de ausência ou adiamento, terá sua inscrição cancelada."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 114, caput, proíbe o uso da palavra mais de uma vez nessa fase dos trabalhos, qualquer que seja o argumento invocado.\nB) INCORRETA. O art. 114, caput, admite expressamente os apartes durante o Grande Expediente.\nC) INCORRETA. O art. 114, § 1°, veda qualquer votação nessa oportunidade.\nD) CORRETA. O art. 114, § 2°, garante ao último orador a continuação da fala na sessão seguinte para completar seu prazo não esgotado.\nE) INCORRETA. O art. 114, § 7°, estabelece cancelamento após três sessões consecutivas sem uso da palavra por ausência ou adiamento.",
+          "base_legal": {
+            "dispositivo": "Art. 114, caput e §§ 1°, 2° e 7°",
+            "texto": "Art. 114. Para falar no Grande Expediente será dada a palavra ao Deputado previamente inscrito, obedecida a ordem cronológica, pelo prazo de dez minutos, improrrogáveis, que abordará assunto de sua livre escolha, admitidos apartes, não lhe sendo permitido falar, nesta fase dos trabalhos, por mais de uma vez, qualquer que seja o argumento invocado.\n§ 1° Nessa oportunidade é facultado aos oradores a apresentação de proposições, e vedada, todavia, qualquer votação.\n§ 2° Ao último orador do Grande Expediente que não tenha esgotado o seu prazo é garantido continuar com a palavra na sessão seguinte para completar o seu tempo.\n§ 7° O Deputado que por três sessões consecutivas não fizer uso da palavra por estar ausente ou ter pedido adiamento, terá cancelada a inscrição."
+          }
+        },
+        {
+          "enunciado": "Considerando o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca das inscrições e da organização do Grande Expediente, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Grande Expediente começa às nove horas e cinquenta e cinco minutos, ou quando se esgota o tempo do Horário de Liderança.",
+            "B": "As inscrições dos oradores são realizadas eletronicamente, em ordem cronológica, no decorrer das sessões.",
+            "C": "O Deputado poderá fazer nova inscrição antes de utilizar a palavra, ceder sua vez, desistir dela ou ter cancelada a inscrição anterior.",
+            "D": "A inscrição transferida para outra sessão por ausência ou pedido de adiamento permanecerá na mesma ordem cronológica.",
+            "E": "A Assembleia poderá destinar o Grande Expediente a comemorações de alta significação, por decisão do Presidente ou deliberação do Plenário."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 113 prevê o início às nove horas e cinquenta e cinco minutos, ou quando esgotado o tempo do Horário de Liderança.\nB) CORRETA (opção verdadeira). O art. 114, § 3°, determina inscrição eletrônica em ordem cronológica no decorrer das sessões.\nC) INCORRETA (gabarito). O art. 114, § 4°, somente admite nova inscrição depois que o Deputado tenha usado a palavra, cedido sua vez, desistido dela ou tido sua inscrição cancelada.\nD) CORRETA (opção verdadeira). O art. 114, § 8°, preserva a ordem cronológica da inscrição transferida por ausência ou pedido de adiamento.\nE) CORRETA (opção verdadeira). O art. 114, § 11, admite comemorações de alta significação no Grande Expediente, por decisão do Presidente ou deliberação do Plenário.",
+          "base_legal": {
+            "dispositivo": "Arts. 113; 114, caput e §§ 3°, 4°, 8° e 11",
+            "texto": "Art. 113. Às nove horas e cinquenta e cinco minutos, ou esgotada o tempo do Horário de Liderança, passar-se-á ao Grande Expediente, que terá a duração de cinquenta minutos, improrrogáveis.\nArt. 114. Para falar no Grande Expediente será dada a palavra ao Deputado previamente inscrito, obedecida a ordem cronológica, pelo prazo de dez minutos, improrrogáveis, que abordará assunto de sua livre escolha, admitidos apartes, não lhe sendo permitido falar, nesta fase dos trabalhos, por mais de uma vez, qualquer que seja o argumento invocado.\n§ 3° As inscrições dos oradores far-se-ão eletronicamente, nos terminais disponíveis nas Bancadas de cada Deputado, em ordem cronológica, no decorrer das sessões.\n§ 4° Somente será admitida nova inscrição ao Deputado depois de haver usado a palavra, cedido a sua vez, dela desistido ou tiver cancelada sua inscrição.\n§ 8° A inscrição que for transferida para outra sessão por ausência do Deputado ou em decorrência de pedido de adiamento, permanecerá na mesma ordem cronológica.\n§ 11. A Assembleia Legislativa poderá destinar o Grande Expediente para comemorações de alta significação, ou interromper os trabalhos para a recepção, em Plenário, de altas personalidades, desde que assim resolva o Presidente ou delibere o Plenário."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, quanto ao quórum da Ordem do Dia e à aprovação e retificação da ata da sessão anterior, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Após constatado o quórum exigido para a Ordem do Dia, a ata da sessão anterior será considerada aprovada independentemente de votação.",
+            "B": "A discussão e a votação das matérias da Ordem do Dia poderão começar com a presença da maioria simples dos Deputados.",
+            "C": "Um novo pedido de verificação de quórum poderá ser formulado durante o debate, mesmo sem matéria colocada em votação.",
+            "D": "O Deputado que pretender retificar a ata enviará à Mesa declaração oral, cabendo recurso ao Plenário.",
+            "E": "O registro eletrônico de presença será encerrado imediatamente após a abertura da Ordem do Dia."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 116, caput, determina a aprovação da ata anterior independentemente de votação, após constatado o quórum do art. 115.\nB) INCORRETA. O art. 115, caput, exige a presença da maioria absoluta dos Deputados em Plenário, constatada eletronicamente.\nC) INCORRETA. O art. 115, § 1°, somente permite novo pedido de verificação de quórum se alguma matéria for colocada em votação.\nD) INCORRETA. O art. 116, § 1°, exige declaração escrita enviada à Mesa, cabendo recurso ao Plenário.\nE) INCORRETA. O art. 115, § 4°, mantém o registro eletrônico de presença aberto até o final da Ordem do Dia.",
+          "base_legal": {
+            "dispositivo": "Arts. 115, caput e §§ 1° e 4°; 116, caput e § 1°",
+            "texto": "Art. 115. Terminado o Grande Expediente, pelo esgotamento do tempo, às dez horas e quarenta e cinco minutos, ou, antes desse horário, por falta de orador, passar-se-á à deliberação parlamentar compreendida pela discussão e votação das matérias constantes da Ordem do Dia, durante uma hora e quarenta e cinco minutos, depois de constatada, pelo Presidente, por meio do sistema eletrônico, a presença, em Plenário, da maioria absoluta dos Deputados.\n§ 1° Um novo pedido de verificação de quórum só poderá ser formulado, por qualquer Deputado, se alguma matéria for colocada em votação.\n§ 4° O registro eletrônico de presença ficará aberto até o final da Ordem do Dia.\nArt. 116. Após constatado o quórum previsto no caput do art. 115, o Presidente anunciará que a ata da sessão anterior, lavrada nos termos dos arts. 165 e 166, está inserida no Sistema de Tramitação ou, por excepcionalidade, previamente distribuída impressa em meio físico, e, independentemente de votação, será considerada aprovada.\n§ 1° O Deputado que pretender retificar a ata enviará à Mesa declaração escrita que será inserta em ata, e o Presidente dará, se julgar conveniente, as necessárias explicações pelas quais a tenha considerado procedente, ou não, cabendo recurso ao Plenário;"
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), a respeito dos procedimentos que antecedem a deliberação parlamentar e das regras da Ordem do Dia, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Antes da discussão e votação das proposições, o Secretário realizará a leitura das ementas dos projetos apresentados.",
+            "B": "Durante a Ordem do Dia, somente poderão ser formuladas questões de ordem pertinentes à matéria em debate e votação.",
+            "C": "As Comissões Permanentes poderão pedir ao Presidente a retirada de proposição que devam conhecer e que não lhes tenha sido distribuída.",
+            "D": "A primeira sessão plenária de cada ano legislativo terá Ordem do Dia especificamente destinada à instalação dos trabalhos.",
+            "E": "A deliberação parlamentar observará regras relativas à redação final, que integra o turno em que se concluir a votação de cada matéria."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 117, inciso II, determina a leitura das ementas dos projetos apresentados pelo Secretário.\nB) CORRETA (opção verdadeira). O art. 119, caput, restringe as questões de ordem à matéria em debate e votação durante a Ordem do Dia.\nC) CORRETA (opção verdadeira). O art. 119, § 2°, autoriza as Comissões Permanentes a requererem a retirada de proposição que deveriam conhecer e não lhes tenha sido distribuída.\nD) INCORRETA (gabarito). O art. 120 determina que não será designada Ordem do Dia para a primeira sessão plenária de cada ano legislativo, destinada à instalação dos trabalhos.\nE) CORRETA (opção verdadeira). O art. 118, inciso III, prevê a redação final como parte integrante do turno em que se concluir a votação de cada matéria.",
+          "base_legal": {
+            "dispositivo": "Arts. 117, caput e inciso II; 118, caput e inciso III; 119, caput e § 2°; 120",
+            "texto": "Art. 117. Antes da discussão e votação das proposições o Secretário fará:\nII - a leitura das ementas de projetos apresentados;\nArt. 118. A deliberação parlamentar será feita observando-se o disposto nos arts. 123 a 155, que tratam sobre discussão e votação:\nIII - da redação final prevista nos arts. 152 a 155, que faz parte integrante do turno em que se concluir a votação de cada matéria, conforme seja exigida a respectiva apreciação em turno único ou dois turnos, nos termos do art. 236.\nArt. 119. Durante a Ordem do Dia, somente poderão ser formuladas questões de ordem pertinentes à matéria em debate e votação.\n§ 2° As Comissões Permanentes poderão requerer ao Presidente a retirada de proposição de que devam conhecer e que não lhes haja sido distribuída, podendo o requerimento ser deferido de plano.\nArt. 120. Não será designada Ordem do Dia para a primeira sessão plenária de cada ano legislativo que será de instalação dos trabalhos, nos termos do art. 10."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno, acerca da organização e da publicação da Ordem do Dia das sessões deliberativas, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A Ordem do Dia deverá ser publicada com antecedência mínima de quarenta e oito horas, ressalvadas as hipóteses regimentais de urgência.",
+            "B": "As proposições não apreciadas da pauta ordinária anterior terão precedência sobre outras dos grupos a que pertençam.",
+            "C": "As proposições poderão ingressar na Ordem do Dia independentemente dos pareceres das Comissões, mesmo fora das exceções de urgência.",
+            "D": "Em caso de urgência urgentíssima, a publicação da matéria poderá ocorrer depois de iniciada sua discussão.",
+            "E": "A organização da Ordem do Dia competirá à Mesa Diretora, independentemente de atuação do Presidente."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 121, § 1°, estabelece publicação até vinte e quatro horas antes da sessão, ressalvadas as hipóteses de urgência.\nB) CORRETA. O art. 121, inciso I, confere precedência às proposições não apreciadas da pauta da sessão ordinária anterior sobre outras dos grupos a que pertençam.\nC) INCORRETA. O art. 121, § 2°, exige os pareceres das Comissões às quais a proposição foi distribuída, ressalvadas as exceções dos arts. 241 e 242.\nD) INCORRETA. O art. 121, § 1°, inciso II, exige publicação antes de iniciada a discussão da matéria com urgência urgentíssima.\nE) INCORRETA. O art. 121, caput, atribui ao Presidente a organização da Ordem do Dia.",
+          "base_legal": {
+            "dispositivo": "Art. 121, caput e inciso I, §§ 1°, inciso II, e 2°",
+            "texto": "Art. 121. O Presidente organizará a Ordem do Dia com matérias seguindo a ordem de preferência de grupos estabelecida nos §§ 1° e 2° do art. 247, e, ainda, as proposições:\nI - não apreciadas da pauta da sessão ordinária anterior, com precedência sobre outras dos grupos a que pertençam;\n§ 1° A Ordem do Dia será publicada no Sistema de Tramitação até vinte e quatro horas antes da sessão respectiva, salvo as hipóteses de urgência aprovadas por deliberação do Plenário que serão publicadas a qualquer momento:\nII - antes de iniciada a discussão da matéria para a qual tenha sido atribuída a urgência urgentíssima na forma do que dispõe o art. 242.\n§ 2° A proposição entrará em Ordem do Dia desde que em condições regimentais e com os pareceres das Comissões a que foi distribuída, observando-se as exceções dos arts. 241 e 242, quanto à apreciação de matéria urgente."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a ordem de apreciação das matérias constantes da pauta, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Na apreciação da pauta, os requerimentos de urgência antecedem os requerimentos de Comissão sujeitos à votação.",
+            "B": "Na ordem de preferência dos grupos de proposições, o regime de urgência antecede o regime de prioridade.",
+            "C": "Entre as etapas de apreciação das proposições, a votação do segundo turno antecede a discussão do segundo turno.",
+            "D": "A ordem de apreciação da pauta poderá ser alterada mediante aprovação de requerimento de inversão de pauta.",
+            "E": "A apreciação de veto deverá observar obrigatoriamente a ordem geral da pauta, sem possibilidade de afastamento por decisão do Presidente."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 122, incisos I e II, coloca os requerimentos de urgência antes dos requerimentos de Comissão sujeitos à votação.\nB) CORRETA (opção verdadeira). O art. 122, § 1°, inciso I, alíneas a e b, estabelece urgência antes de prioridade.\nC) CORRETA (opção verdadeira). O art. 122, § 1°, inciso II, alíneas c e d, coloca a votação do segundo turno antes de sua discussão.\nD) CORRETA (opção verdadeira). O art. 122, § 3º, inciso II, alínea d, admite alteração ou interrupção da ordem mediante aprovação de requerimento de inversão de pauta.\nE) INCORRETA (gabarito). O art. 122, § 2º, permite que a apreciação de veto, a critério do Presidente, ocorra sem observar a ordem geral, respeitado o art. 257.",
+          "base_legal": {
+            "dispositivo": "Art. 122, caput, incisos I, II e V, §§ 1°, incisos I, alíneas a e b, e II, alíneas c e d, 2º e 3º, inciso II, alínea d",
+            "texto": "Art. 122. A apreciação da pauta dar-se-á na seguinte ordem:\nI - requerimentos de urgência;\nII - requerimentos de Comissão sujeitos à votação;\nV - proposições na ordem de preferência de grupos e das etapas de apreciação, a que se referem os incisos I e II do §1° deste artigo:\n§ 1° A apreciação das proposições elencadas no inciso V ocorrerá, primeiro, na ordem de preferência de grupos, e, finalmente, na sequência da etapa de apreciação, conforme se expõe:\nI - a ordem de preferência de grupos, em obediência às regras estabelecidas no §1° do art. 247, é a seguinte:\na) em regime de urgência;\nb) em regime de prioridade;\nII - em cada um dos grupos das alíneas do inciso I, as matérias serão sequenciadas nas seguintes etapas de apreciação:\nc) votação do segundo turno;\nd) discussão do segundo turno;\n§ 2º A apreciação de veto, a critério do Presidente, poderá ser feita sem levar em conta a ordem mencionada neste artigo, observado o disposto no art. 257.\n§ 3º A ordem estabelecida neste artigo poderá ser alterada ou interrompida:\nII - em caso de aprovação de requerimento de:\nd) inversão de pauta."
+          }
+        }
+      ]
     }
   ]
 }
