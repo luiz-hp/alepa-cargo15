@@ -515,6 +515,308 @@
           }
         }
       ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Título I: questões extras (arts. 1º a 22)",
+      "artigos": "Arts. 1º a 22",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "**Mesa do segundo biênio:** eleição a partir de **1º de dezembro** do segundo ano. Se não realizada até **20 de dezembro**, poderá ocorrer no recesso, de **21 de dezembro a 31 de janeiro**. A posse será em **1º de fevereiro** do terceiro ano."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Posse",
+              "Lista **alfabética** e por legenda; juramento individual."
+            ],
+            [
+              "Mesa",
+              "Segunda sessão: intervalo de **1 a 2 horas** após a primeira."
+            ],
+            [
+              "Cédulas",
+              "Avaria: **1º Secretário** lê votos; **2º** registra."
+            ],
+            [
+              "Vagas",
+              "Preferência pelos **eleitos**; desconsideram-se mudanças posteriores de filiação."
+            ],
+            [
+              "Mensagem",
+              "**Presidente** decide sobre falas; Deputados: **10 min** cada; Governador: **20 min**."
+            ],
+            [
+              "Liderança",
+              "Organizações partidárias aptas a abrigar candidatos a **Deputado Estadual**."
+            ],
+            [
+              "Bloco",
+              "Tratamento das organizações partidárias, **no que couber**."
+            ],
+            [
+              "Sistema",
+              "Avaria: meio físico excepcional; **Ato da Mesa** regulamenta."
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "**Bancada Feminina:** promove igualdade de gêneros e participação feminina nas diversas esferas de Poder. **Portal da Assembleia:** divulga a atuação legislativa, oferece serviços ao cidadão e disponibiliza conteúdos digitais. **Diário Oficial:** dá validade, pela publicação, aos atos administrativos e espécies normativas. **Transparência:** despesas, receitas e outras informações obrigatórias. **Comunicação:** rádio, televisão, web e intranet."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Três pegadinhas:** **1)** Eleição da Mesa do segundo biênio durante o recesso não se confunde com sua **posse em 1º de fevereiro**. **2)** Na votação por cédulas, o **1º Secretário lê** e o **2º registra** os votos. **3)** As vagas na Mesa consideram preferencialmente os **candidatos eleitos pela agremiação**, desconsideradas mudanças posteriores de filiação."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), em qual hipótese poderá ocorrer, durante o recesso, uma sessão preparatória destinada à eleição da Mesa do segundo biênio?",
+          "alternativas": {
+            "A": "Se não ocorrer até 20 de dezembro, a eleição poderá ser realizada de 21 de dezembro a 20 de janeiro.",
+            "B": "Se não ocorrer até 20 de dezembro, a eleição poderá ser realizada exclusivamente no mês de janeiro seguinte.",
+            "C": "Se não tiver ocorrido entre 1º e 20 de dezembro, poderá realizar-se de 21 de dezembro a 31 de janeiro.",
+            "D": "Se não ocorrer até 20 de dezembro, a eleição poderá ser realizada de 21 de dezembro a 1º de fevereiro.",
+            "E": "Se não ocorrer até 20 de dezembro, a eleição poderá ser realizada durante o recesso de julho seguinte."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 2º, § 2º, III, permite a realização até 31 de janeiro, e não apenas até 20 de janeiro.\nB) INCORRETA. O art. 2º, § 2º, III, também permite a eleição a partir de 21 de dezembro.\nC) CORRETA. O art. 2º, § 2º, III, prevê essa sessão preparatória caso a eleição não tenha ocorrido entre 1º e 20 de dezembro.\nD) INCORRETA. O art. 2º, § 2º, III, estabelece 31 de janeiro como limite para essa eleição durante o recesso; o inciso IV reserva 1º de fevereiro à posse.\nE) INCORRETA. O art. 2º, § 2º, III, prevê a eleição durante o recesso de dezembro a janeiro, e não no recesso de julho seguinte.",
+          "base_legal": {
+            "dispositivo": "Art. 2º, caput, § 2º, III e IV; art. 9º, caput",
+            "texto": "Art. 2° Legislatura é o espaço de tempo correspondente ao mandato parlamentar, de quatro anos, iniciando-se em 1º de fevereiro do primeiro ano subsequente ao da eleição e terminando em 31 de janeiro do quarto ano de mandato.\n§ 2° Não haverá quaisquer sessões plenárias da Assembleia durante os dois períodos de recesso parlamentar constitucionais, contidos no § 1º, que ocorrem em cada ano legislativo, respectivamente no mês de julho e nos dias corridos de 21 de dezembro a 1º de fevereiro, salvo:\nIII - uma sessão preparatória para a eleição da Mesa do segundo biênio, durante o recesso parlamentar do segundo ano legislativo, a partir do dia 21 de dezembro até 31 de janeiro do ano seguinte, caso a mesma não tenha sido realizada ainda no curso das atividades legislativas, entre os dias 1º e 20 de dezembro, como permite o art. 9º;\nIV - uma sessão preparatória no terceiro ano de cada legislatura, no dia 1º de fevereiro, antes de inaugurado o ano legislativo, para posse dos membros da Mesa do segundo biênio, eleita na forma do art. 9º;\nArt. 9° A partir do dia 1º de dezembro do segundo ano legislativo de cada legislatura, em data e hora previamente designadas pelo Presidente da Assembleia Legislativa, realizar-se-á a eleição do Presidente e dos demais membros da Mesa para o mandato do segundo biênio da legislatura, devendo a posse ocorrer em sessão preparatória na data prevista no inciso IV do § 2º do art. 2º."
+          }
+        },
+        {
+          "enunciado": "Acerca das etapas da posse dos Deputados, previstas no Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A lista nominal para a posse será organizada conforme o número de legislaturas cumpridas por cada Deputado.",
+            "B": "Entregues os documentos exigidos, a sessão será suspensa pelo tempo necessário à organização da lista nominal.",
+            "C": "Reaberta a sessão, o Presidente proclamará os nomes dos Deputados diplomados aptos a tomar posse.",
+            "D": "Antes de proferir o juramento, o Presidente convidará os presentes a se colocarem de pé.",
+            "E": "Na chamada nominal, cada Deputado declarará “ASSIM O PROMETO” quando seu nome for pronunciado."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 3º, § 3º, determina que a lista nominal seja organizada em ordem alfabética e por legenda partidária.\nB) CORRETA (opção verdadeira). O art. 3º, § 3º, prevê a suspensão da sessão após a entrega dos documentos, pelo tempo necessário à organização da lista.\nC) CORRETA (opção verdadeira). O art. 3º, § 4º, atribui ao Presidente a proclamação dos Deputados diplomados aptos a tomar posse.\nD) CORRETA (opção verdadeira). O art. 3º, § 4º, determina que o Presidente convide os presentes a ficar de pé antes de proferir o juramento.\nE) CORRETA (opção verdadeira). O art. 3º, § 5º, determina a resposta individual do Deputado quando seu nome for chamado.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput, §§ 3º a 5º",
+            "texto": "Art. 3° Às nove horas do dia 1° de fevereiro do primeiro ano de cada legislatura, os candidatos diplomados Deputados Estaduais reunir-se-ão em sessão preparatória, independentemente de convocação, na sede da Assembleia Legislativa, para tomar posse.\n§ 3° Feita a entrega dos documentos aludidos no parágrafo anterior, a sessão será suspensa pelo tempo necessário à organização da lista nominal dos Deputados, em ordem alfabética e por legenda partidária.\n§ 4° Reaberta a sessão, o Presidente proclamará os nomes dos Deputados diplomados aptos a tomarem posse e, a seguir, após convidar a todos os presentes que se ponham de pé, proferirá o seguinte juramento: “PROMETO DEFENDER E CUMPRIR AS CONSTITUIÇÕES DO BRASIL E DO PARÁ, OBSERVAR AS LEIS, RESPEITAR O REGIMENTO INTERNO E DESEMPENHAR COM DIGNIDADE E DEDICAÇÃO O MANDATO QUE ME FOI CONFIADO, PROMOVENDO O BEM GERAL DO ESTADO E DO POVO PARAENSE”.\n§ 5° Ato contínuo, o Presidente fará a chamada dos Deputados. Cada um, assim que for proferido o seu nome, declarará “ASSIM O PROMETO”, permanecendo os demais Deputados sentados e em silêncio."
+          }
+        },
+        {
+          "enunciado": "Caso prático: em 1º de fevereiro, a primeira sessão preparatória terminou às 10h, após a posse dos Deputados. Pelo Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), em qual intervalo a segunda sessão preparatória, destinada à eleição e posse da Mesa, poderá ser realizada?",
+          "alternativas": {
+            "A": "Entre 10h30 e 12h, observado o limite máximo de duas horas após a posse.",
+            "B": "Entre 11h e 12h, observado o interregno mínimo de uma hora e o limite de até duas horas.",
+            "C": "Entre 10h e 11h, observado o limite máximo de uma hora entre as sessões.",
+            "D": "Entre 12h e 13h, observado o interregno mínimo de duas horas após a posse.",
+            "E": "Entre 11h e 13h, observado o limite máximo de três horas após a posse."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 3º, § 8º, exige interregno mínimo de uma hora, o que impede o início às 10h30.\nB) CORRETA. O art. 3º, § 8º, estabelece intervalo mínimo de uma hora, e o art. 4º fixa o limite de até duas horas após a conclusão da sessão de posse.\nC) INCORRETA. O art. 3º, § 8º, estabelece intervalo mínimo, não máximo, de uma hora.\nD) INCORRETA. O art. 4º estabelece que a segunda sessão seja realizada dentro de até duas horas após a conclusão da primeira, não autorizando início às 13h.\nE) INCORRETA. O art. 4º estabelece o limite máximo de duas horas, e não três horas, após a conclusão da sessão de posse.",
+          "base_legal": {
+            "dispositivo": "Art. 3º, caput e § 8º; art. 4º, caput",
+            "texto": "Art. 3° Às nove horas do dia 1° de fevereiro do primeiro ano de cada legislatura, os candidatos diplomados Deputados Estaduais reunir-se-ão em sessão preparatória, independentemente de convocação, na sede da Assembleia Legislativa, para tomar posse.\n§ 8° Concluído o compromisso solene dos empossados, o Presidente declarará encerrada a primeira sessão preparatória do primeiro ano legislativo da legislatura, convocando os Deputados para, no mesmo dia, depois do interregno mínimo de uma hora, participarem da segunda sessão preparatória, destinada, especificamente, à eleição e posse da nova Mesa Diretora da Assembleia Legislativa.\nArt. 4° Na segunda sessão preparatória do primeiro ano legislativo de cada legislatura, no dia 1º de fevereiro, dentro de até duas horas depois de concluída a sessão de posse, e sempre que possível sob a direção da mesma Mesa Provisória, realizar-se-á a eleição do Presidente, dos demais membros da Mesa, definidos nos §§ 1º e 2º do art. 23 para mandato de dois anos."
+          }
+        },
+        {
+          "enunciado": "Na eleição da Mesa por cédulas em razão de avaria do sistema eletrônico, conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A eleição por cédulas será adotada quando houver avaria ou outra impossibilidade de utilizar o sistema eletrônico.",
+            "B": "As chapas deverão estar impressas, identificadas e rubricadas pelo Presidente da sessão.",
+            "C": "A entrega das chapas aos votantes caberá aos Deputados que estiverem secretariando a sessão.",
+            "D": "A votação por cédulas ocorrerá por meio de urna lacrada, em cabine indevassável.",
+            "E": "A leitura em voz alta dos votos caberá ao 2º Secretário, e o registro no mapa ao 1º Secretário."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 5º, § 1º, prevê votação por cédulas quando houver avaria do sistema eletrônico ou outra impossibilidade de sua utilização.\nB) CORRETA (opção verdadeira). O art. 5º, § 1º, I, exige chapas impressas, identificadas e rubricadas pelo Presidente da sessão.\nC) CORRETA (opção verdadeira). O art. 5º, § 1º, I, atribui a entrega das chapas aos Deputados que estiverem secretariando a sessão.\nD) CORRETA (opção verdadeira). O art. 5º, § 1º, II, exige urna lacrada e cabine indevassável.\nE) INCORRETA (gabarito). O art. 5º, § 1º, III, c, atribui a leitura dos votos ao 1º Secretário e o registro no mapa ao 2º Secretário.",
+          "base_legal": {
+            "dispositivo": "Art. 5º, caput, § 1º, I, II, III e alínea c",
+            "texto": "Art. 5° A eleição dos membros da Mesa far-se-á em votação por escrutínio secreto e pelo sistema eletrônico, exigido maioria absoluta de votos em primeiro escrutínio, maioria simples em segundo escrutínio, presente a maioria absoluta dos Deputados, observadas as seguintes exigências e formalidades:\n§ 1° No caso de avaria do sistema eletrônico de votação, ou pela superveniência de qualquer impossibilidade de sua utilização, far-se-á a eleição por cédulas, observados os incisos II a VIII do caput deste artigo e as seguintes exigências:\nI - as chapas deverão estar impressas, identificadas as chapas e rubricadas pelo Presidente da sessão, devendo ser entregues aos votantes pelos Deputados que estiverem secretariando, na medida em que forem chamados, em ordem alfabética;\nII - a votação ocorrerá por meio de urna lacrada, em cabine indevassável;\nIII - no primeiro escrutínio, após constatar que todos os Deputados presentes exerceram o direito ao voto, o Presidente declarará encerrada a votação, determinando a apuração imediata, nos seguintes termos:\nc) leitura dos votos, em voz alta, pelo 1º secretário e registro no mapa de votação pelo 2º secretário;"
+          }
+        },
+        {
+          "enunciado": "Quanto à indicação de candidatos e ao critério de distribuição de vagas na Mesa, segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Se a representação não indicar candidatos, caberá ao respectivo Líder fazê-lo.",
+            "B": "Persistindo a omissão, a agremiação perderá o direito à indicação, observado o critério proporcional.",
+            "C": "Acordo entre as bancadas poderá resultar em composição diversa da distribuição por escolha das Lideranças.",
+            "D": "As vagas na Mesa serão definidas preferencialmente pela filiação dos Deputados existente no dia da eleição da Mesa.",
+            "E": "O resultado da eleição ou escolha constará de ata ou documento hábil remetido imediatamente ao Presidente."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 8º, II, atribui a indicação ao respectivo Líder em caso de omissão da representação.\nB) CORRETA (opção verdadeira). O art. 8º, II, estabelece a perda do direito à indicação quando persistir a omissão, observado o critério da proporcionalidade.\nC) CORRETA (opção verdadeira). O art. 8º, § 1º, ressalva composição diversa resultante de acordo entre as bancadas.\nD) INCORRETA (gabarito). O art. 8º, § 2º, adota preferencialmente o número de candidatos eleitos pela agremiação, desconsideradas as mudanças posteriores de filiação partidária.\nE) CORRETA (opção verdadeira). O art. 8º, III, exige registro em ata ou documento hábil e envio imediato ao Presidente da Assembleia.",
+          "base_legal": {
+            "dispositivo": "Art. 8º, caput, II, III, §§ 1º e 2º",
+            "texto": "Art. 8° Na composição da Mesa será assegurada, tanto quanto possível, a representação proporcional dos Partidos, Blocos Parlamentares ou Federações de Partidos que participem da Assembleia Legislativa, os quais escolherão os respectivos candidatos aos cargos que, de acordo com o mesmo princípio, lhes caiba prover, observadas as seguintes regras:\nII - em caso de omissão, ou se a representação não fizer a indicação, caberá ao respectivo Líder fazê-la; persistindo a omissão, o Partido, Bloco ou Federação perderá o direito à indicação, observando-se o critério da proporcionalidade;\nIII - o resultado da eleição ou a escolha constará de ata ou outro documento hábil, a ser enviado de imediato ao Presidente da Assembleia Legislativa.\n§ 1° Salvo composição diversa resultante de acordo entre as bancadas, a distribuição dos cargos da Mesa far-se-á por escolha das Lideranças, da maior para a de menor representação, conforme o número de cargos que corresponda a cada uma delas.\n§ 2° As vagas de cada Partido, Bloco Parlamentar ou Federação na composição da Mesa serão definidas, preferencialmente, com base no número de candidatos eleitos pela respectiva agremiação, na conformidade do resultado final das eleições proclamado pela Justiça Eleitoral, desconsideradas as mudanças de filiação partidária posteriores a esse ato."
+          }
+        },
+        {
+          "enunciado": "Sobre a mensagem do Governador na sessão solene de instalação do ano legislativo, conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Havendo informação oficial de leitura pessoal da mensagem, o Presidente designará comissão de Líderes de Bancada.",
+            "B": "Após a leitura da mensagem, a manifestação dos Deputados da Oposição e da Situação será obrigatória.",
+            "C": "No recinto da sessão, o Governador terá assento à direita do Presidente.",
+            "D": "Os Deputados autorizados a falar terão dez minutos cada um, exclusivamente sobre a mensagem.",
+            "E": "O Governador, se desejar, poderá voltar a usar da palavra por vinte minutos."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 10, § 2º, determina que o Presidente designe comissão de Líderes de Bancada quando houver informação oficial de leitura pessoal da mensagem pelo Governador.\nB) INCORRETA (gabarito). O art. 10, § 4º, estabelece que a concessão da palavra aos Deputados ocorrerá a critério do Presidente, não sendo obrigatória.\nC) CORRETA (opção verdadeira). O art. 10, § 3º, determina que o Governador tenha assento à direita do Presidente.\nD) CORRETA (opção verdadeira). O art. 10, § 4º, prevê dez minutos para cada Deputado e manifestação exclusivamente sobre a mensagem.\nE) CORRETA (opção verdadeira). O art. 10, § 4º, permite que o Governador volte a usar da palavra por vinte minutos, se desejar.",
+          "base_legal": {
+            "dispositivo": "Art. 10, caput e §§ 2º a 4º",
+            "texto": "Art. 10. A sessão de instalação do ano legislativo tem caráter solene e será realizada dia 2 de fevereiro de cada ano, no horário normal das ordinárias, com qualquer número de Deputados.\n§ 2° Aberta a sessão e havendo informação oficial de que o Governador do Estado lerá, pessoalmente, sua mensagem, o Presidente designará uma comissão de Líderes de Bancada para recebê-lo e conduzi-lo ao recinto.\n§ 3° No recinto da sessão, o Governador terá assento à direita do Presidente, sendo-lhe concedida a palavra para ler a mensagem.\n§ 4° A critério do Presidente, após a leitura da Mensagem, a palavra será concedida a um Deputado da Oposição e a um Deputado da Situação, por dez minutos cada um, para falar exclusivamente sobre a mensagem, e o Governador, se assim o desejar, poderá voltar a usar da palavra por vinte minutos, encerrando-se a sessão."
+          }
+        },
+        {
+          "enunciado": "Quanto ao termo de posse e à sequência final da sessão solene do Governador e do Vice-Governador, conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O termo de posse será lido pelo 2º Secretário antes de ser assinado pelo Governador e pelos membros da Mesa.",
+            "B": "Ao Governador será concedida obrigatoriamente a palavra para se dirigir à Assembleia e ao povo do Pará.",
+            "C": "O termo será lido pelo 1º Secretário e poderá receber a assinatura dos demais Deputados que desejarem.",
+            "D": "A posse do Vice-Governador ocorrerá antes da posse do Governador, observadas as mesmas formalidades.",
+            "E": "A sessão será encerrada com a execução do Hino Nacional e a condução dos empossados ao local designado."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 11, § 6º, atribui a leitura do termo de posse ao 1º Secretário da Mesa Diretora.\nB) INCORRETA. O art. 11, § 8º, estabelece que a palavra poderá ser concedida ao Governador, sem torná-la obrigatória.\nC) CORRETA. O art. 11, § 6º, prevê a leitura pelo 1º Secretário e permite a assinatura dos demais Deputados que desejarem.\nD) INCORRETA. O art. 11, § 7º, determina que a posse do Vice-Governador ocorra em seguida à do Governador, observadas as mesmas formalidades.\nE) INCORRETA. O art. 11, § 9º, determina o encerramento com a execução do Hino do Pará.",
+          "base_legal": {
+            "dispositivo": "Art. 11, caput e §§ 6º a 9º",
+            "texto": "Art. 11. O Governador e o Vice-Governador tomarão posse no ano subsequente ao da eleição, em sessão solene da Assembleia Legislativa, no dia do mês de janeiro fixado na Constituição Federal.\n§ 6° Da posse, será lavrado um termo que, depois de lido pelo 1º Secretário da Mesa Diretora, receberá a assinatura do Governador, dos Membros da Mesa Diretora, bem como dos demais Deputados que o queiram assinar.\n§ 7° Observadas as mesmas formalidades dos parágrafos anteriores, será, em seguida, realizada a posse do Vice-Governador do Estado.\n§ 8° Ao Governador do Estado poderá ser concedida a palavra para se dirigir à Assembleia Legislativa e ao povo do Pará.\n§ 9° A sessão será encerrada com a execução do Hino do Pará e, finda a solenidade, a comissão de recepção conduzirá o Governador e o Vice-Governador do Estado a local previamente designado."
+          }
+        },
+        {
+          "enunciado": "Nos termos do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual outra modalidade de organização poderá receber o mesmo tratamento de liderança?",
+          "alternativas": {
+            "A": "A organização partidária que, segundo a legislação eleitoral, seja apta a abrigar candidatos ao cargo de Deputado Estadual.",
+            "B": "A organização partidária apta somente à concorrência ao cargo de Vereador, conforme a legislação eleitoral.",
+            "C": "A organização partidária que tenha indicação formal de Líder, ainda que sem aptidão eleitoral para o cargo de Deputado Estadual.",
+            "D": "A organização partidária reconhecida pelo Presidente da Assembleia, independentemente de sua aptidão eleitoral.",
+            "E": "A organização partidária apta a abrigar candidatos aos cargos de Governador e Vice-Governador, mas não ao de Deputado Estadual."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 12, § 9º, estende o tratamento de liderança à modalidade de organização partidária considerada apta, pela legislação eleitoral, a abrigar candidatos ao cargo de Deputado Estadual.\nB) INCORRETA. O art. 12, § 9º, exige aptidão eleitoral para abrigar candidaturas ao cargo de Deputado Estadual.\nC) INCORRETA. O art. 12, § 9º, condiciona o tratamento à aptidão eleitoral indicada no dispositivo, não apenas à indicação formal de Líder.\nD) INCORRETA. O art. 12, § 9º, remete à legislação eleitoral, não ao reconhecimento pelo Presidente da Assembleia.\nE) INCORRETA. O art. 12, § 9º, exige aptidão para abrigar candidatos ao cargo de Deputado Estadual.",
+          "base_legal": {
+            "dispositivo": "Art. 12, caput e § 9º",
+            "texto": "Art. 12. Líder é o porta-voz de um Partido, Bloco Parlamentar ou Federação de Partidos e intermediário autorizado entre eles e os órgãos da Assembleia Legislativa.\n§ 9° Terá o mesmo tratamento de liderança, para os fins deste Regimento, qualquer outra modalidade de organização partidária que, nos termos da legislação eleitoral, seja considerada apta a abrigar candidatos à concorrência ao cargo de Deputado Estadual."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual é o tratamento previsto para um Bloco Parlamentar em relação às organizações partidárias?",
+          "alternativas": {
+            "A": "Receberá o tratamento das organizações partidárias, mesmo que estas não possuam representação na Assembleia.",
+            "B": "Receberá integralmente as prerrogativas das organizações partidárias, sem a ressalva de aplicabilidade regimental.",
+            "C": "Receberá o tratamento das organizações partidárias somente se constituído por pelo menos três partidos.",
+            "D": "Receberá o tratamento das organizações partidárias exclusivamente para a participação na eleição da Mesa.",
+            "E": "Receberá, no que couber, o tratamento dispensado às organizações partidárias com representação na Assembleia."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O art. 16, § 1º, refere-se às organizações partidárias com representação na Assembleia.\nB) INCORRETA. O art. 16, § 1º, estabelece expressamente a ressalva de aplicação no que couber.\nC) INCORRETA. O art. 16, caput, permite a formação de Bloco Parlamentar por representações de dois ou mais partidos, e o § 1º não condiciona o tratamento à presença de três partidos.\nD) INCORRETA. O art. 16, § 1º, não restringe o tratamento regimental à eleição da Mesa.\nE) CORRETA. O art. 16, § 1º, estabelece exatamente esse tratamento, observada sua aplicabilidade.",
+          "base_legal": {
+            "dispositivo": "Art. 16, caput e § 1º",
+            "texto": "Art. 16. As representações de dois ou mais partidos, por deliberação das respectivas bancadas, poderão constituir Bloco Parlamentar sob Liderança comum.\n§ 1° O Bloco Parlamentar terá, no que couber, o tratamento dispensado por este Regimento às organizações partidárias com representação na Assembleia."
+          }
+        },
+        {
+          "enunciado": "Sobre os objetivos e atribuições da Bancada Feminina, conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Disseminar a percepção da Assembleia como espaço prioritário para o debate de interesses do universo feminino.",
+            "B": "Propugnar mecanismos de igualdade de gêneros e de valorização e inclusão das mulheres.",
+            "C": "Reunir agentes públicos e políticos ligados a atividades parlamentares, além de lideranças sociais e comunitárias.",
+            "D": "Estimular a reunião de mulheres que exerçam mandatos exclusivamente na esfera federal.",
+            "E": "Discutir desafios e estratégias de participação e atuação feminina nos Municípios paraenses."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 17, § 2º, II, prevê a disseminação dessa percepção entre a população paraense.\nB) CORRETA (opção verdadeira). O art. 17, § 2º, II, menciona mecanismos de igualdade de gêneros, valorização e inclusão das mulheres.\nC) CORRETA (opção verdadeira). O art. 17, § 2º, III, inclui esses agentes e lideranças nas reuniões destinadas à discussão de desafios e estratégias.\nD) INCORRETA (gabarito). O art. 17, § 2º, III, prevê mulheres que exerçam mandatos nas diversas esferas de Poder, sem limitação à esfera federal.\nE) CORRETA (opção verdadeira). O art. 17, § 2º, III, menciona expressamente a discussão de desafios e estratégias de participação e atuação feminina nos Municípios paraenses.",
+          "base_legal": {
+            "dispositivo": "Art. 17, caput, § 2º, II e III",
+            "texto": "Art. 17. A representação feminina com assento na Assembleia Legislativa poderá formar a Bancada Feminina, constituída de forma suprapartidária, facultada a escolha de uma Coordenadora, não se aplicando a esta as prerrogativas dispostas nos arts. 12 e 13 deste Regimento.\n§ 2° A Bancada Feminina tem os seguintes objetivos e atribuições:\nII - disseminar entre a população paraense a percepção da Assembleia Legislativa como espaço prioritário para debate das temáticas relacionadas aos interesses do universo feminino, propugnando a criação de mecanismos garantidores de igualdade de gêneros, valorizando e incluindo as mulheres no processo de desenvolvimento social, econômico, político e cultural;\nIII - estimular a convergência dos interesses femininos por meio de reunião de mulheres que exerçam mandatos nas diversas esferas de Poder, assim como de agentes públicos e políticos envolvidos com atividades parlamentares e de lideranças sociais e comunitárias para a discussão de desafios e estratégias de participação e atuação feminina nos Municípios paraenses."
+          }
+        },
+        {
+          "enunciado": "Quanto às finalidades do Portal da Assembleia Legislativa, segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Divulgar informações sobre a atuação da Assembleia e oferecer serviços ao cidadão, sem disponibilizar conteúdos digitais.",
+            "B": "Divulgar informações sobre a atuação da Assembleia, oferecer serviços ao cidadão e disponibilizar conteúdos digitais.",
+            "C": "Divulgar informações sobre a atuação da Assembleia e disponibilizar conteúdos digitais, sem oferecer serviços ao cidadão.",
+            "D": "Oferecer serviços ao cidadão e disponibilizar conteúdos digitais, restringindo as informações divulgadas às atividades das comissões.",
+            "E": "Oferecer serviços ao cidadão e divulgar informações sobre a atuação da Assembleia, limitando os conteúdos digitais ao Diário Oficial."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 18, caput, também prevê a disponibilização dos diversos conteúdos digitais do Poder Legislativo.\nB) CORRETA. O art. 18, caput, estabelece essas três finalidades do Portal da Assembleia Legislativa.\nC) INCORRETA. O art. 18, caput, inclui expressamente a oferta de serviços ao cidadão.\nD) INCORRETA. O art. 18, caput, prevê divulgação de informações sobre a atuação da Assembleia Legislativa, sem a restrição indicada.\nE) INCORRETA. O art. 18, caput, prevê a disponibilização dos diversos conteúdos digitais do Poder Legislativo, sem essa limitação.",
+          "base_legal": {
+            "dispositivo": "Art. 18, caput",
+            "texto": "Art. 18. A Assembleia Legislativa, em seu Portal, publica e divulga informações sobre a sua atuação, oferece serviços ao cidadão e disponibiliza os diversos conteúdos digitais do Poder Legislativo."
+          }
+        },
+        {
+          "enunciado": "Quanto ao Diário Oficial da Assembleia Legislativa, conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "No endereço eletrônico do Diário Oficial, o link do Sistema de Tramitação poderá ser substituído por um link do Portal da Transparência.",
+            "B": "O Diário Oficial é veículo de divulgação de atos administrativos da competência do Poder Legislativo estadual.",
+            "C": "O Diário Oficial divulga, mediante publicação, espécies normativas de competência do Legislativo do Pará.",
+            "D": "O Diário Oficial será publicado, assinado e autenticado digitalmente.",
+            "E": "A publicação no Diário Oficial observa o princípio constitucional da publicidade."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 19, § 2º, determina a existência de link de acesso ao Sistema de Tramitação e Informação do Processo Legislativo no endereço eletrônico do Diário Oficial, sem previsão de substituição.\nB) CORRETA (opção verdadeira). O art. 19, caput, atribui ao Diário Oficial a divulgação de atos administrativos de competência do Poder Legislativo estadual.\nC) CORRETA (opção verdadeira). O art. 19, caput, inclui as espécies normativas de competência do Poder Legislativo do Pará entre os objetos de publicação.\nD) CORRETA (opção verdadeira). O art. 19, § 1º, determina publicação, assinatura e autenticação digitais.\nE) CORRETA (opção verdadeira). O art. 19, caput, vincula a publicação ao cumprimento do princípio constitucional da publicidade.",
+          "base_legal": {
+            "dispositivo": "Art. 19, caput e §§ 1º e 2º",
+            "texto": "Art. 19. O Diário Oficial da Assembleia Legislativa é o veículo de divulgação que, pela publicação, dá validade aos atos administrativos e às espécies normativas de competência do Poder Legislativo do Estado do Pará, em cumprimento ao princípio constitucional da publicidade estabelecido pelo art. 37 da Constituição Federal, e em observância à Constituição Estadual no art. 20, art. 103, § 3º e art. 114, Parágrafo único.\n§ 1° O Diário Oficial da Assembleia Legislativa será publicado, assinado e autenticado digitalmente, nos termos do Ato da Mesa referido no § 2º do art. 20.\n§ 2° No endereço eletrônico do Diário Oficial da Assembleia Legislativa haverá um link de acesso ao Sistema de Tramitação e Informação do Processo Legislativo de que trata o artigo seguinte."
+          }
+        },
+        {
+          "enunciado": "Acerca do Sistema de Tramitação e Informação do Processo Legislativo, segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os atos praticados pelo Sistema de Tramitação têm validade para efeito de publicação.",
+            "B": "Em caso de avaria do sistema, a prática de atos poderá ocorrer excepcionalmente por meio físico.",
+            "C": "O Ato da Mesa poderá afastar normas expressas do Regimento ao disciplinar a prática de atos em caso de avaria.",
+            "D": "O Sistema de Tramitação e Informação do Processo Legislativo também é denominado Sistema de Tramitação.",
+            "E": "O Ato da Mesa regulamentará a utilização e o gerenciamento do Sistema de Tramitação."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 20, caput, estabelece validade para efeito de publicação dos atos praticados mediante utilização do sistema.\nB) CORRETA (opção verdadeira). O art. 20, caput, admite excepcionalmente o meio físico quando houver avaria do sistema.\nC) INCORRETA (gabarito). O art. 20, § 2º, estabelece que a regulamentação por Ato da Mesa terá como limites as normas previstas no Regimento.\nD) CORRETA (opção verdadeira). O art. 20, § 1º, admite a denominação abreviada Sistema de Tramitação.\nE) CORRETA (opção verdadeira). O art. 20, § 2º, atribui ao Ato da Mesa a regulamentação da utilização e do gerenciamento do sistema.",
+          "base_legal": {
+            "dispositivo": "Art. 20, caput e §§ 1º e 2º",
+            "texto": "Art. 20. Os atos do Processo Legislativo terão validade para efeito de publicação uma vez praticados mediante a utilização do Sistema de Tramitação e Informação do Processo Legislativo, sendo que, havendo avaria neste, a realização dos atos respectivos ocorrerá, excepcionalmente, por meio físico, observando-se o disposto no Ato da Mesa referido no §2º deste artigo.\n§ 1° O Sistema de Tramitação e Informação do Processo Legislativo é denominado também, neste Regimento, de apenas Sistema de Tramitação.\n§ 2° Com o objetivo de acompanhar a evolução tecnológica digital, Ato da Mesa regulamentará a utilização e o gerenciamento do Sistema de Tramitação, inclusive sobre a pratica de atos do processo legislativo em caso de avaria deste, tendo como limites as normas estabelecidas neste Regimento."
+          }
+        },
+        {
+          "enunciado": "Quanto às informações divulgadas pelo Portal da Transparência ou mídia equivalente, segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A divulgação das receitas dependerá de autorização específica da Mesa Diretora, ainda que sua publicação seja obrigatória.",
+            "B": "O acesso às informações ficará restrito aos órgãos da Assembleia Legislativa, mediante consulta interna.",
+            "C": "O Portal disponibilizará informações de responsabilidade dos Poderes Executivo e Legislativo estaduais.",
+            "D": "Serão disponibilizadas ao público despesas, receitas e outras informações de responsabilidade da Assembleia cuja divulgação seja obrigatória.",
+            "E": "Serão divulgadas as informações selecionadas pela Assembleia, independentemente da obrigatoriedade prevista na legislação sobre transparência."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 21 determina a disponibilização ao público das informações de divulgação obrigatória, sem estabelecer autorização específica da Mesa Diretora como condição.\nB) INCORRETA. O art. 21 determina que as informações sejam disponibilizadas ao público, não apenas aos órgãos da Assembleia.\nC) INCORRETA. O art. 21 refere-se às informações de responsabilidade da Assembleia Legislativa, não às de responsabilidade do Poder Executivo estadual.\nD) CORRETA. O art. 21 estabelece a disponibilização pública de despesas, receitas e outras informações obrigatórias de responsabilidade da Assembleia.\nE) INCORRETA. O art. 21 vincula a divulgação à obrigatoriedade estabelecida pela legislação sobre transparência dos entes da Federação.",
+          "base_legal": {
+            "dispositivo": "Art. 21, caput",
+            "texto": "Art. 21. O Portal da Transparência ou mídia equivalente disponibilizará ao público as informações referentes às despesas, receitas e outras de responsabilidade da Assembleia Legislativa, cuja divulgação seja obrigatória, nos termos da legislação sobre a transparência dos entes da Federação."
+          }
+        },
+        {
+          "enunciado": "Quanto à divulgação das atividades da Assembleia Legislativa e de suas comissões, nos termos do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A divulgação por rádio e televisão dependerá de meios externos, ficando os meios próprios restritos às mídias digitais.",
+            "B": "A divulgação pela web será destinada às atividades da Assembleia, enquanto a intranet ficará reservada às comissões.",
+            "C": "A divulgação institucional deverá priorizar a mídia tradicional, sendo as mídias digitais utilizadas apenas de forma complementar.",
+            "D": "Os meios próprios de comunicação divulgarão amplamente as atividades da Assembleia, excluídas as atividades de suas comissões.",
+            "E": "A Assembleia divulgará suas atividades e as das comissões em meios próprios, tanto tradicionais como digitais."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O art. 22 inclui rádio e televisão entre os exemplos de mídia tradicional utilizada nos meios próprios da Assembleia.\nB) INCORRETA. O art. 22 prevê divulgação das atividades da Assembleia e de suas comissões, sem estabelecer essa separação entre web e intranet.\nC) INCORRETA. O art. 22 prevê tanto mídias tradicionais quanto digitais, sem estabelecer prioridade entre elas.\nD) INCORRETA. O art. 22 inclui expressamente as atividades das comissões na divulgação institucional.\nE) CORRETA. O art. 22 determina ampla divulgação das atividades da Assembleia e de suas comissões em meios próprios tradicionais e digitais.",
+          "base_legal": {
+            "dispositivo": "Art. 22, caput",
+            "texto": "Art. 22. A Assembleia Legislativa divulgará amplamente as suas atividades e de suas comissões nos seus próprios meios de comunicação, tanto em mídia tradicional, a exemplo de rádio e televisão, como em mídias digitais via web e intranet."
+          }
+        }
+      ]
     }
   ]
 }
