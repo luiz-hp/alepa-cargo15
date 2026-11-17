@@ -3568,6 +3568,308 @@
           }
         }
       ]
+    },
+    {
+      "numero": 13,
+      "titulo": "Matérias sujeitas a disposições especiais (arts. 261 a 293)",
+      "artigos": "Arts. 261 a 293",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "A **PEC** recebe parecer da **CCJRF** em **20 dias úteis**. Exige **dois turnos**, interstício de **cinco sessões** (dispensável por **maioria absoluta**) e aprovação por **três quintos** dos membros em ambos os turnos, mediante votação nominal. Projetos com urgência: **45 dias**, excluídos os recessos e os projetos de código."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Matéria",
+            "Regra principal"
+          ],
+          "linhas": [
+            [
+              "Código",
+              "**20 dias úteis** por Comissão; **turno único**"
+            ],
+            [
+              "Consolidação",
+              "**30 dias** para sugestões; sem alteração de mérito"
+            ],
+            [
+              "Contas",
+              "**CFFO**: parecer em **45 dias**"
+            ],
+            [
+              "Conselheiro",
+              "Escolha exige **11 votos**, no mínimo"
+            ],
+            [
+              "PPA",
+              "Envio **31/8**; devolução **30/11**"
+            ],
+            [
+              "LDO",
+              "Envio **30/4**; devolução **30/6**"
+            ],
+            [
+              "LOA",
+              "Envio **30/9**; devolução **15/12**"
+            ],
+            [
+              "Regimento",
+              "Parecer: **5** ou **20 sessões**"
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "A convocação de **Secretário de Estado** exige deliberação da **maioria da respectiva composição plenária**. Na escolha de Conselheiro pela Assembleia, a votação é **secreta**. Títulos honoríficos exigem subscrição mínima de **um quarto** dos Deputados. O **Presidente da Assembleia** realiza o juízo de admissibilidade das denúncias de crimes de responsabilidade."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Três pegadinhas:** **1.** Projetos de código: no máximo **dois** simultâneos. **2.** Integrantes da Mesa **não votam** na apreciação das contas do próprio órgão. **3.** Emendas orçamentárias: **15 dias** na Comissão, com recurso em **24 horas** contra o não recebimento."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca da tramitação e da apreciação das propostas de emenda à Constituição Estadual, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Comissão de Constituição e Justiça e de Redação Final emitirá, em vinte dias úteis, parecer sobre a admissibilidade e o mérito da proposta.",
+            "B": "Após a publicação do parecer da Comissão no Sistema de Tramitação, a proposta estará apta para inclusão na Ordem do Dia.",
+            "C": "O interstício de cinco sessões entre os dois turnos poderá ser dispensado mediante voto da maioria simples do Plenário.",
+            "D": "A aprovação dependerá de três quintos dos votos dos membros da Assembleia Legislativa em ambos os turnos, mediante votação nominal.",
+            "E": "Aplicam-se subsidiariamente à proposta as disposições regimentais sobre projetos de lei, desde que não contrariem as regras específicas do artigo."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 261 atribui à Comissão de Constituição e Justiça e de Redação Final o exame da admissibilidade e do mérito no prazo de vinte dias úteis.\nB) CORRETA (opção verdadeira). O art. 261, § 1°, torna a proposta apta à inclusão na Ordem do Dia após a publicação do parecer no Sistema de Tramitação.\nC) INCORRETA (gabarito). O art. 261, § 2°, exige voto da maioria absoluta do Plenário para dispensar o interstício de cinco sessões, e não maioria simples.\nD) CORRETA (opção verdadeira). O art. 261, § 3°, exige três quintos dos votos dos membros da Assembleia nos dois turnos, em votação nominal.\nE) CORRETA (opção verdadeira). O art. 261, § 4°, prevê aplicação subsidiária das regras dos projetos de lei, naquilo que não colidir com o artigo.",
+          "base_legal": {
+            "dispositivo": "Art. 261, caput e §§ 1° a 4°",
+            "texto": "Art. 261. Recebida a proposta de emenda à Constituição, apresentada nos termos do art. 168, será despachada pelo Presidente à Comissão de Constituição e Justiça e de Redação Final que, no prazo de vinte dias úteis, emitirá parecer sobre sua admissibilidade e quanto ao mérito da proposição.\n§ 1° Após a publicação do parecer no Sistema de Tramitação, a proposta estará apta para inclusão na Ordem do Dia.\n§ 2° A proposta será submetida a dois turnos de discussão e votação, com interstício de cinco sessões, dispensando-se este interregno caso haja o voto da maioria absoluta do Plenário, nos termos do § 2° do art. 238.\n§ 3° Será aprovada a proposta que obtiver, em ambos os turnos, três quintos dos votos dos membros da Assembleia Legislativa, conforme exige o art. 103, § 2° da Constituição Estadual, em votação nominal.\n§ 4° Aplicam-se à proposta de emenda à Constituição, no que não colidir com o estatuído neste artigo, as disposições regimentais relativas ao trâmite e apreciação dos projetos de lei."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), a respeito dos projetos de iniciativa do Governador, do Presidente da Assembleia Legislativa e do Tribunal de Justiça com solicitação de urgência, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Decorridos quarenta e cinco dias sem manifestação definitiva do Plenário sobre projeto com urgência solicitada, a proposição será incluída na Ordem do Dia, sobrestando-se as demais deliberações.",
+            "B": "O sobrestamento ocorrerá após quarenta e cinco dias úteis sem manifestação definitiva do Plenário sobre projeto com urgência solicitada.",
+            "C": "Quando a urgência for solicitada durante a tramitação, o prazo será contado retroativamente da data do recebimento original do projeto.",
+            "D": "Durante os períodos de recesso da Assembleia Legislativa, continuará normalmente a contagem do prazo aplicável aos projetos com urgência.",
+            "E": "O prazo de quarenta e cinco dias também será aplicado aos projetos de código apresentados com solicitação de urgência."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 262 determina a inclusão na Ordem do Dia, com sobrestamento das demais deliberações, após quarenta e cinco dias sem manifestação definitiva do Plenário.\nB) INCORRETA. O art. 262 estabelece quarenta e cinco dias, sem qualificá-los como úteis.\nC) INCORRETA. O art. 262, § 1°, determina a aplicação do prazo a partir da recepção do pedido de urgência pela Assembleia.\nD) INCORRETA. O art. 262, § 2°, expressamente determina que os prazos não correm durante o recesso da Assembleia Legislativa.\nE) INCORRETA. O art. 262, § 2°, exclui expressamente os projetos de código da aplicação desses prazos.",
+          "base_legal": {
+            "dispositivo": "Art. 262, caput e §§ 1° e 2°",
+            "texto": "Art. 262. Caso tenha fluido o prazo de quarenta e cinco dias, contados do recebimento de projeto de lei de iniciativa do Governador, do Presidente da Assembleia Legislativa e do Tribunal de Justiça do Estado sem a manifestação definitiva do Plenário, para o qual tenha sido solicitada urgência, consoante o art. 107 da Constituição Estadual, será a proposição incluída na Ordem do Dia, sobrestando-se a deliberação quanto aos demais assuntos, para que se ultime sua votação.\n§ 1° A solicitação do regime de urgência poderá ser feita pelo Autor estando o projeto já em tramitação, aplicando-se o disposto neste artigo a partir da recepção do pedido pela Assembleia.\n§ 2° Os prazos previstos neste artigo não correm nos períodos de recesso da Assembleia Legislativa nem se aplicam aos projetos de código."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre o processamento dos projetos de código, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Presidente despachará o projeto às Comissões competentes, na ordem estabelecida no art. 66, para apreciação dos respectivos relatórios.",
+            "B": "A tramitação simultânea de projetos de código ficará limitada a dois projetos, conforme determinação expressa do Regimento Interno.",
+            "C": "A Mesa somente receberá projeto para tramitação como código quando sua complexidade ou abrangência justificar essa forma de apreciação.",
+            "D": "Devolvida a proposição pelas Comissões, sua publicação no Sistema de Tramitação ocorrerá dentro de duas sessões, observado o art. 215.",
+            "E": "Após o processamento nas Comissões, a apreciação do projeto de código pelo Plenário deverá ocorrer obrigatoriamente em dois turnos."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 263 determina o encaminhamento às Comissões na ordem do art. 66, com prazo de vinte dias úteis em cada Comissão.\nB) CORRETA (opção verdadeira). O art. 263, § 1°, proíbe a tramitação simultânea de mais de dois projetos de código.\nC) CORRETA (opção verdadeira). O art. 263, § 2°, condiciona o tratamento como código à complexidade ou abrangência da matéria.\nD) CORRETA (opção verdadeira). O art. 264 prevê publicação dentro de duas sessões após a devolução pelas Comissões.\nE) INCORRETA (gabarito). O art. 264 estabelece expressamente que a apreciação do projeto de código pelo Plenário ocorrerá em turno único.",
+          "base_legal": {
+            "dispositivo": "Arts. 263, caput e §§ 1° e 2°, e 264",
+            "texto": "Art. 263. Recebido o projeto de código, será o mesmo despachado pelo Presidente às Comissões nas quais deva tramitar, na ordem apresentada no art. 66, observando-se o prazo de vinte dias úteis para a apreciação dos respectivos relatórios em cada Comissão.\n§ 1° Não se fará a tramitação simultânea de mais de dois projetos de código.\n§ 2° A Mesa só receberá projeto de lei para tramitação na forma deste capítulo quando a matéria, por sua complexidade ou abrangência, deva ser apreciada como código.\nArt. 264. Logo que a proposição for devolvida das comissões a que tenha sido remetida, haverá, dentro de duas sessões, a sua publicação no Sistema de Tramitação, com observância do art. 215, devendo a sua apreciação ser feita no Plenário, em turno único."
+          }
+        },
+        {
+          "enunciado": "Nos termos do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca dos projetos de consolidação de textos legais, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Mesa Diretora, qualquer membro ou Comissão da Assembleia poderá formular projeto de consolidação, resguardada a matéria de mérito.",
+            "B": "Após a publicação do projeto de consolidação, será aberto o prazo de vinte dias para oferecimento de sugestões ao texto.",
+            "C": "A Mesa Diretora encaminhará o projeto ao Grupo de Trabalho de Consolidação das Leis e à Comissão de Constituição e Justiça e de Redação Final.",
+            "D": "As emendas apresentadas em Plenário para preservação do texto da consolidação serão encaminhadas à Comissão de Constituição e Justiça e de Redação Final.",
+            "E": "O Relator proporá que as emendas consideradas de mérito sejam destacadas para constituírem projeto autônomo, a ser apreciado pela Casa."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 265 permite a iniciativa da Mesa Diretora, de qualquer membro ou Comissão e restringe a consolidação aos aspectos formais.\nB) INCORRETA (gabarito). O art. 265, § 2°, estabelece prazo de trinta dias para oferecimento de sugestões, e não vinte dias.\nC) CORRETA (opção verdadeira). O art. 265, § 1°, determina o encaminhamento aos dois órgãos indicados, vedadas alterações de mérito.\nD) CORRETA (opção verdadeira). O art. 266, §§ 1° e 2°, prevê a apresentação de emendas para manutenção do texto e seu encaminhamento à Comissão para parecer.\nE) CORRETA (opção verdadeira). O art. 266, § 4°, determina que o Relator proponha o destaque das emendas consideradas de mérito para constituição de projeto autônomo.",
+          "base_legal": {
+            "dispositivo": "Art. 265, caput e §§ 1° e 2°; art. 266, caput e §§ 1°, 2° e 4°",
+            "texto": "Art. 265. A Mesa Diretora, qualquer membro ou Comissão da Assembleia poderá formular projeto de consolidação, visando à sistematização, à correção, ao aditamento, à supressão e à conjugação de textos legais, cuja elaboração cingir-se-á aos aspectos formais, resguardada a matéria de mérito.\n§ 1° A Mesa Diretora remeterá o projeto de consolidação ao Grupo de Trabalho de Consolidação das Leis e à Comissão de Constituição e Justiça e de Redação Final, que o examinarão, vedadas as alterações de mérito.\n§ 2° O Grupo de Trabalho de Consolidação das Leis, recebido o projeto de consolidação, fá-lo-á publicar no Diário Oficial da Assembleia Legislativa e no Sistema de Tramitação, a fim de que, no prazo de trinta dias, a ele sejam oferecidas sugestões, as quais, se for o caso, serão incorporadas ao texto inicial, a ser encaminhado, em seguida, ao exame da Comissão de Constituição e Justiça e de Redação Final.\nArt. 266. O projeto de consolidação, após a apreciação do Grupo de Trabalho de Consolidação das Leis e da Comissão de Constituição e Justiça e de Redação Final, será submetido ao Plenário da Casa.\n§ 1° Verificada a existência de dispositivos visando à alteração ou supressão de matéria de mérito, deverão ser formuladas emendas, visando à manutenção do texto da consolidação.\n§ 2° As emendas apresentadas em Plenário, consoante o disposto no parágrafo anterior, deverão ser encaminhadas à Comissão de Constituição e Justiça e de Redação Final, que sobre elas emitirá parecer, sendo-lhe facultada, para tanto e se for o caso, a requisição de informações junto ao Grupo de Trabalho de Consolidação das Leis.\n§ 4° O Relator proporá, em seu voto, que as emendas consideradas de mérito, isolada ou conjuntamente, sejam destacadas para fins de constituírem projeto autônomo, o qual deverá ser apreciado pela Casa, dentro das normas regimentais aplicáveis à tramitação dos demais projetos de lei."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a fixação dos subsídios dos Deputados, do Governador, do Vice-Governador e dos Secretários de Estado, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Compete à Mesa elaborar projeto de lei ordinária destinado à fixação dos subsídios dos agentes políticos mencionados no Regimento.",
+            "B": "Os projetos serão encaminhados, no prazo de cinco sessões, à Comissão de Constituição e Justiça e de Redação Final para emissão de parecer.",
+            "C": "O prazo para apresentação de emendas junto à Comissão de Fiscalização Financeira e Orçamentária será de três sessões.",
+            "D": "Encerrado o prazo de emendas, a Comissão de Fiscalização Financeira e Orçamentária emitirá parecer em três sessões, encaminhando a proposição à Mesa para apreciação em turno único.",
+            "E": "A Comissão deverá emitir parecer somente sobre o projeto de fixação dos subsídios, sendo as emendas apreciadas diretamente pelo Plenário."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 267 atribui à Mesa a elaboração de projeto de decreto legislativo, não de projeto de lei ordinária.\nB) INCORRETA. O art. 268 determina o encaminhamento à Comissão de Fiscalização Financeira e Orçamentária.\nC) INCORRETA. O art. 268, § 1°, prevê prazo de cinco sessões para apresentação de emendas junto à Comissão de Fiscalização Financeira e Orçamentária.\nD) CORRETA. O art. 268, § 2°, estabelece parecer em três sessões depois do encerramento do prazo de emendas, encaminhamento imediato à Mesa e apreciação em turno único.\nE) INCORRETA. O art. 268, § 2°, determina que o parecer da Comissão abranja o projeto e as respectivas emendas, se houver.",
+          "base_legal": {
+            "dispositivo": "Art. 267, caput e incisos I e II; art. 268, caput e §§ 1° e 2°",
+            "texto": "Art. 267. À Mesa incumbe elaborar projeto de decreto legislativo fixando:\nI - os subsídios dos Deputados, na forma do art. 92, V da Constituição Estadual;\nII - os subsídios do Governador e do Vice-Governador e dos Secretários de Estado, observado o que dispõe o art. 92, XXV da Constituição Estadual.\nArt. 268. Os projetos mencionados no artigo anterior serão encaminhados no prazo de cinco sessões para a Comissão de Fiscalização Financeira e Orçamentária emitir parecer.\n§ 1° No prazo de cinco sessões poderão ser apresentadas emendas junto à Comissão de Fiscalização Financeira e Orçamentária.\n§ 2° Esgotado o prazo para o recebimento de emendas, a Comissão emitirá parecer no prazo de três sessões, sobre o projeto e as respectivas emendas, se houver, encaminhando-se a proposição imediatamente à Mesa para efeito de inclusão na Ordem do Dia, em turno único de apreciação."
+          }
+        },
+        {
+          "enunciado": "Caso prático: terminado o prazo referido no art. 271 do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), a Assembleia ainda não recebeu a prestação de contas do Governador. Considerando essa situação e o procedimento regimental de apreciação das contas governamentais, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Na ausência da prestação de contas dentro do prazo, caberá à Comissão de Constituição e Justiça e de Redação Final realizar a tomada de contas.",
+            "B": "Quando recebido o processo, o Presidente da Assembleia determinará a publicação do balanço geral e do parecer prévio do Tribunal de Contas do Estado.",
+            "C": "O processo recebido deverá ser publicado no Sistema de Tramitação no prazo de cinco sessões, contado de seu recebimento.",
+            "D": "Após a publicação, o processo permanecerá sobre a Mesa por dez sessões, para eventual requerimento de informações nas condições regimentais.",
+            "E": "Publicado o projeto de decreto legislativo referente às contas, abrir-se-á, na Comissão, o prazo de dez dias para apresentação de emendas."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 271 atribui expressamente a tomada de contas à Comissão de Fiscalização Financeira e Orçamentária, quando não recebidas as contas no prazo.\nB) CORRETA (opção verdadeira). O art. 269 determina que o Presidente mande publicar o balanço geral e o parecer prévio do Tribunal de Contas do Estado.\nC) CORRETA (opção verdadeira). O art. 269, § 1°, estabelece publicação do processo em cinco sessões, contadas do recebimento.\nD) CORRETA (opção verdadeira). O art. 269, § 2°, prevê permanência sobre a Mesa por dez sessões, para eventual requerimento de informações apresentado e aprovado nas condições previstas.\nE) CORRETA (opção verdadeira). O art. 269, § 4°, estabelece prazo de dez dias para apresentação de emendas na Comissão, após a publicação do projeto.",
+          "base_legal": {
+            "dispositivo": "Art. 269, caput e §§ 1° a 4°; art. 271",
+            "texto": "Art. 269. Recebido o processo de prestação de contas do Governador do Estado, o Presidente da Assembleia, independentemente de leitura no expediente, mandará publicar o balanço geral das contas e o parecer prévio do Tribunal de Contas do Estado, elaborado na forma do art.116, I da Constituição Estadual.\n§ 1° O processo será publicado no Sistema de Tramitação, no prazo de cinco sessões, contados de seu recebimento.\n§ 2° Após a publicação no Sistema de Tramitação, o processo ficará sobre a Mesa, por dez sessões, para efeito do atendimento a eventual requerimento de informações ao Poder Executivo e ao Tribunal de Contas do Estado, apresentado por dez por cento da composição da Assembleia ou Líderes que os representem, e aprovado pelo Plenário.\n§ 3° Esgotado este prazo, o processo será encaminhado à Comissão de Fiscalização Financeira e Orçamentária para emitir parecer, no prazo de quarenta e cinco dias, concluindo por projeto de decreto legislativo.\n§ 4° Publicado o projeto, abrir-se-á, na Comissão, o prazo de dez dias para apresentação de emendas.\nArt. 271. Decorrido o prazo estabelecido no art. 92, XXVIII, da Constituição Estadual, sem que a Assembleia tenha recebido a prestação de contas do Governador, estas serão tomadas pela Comissão de Fiscalização Financeira e Orçamentária, aplicando-se, no que couber, o disposto neste Capítulo."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a apreciação das contas da Mesa Diretora da Assembleia, do Tribunal de Contas do Estado e do Tribunal de Contas dos Municípios, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "Os integrantes da Mesa poderão votar na apreciação das contas do próprio órgão, desde que não exerçam a presidência da sessão.",
+            "B": "A sessão de apreciação das contas da Mesa Diretora será presidida pelo Presidente da Assembleia Legislativa, que constituirá uma Mesa provisória.",
+            "C": "Os integrantes da Mesa não votarão sobre suas contas; o Deputado mais idoso presidirá a sessão e convidará dois Deputados de agremiações diferentes para a Mesa provisória.",
+            "D": "O procedimento previsto para a prestação de contas abrangerá a Mesa Diretora e o Tribunal de Contas do Estado, excluindo o Tribunal de Contas dos Municípios.",
+            "E": "Os processos relativos às contas da Mesa Diretora não observarão, nem subsidiariamente, o procedimento estabelecido para a prestação de contas do Governador."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 270, parágrafo único, veda aos integrantes da Mesa votar na sessão que aprecia as contas do respectivo órgão.\nB) INCORRETA. O art. 270, parágrafo único, atribui a presidência da sessão ao Deputado mais idoso.\nC) CORRETA. O art. 270, parágrafo único, determina a impossibilidade de voto dos integrantes da Mesa, a presidência pelo Deputado mais idoso e a composição da Mesa provisória por dois Deputados de agremiações partidárias diferentes.\nD) INCORRETA. O art. 270, inciso III, inclui expressamente as contas do Tribunal de Contas dos Municípios.\nE) INCORRETA. O art. 270, caput, determina a aplicação, no que couber, das disposições do artigo anterior aos processos enumerados.",
+          "base_legal": {
+            "dispositivo": "Art. 270, caput, incisos I a III e parágrafo único",
+            "texto": "Art. 270. Aplica-se o disposto no artigo anterior, no que couber, aos processos de prestação de contas:\nI - da Mesa Diretora da Assembleia Legislativa, na forma do que trata o art. 92, XXIX, da Constituição Estadual;\nII - do Tribunal de Contas do Estado, conforme estabelece o art. 92, XXX da Constituição Estadual;\nIII - do Tribunal de Contas dos Municípios, em cumprimento do art. 123 da Constituição Estadual.\nParágrafo único. Os integrantes da Mesa não poderão votar na sessão do Plenário que irá apreciar as contas do respectivo órgão, sendo presidida pelo Deputado mais idoso, que convidará dois Deputados de agremiações partidárias diferentes para tomarem assento à Mesa provisória durante a deliberação."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), a respeito do comparecimento dos Secretários de Estado e dos titulares de outros órgãos diretamente subordinados ao Governo do Estado, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Secretário de Estado poderá ser convocado para prestar, pessoalmente, informações sobre assunto previamente determinado perante a Assembleia ou suas Comissões.",
+            "B": "O Secretário de Estado poderá ser convidado a manifestar-se sobre determinado assunto, sendo-lhe facultado o comparecimento.",
+            "C": "A convocação de Secretário de Estado dependerá de deliberação da maioria da respectiva composição plenária da Assembleia ou da Comissão.",
+            "D": "No comparecimento espontâneo ao Plenário, o Secretário disporá de quarenta minutos, prorrogáveis por mais vinte, com apartes permitidos apenas durante a prorrogação.",
+            "E": "As regras regimentais de comparecimento dos Secretários de Estado não serão aplicadas aos titulares de outros órgãos diretamente subordinados ao Governo do Estado."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 272, inciso I, admite a convocação para prestação pessoal de informações sobre assunto previamente determinado.\nB) CORRETA (opção verdadeira). O art. 272, inciso II, estabelece que o comparecimento decorrente de convite é facultativo.\nC) CORRETA (opção verdadeira). O art. 272, § 1°, exige deliberação da maioria da respectiva composição plenária, a requerimento de Deputado ou membro da Comissão, conforme o caso.\nD) CORRETA (opção verdadeira). O art. 275, § 1°, estabelece quarenta minutos, prorrogáveis por vinte, com apartes somente na prorrogação.\nE) INCORRETA (gabarito). O art. 277 determina expressamente a aplicação das disposições da seção anterior aos titulares de quaisquer outros órgãos diretamente subordinados ao Governo do Estado.",
+          "base_legal": {
+            "dispositivo": "Art. 272, caput, incisos I e II e § 1°; art. 275, caput e § 1°; art. 277",
+            "texto": "Art. 272. O Secretário de Estado comparecerá perante a Assembleia Legislativa ou suas Comissões:\nI - quando convocado para prestar, pessoalmente, informações sobre assunto previamente determinado;\nII - quando convidado para se manifestar sobre determinado assunto, sendo-lhe facultada o comparecimento;\n§ 1° A convocação do Secretário de Estado será resolvida pela Assembleia Legislativa ou Comissão, por deliberação da maioria da respectiva composição plenária, a requerimento de qualquer Deputado ou membro da Comissão, conforme o caso.\nArt. 275. No caso do comparecimento espontâneo ao Plenário, o Secretário de Estado usará da palavra ao início do Grande Expediente, se para expor assuntos da sua pasta ou de interesse da Casa, ou da Ordem do Dia, se para falar de proposição legislativa em trâmite, relacionada com a secretaria sob sua direção.\n§ 1° Ser-lhe-á concedida a palavra durante quarenta minutos, podendo o prazo ser prorrogado por mais vinte minutos, por deliberação do Plenário, só sendo permitidos apartes durante a prorrogação.\nArt. 277. O disposto na seção anterior se aplica aos titulares de quaisquer outros órgãos diretamente subordinados ao Governo do Estado."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a indicação e a escolha de Conselheiros dos Tribunais de Contas e de dirigentes de entidades estaduais submetidos à aprovação da Assembleia, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Recebida mensagem do Governador com indicação sujeita à aprovação da Assembleia, haverá publicação no Sistema de Tramitação e convocação imediata de sessão especial para arguição pública.",
+            "B": "Nas vagas de Conselheiros cuja escolha cabe à Assembleia, a indicação por Deputados dependerá da assinatura de pelo menos um terço de sua totalidade, quando não realizada pelas Lideranças Partidárias.",
+            "C": "Encerrada a fase de indicação dos candidatos às vagas de escolha da Assembleia, a Comissão de Constituição e Justiça e de Redação Final terá quinze dias para oferecer parecer sobre cada candidato.",
+            "D": "Na escolha de Conselheiro pela Assembleia, a eleição será secreta, exigindo-se pelo menos onze votos para a escolha do candidato mais votado.",
+            "E": "Se o parecer contrário à indicação do Governador for rejeitado pelo Plenário, a indicação estará aprovada, devendo ser elaborado o projeto de decreto legislativo em quarenta e oito horas."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 278 prevê publicação no Sistema de Tramitação e convocação imediata de sessão especial para arguição pública do indicado.\nB) INCORRETA (gabarito). O art. 279, § 1°, exige assinatura de pelo menos um quinto da totalidade dos Deputados Estaduais quando a indicação não for feita pelas Lideranças Partidárias.\nC) CORRETA (opção verdadeira). O art. 279, § 4°, estabelece quinze dias para os pareceres sobre os candidatos, com escolha do Relator por sorteio.\nD) CORRETA (opção verdadeira). O art. 279, §§ 6° e 7°, determina votação secreta e mínimo de onze votos para a escolha do candidato mais votado.\nE) CORRETA (opção verdadeira). O art. 278, § 5°, considera aprovada a indicação quando o parecer contrário é rejeitado pelo Plenário, prevendo quarenta e oito horas para elaboração do projeto.",
+          "base_legal": {
+            "dispositivo": "Art. 278, caput e § 5°; art. 279, caput e §§ 1°, 4°, 6° e 7°",
+            "texto": "Art. 278. Recebida pela Assembleia mensagem do Governador, indicando Conselheiros do Tribunal de Contas do Estado, do Tribunal de Contas dos Municípios, dirigentes de autarquias e fundações públicas e outros que a lei vier a determinar, será publicada no Sistema de Tramitação, e convocada imediatamente sessão especial para arguição pública do indicado, obedecendo-se à ordem dos trabalhos determinados no art. 274.\n§ 5° Se o parecer da Comissão de Constituição e Justiça e de Redação Final ou das Comissões conjuntas for contrário, e rejeitado na votação do Plenário, estará aprovada a indicação, devendo os autos ser encaminhados à Comissão de Constituição e Justiça e de Redação Final para elaborar, no prazo de quarenta e oito horas, o respectivo projeto de decreto legislativo, que será promulgado e publicado no prazo de duas sessões.\nArt. 279. Abrindo-se vaga na composição dos Tribunais de Contas, cabendo a escolha à Assembleia Legislativa, na forma do art. 119, § 1° inciso II da Constituição Estadual, o Presidente, de ofício, ou a requerimento de qualquer Deputado, declarará, em sessão, que a vaga foi aberta, podendo ocorrer a habilitação de candidatos no do prazo de dez dias úteis.\n§ 1° A indicação de candidato será feita pelas Lideranças Partidárias ou mediante a assinatura de, pelo menos, um quinto da totalidade dos Deputados Estaduais. Nenhum Deputado poderá subscrever mais de uma indicação para a mesma vaga.\n§ 4° Terminada a fase de indicação, e dentro do prazo de quinze dias, a Comissão de Constituição e Justiça e de Redação Final, dará parecer sobre cada um dos candidatos indicados, devendo a escolha do Relator ser feita por meio de sorteio.\n§ 6° O Presidente da Assembleia, em seguida, convocará sessão especial para a escolha do Conselheiro, dentre os candidatos considerados habilitados pela Comissão de Constituição e Justiça e de Redação Final. A eleição será feita em votação secreta pelo Plenário.\n§ 7° O candidato que obtiver o maior número de votos, desde que tenha recebido, pelo menos, onze votos, será o escolhido pela Assembleia."
+          }
+        },
+        {
+          "enunciado": "Nos termos do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca da eleição de cidadãos para integrar o Conselho do Estado, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A Assembleia elegerá dois cidadãos indicados por entidades civis, independentemente de sua representação partidária na Casa.",
+            "B": "A Assembleia elegerá dois cidadãos escolhidos pelos Partidos com assento na Casa, observando o princípio da proporcionalidade partidária.",
+            "C": "A Assembleia elegerá dois cidadãos dentre candidatos escolhidos pelas Comissões Permanentes, segundo a representação parlamentar.",
+            "D": "A Assembleia elegerá dois cidadãos dentre candidatos escolhidos pelos Partidos, Blocos Partidários e Federações com assento na Casa, abstraído o princípio da proporcionalidade partidária.",
+            "E": "A Assembleia elegerá três cidadãos dentre candidatos escolhidos pelos Partidos, Blocos Partidários e Federações com assento na Casa."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 280 determina que os candidatos sejam escolhidos pelos Partidos, Blocos Partidários e Federações com assento na Assembleia.\nB) INCORRETA. O art. 280 afasta expressamente o princípio da proporcionalidade partidária nessa eleição.\nC) INCORRETA. O art. 280 não atribui às Comissões Permanentes a escolha dos candidatos, mas aos Partidos, Blocos Partidários e Federações com assento na Assembleia.\nD) CORRETA. O art. 280 estabelece a eleição de dois cidadãos dentre candidatos escolhidos pelos Partidos, Blocos Partidários e Federações com assento na Assembleia, sem aplicação do princípio da proporcionalidade partidária.\nE) INCORRETA. O art. 280 estabelece a eleição de dois cidadãos, e não três.",
+          "base_legal": {
+            "dispositivo": "Art. 280",
+            "texto": "Art. 280. A eleição dos dois cidadãos que devam integrar o Conselho do Estado, a que se refere o art. 146, VII da Constituição Estadual, será feita na forma prevista no art. 5°, deste Regimento, dentre candidatos escolhidos pelos Partidos, Blocos Partidários e Federações com assento na Assembleia, nos termos dos incisos I a III do art. 8°, abstraído o princípio da proporcionalidade partidária."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), quanto aos prazos de encaminhamento, devolução e vigência das matérias orçamentárias, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O projeto do plano plurianual será encaminhado até 30 de setembro do primeiro exercício financeiro do mandato e devolvido até 30 de novembro.",
+            "B": "O projeto do plano plurianual será encaminhado até 31 de agosto do primeiro exercício financeiro do mandato e devolvido até 30 de novembro do primeiro ano do mandato.",
+            "C": "O projeto de lei de diretrizes orçamentárias será encaminhado até 30 de abril de cada ano e devolvido ao Governador até 15 de dezembro.",
+            "D": "O projeto de lei orçamentária anual será encaminhado até 30 de setembro e devolvido ao Governador até 30 de junho de cada ano.",
+            "E": "A lei orçamentária anual vigorará durante o mesmo exercício financeiro em que o projeto respectivo for encaminhado à Assembleia Legislativa."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 281, inciso I, fixa o encaminhamento do plano plurianual até 31 de agosto do primeiro exercício financeiro do mandato governamental.\nB) CORRETA. O art. 281, inciso I e § 1°, inciso I, estabelece encaminhamento até 31 de agosto e devolução até 30 de novembro do primeiro ano do mandato.\nC) INCORRETA. O art. 281, § 1°, inciso II, fixa a devolução do projeto da LDO até 30 de junho de cada ano.\nD) INCORRETA. O art. 281, § 1°, inciso III, fixa a devolução do projeto da LOA até 15 de dezembro de cada ano.\nE) INCORRETA. O art. 281, § 2°, inciso III, determina a vigência da LOA no exercício financeiro posterior ao do envio do projeto à Assembleia.",
+          "base_legal": {
+            "dispositivo": "Art. 281, caput, incisos I a III, §§ 1° e 2°, incisos I a III do § 1° e inciso III do § 2°",
+            "texto": "Art. 281. Os projetos de lei orçamentárias, conforme estabelece o art. 204 da Constituição Estadual, serão encaminhados à Assembleia Legislativa nos seguintes prazos:\nI - o projeto de lei do plano plurianual, até 31 de agosto do primeiro exercício financeiro do mandato governamental;\nII - o projeto de lei de diretrizes orçamentárias, até 30 de abril de cada ano;\nIII - o projeto de lei orçamentária anual, até 30 de setembro de cada ano.\n§ 1° Depois de apreciados os projetos de lei orçamentárias, serão devolvidos ao Governador nos seguintes prazos:\nI - o projeto de lei do plano plurianual, até 30 de novembro do primeiro ano do mandato do Governador;\nII - o projeto de lei de diretrizes orçamentárias, até 30 de junho de cada ano;\nIII - o projeto de lei orçamentária anual, até 15 de dezembro de cada ano.\n§ 2° As leis orçamentárias terão os seguintes períodos de vigência:\nIII - a lei orçamentária anual vigorará no exercício financeiro posterior ao do envio do projeto respectivo à Assembleia."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), a respeito do processamento das emendas e dos pareceres relativos aos projetos de lei orçamentárias, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Todas as emendas aos projetos de lei orçamentárias serão apresentadas na Comissão, no prazo de quinze dias após o recebimento dos projetos.",
+            "B": "Encerrado o prazo para emendas, o Presidente da Comissão terá dois dias para proferir despacho de recebimento e dar publicidade às emendas.",
+            "C": "O recurso contra despacho de não recebimento de emenda será dirigido ao Presidente da Assembleia em vinte e quatro horas, que terá dois dias para decidir.",
+            "D": "A Comissão poderá receber mensagem retificativa do Governador enquanto não tiver sido iniciada a votação dos projetos no âmbito da própria Comissão.",
+            "E": "Se a Comissão não emitir parecer no prazo regimental, o Presidente da Assembleia designará Relator especial, que disporá de dez dias para apresentar o parecer."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 282, inciso II, determina apresentação de todas as emendas na Comissão dentro de quinze dias da recepção dos projetos.\nB) CORRETA (opção verdadeira). O art. 282, inciso III, estabelece dois dias para o despacho do Presidente da Comissão, com numeração, publicação e publicidade das emendas não recebidas.\nC) CORRETA (opção verdadeira). O art. 282, inciso IV, prevê recurso em vinte e quatro horas ao Presidente da Assembleia, com dois dias para decisão.\nD) CORRETA (opção verdadeira). O art. 282, inciso X, admite mensagem retificativa do Governador enquanto não iniciada a votação no âmbito da Comissão.\nE) INCORRETA (gabarito). O art. 282, inciso IX, estabelece prazo de cinco dias, e não dez, para o Relator especial apresentar o parecer.",
+          "base_legal": {
+            "dispositivo": "Art. 282, caput e incisos II, III, IV, VIII, IX e X",
+            "texto": "Art. 282. Na tramitação dos projetos de lei orçamentárias serão observadas as seguintes normas:\nII - todas as emendas serão apresentadas na Comissão, dentro do prazo de quinze dias que esta tenha recepcionado os projetos;\nIII - vencido o prazo estabelecido no inciso anterior, o Presidente da Comissão proferirá, em dois dias, despacho de recebimento das emendas, que serão numeradas e publicadas e dará publicidade, em separado, às que, por serem consideradas inconstitucionais, ilegais ou antirregimentais, deixar de receber;\nIV - do despacho de não recebimento de emendas caberá recurso, no prazo de vinte e quatro horas, ao Presidente da Assembleia, que terá dois dias para decidir;\nVIII - a Comissão deverá emitir parecer até dez dias antes de expirarem as respectivas datas mencionadas nos incisos do § 1° do art. 281, publicando-se o mesmo no Sistema de Tramitação;\nIX - se a Comissão não emitir parecer nos prazos estipulados no inciso anterior, o Presidente da Assembleia avocará a matéria, designará Relator especial para a mesma, e o Relator terá o prazo de cinco dias para apresentar o parecer, que será publicado no Sistema de Tramitação, e os projetos incluídos na Ordem do Dia;\nX - a Comissão poderá receber, do Governador, mensagem retificativa aos projetos, enquanto não iniciada a votação, no âmbito da mesma;"
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), acerca da concessão de comendas, medalhas e títulos honoríficos, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A Assembleia poderá instituir novas homenagens após o início da vigência do Regimento, desde que a criação seja aprovada por resolução.",
+            "B": "Os projetos de concessão dos títulos de Cidadão do Pará e Honra ao Mérito deverão ser subscritos por pelo menos um quinto dos Deputados.",
+            "C": "O título de Cidadão do Pará exige domicílio no Estado por mais de um ano, dispensável se um terço dos Deputados subscrever o projeto.",
+            "D": "Cada Deputado poderá apresentar até três projetos de concessão de títulos honoríficos durante o mesmo ano legislativo.",
+            "E": "O título honorífico será considerado extinto se o homenageado, depois de notificado, não o receber em dois anos, salvo justificativa escrita aceita pelo Plenário."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 283, parágrafo único, veda a instituição de novas homenagens a partir do início da vigência do Regimento.\nB) INCORRETA. O art. 284 exige subscrição mínima de uma quarta parte da totalidade dos Deputados.\nC) CORRETA. O art. 284, § 1°, exige comprovação de domicílio no Estado por mais de um ano para o título de Cidadão do Pará, dispensando essa exigência quando o projeto for subscrito por um terço dos Deputados.\nD) INCORRETA. O art. 284, § 5°, limita a apresentação a dois projetos por Deputado em cada ano legislativo.\nE) INCORRETA. O art. 284, § 4°, fixa o prazo de um ano após a notificação para recebimento do título, ressalvada justificativa escrita aceita pelo Plenário.",
+          "base_legal": {
+            "dispositivo": "Art. 283, caput e parágrafo único; art. 284, caput e §§ 1°, 4° e 5°",
+            "texto": "Art. 283. São homenagens outorgadas pela Assembleia Legislativa:\nParágrafo único. É vedada a instituição de novas homenagens a partir do início da vigência deste Regimento.\nArt. 284. Os projetos dispondo sobre a concessão de títulos honoríficos de \"Cidadão do Pará” e \"Honra ao Mérito” deverão ser subscritos, no mínimo, por uma quarta parte da totalidade dos Deputados e serão conferidos, privativamente, pelo Poder Legislativo, a personalidades, brasileiras ou não, que tenham prestado reais e efetivos serviços ao Estado do Pará, ou que mereçam a homenagem em decorrência de extraordinária e meritória atuação, devendo a proposição especificar, obrigatoriamente, as razões e os motivos considerados relevantes e justificadores da honraria.\n§ 1° Para a concessão do título de \"Cidadão do Pará” é necessária a comprovação de domicílio do indicado, no Estado, por mais de um ano, sendo dispensada tal exigência se o projeto for subscrito por um terço dos Deputados.\n§ 4° Sendo notificado o homenageado, se este não vier receber o título dentro do prazo de um ano, a honraria será considerada extinta, salvo se o Plenário aceitar justificativa escrita do interessado.\n§ 5° O Deputado poderá apresentar até dois projetos dispondo sobre a concessão de títulos honoríficos em cada ano legislativo."
+          }
+        },
+        {
+          "enunciado": "Nos termos do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre a modificação ou reforma do próprio Regimento Interno, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A iniciativa de projeto de resolução destinado à modificação ou reforma do Regimento Interno pertence exclusivamente à Mesa Diretora da Assembleia.",
+            "B": "Após a publicação no Sistema de Tramitação, o projeto permanecerá na Ordem do Dia durante cinco sessões para recebimento de emendas.",
+            "C": "Encerrado o prazo de emendas, o projeto será encaminhado sequencialmente à Comissão de Constituição e Justiça e de Redação Final e à Mesa.",
+            "D": "Os pareceres das Comissões e da Mesa serão emitidos em cinco sessões para simples modificação e em vinte sessões para reforma.",
+            "E": "A Mesa promoverá a consolidação e publicação de todas as alterações introduzidas no Regimento antes do encerramento de cada biênio."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 285 permite iniciativa de Deputado, da Mesa ou de Comissão Permanente, não sendo exclusiva da Mesa Diretora.\nB) CORRETA (opção verdadeira). O art. 286 estabelece permanência na Ordem do Dia por cinco sessões para recebimento de emendas.\nC) CORRETA (opção verdadeira). O art. 287 determina o encaminhamento sequencial à Comissão de Constituição e Justiça e de Redação Final e à Mesa, conforme suas competências.\nD) CORRETA (opção verdadeira). O art. 288 diferencia os prazos: cinco sessões para simples modificação e vinte sessões para reforma.\nE) CORRETA (opção verdadeira). O art. 292 determina que a Mesa consolide e publique todas as alterações antes de findo cada biênio.",
+          "base_legal": {
+            "dispositivo": "Arts. 285 a 288 e 292",
+            "texto": "Art. 285. O Regimento Interno poderá ser modificado ou reformado por meio de projeto de resolução de iniciativa de Deputado, da Mesa, ou de Comissão Permanente.\nArt. 286. O projeto, após publicado no Sistema de Tramitação, permanecerá na Ordem do Dia durante o prazo de cinco sessões para o recebimento de emendas.\nArt. 287. Decorrido o prazo previsto no artigo anterior, o projeto será enviado sequencialmente:\nI - à Comissão de Constituição e Justiça e de Redação Final, em qualquer caso, para o exame dos aspectos de sua competência;\nII - à Mesa para apreciar as emendas e o projeto, quando este for de iniciativa dela própria, de Deputado ou de Comissão Permanente.\nArt. 288. Os pareceres das Comissões e da Mesa, conforme o caso, serão emitidos no prazo de cinco sessões, quando o projeto for de simples modificação, e de vinte sessões, quando se tratar de reforma.\nArt. 292. A Mesa fará a consolidação e publicação de todas as alterações introduzidas no Regimento antes de findo cada biênio."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), a respeito do procedimento aplicável às representações ou denúncias por crimes de responsabilidade do Governador, do Vice-Governador e dos Secretários de Estado, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O juízo de admissibilidade da representação ou denúncia caberá à Comissão de Constituição e Justiça e de Redação Final.",
+            "B": "Os procedimentos de apuração e julgamento serão definidos exclusivamente pela legislação estadual, independentemente da legislação federal.",
+            "C": "As representações ou denúncias de crimes de responsabilidade abrangerão o Governador e o Vice-Governador, mas não os Secretários de Estado.",
+            "D": "O juízo de admissibilidade da representação ou denúncia, quanto à presença dos requisitos formais e materiais, caberá ao Presidente da Assembleia Legislativa.",
+            "E": "O juízo de admissibilidade da representação ou denúncia ficará restrito à verificação dos requisitos formais, sem abranger os requisitos materiais."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 293, parágrafo único, atribui o juízo de admissibilidade ao Presidente da Assembleia Legislativa.\nB) INCORRETA. O art. 293, caput, determina a adoção dos procedimentos consignados na legislação federal.\nC) INCORRETA. O art. 293, caput, inclui expressamente os Secretários de Estado entre as autoridades abrangidas.\nD) CORRETA. O art. 293, parágrafo único, estabelece que o juízo de admissibilidade, envolvendo requisitos formais e materiais, cabe ao Presidente da Assembleia Legislativa.\nE) INCORRETA. O art. 293, parágrafo único, determina que o juízo de admissibilidade envolva a presença de requisitos formais e materiais.",
+          "base_legal": {
+            "dispositivo": "Art. 293, caput e parágrafo único",
+            "texto": "Art. 293. Formalizada representação ou denúncia de crimes de responsabilidade contra o Governador, Vice-Governador e Secretários de Estado, à Assembleia Legislativa adotará os procedimentos consignados na legislação federal, a quem compete definir os crimes de responsabilidade e seu julgamento, nos termos do que dispõe o art. 22, I, combinado com o art. 85, Parágrafo único da Constituição Federal.\nParágrafo único. O juízo de admissibilidade da representação ou denúncia, envolvendo a presença de requisitos formais e materiais, cabe ao Presidente da Assembleia Legislativa."
+          }
+        }
+      ]
     }
   ]
 }
