@@ -2642,6 +2642,308 @@
           }
         }
       ]
+    },
+    {
+      "numero": 10,
+      "titulo": "Proposições, requerimentos, emendas, moções, indicações e pareceres (arts. 167 a 201)",
+      "artigos": "Arts. 167 a 201",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "**Espécies normativas:** emenda constitucional, leis complementar, ordinária e delegada, decreto legislativo e resolução. **PEC:** iniciativa de pelo menos **1/3** dos Deputados, entre outros legitimados; vedada durante intervenção federal no Estado, estado de defesa ou de sítio."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Lei compl.",
+              "**Maioria absoluta**; **2 turnos**; **5 sessões** de interstício, dispensável por maioria absoluta."
+            ],
+            [
+              "Lei ord.",
+              "**Maioria simples**, **turno único**; envio ao Governador em **5 dias** ou **48 h** (urgência), após redação final."
+            ],
+            [
+              "Decreto",
+              "**Turno único**; sem sanção; **Mesa** promulga em **2 sessões**."
+            ],
+            [
+              "Resolução",
+              "**Turno único**, salvo reforma do Regimento: **2 turnos**."
+            ],
+            [
+              "Requer.",
+              "**Presidente**: verbal imediato, escrito **24 h**; com **Mesa**, **5 dias úteis**; outros ao **Plenário**."
+            ],
+            [
+              "Emendas",
+              "**Comissão**: **5 sessões**; **2º turno**: **1/10**; urgência: **1/5**."
+            ],
+            [
+              "Moção",
+              "Encaminhada sem deliberação do **Plenário**."
+            ],
+            [
+              "Indicação",
+              "Requerimento **escrito**, despachado após assessoria da **Mesa**."
+            ],
+            [
+              "Parecer",
+              "**3 partes**; para emenda, relatório dispensável."
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Atenção:** **PEC** exige iniciativa de **1/3**, enquanto reapresentação de lei rejeitada exige **maioria absoluta**; **lei complementar** tem **2 turnos**, mas **ordinária** tem **turno único**; **moção** é encaminhada sem Plenário, enquanto a **indicação** depende de despacho."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre as espécies normativas e os tipos de proposição.",
+          "alternativas": {
+            "A": "O processo legislativo compreende atos sucessivos iniciados com a apresentação de proposições.",
+            "B": "Leis delegadas e resoluções integram as espécies normativas do ordenamento paraense.",
+            "C": "A indicação é proposição destinada a gerar espécie normativa prevista na Constituição Estadual.",
+            "D": "O projeto de decreto legislativo é proposição destinada a gerar espécie normativa constitucional.",
+            "E": "O recurso é considerado proposição por extensão do conceito, devido à sua natureza propositiva."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 167 define o processo legislativo como conjunto de atos sucessivos a partir da apresentação de proposições.\nB) CORRETA (opção verdadeira). O art. 167, parágrafo único, incisos IV e VI, inclui leis delegadas e resoluções entre as espécies normativas.\nC) INCORRETA (gabarito). O art. 168, § 2º, IV, trata a indicação como proposição por extensão, não como proposição do § 1°.\nD) CORRETA (opção verdadeira). O art. 168, § 1°, II, d, inclui o projeto de decreto legislativo entre as proposições para gerar espécies normativas.\nE) CORRETA (opção verdadeira). O art. 168, § 2º, VI, relaciona o recurso entre as proposições por extensão.",
+          "base_legal": {
+            "dispositivo": "Art. 167 e Art. 168",
+            "texto": "Art. 167. A função legislativa da Assembleia é exercida por meio do processo legislativo, composto pelo conjunto de atos sucessivos realizados a partir da apresentação de proposições para a elaboração das espécies normativas.\nParágrafo único. São espécies normativas do ordenamento jurídico paraense, segundo o art. 102 da Constituição Estadual:\nIV - leis delegadas;\nVI - resoluções.\nArt. 168. Proposição é toda a matéria submetida à deliberação da Assembleia Legislativa, quer seja para iniciar o processo legislativo visando gerar uma das espécies normativas estabelecidas na Constituição Estadual, ou para constituir outro documento legislativo que, mesmo sem estar elencado na Carta Magna paraense como instrumento normativo autônomo, também tenha natureza propositiva.\n§ 1° São proposições do processo legislativo que têm o fim de gerar as espécies normativas previstas no art. 102 da Constituição Estadual:\nII - o projeto:\nd) de decreto legislativo;\n§ 2º São proposições por extensão do seu conceito, em face da sua natureza propositiva:\nIV - a indicação;\nVI - o recurso;"
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), é legitimada a apresentar proposta de emenda à Constituição estadual a iniciativa:",
+          "alternativas": {
+            "A": "De um quarto, no mínimo, dos membros da Assembleia Legislativa.",
+            "B": "De mais da metade das Câmaras de Vereadores do Estado, cada qual por maioria relativa de seus membros.",
+            "C": "Do Tribunal de Justiça, após aprovação de dois terços dos Desembargadores.",
+            "D": "Do Governador, desde que autorizada pela maioria absoluta dos Deputados.",
+            "E": "Do Tribunal de Contas do Estado, após aprovação da maioria de seus Conselheiros."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 169, I, exige no mínimo um terço dos membros, e não um quarto.\nB) CORRETA. O art. 169, IV, exige mais da metade das Câmaras, cada uma por maioria relativa.\nC) INCORRETA. O art. 169, III, exige aprovação pela maioria dos Desembargadores, e não por dois terços.\nD) INCORRETA. O art. 169, II, prevê a iniciativa do Governador sem a condição adicional indicada.\nE) INCORRETA. O art. 169, III, menciona o Tribunal de Justiça, não o Tribunal de Contas do Estado.",
+          "base_legal": {
+            "dispositivo": "Art. 169",
+            "texto": "Art. 169. A Constituição do Estado do Pará poderá ser emendada mediante proposta:\nI - de um terço, no mínimo, dos membros da Assembleia Legislativa;\nII - do Governador;\nIII - do Tribunal de Justiça, após aprovação pela maioria dos Desembargadores;\nIV - de mais da metade das Câmaras de Vereadores dos Municípios do Estado, manifestando-se, cada uma delas, pela maioria relativa de seus membros;\nV - popular, na forma do art. 8° da Constituição Estadual."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre os projetos e a reapresentação de matéria rejeitada.",
+          "alternativas": {
+            "A": "Os projetos de lei regulam matérias de competência do Poder Legislativo, com sanção do Governador.",
+            "B": "Os projetos de decreto legislativo regulam matéria de competência exclusiva da Assembleia, sem sanção do Governador.",
+            "C": "Os projetos de resolução regulam matéria de interesse interno, político ou administrativo da Assembleia.",
+            "D": "Projetos de decreto legislativo e de resolução podem ser apresentados por Deputado ou Comissão, salvo iniciativa privativa da Mesa.",
+            "E": "A matéria de projeto de lei rejeitado pode voltar no mesmo ano legislativo mediante proposta de um terço dos Deputados."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 170, I, prevê a sanção do Governador para projetos de lei.\nB) CORRETA (opção verdadeira). O art. 170, II, prevê competência exclusiva e ausência de sanção para projetos de decreto legislativo.\nC) CORRETA (opção verdadeira). O art. 170, III, estabelece a destinação do projeto de resolução.\nD) CORRETA (opção verdadeira). O art. 170, § 2°, admite Deputado ou Comissão, exceto nas hipóteses de iniciativa privativa da Mesa.\nE) INCORRETA (gabarito). O art. 171 exige maioria absoluta para novo projeto no mesmo ano, inclusive nas hipóteses específicas que prevê.",
+          "base_legal": {
+            "dispositivo": "Art. 170 e Art. 171",
+            "texto": "Art. 170. Destinam-se os projetos:\nI - de lei a regular as matérias de competência do Poder Legislativo, com a sanção do Governador;\nII - de decreto legislativo a regular as matérias de exclusiva competência do Poder Legislativo, sem a sanção do Governador, com eficácia de lei ordinária;\nIII - de resolução a regular matéria de seu interesse interno, político ou administrativo.\n§ 2° Os projetos de decreto legislativo e de resolução podem ser apresentados por qualquer Deputado ou Comissão, quando não sejam de iniciativa privativa da Mesa.\nArt. 171. A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto, no mesmo ano legislativo, mediante proposta da maioria absoluta dos membros da Assembleia Legislativa, ou, nos casos dos incisos III a X do § 1° do artigo anterior, por iniciativa do Autor, aprovada pela maioria absoluta dos Deputados."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual afirmação sobre projetos de lei complementar e ordinária está CORRETA?",
+          "alternativas": {
+            "A": "O projeto de lei complementar passa por dois turnos de votação nominal, com interstício de cinco sessões, dispensável por maioria absoluta do Plenário.",
+            "B": "O projeto de lei complementar exige o voto favorável da maioria simples dos membros da Assembleia para sua aprovação.",
+            "C": "O projeto de lei ordinária exige maioria simples e deve ser apreciado em dois turnos de discussão e votação.",
+            "D": "O projeto de lei aprovado será enviado ao Governador em até cinco dias contados da aprovação em Plenário, independentemente da redação final.",
+            "E": "O projeto de lei em regime de urgência será enviado ao Governador, para sanção, no prazo de setenta e duas horas."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 172, parágrafo único, prevê dois turnos, votação nominal, cinco sessões e dispensa do interstício por maioria absoluta.\nB) INCORRETA. O art. 172 exige maioria absoluta, e não maioria simples.\nC) INCORRETA. O art. 173, § 1°, prevê turno único para o projeto de lei ordinária.\nD) INCORRETA. O art. 173, § 2°, inicia a contagem após a aprovação da redação final.\nE) INCORRETA. O art. 173, § 2°, fixa quarenta e oito horas para projetos em urgência.",
+          "base_legal": {
+            "dispositivo": "Art. 172 e Art. 173",
+            "texto": "Art. 172. O projeto de lei complementar visa regulamentar matéria predeterminada pela Constituição Estadual e terá a mesma tramitação dos projetos de lei ordinária, exigindo, para sua aprovação, o voto favorável da maioria absoluta dos membros da Assembleia Legislativa, conforme estabelece o art. 232, § 2°, I deste Regimento.\nParágrafo único. A proposta será submetida a dois turnos de discussão e votação nominal, com interstício de cinco sessões, dispensando-se esse interregno caso haja o voto da maioria absoluta do Plenário.\nArt. 173. O projeto de lei é destinado a regular matéria de competência do Poder Legislativo, com a sanção do Governador do Estado, que não objetive regular dispositivo constitucional.\n§ 1° O projeto de lei ordinária exige o quórum de maioria simples, apreciado em turno único de discussão e votação, observado o disposto no art. 232, § 1°.\n§ 2° O projeto de lei aprovado pela Assembleia Legislativa será enviado ao Governador, para sanção, no prazo máximo de cinco dias, contados da data da aprovação de sua redação final. Se o projeto estiver em regime de urgência, o prazo é de quarenta e oito horas."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre a delegação legislativa.",
+          "alternativas": {
+            "A": "As leis delegadas são elaboradas pelo Governador, que deve solicitar a delegação à Assembleia Legislativa.",
+            "B": "A delegação toma a forma de decreto legislativo em turno único, com definição de conteúdo e prazo.",
+            "C": "A legislação sobre planos plurianuais, diretrizes orçamentárias e orçamentos não pode ser delegada.",
+            "D": "A delegação impede a Assembleia Legislativa de editar projetos de lei sobre a matéria delegada.",
+            "E": "A Assembleia Legislativa pode editar decreto legislativo que revogue a delegação concedida."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 174 atribui ao Governador a elaboração e o pedido de delegação.\nB) CORRETA (opção verdadeira). O art. 174, § 2°, prevê decreto legislativo em turno único com especificação de conteúdo e termos.\nC) CORRETA (opção verdadeira). O art. 174, § 1°, II, veda a delegação dessas matérias.\nD) INCORRETA (gabarito). O art. 174, § 4°, dispõe expressamente que a delegação não priva a Assembleia de editar projetos sobre a matéria.\nE) CORRETA (opção verdadeira). O art. 174, § 5°, autoriza a revogação por decreto legislativo.",
+          "base_legal": {
+            "dispositivo": "Art. 174",
+            "texto": "Art. 174. Na forma do que dispõe o art. 112 da Constituição Estadual, as leis delegadas serão elaboradas pelo Governador, que deverá solicitar a delegação à Assembleia Legislativa.\n§ 1° Não serão objeto de delegação os atos de competência exclusiva da Assembleia Legislativa, a matéria reservada à lei complementar, nem a legislação sobre:\nII - planos plurianuais, diretrizes orçamentárias e orçamentos.\n§ 2° A delegação ao Governador terá a forma de decreto legislativo, apreciado em turno único, que especificará seu conteúdo e os termos de seu exercício, especialmente o prazo.\n§ 4° A delegação não priva a Assembleia de editar projetos de lei sobre a matéria delegada.\n§ 5° A Assembleia Legislativa pode editar decreto legislativo, revogando a delegação."
+          }
+        },
+        {
+          "enunciado": "Caso prático: a Assembleia Legislativa pretende reformar seu Regimento Interno. Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual procedimento é adequado?",
+          "alternativas": {
+            "A": "Projeto de resolução, apreciado em dois turnos e promulgado pela Mesa em até duas sessões após a aprovação.",
+            "B": "Projeto de resolução, apreciado em turno único e promulgado pela Mesa em até duas sessões após a aprovação.",
+            "C": "Projeto de decreto legislativo, apreciado em turno único e promulgado pela Mesa em até duas sessões após a aprovação.",
+            "D": "Projeto de resolução, apreciado em dois turnos e promulgado pelo Governador em até duas sessões após a aprovação.",
+            "E": "Projeto de resolução, apreciado em dois turnos e promulgado pela Mesa em até três sessões após a aprovação."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 176 prevê dois turnos para reforma do Regimento e promulgação pela Mesa em duas sessões.\nB) INCORRETA. O art. 176 excepciona a reforma do Regimento da regra geral do turno único.\nC) INCORRETA. Os arts. 175 e 176 enquadram a reforma do Regimento como resolução, não decreto legislativo.\nD) INCORRETA. O art. 176, parágrafo único, atribui a promulgação à Mesa, não ao Governador.\nE) INCORRETA. O art. 176, parágrafo único, fixa o prazo de duas sessões, não três.",
+          "base_legal": {
+            "dispositivo": "Art. 175 e Art. 176",
+            "texto": "Art. 175. O projeto de decreto legislativo será apreciado em turno único e destina-se a regular as matérias de competência exclusiva da Assembleia, sem a sanção do Governador, que não estejam definidas como assunto de resolução, dentre elas:\nParágrafo único. O decreto legislativo tem eficácia de lei ordinária e deve ser promulgado, pela Mesa, no prazo de duas sessões após a sua aprovação.\nArt. 176. O projeto de resolução objetiva regular matéria de interesse interno, político ou administrativo da Assembleia e será apreciado em turno único, exceto a alteração ou reforma do Regimento que deverá obedecer a apreciação em dois turnos, na forma do que estabelece o art. 285 a 291.\nParágrafo único. A resolução deverá ser promulgada, pela Mesa, no prazo de duas sessões após a sua aprovação."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre os requerimentos sujeitos a despacho do Presidente.",
+          "alternativas": {
+            "A": "Os requerimentos classificam-se quanto à competência decisória e à forma de apresentação.",
+            "B": "O requerimento verbal de verificação de quórum será decidido pelo Presidente no prazo de vinte e quatro horas, não imediatamente.",
+            "C": "O pedido escrito de reunião conjunta de Comissões será despachado pelo Presidente em vinte e quatro horas.",
+            "D": "Os requerimentos dispensam parecer de Comissão, salvo solicitação escrita deferida pelo Presidente.",
+            "E": "A retirada de proposição pelo Autor pode ser solicitada verbalmente e decidida sem discussão."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 177, § 1°, I e II, estabelece esses dois critérios de classificação.\nB) INCORRETA (gabarito). O art. 178, VII, determina decisão imediata do Presidente para a verificação de quórum.\nC) CORRETA (opção verdadeira). O art. 179, VI, combinado com o caput, prevê despacho em vinte e quatro horas.\nD) CORRETA (opção verdadeira). O art. 177, § 2°, estabelece a exceção escrita e deferida pelo Presidente.\nE) CORRETA (opção verdadeira). O art. 178, V, combinado com o caput, prevê requerimento verbal sem discussão.",
+          "base_legal": {
+            "dispositivo": "Art. 177, Art. 178, Art. 179",
+            "texto": "Art. 177. Requerimento é a proposição pela qual o Deputado ou Comissão pleiteia informações, apresenta sugestões ou pede providências da própria Assembleia, de outros Poderes e órgãos ou autoridades, bem como promove manifestações públicas de regozijo ou pesar.\n§ 1° Classificam-se os requerimentos:\nI - quanto à competência para decidi-los:\nII - quanto à forma de apresentá-los:\n§ 2° Os requerimentos independem de pareceres das Comissões, salvo se isto for requerido, por escrito, e deferido pelo Presidente.\nArt. 178. Independe de discussão, sendo decidido, imediatamente, pelo Presidente, requerimento verbal que solicite:\nV - retirada, pelo Autor, de proposição;\nVII - verificação de quórum;\nArt. 179. Independe de discussão, sendo despachado pelo Presidente, dentro do prazo de vinte e quatro horas, o requerimento escrito que solicite:\nVI - reunião conjunta de Comissões."
+          }
+        },
+        {
+          "enunciado": "Nos termos do Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), sobre pedidos de informação despachados pelo Presidente, ouvida a Mesa, é CORRETO afirmar:",
+          "alternativas": {
+            "A": "Esses requerimentos escritos serão despachados no prazo de três dias úteis.",
+            "B": "O não atendimento a pedido de informação configura crime de responsabilidade após vinte dias.",
+            "C": "O recurso do despacho indeferitório poderá ser apresentado no prazo de três sessões.",
+            "D": "Se os esclarecimentos chegarem antes do envio do requerimento, o Presidente deixará de encaminhá-lo e comunicará o fato ao Plenário.",
+            "E": "O encaminhamento de votação no recurso caberá somente ao Autor e a um orador contrário."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 180 fixa cinco dias úteis, e não três.\nB) INCORRETA. O art. 180, I, estabelece o prazo de trinta dias, e não vinte.\nC) INCORRETA. O art. 180, parágrafo único, estabelece cinco sessões, e não três.\nD) CORRETA. O art. 181, § 1°, prevê expressamente essa providência do Presidente.\nE) INCORRETA. O art. 180, parágrafo único, também permite encaminhamento pelos Líderes.",
+          "base_legal": {
+            "dispositivo": "Art. 180 e Art. 181",
+            "texto": "Art. 180. Serão escritos e despachados no prazo de cinco dias úteis, pelo Presidente, ouvida a Mesa, e publicados com a respectiva decisão no Sistema de Tramitação, os requerimentos que solicitem:\nI - informação aos Secretários de Estado ou quaisquer titulares de outros órgãos diretamente subordinados ao Governo do Estado, importando crime de responsabilidade a recusa, ou o não atendimento no prazo de trinta dias, bem como a prestação de informações falsas, conforme determina o art. 140, caput e § 2° da Constituição Estadual;\nParágrafo único. Nas hipóteses deste artigo, caberá recurso ao Plenário dentro de cinco sessões, a contar da publicação do despacho indeferitório no Sistema de Tramitação, decidido pelo processo simbólico, sem discussão, sendo permitido o encaminhamento de votação pelo Autor do requerimento, pelos Líderes e por um orador contrário, por cinco minutos cada um.\nArt. 181. Os pedidos de informação, de que trata o art. 180, I, somente poderão referir-se a ato ou fato na área da Secretaria ou do órgão governamental, relacionado a matéria legislativa em trâmite, ou a qualquer assunto submetido à apreciação, sujeito à fiscalização e controle, pertinentes às atribuições da Assembleia Legislativa.\n§ 1° Se, antes do envio do requerimento, tiverem chegado à Assembleia os esclarecimentos pretendidos, o Presidente deixará de encaminhar o pedido de informações, comunicando o fato ao Plenário."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre os requerimentos sujeitos ao Plenário e os de pesar.",
+          "alternativas": {
+            "A": "O pedido escrito de convocação de Secretário de Estado será despachado pelo Presidente, ouvida a Mesa.",
+            "B": "A mudança verbal da modalidade de votação simbólica para nominal depende de deliberação imediata do Plenário.",
+            "C": "O requerimento escrito para realização de sessão extraordinária depende de deliberação do Plenário.",
+            "D": "Os requerimentos escritos previstos no art. 183 são decididos pelo processo simbólico.",
+            "E": "O pesar pelo falecimento de pessoa não abrangida pelo art. 184, § 1°, é despachado pelo Presidente em vinte e quatro horas."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 183, I, submete o requerimento escrito de convocação à deliberação do Plenário.\nB) CORRETA (opção verdadeira). O art. 182, II, prevê deliberação imediata do Plenário, sem discussão e encaminhamento.\nC) CORRETA (opção verdadeira). O art. 183, X, exige deliberação do Plenário para sessão extraordinária.\nD) CORRETA (opção verdadeira). O art. 183, parágrafo único, determina votação simbólica.\nE) CORRETA (opção verdadeira). O art. 184, § 2°, prevê despacho pelo Presidente no prazo de vinte e quatro horas.",
+          "base_legal": {
+            "dispositivo": "Art. 182, Art. 183, Art. 184",
+            "texto": "Art. 182. Dependem de deliberação imediata do Plenário, sem discussão e encaminhamento, os requerimentos verbais que solicitem:\nII - mudança de modalidade de votação simbólica para nominal;\nArt. 183. São escritos e dependerão de deliberação do Plenário os requerimentos não especificados neste Regimento e os que solicitem:\nI - convocação de Secretários de Estado ou quaisquer titulares de outros órgãos diretamente subordinados ao Governo do Estado;\nX - sessão extraordinária;\nParágrafo único. Os requerimentos previstos neste artigo não sofrerão discussão, só poderão ter sua votação encaminhada pelo Autor e por um orador contrário, por cinco minutos cada um, e serão decididos pelo processo simbólico.\nArt. 184. Os requerimentos de pesar, em decorrência do falecimento de alguma pessoa, serão inseridos nos anais da Assembleia.\n§ 1° Tratando-se de personalidades nacionais ou estrangeiras, ou de autoridades estaduais, municipais e federais, o Autor e os Líderes poderão encaminhar a votação, até por cinco minutos, cada um.\n§ 2° Se o falecimento for de pessoa não incluída no parágrafo anterior, o requerimento será despachado pelo Presidente, no prazo de vinte e quatro horas, fazendo-se a devida comunicação a quem for indicado pelo Autor."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre as espécies de emendas e subemendas.",
+          "alternativas": {
+            "A": "A emenda supressiva propõe erradicar qualquer parte de outra proposição.",
+            "B": "A emenda aglutinativa resulta da fusão de outras emendas ou destas com o texto original.",
+            "C": "A subemenda apresentada em Comissão a outra emenda pode ser supressiva, modificativa ou aditiva.",
+            "D": "A emenda de redação é modificativa destinada a sanar vício de linguagem, incorreção de técnica legislativa ou lapso manifesto.",
+            "E": "A emenda é proposição apresentada como acessória de outra proposição, considerada a principal."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 186, § 1°, define a emenda supressiva.\nB) CORRETA (opção verdadeira). O art. 186, § 2°, define a emenda aglutinativa.\nC) INCORRETA (gabarito). O art. 186, § 6°, admite subemenda supressiva, substitutiva ou aditiva, e não modificativa.\nD) CORRETA (opção verdadeira). O art. 186, § 7°, define emenda de redação como modalidade de modificativa.\nE) CORRETA (opção verdadeira). O art. 185 define a emenda como proposição acessória de outra, denominada principal.",
+          "base_legal": {
+            "dispositivo": "Art. 185 e Art. 186",
+            "texto": "Art. 185. Emenda é a proposição apresentada como acessória de outra, sendo a principal qualquer uma das proposições dentre as referidas nas alíneas “a” a “e” do inciso I do art. 209.\nArt. 186. As emendas são:\n§ 1° Emenda supressiva é a que propõe erradicar qualquer parte de outra proposição.\n§ 2° Denomina-se emenda aglutinativa a que resulta da fusão de outras emendas, ou destas com o texto original, por transação tendente à aproximação dos respectivos objetos.\n§ 5° Emenda aditiva é a que se acrescenta a outra proposição.\n§ 6° Subemenda é a emenda apresentada em Comissão a outra emenda e que pode ser, por sua vez, supressiva, substitutiva ou aditiva, desde que não incida, a supressiva, sobre emenda com a mesma finalidade.\n§ 7° Denomina-se emenda de redação a modificativa que visa a sanar vício de linguagem, incorreção de técnica legislativa ou lapso manifesto."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), é CORRETO afirmar sobre a apresentação de emendas:",
+          "alternativas": {
+            "A": "Em Comissão, o prazo para emendas é de quatro sessões da publicação do anúncio na Ordem do Dia das Comissões.",
+            "B": "Na discussão em segundo turno, emenda de Deputado deve ser subscrita por um quinto dos membros da Casa.",
+            "C": "Em turno único, a emenda apresentada por Comissão exige a subscrição de todos os seus membros.",
+            "D": "Nas proposições urgentes, as emendas de Comissão podem ser apresentadas em Plenário após o início da votação da matéria.",
+            "E": "À redação final, as emendas podem ser apresentadas até o início da votação, com os quóruns previstos para o segundo turno."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O art. 187, § 1°, estabelece cinco sessões, não quatro.\nB) INCORRETA. O art. 188, II, b, exige um décimo, não um quinto.\nC) INCORRETA. O art. 188, I, exige subscrição da maioria absoluta dos membros da Comissão, não unanimidade.\nD) INCORRETA. O art. 188, § 3°, determina apresentação até o início da votação da matéria.\nE) CORRETA. O art. 188, III, remete aos quóruns do segundo turno e fixa o limite até o início da votação.",
+          "base_legal": {
+            "dispositivo": "Art. 187 e Art. 188",
+            "texto": "Art. 187. As emendas poderão ser apresentadas em Comissão no caso de projeto sujeito à apreciação conclusiva:\n§ 1° As emendas serão apresentadas no prazo de cinco sessões da publicação do respectivo anúncio na Ordem do Dia das Comissões.\nArt. 188. As emendas de Plenário serão apresentadas:\nI - durante a discussão em turno único, primeiro turno ou apreciação preliminar, por qualquer Deputado ou Comissão, neste caso, mediante a subscrição da maioria absoluta de seus membros;\nII - durante a discussão em segundo turno:\na) por Comissão, se aprovada pela maioria absoluta de seus membros;\nb) desde que subscritas por um décimo dos membros da Casa, ou Líderes que representem esse número;\nIII - à redação final, até o início da sua votação, observado o quórum previsto nas alíneas “a” e “b” do inciso anterior.\n§ 3° As proposições urgentes, ou que se tornarem urgentes em virtude de requerimento, só receberão emendas de Comissão ou subscritas por um quinto dos membros da Assembleia ou Líderes que representem esse número, desde que apresentadas em Plenário até o início da votação da matéria."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre tramitação, recusa e admissibilidade das emendas.",
+          "alternativas": {
+            "A": "As emendas de Plenário serão publicadas e distribuídas, uma a uma, às Comissões, salvo dispensa regimental da distribuição.",
+            "B": "As emendas aglutinativas podem ser apresentadas pelos Autores das emendas fusionadas ou por um décimo dos membros da Casa.",
+            "C": "Não se admite emenda sem relação com a matéria da proposição.",
+            "D": "Em recurso contra recusa de emenda inconveniente, o Plenário decidirá por votação nominal, sem discussão ou encaminhamento.",
+            "E": "Poderes e Instituições com iniciativa legislativa podem emendar proposições de sua autoria enquanto pendente parecer nas Comissões."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 189 prevê publicação e distribuição por Comissão competente, salvo dispensa regimental.\nB) CORRETA (opção verdadeira). O art. 190 prevê essas duas hipóteses de autoria da emenda aglutinativa.\nC) CORRETA (opção verdadeira). O art. 192, I, veda emendas sem relação com a matéria.\nD) INCORRETA (gabarito). O art. 191 prevê processo simbólico no recurso, e não votação nominal.\nE) CORRETA (opção verdadeira). O art. 193, I, admite emenda do Autor enquanto pendente de parecer nas Comissões.",
+          "base_legal": {
+            "dispositivo": "Art. 189, Art. 190, Art. 191, Art. 192, Art. 193",
+            "texto": "Art. 189. As emendas de Plenário serão publicadas e distribuídas, uma a uma, às Comissões, de acordo com a matéria de sua competência, exceto se a distribuição tiver sido dispensada nos termos do § 3° do art. 137.\nArt. 190. As emendas aglutinativas podem ser apresentadas em Plenário pelos Autores das emendas objeto da fusão ou por um décimo dos membros da Casa para apreciação em turno único, quando da votação da parte da proposição ou do dispositivo a que elas se refiram.\nArt. 191. O Presidente da Assembleia ou de Comissão tem a faculdade de recusar emenda formulada de modo inconveniente, ou que verse sobre assunto estranho ao projeto em discussão ou contrarie prescrição regimental. No caso de recurso, será consultado o respectivo Plenário, sem discussão nem encaminhamento de votação, a qual se fará pelo processo simbólico.\nArt. 192. Não será admitida emenda:\nI - sem relação com a matéria da proposição;\nArt. 193. Os Poderes e as Instituições legitimados constitucionalmente para iniciar o Processo Legislativo poderão apresentar emenda à proposição de sua autoria:\nI - enquanto a matéria estiver na pendência de parecer nas Comissões;"
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre as moções.",
+          "alternativas": {
+            "A": "Por meio de moção, o Deputado pode sugerir a outro Poder a realização de ato, obra ou serviço.",
+            "B": "A moção deve ser redigida com clareza e precisão, concluindo pelo texto a ser transmitido.",
+            "C": "Após apresentada, a moção será publicada no Sistema de Tramitação e encaminhada ao destinatário sem deliberação do Plenário.",
+            "D": "O Presidente poderá indeferir moção que contenha termos ofensivos ou inconvenientes.",
+            "E": "O Autor da moção indeferida poderá encaminhar a votação do recurso ao Plenário pelo prazo de dez minutos."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 194 define essa finalidade da moção.\nB) CORRETA (opção verdadeira). O art. 194, § 1°, exige clareza, precisão e texto de transmissão.\nC) CORRETA (opção verdadeira). O art. 194, § 2°, dispensa deliberação do Plenário para o encaminhamento.\nD) CORRETA (opção verdadeira). O art. 194, § 3°, prevê indeferimento por termos ofensivos ou inconvenientes.\nE) INCORRETA (gabarito). O art. 194, § 3°, limita o encaminhamento de votação pelo Autor a cinco minutos.",
+          "base_legal": {
+            "dispositivo": "Art. 194",
+            "texto": "Art. 194. Moção é a proposição pela qual o Deputado se manifesta pessoalmente a outro Poder sugerindo que seja realizado certo ato, obra ou serviço, ou que seja efetuado de determinada forma, bem como sobre algum assunto de interesse público, apela, concorda ou protesta.\n§ 1° A moção deve ser redigida com clareza e precisão, concluindo pelo texto a ser transmitido.\n§ 2° Apresentada a moção, será publicada no Sistema de Tramitação e encaminhada ao destinatário, independentemente de deliberação do Plenário.\n§ 3° O Presidente poderá indeferir moção que contenha termos ofensivos ou inconvenientes, com direito ao Autor de recorrer ao Plenário, que decidirá pelo processo simbólico, sem discussão ou justificativa de voto, permitindo-se ao Autor o encaminhamento da votação, por cinco minutos."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual afirmação sobre as indicações está CORRETA?",
+          "alternativas": {
+            "A": "A indicação é apresentada por requerimento verbal, com sugestão de envio de projeto sobre matéria de iniciativa constitucional.",
+            "B": "Após despacho contrário à indicação, o Autor pode requerer exame pela Comissão de Constituição e Justiça e de Redação Final; parecer favorável leva à transmissão.",
+            "C": "O Presidente despachará a indicação após ouvir obrigatoriamente a Comissão de Constituição e Justiça e de Redação Final.",
+            "D": "A indicação somente poderá sugerir o envio de projeto a Poder ou Instituição do Estado do Pará.",
+            "E": "Diante de parecer contrário da Comissão de Constituição e Justiça e de Redação Final, a indicação será devolvida ao Autor para reapresentação."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 195 exige requerimento escrito, não verbal.\nB) CORRETA. O art. 196, parágrafo único, I, permite o pedido do Autor e determina a transmissão com parecer favorável.\nC) INCORRETA. O art. 196 prevê oitiva da assessoria da Mesa antes do despacho; a Comissão atua após despacho contrário, se requerida.\nD) INCORRETA. O art. 195 contempla Poder ou Instituição do Estado, da União ou de Município.\nE) INCORRETA. O art. 196, parágrafo único, II, determina o arquivamento diante de parecer contrário.",
+          "base_legal": {
+            "dispositivo": "Art. 195 e Art. 196",
+            "texto": "Art. 195. Indicação é a proposição feita por requerimento escrito, na qual o Deputado sugere a outro Poder ou Instituição, do Estado, da União ou de Município, o envio de projeto sobre matéria de sua iniciativa constitucional.\nArt. 196. Depois de ouvida a assessoria da Mesa, o presidente proferirá despacho:\nI - deferindo o encaminhamento imediato da indicação sugerida;\nII - contrário à transmissão da indicação.\nParágrafo único. Ocorrendo a hipótese do inciso II, o Autor poderá requerer o envio da proposição para a Comissão de Constituição e Justiça e de Redação Final, procedendo-se, mediante o respectivo parecer:\nI - a transmissão da indicação, caso o parecer seja favorável;\nII - seu arquivamento, se o parecer for contrário."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre os pareceres das Comissões.",
+          "alternativas": {
+            "A": "Parecer é a proposição por meio da qual uma Comissão se pronuncia sobre matéria sujeita a seu estudo.",
+            "B": "Proposições apensadas na forma regimental prevista podem receber um único parecer.",
+            "C": "O parecer escrito sobre emenda exige obrigatoriamente relatório, voto do Relator e parecer da Comissão.",
+            "D": "Nenhuma proposição será submetida a discussão e votação sem parecer escrito da Comissão competente, ressalvados os casos regimentais.",
+            "E": "Após a última Comissão se manifestar, o parecer aprovado será remetido com a proposição à Mesa."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 197 define o parecer como pronunciamento de Comissão.\nB) CORRETA (opção verdadeira). O art. 198 excepciona a regra de parecer independente para proposições apensadas.\nC) INCORRETA (gabarito). O art. 200, § 1°, permite dispensar o relatório em parecer sobre emenda.\nD) CORRETA (opção verdadeira). O art. 199 prevê essa regra geral e suas exceções regimentais.\nE) CORRETA (opção verdadeira). O art. 201 prevê remessa do parecer aprovado com a proposição à Mesa.",
+          "base_legal": {
+            "dispositivo": "Art. 197, Art. 198, Art. 199, Art. 200, Art. 201",
+            "texto": "Art. 197. Parecer é a proposição com que uma Comissão se pronuncia sobre qualquer matéria sujeita a seu estudo.\nArt. 198. Cada proposição terá parecer independente, salvo as apensadas na forma dos arts. 223, I, e 226, que terão um só parecer.\nArt. 199. Nenhuma proposição será submetida a discussão e votação sem parecer escrito da Comissão competente, exceto nos casos previstos neste Regimento.\nArt. 200. O parecer por escrito constará de três partes:\nI - relatório, em que se fará exposição circunstanciada da matéria em exame;\nII - voto do Relator, em termos objetivos, com a sua opinião sobre a conveniência da aprovação ou rejeição total ou parcial da matéria, ou sobre a necessidade de oferecer-lhe emenda ou substitutivo;\nIII - parecer da Comissão, com as conclusões desta e a indicação dos Deputados votantes e respectivos votos.\n§ 1° O parecer em relação à emenda pode constar apenas das partes indicadas nos incisos II e III, dispensado o relatório.\nArt. 201. O parecer aprovado, depois de opinar a última Comissão a que tenha sido distribuído o respectivo processo, será remetido juntamente com a proposição à Mesa."
+          }
+        }
+      ]
     }
   ]
 }
