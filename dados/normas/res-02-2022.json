@@ -1692,6 +1692,304 @@
           }
         }
       ]
+    },
+    {
+      "numero": 7,
+      "titulo": "Comissões: apreciação das matérias, Comissões Temporárias, CPI e audiência pública (arts. 66 a 94)",
+      "artigos": "Arts. 66 a 94",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "Nas proposições, exceto requerimentos, a **CCJ** atua primeiro; segue-se a Comissão de **Fiscalização Financeira e Orçamentária**, se cabível, e depois as Comissões de **mérito**. As deliberações exigem **maioria simples** dos votos, presente **maioria absoluta** dos membros; no empate, prevalece o voto do **Relator**."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Vista",
+              "**2 dias úteis**; vedada na urgência"
+            ],
+            [
+              "Terminativo",
+              "Rejeição arquiva; recurso **1/10** em **5 dias úteis**"
+            ],
+            [
+              "Conclusivo",
+              "Recurso **1/10** em **5 dias úteis**"
+            ],
+            [
+              "Estudos",
+              "**3 a 7** membros; **120 + 120 dias**"
+            ],
+            [
+              "CPI",
+              "Requer **1/3**; **5 a 7** membros; **120 + até 60 dias**"
+            ],
+            [
+              "Recesso",
+              "**11** efetivos e **10** suplentes; quarta-feira; **6** presentes"
+            ],
+            [
+              "Externa",
+              "Até **5** membros; relatório em **5 dias**"
+            ],
+            [
+              "Audiência",
+              "Convidado: **20 min**; até **30** inscrições de **5 min**"
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**1. Terminativo** examina a admissibilidade; **conclusivo** decide as matérias do art. 72. **2. CPI** não será criada se já funcionarem **duas**. **3. Audiência pública**: o convidado **não pode ser aparteado**; a interpelação do Deputado dura **5 minutos**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual é a sequência de apreciação das proposições pelas Comissões?",
+          "alternativas": {
+            "A": "A Comissão de Constituição e Justiça e de Redação Final examina exclusivamente os aspectos de mérito das proposições.",
+            "B": "A Comissão de Fiscalização Financeira e Orçamentária precede a Comissão de Constituição e Justiça e de Redação Final nas matérias orçamentárias.",
+            "C": "A Comissão de Constituição e Justiça e de Redação Final atua primeiro, seguida, quando cabível, da Comissão de Fiscalização Financeira e Orçamentária e das Comissões de mérito.",
+            "D": "As Comissões de mérito precedem a Comissão de Constituição e Justiça e de Redação Final sempre que houver questões de técnica legislativa.",
+            "E": "A Comissão de Fiscalização Financeira e Orçamentária examina a adequação orçamentária, mas não poderá pronunciar-se sobre o mérito."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. A Comissão de Constituição e Justiça e de Redação Final examina constitucionalidade, legalidade, juridicidade, regimentalidade e técnica legislativa, além do mérito quando cabível (art. 66, I).\nB) INCORRETA. A Comissão de Fiscalização Financeira e Orçamentária atua, quando for o caso, depois da Comissão de Constituição e Justiça e de Redação Final (art. 66, I e II).\nC) CORRETA. A ordem prevista é a do exame jurídico, seguida do financeiro-orçamentário, se cabível, e da apreciação pelas Comissões de mérito (art. 66, I a III).\nD) INCORRETA. As Comissões de mérito atuam na sequência das avaliações anteriores, e a técnica legislativa cabe à Comissão de Constituição e Justiça e de Redação Final (art. 66, I e III).\nE) INCORRETA. A Comissão de Fiscalização Financeira e Orçamentária também examina o mérito, se assim for pertinente (art. 66, II).",
+          "base_legal": {
+            "dispositivo": "Art. 66 (I -, II -, III -)",
+            "texto": "Art. 66. As proposições, exceto os requerimentos, serão distribuídas às Comissões, antes da deliberação do Plenário, ou quando esta for dispensada, sendo apreciadas:\nI - pela Comissão de Constituição e Justiça e de Redação Final, para o exame dos aspectos de constitucionalidade, legalidade, juridicidade, regimentalidade e de técnica legislativa, e, juntamente com as comissões técnicas, para pronunciar-se sobre o seu mérito, quando for o caso;\nII - em seguida, quando for o caso, pela Comissão de Fiscalização Financeira e Orçamentária, para o exame dos aspectos financeiro e orçamentário públicos, quanto à sua compatibilidade ou adequação com o plano plurianual, a lei de diretrizes orçamentárias e o orçamento anual, e para o exame do mérito, se assim for pertinente;\nIII - na sequência, pelas Comissões de mérito a que a matéria estiver afeta."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno, assinale a alternativa INCORRETA sobre as normas de trabalho das Comissões.",
+          "alternativas": {
+            "A": "Na tramitação conjunta por dependência, cada Comissão competente deve apreciar, em seu parecer, todas as proposições apensadas.",
+            "B": "A Comissão pode dividir uma matéria entre Relatores-Parciais, devendo encaminhar à Mesa um único parecer.",
+            "C": "Durante a discussão, o Autor do projeto pode usar a palavra por dez minutos improrrogáveis.",
+            "D": "O Autor deve ser avisado com antecedência mínima de três dias úteis da discussão na Comissão técnica, salvo urgência.",
+            "E": "Na votação, colhem-se primeiro os votos dos suplentes e, depois, os dos membros titulares presentes."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O parecer de cada Comissão competente deve alcançar todas as proposições apensadas (art. 67, I).\nB) CORRETA (opção verdadeira). A divisão para estudo é admitida, com Relator-Geral e Relator-Geral Substituto, para envio de um só parecer à Mesa (art. 67, II).\nC) CORRETA (opção verdadeira). O Autor do projeto está entre os oradores com dez minutos improrrogáveis (art. 67, VII).\nD) CORRETA (opção verdadeira). A antecedência mínima é de três dias úteis, excetuadas as proposições em regime de urgência (art. 67, VIII).\nE) INCORRETA (gabarito). A ordem é inversa: votam primeiro os titulares presentes e, em seguida, os suplentes das agremiações dos titulares ausentes (art. 67, X).",
+          "base_legal": {
+            "dispositivo": "Art. 67 (I -, II -, VII -, VIII -, X -)",
+            "texto": "Art. 67. No desenvolvimento dos seus trabalhos, as Comissões observarão as seguintes normas:\nI - no caso de matéria distribuída por dependência para tramitação conjunta, cada Comissão competente, em seu parecer, deve pronunciar-se em relação a todas as proposições apensadas;\nII - à Comissão é lícito, para facilidade de estudo, dividir qualquer matéria, distribuindo-se cada parte, ou capítulo, a Relator-Parcial e Relator-Parcial Substituto, mas escolhidos Relator-Geral e Relator-Geral Substituto, de modo que seja enviado à Mesa um só parecer;\nVII - durante a discussão na Comissão, podem usar da palavra o Autor do projeto, o Relator, demais membros e Líder, durante dez minutos improrrogáveis, e, por cinco minutos, Deputados que a ela não pertençam; é facultada a apresentação de requerimento de encerramento da discussão após falarem dez Deputados;\nVIII - os Autores terão ciência, com antecedência mínima de três dias úteis, da data em que suas proposições serão discutidas em Comissão técnica, salvo se estiverem em regime de urgência;\nX - na votação, serão colhidos primeiramente os votos dos membros titulares presentes e, em seguida, os dos suplentes das agremiações partidárias dos titulares ausentes;"
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual afirmação está correta quanto ao exame e à deliberação nas Comissões?",
+          "alternativas": {
+            "A": "Salvo disposição constitucional contrária, a Comissão decide por maioria simples dos votos, presente a maioria absoluta dos membros, prevalecendo o voto do Relator no empate.",
+            "B": "A discussão e a votação do parecer ocorrem diretamente no Plenário da Assembleia, dispensada a deliberação pelo Plenário da Comissão.",
+            "C": "O parecer fora da atribuição específica da Comissão será considerado não escrito se a solicitação for provida após a aprovação definitiva da matéria.",
+            "D": "Encerrada a apreciação de matéria sujeita ao Plenário, a proposição deve ser arquivada pela Mesa, sem inclusão na Ordem do Dia.",
+            "E": "O exame inicial da proposição deve ocorrer apenas pelo Plenário da Comissão, sendo vedada sua análise por Subcomissão ou Turma."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. A regra é maioria simples com presença da maioria absoluta; o empate favorece o voto do Relator (art. 69, § 2°).\nB) INCORRETA. A discussão e a votação do parecer e da proposição competem ao Plenário da Comissão (art. 69, § 1°).\nC) INCORRETA. A solicitação deve ser apresentada antes da aprovação definitiva da matéria para que o parecer seja considerado não escrito, desde que provida (art. 68, parágrafo único).\nD) INCORRETA. A matéria sujeita à deliberação do Plenário, após apreciada nas Comissões, é enviada à Mesa para aguardar inclusão na Ordem do Dia (art. 70).\nE) INCORRETA. O Relator pode examinar a matéria no âmbito de Subcomissão ou Turma, conforme o caso (art. 69).",
+          "base_legal": {
+            "dispositivo": "Art. 68 (Parágrafo único.), Art. 69 (§ 1°, § 2°), Art. 70",
+            "texto": "Art. 68. A nenhuma Comissão cabe manifestar-se sobre o que não for de sua atribuição específica.\nParágrafo único. Considerar-se-á como não escrito o parecer, ou parte dele, que infringir o disposto neste artigo, o mesmo ocorrendo em relação às emendas ou substitutivos elaborados com violação do art. 187, §§ 2° e 3°, desde que provida solicitação apresentada antes da aprovação definitiva da matéria pelas Comissões ou pelo Plenário.\nArt. 69. Os projetos de lei e demais proposições distribuídas às Comissões, consoante o disposto no art. 223, serão examinados pelo Relator designado em seu âmbito, ou no de Subcomissão ou Turma, quando for o caso, para proferir parecer.\n§ 1° A discussão e a votação do parecer e da proposição serão realizadas pelo Plenário da Comissão.\n§ 2° Salvo disposição constitucional em contrário, as deliberações das Comissões serão tomadas por maioria simples dos votos definida nos termos do art. 232, I, presente a maioria absoluta de seus membros, prevalecendo em caso de empate o voto do Relator.\nArt. 70. Encerrada a apreciação, pelas Comissões, da matéria sujeita à deliberação do Plenário, ou na hipótese de ser provido o recurso mencionado no § 1° do art. 73, a proposição será enviada à Mesa e aguardará inclusão na Ordem do Dia."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, assinale a alternativa INCORRETA sobre o parecer terminativo das Comissões.",
+          "alternativas": {
+            "A": "A Comissão de Constituição e Justiça e de Redação Final emite parecer terminativo quanto à constitucionalidade ou juridicidade da matéria.",
+            "B": "A Comissão de Fiscalização Financeira e Orçamentária emite parecer terminativo quanto à adequação financeira ou orçamentária da proposição.",
+            "C": "A rejeição da admissibilidade pela Comissão competente leva ao arquivamento, mesmo que outras Comissões tenham aprovado a proposição.",
+            "D": "O recurso ao Plenário contra o parecer terminativo exige subscrição de, no mínimo, um quinto dos membros da Casa.",
+            "E": "O recurso contra o parecer terminativo deve ser interposto em cinco dias úteis da publicação no Diário Oficial da Assembleia Legislativa."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). A admissibilidade jurídica examinada pela Comissão de Constituição e Justiça e de Redação Final tem caráter terminativo (art. 71, I).\nB) CORRETA (opção verdadeira). A adequação financeira ou orçamentária apreciada pela Comissão de Fiscalização Financeira e Orçamentária pode resultar em parecer terminativo (art. 71, II).\nC) CORRETA (opção verdadeira). A rejeição da admissibilidade determina arquivamento, independentemente da aprovação por outras Comissões (art. 71, § 1°).\nD) INCORRETA (gabarito). Exige-se subscrição de pelo menos um décimo dos membros da Casa, e não um quinto (art. 71, § 2°).\nE) CORRETA (opção verdadeira). O prazo recursal é de cinco dias úteis da publicação do parecer terminativo no Diário Oficial (art. 71, § 2°).",
+          "base_legal": {
+            "dispositivo": "Art. 71 (I -, II -, § 1°, § 2°)",
+            "texto": "Art. 71. Considera-se terminativo, pelo seu caráter decisório, o parecer de Comissão emitido em relação aos seguintes aspectos de admissibilidade:\nI - da Comissão de Constituição e Justiça e de Redação Final sobre a admissibilidade jurídica que envolve a constitucionalidade ou juridicidade da matéria;\nII - da Comissão de Fiscalização Financeira e Orçamentária sobre a adequação financeira ou orçamentária da proposição.\n§ 1° A proposição que tiver sua admissibilidade rejeitada por uma das Comissões mencionadas nos incisos do caput deste artigo, relativamente aos aspectos de sua respectiva competência, será arquivada, independentemente de ter sido aprovada por outras Comissões.\n§ 2° Caberá recurso ao Plenário, subscrito por no mínimo um décimo dos membros da Casa, dentro de cinco dias úteis da publicação do Parecer terminativo no Diário Oficial da Assembleia Legislativa, a ser decidido em apreciação preliminar, caso provido, na forma dos arts. 233 a 235."
+          }
+        },
+        {
+          "enunciado": "Uma Comissão aprovou conclusivamente projeto de lei que institui data comemorativa. A proposição e os pareceres foram publicados no Sistema de Tramitação, e o prazo recursal passou sem recurso. Segundo o Regimento Interno, qual é o encaminhamento cabível?",
+          "alternativas": {
+            "A": "Enviar imediatamente o projeto ao Governador do Estado, antes da aprovação da redação final.",
+            "B": "Encaminhar a proposição à redação final, em razão da aprovação conclusiva sem recurso.",
+            "C": "Remeter a proposição novamente às Comissões para ratificação dos pareceres após o transcurso do prazo recursal.",
+            "D": "Arquivar a proposição em razão do decurso do prazo recursal, ainda que a apreciação conclusiva tenha sido favorável.",
+            "E": "Submeter a proposição obrigatoriamente à deliberação de mérito pelo Plenário por se tratar de projeto de lei, mesmo sem recurso."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O encaminhamento ao Governador ocorre após a aprovação da redação final pela Comissão competente (art. 73, § 5°).\nB) CORRETA. A instituição de data comemorativa admite apreciação conclusiva e, sem recurso, a matéria aprovada segue à redação final (arts. 72, IV, e 73, § 4°).\nC) INCORRETA. Sem recurso, a matéria segue à redação final ou é arquivada, conforme o caso, sem previsão de ratificação dos pareceres (art. 73, § 4°).\nD) INCORRETA. O simples decurso do prazo recursal não impõe arquivamento; com apreciação conclusiva favorável, cabe a redação final (art. 73, § 4°).\nE) INCORRETA. Na ausência de recurso, o projeto de lei apreciado conclusivamente não fica sujeito a deliberação de mérito obrigatória do Plenário (art. 73, § 4°).",
+          "base_legal": {
+            "dispositivo": "Art. 72 (IV -), Art. 73 (§ 1°, § 4°, § 5°)",
+            "texto": "Art. 72. Será conclusiva a apreciação pelas Comissões dos projetos dispondo sobre:\nIV - instituição de data comemorativa, ou oficialização de eventos festivos, assim como sua inclusão no calendário turístico.\nArt. 73. Encerrada a apreciação conclusiva da matéria, a proposição e respectivos pareceres serão mandados à publicação no Sistema de Tramitação e remetidos à Mesa até a sessão subsequente, para serem anunciados na Ordem do Dia.\n§ 1° Dentro de cinco dias úteis da publicação referida no caput, poderá ser apresentado recurso ao Plenário subscrito por no mínimo de um décimo dos membros da Casa.\n§ 4° Fluído o prazo sem interposição de recurso, ou improvido este, a matéria será enviada à redação final ou arquivada, conforme o caso.\n§ 5° Aprovada a redação final pela Comissão competente, a proposição torna à Mesa para ser encaminhada ao Governador do Estado, no prazo de setenta e duas horas, se for projeto de lei, ou será promulgada nos casos de projeto de decreto legislativo ou de projeto de resolução."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), assinale a alternativa INCORRETA sobre a secretaria e as atas das Comissões.",
+          "alternativas": {
+            "A": "A secretaria organiza o protocolo de entrada e saída das matérias submetidas à Comissão.",
+            "B": "A secretaria entrega ao Relator o processo de cada proposição até o dia seguinte à distribuição.",
+            "C": "Após sua leitura e aprovação, a ata de reunião deve ser assinada pelo Secretário da Comissão.",
+            "D": "No último dia de cada mês, a secretaria fornece ao Presidente informações sucintas sobre as proposições.",
+            "E": "A ata registra os membros presentes e ausentes, com referência expressa às faltas justificadas."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). A organização do protocolo de entrada e saída de matéria é serviço de secretaria (art. 74, parágrafo único, II).\nB) CORRETA (opção verdadeira). A entrega ao Relator deve ocorrer até o dia seguinte à distribuição (art. 74, parágrafo único, VI).\nC) INCORRETA (gabarito). A ata lida e aprovada é assinada pelo Presidente e rubricada em todas as folhas (art. 75).\nD) CORRETA (opção verdadeira). O fornecimento de informações sucintas ao Presidente ocorre no último dia de cada mês (art. 74, parágrafo único, IV).\nE) CORRETA (opção verdadeira). A ata deve conter os nomes dos presentes e ausentes, com indicação expressa das faltas justificadas (art. 75, parágrafo único, II).",
+          "base_legal": {
+            "dispositivo": "Art. 74 (Parágrafo único., II -, IV -, VI -), Art. 75 (Parágrafo único., II -)",
+            "texto": "Art. 74. Cada Comissão terá uma secretaria incumbida dos serviços de apoio administrativo.\nParágrafo único. Incluem-se nos serviços de secretaria:\nII - a organização do protocolo de entrada e saída de matéria;\nIV - o fornecimento ao Presidente da Comissão, no último dia de cada mês, de informações sucintas sobre o andamento das proposições;\nVI - a entrega do processo referente a cada proposição ao Relator, até o dia seguinte à distribuição;\nArt. 75. Lida e aprovada, a ata de cada reunião da Comissão será assinada pelo Presidente e rubricada em todas as folhas.\nParágrafo único. A ata será publicada no Diário Oficial da Assembleia Legislativa, de preferência no dia seguinte, e obedecerá, na sua redação, a padrão uniforme de que conste o seguinte:\nII - nomes dos membros presentes e dos ausentes, com expressa referência às faltas justificadas;"
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno, assinale a alternativa INCORRETA a respeito das disposições gerais sobre as Comissões Temporárias.",
+          "alternativas": {
+            "A": "O Presidente poderá designar membros sem indicação dos Líderes se a escolha não ocorrer em setenta e duas horas da criação da Comissão.",
+            "B": "Aplicam-se às Comissões Temporárias, no que couber, as demais normas referentes às Comissões Permanentes.",
+            "C": "Na constituição das Comissões Temporárias, observa-se o rodízio entre as bancadas ainda não contempladas.",
+            "D": "A atuação em Comissão Temporária não prejudica o exercício das funções nas Comissões Permanentes.",
+            "E": "Salvo as Representativas no recesso, as Temporárias se reúnem até cinco dias úteis depois da publicação da composição nominal."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O prazo para a indicação pelos Líderes é de quarenta e oito horas após a criação da Comissão, e não setenta e duas (art. 76, § 1°).\nB) CORRETA (opção verdadeira). As demais normas das Comissões Permanentes aplicam-se às Temporárias naquilo que couber (art. 78).\nC) CORRETA (opção verdadeira). A composição observa rodízio entre bancadas não contempladas, para possibilitar representação partidária (art. 76, § 2°).\nD) CORRETA (opção verdadeira). A participação em Comissão Temporária não prejudica as funções exercidas nas Permanentes (art. 76, § 3°).\nE) CORRETA (opção verdadeira). A reunião de instalação deve ocorrer até cinco dias úteis da publicação da composição, exceto no caso das Representativas durante o recesso (art. 77).",
+          "base_legal": {
+            "dispositivo": "Art. 76 (§ 1°, § 2°, § 3°), Art. 77, Art. 78",
+            "texto": "Art. 76. As Comissões Temporárias são:\n§ 1° As Comissões Temporárias compor-se-ão de membros na forma prevista neste Regimento, designados pelo Presidente por indicação dos Líderes, ou independentemente desta se, no prazo de quarenta e oito horas após criar-se a Comissão, não se fizer a escolha.\n§ 2° Na constituição das Comissões Temporárias observar-se-á o rodízio entre as bancadas não contempladas, de tal forma que todos os Partidos, Blocos Parlamentares ou Federações possam fazer-se representar.\n§ 3° A participação do Deputado em Comissão Temporária cumprir-se-á sem prejuízo de suas funções em Comissões Permanentes.\nArt. 77. Exceto nos casos das Comissões Representativas durante o recesso, as demais Comissões Temporárias reunir-se-ão até cinco dias úteis depois da publicação no Diário Oficial da Assembleia Legislativa das respectivas composições nominais, para a instalação dos seus trabalhos e a eleição dos cargos de Presidente, Vice-Presidente e Relator, conforme cada espécie de Comissão mencionadas no art. 80 e art. 89, procedendo-se no caso de Comissão Parlamentar de Inquérito, conforme o § 8° do art. 82.\nArt. 78. Aplicam-se às Comissões Temporárias, no que couber, as demais normas referentes às Comissões Permanentes."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual alternativa está correta a respeito das Comissões de Estudos?",
+          "alternativas": {
+            "A": "Sua constituição depende de requerimento de iniciativa exclusiva da Mesa, aprovado pelo Plenário.",
+            "B": "Seu prazo original pode chegar a cento e oitenta dias, admitida uma única prorrogação.",
+            "C": "A necessidade de prorrogação deve ser comunicada ao Plenário somente após terminar o prazo original.",
+            "D": "São constituídas de três a nove membros, que elegem seu Presidente e Relator.",
+            "E": "Concluídos os trabalhos, apresentam relatório conclusivo ao Plenário em cinco dias, por intermédio do Presidente da Assembleia."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. A iniciativa do requerimento pode ser de qualquer Deputado ou Comissão, mediante aprovação do Plenário (art. 79).\nB) INCORRETA. O prazo original máximo é de cento e vinte dias, prorrogável uma vez por igual período (art. 79, § 1°).\nC) INCORRETA. A necessidade de prorrogação deve ser comunicada até quarenta e oito horas antes do fim do prazo original (art. 79, § 2°).\nD) INCORRETA. A Comissão de Estudos tem no mínimo três e no máximo sete membros, que elegem Presidente e Relator (art. 80).\nE) CORRETA. O relatório conclusivo deve ser apresentado ao Plenário em cinco dias, por intermédio do Presidente da Assembleia (art. 81).",
+          "base_legal": {
+            "dispositivo": "Art. 79 (§ 1°, § 2°), Art. 80, Art. 81",
+            "texto": "Art. 79. A constituição da Comissão de Estudos dependerá de requerimento de iniciativa de qualquer Deputado ou Comissão, aprovado pelo Plenário.\n§ 1° O requerimento que se proponha a criação de Comissão de Estudos indicará a finalidade, devidamente justificada, e o prazo de funcionamento, que não poderá ser superior a cento e vinte dias, prorrogável, no máximo, por igual período, uma única vez.\n§ 2° As Comissões de Estudos, por suas respectivas presidências, comunicarão ao Plenário, por escrito, por meio do Presidente da Assembleia Legislativa, até quarenta e oito horas antes do término do prazo original, a necessidade de prorrogação dos seus trabalhos.\nArt. 80. A Comissão de Estudos será constituída, no mínimo, de três membros, e, no máximo, de sete, que elegerão seu Presidente e Relator.\nArt. 81. Concluídos os trabalhos, a Comissão de Estudos apresentará ao Plenário, no prazo de cinco dias, por intermédio do Presidente da Assembleia, o respectivo relatório, que será conclusivo, podendo propor projetos ou oferecer sugestões."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno, assinale a alternativa INCORRETA sobre instituição, duração e limitação das Comissões Parlamentares de Inquérito (CPIs).",
+          "alternativas": {
+            "A": "A instituição de CPI depende de requerimento de um terço dos membros da Assembleia, para apurar fato determinado.",
+            "B": "O prazo inicial de funcionamento da CPI é de cento e oitenta dias, antes de eventual prorrogação.",
+            "C": "A prorrogação depende de deliberação dos membros da CPI, com comunicação escrita à Mesa e publicação no Diário Oficial.",
+            "D": "A CPI pode atuar no recesso parlamentar, mas não pode ultrapassar a legislatura em que foi criada.",
+            "E": "Não se cria CPI enquanto pelo menos duas outras estiverem funcionando na Assembleia Legislativa."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O requerimento é de um terço dos membros, para apuração de fato determinado e por prazo certo (art. 82).\nB) INCORRETA (gabarito). O prazo da CPI é de cento e vinte dias, admitida prorrogação em até sessenta dias (art. 82, § 3°).\nC) CORRETA (opção verdadeira). A prorrogação resulta de deliberação dos membros, com comunicação escrita à Mesa e publicação no Diário Oficial (art. 82, § 3°).\nD) CORRETA (opção verdadeira). Admite-se atuação no recesso, sem superar o período da legislatura de criação (art. 82, §§ 3° e 4°).\nE) CORRETA (opção verdadeira). O Regimento veda criar CPI quando pelo menos duas estiverem funcionando (art. 82, § 5°).",
+          "base_legal": {
+            "dispositivo": "Art. 82 (§ 3°, § 4°, § 5°)",
+            "texto": "Art. 82. A Assembleia Legislativa, a requerimento de um terço de seus membros, instituirá Comissão Parlamentar de Inquérito para apuração de fato determinado e por prazo certo, a qual terá poderes de investigação próprios das autoridades judiciais, além de outros previstos em lei e neste Regimento.\n§ 3° A Comissão, que poderá atuar também durante o recesso parlamentar, terá o prazo de cento e vinte dias, prorrogável em até sessenta dias, por deliberação dos membros da CPI, comunicando à Mesa por escrito e publicado no Diário Oficial da Assembleia Legislativa.\n§ 4° Em qualquer hipótese, o prazo da comissão parlamentar de inquérito não poderá ultrapassar o período da legislatura em que for criada.\n§ 5° Não será criada Comissão Parlamentar de Inquérito enquanto estiverem funcionando pelo menos duas na Assembleia Legislativa."
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual alternativa está correta quanto à composição e à organização das CPIs?",
+          "alternativas": {
+            "A": "O requerimento que não satisfizer os requisitos regimentais será submetido diretamente ao Plenário, sem devolução ao Autor.",
+            "B": "A composição da CPI será de cinco a oito membros, conforme indicação no requerimento de criação.",
+            "C": "A escolha do Relator da CPI cabe à Mesa, na própria reunião de instalação.",
+            "D": "O primeiro subscritor do requerimento será membro nato da CPI, mas não poderá ser eleito Presidente nem Relator.",
+            "E": "O Presidente e o Vice-Presidente da CPI serão designados pelo Presidente da Assembleia Legislativa."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O requerimento irregular é devolvido ao Autor pelo Presidente, com possibilidade de recurso ao Plenário (art. 82, § 2°).\nB) INCORRETA. A composição indicada no requerimento deve ser de no mínimo cinco e no máximo sete membros (art. 82, § 6°).\nC) INCORRETA. A escolha do Relator cabe ao Presidente eleito da CPI, na mesma reunião de instalação (art. 82, § 8°).\nD) CORRETA. O primeiro subscritor é membro nato e não pode ser eleito Presidente ou Relator (art. 82, § 9°).\nE) INCORRETA. Presidente e Vice-Presidente são eleitos pelo colegiado, não designados pelo Presidente da Assembleia (art. 82, § 8°).",
+          "base_legal": {
+            "dispositivo": "Art. 82 (§ 2°, § 6°, § 8°, § 9°)",
+            "texto": "Art. 82. A Assembleia Legislativa, a requerimento de um terço de seus membros, instituirá Comissão Parlamentar de Inquérito para apuração de fato determinado e por prazo certo, a qual terá poderes de investigação próprios das autoridades judiciais, além de outros previstos em lei e neste Regimento.\n§ 2° Recebido o requerimento, o Presidente mandará a publicação, desde que satisfeitos os requisitos regimentais; caso contrário, devolvê-lo-á ao Autor, cabendo dessa decisão recurso para o Plenário, no prazo de cinco sessões, ouvida a Comissão de Constituição e Justiça e de Redação Final.\n§ 6° A Comissão Parlamentar de Inquérito terá sua composição numérica indicada no requerimento de criação, sendo no mínimo de cinco e no máximo de sete membros.\n§ 8° O Presidente e o Vice-Presidente da Comissão Parlamentar de Inquérito serão eleitos pelo colegiado, sendo que o Presidente eleito fará a escolha do Relator na mesma reunião de instalação de que trata o art. 77 e 78.\n§ 9° O primeiro subscritor do requerimento será membro nato, vedada sua eleição para os cargos de Presidente e relator."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno, assinale a alternativa INCORRETA quanto às atribuições das CPIs e à destinação de seus relatórios.",
+          "alternativas": {
+            "A": "A CPI poderá requisitar servidores dos serviços administrativos da Assembleia Legislativa para seus trabalhos.",
+            "B": "A CPI poderá deslocar-se a qualquer ponto do território estadual para investigar e realizar audiências públicas.",
+            "C": "O Presidente da Assembleia fará as remessas previstas nos incisos II, III e V do art. 84 no prazo de dez sessões.",
+            "D": "O relatório final poderá ser encaminhado ao Ministério Público ou à Procuradoria-Geral do Estado, acompanhado da documentação.",
+            "E": "Ao término dos trabalhos, o relatório circunstanciado da CPI será publicado no Diário Oficial da Assembleia Legislativa."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O Regimento permite requisitar servidores administrativos da Assembleia (art. 83, I).\nB) CORRETA (opção verdadeira). É permitida a movimentação pelo território estadual para investigações e audiências públicas (art. 83, IV).\nC) INCORRETA (gabarito). Para os incisos II, III e V, a remessa pelo Presidente da Assembleia deve ocorrer em cinco sessões, não dez (art. 84, parágrafo único).\nD) CORRETA (opção verdadeira). Há encaminhamento ao Ministério Público ou à Procuradoria-Geral do Estado do Pará, com cópia da documentação (art. 84, II).\nE) CORRETA (opção verdadeira). O relatório circunstanciado e suas conclusões são publicados no Diário Oficial da Assembleia Legislativa (art. 84).",
+          "base_legal": {
+            "dispositivo": "Art. 83 (I -, IV -), Art. 84 (II -, III -, V -, Parágrafo único.)",
+            "texto": "Art. 83. A Comissão Parlamentar de Inquérito poderá, observada a legislação específica:\nI - requisitar servidores dos serviços administrativos da Assembleia Legislativa, bem como, em caráter transitório, os de qualquer órgão ou entidade da administração pública, na forma da lei, necessários aos seus trabalhos;\nIV - deslocar-se a qualquer ponto do território estadual para a realização de investigações e audiências públicas;\nArt. 84. Ao término dos trabalhos a Comissão apresentará relatório circunstanciado, com suas conclusões, que será publicado no Diário Oficial da Assembleia Legislativa e encaminhado:\nII - ao Ministério Público ou à Procuradoria-Geral do Estado do Pará, com a cópia da documentação, para que promovam a responsabilidade civil ou criminal por infrações apuradas e adotem outras medidas decorrentes de suas funções institucionais;\nIII - ao Poder Executivo, para adotar as providências saneadoras de caráter disciplinar e administrativo decorrentes do arts. 23 a 27 da Constituição Estadual, e demais dispositivos constitucionais e legais aplicáveis, assinalando prazo hábil para seu cumprimento;\nV - ao Tribunal de Contas do Estado para as providências previstas no art. 116 da Constituição Estadual.\nParágrafo único. Nos casos dos incisos II, III e V, a remessa será feita pelo Presidente da Assembleia no prazo de cinco sessões."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno, assinale a alternativa INCORRETA sobre as Comissões Representativas durante o recesso parlamentar.",
+          "alternativas": {
+            "A": "As sessões ordinárias da Comissão Representativa são realizadas às terças-feiras, ressalvados os feriados.",
+            "B": "A Comissão Representativa terá onze membros efetivos e dez suplentes, eleitos durante a Ordem do Dia.",
+            "C": "O Presidente da Assembleia Legislativa é Presidente nato da Comissão Representativa.",
+            "D": "A realização das sessões ordinárias exige a presença de pelo menos seis de seus membros.",
+            "E": "A convocação de Secretários de Estado depende de decisão da maioria absoluta dos membros da Comissão Representativa."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). As sessões ordinárias realizam-se às quartas-feiras, salvo os feriados (art. 86).\nB) CORRETA (opção verdadeira). São onze efetivos e dez suplentes, eleitos durante a Ordem do Dia (art. 85, I).\nC) CORRETA (opção verdadeira). O Presidente da Assembleia é Presidente nato da Comissão Representativa (art. 85, II).\nD) CORRETA (opção verdadeira). A sessão exige a presença mínima de seis membros (art. 86).\nE) CORRETA (opção verdadeira). A convocação de Secretários de Estado requer maioria absoluta dos membros (art. 87, II).",
+          "base_legal": {
+            "dispositivo": "Art. 85 (I -, II -), Art. 86, Art. 87 (II -)",
+            "texto": "Art. 85. Para efeito de cumprimento do que dispõe o § 5° do art. 101, da Constituição Estadual, durante o recesso, exceto no período de convocação extraordinária, haverá uma Comissão Representativa da Assembleia Legislativa com a finalidade de exercer as atribuições específicas e de caráter urgente, eleita em processo eleitoral conduzido pela Mesa, na última sessão ordinária de cada um dos dois períodos legislativos anuais, cuja composição reproduzirá, quanto possível, a proporcionalidade da representação partidária, observado o seguinte:\nI - a Comissão terá onze membros efetivos e dez suplentes que serão eleitos durante a Ordem do Dia;\nII - o Presidente da Assembleia é o Presidente nato da Comissão Representativa, e, em seus impedimentos, será substituído pelo Deputado que tiver o maior número de legislaturas na Assembleia e, em caso de empate, pelo mais idoso.\nArt. 86. As sessões ordinárias da Comissão Representativa serão realizadas às quartas-feiras, salvo nos dias feriados, e desde que estejam presentes, no mínimo, seis de seus membros.\nArt. 87. A Comissão Representativa não poderá deliberar sobre propostas de emendas à Constituição e projetos de lei, competindo-lhe:\nII - convocar Secretários de Estado, mediante decisão da maioria absoluta de seus membros;"
+          }
+        },
+        {
+          "enunciado": "Conforme o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual alternativa está correta sobre as Comissões Externas de Representação?",
+          "alternativas": {
+            "A": "A Comissão Externa pode ser criada por proposição da Mesa, sem necessidade de aprovação pelo Plenário.",
+            "B": "A Comissão de Representação poderá receber subvenção para missão no Município onde estiver sediada a Assembleia.",
+            "C": "A Comissão Externa poderá contar com até sete membros em sua composição.",
+            "D": "Concluída a missão, o relatório escrito deve ser apresentado ao Plenário no prazo de dez dias.",
+            "E": "O Presidente da Comissão Externa de Representação é escolhido entre os seus membros, por maioria de votos."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. A criação por proposição da Mesa também exige aprovação pelo Plenário (art. 88).\nB) INCORRETA. Não há subvenção para missão no Município sede da Assembleia Legislativa (art. 88, § 2°).\nC) INCORRETA. A Comissão Externa tem no máximo cinco membros (art. 88).\nD) INCORRETA. O relatório escrito deve ser apresentado ao Plenário no prazo de cinco dias após a missão (art. 90).\nE) CORRETA. O Presidente é escolhido entre os membros por maioria de votos (art. 89).",
+          "base_legal": {
+            "dispositivo": "Art. 88 (§ 1°, § 2°), Art. 89, Art. 90",
+            "texto": "Art. 88. As Comissões Temporárias Externas serão criadas por proposição da Mesa ou a requerimento de Deputado ou Comissão, após aprovação pelo Plenário, e terão, no máximo, cinco membros.\n§ 1° Compete à Mesa Diretora constituir a Comissão Externa, sob o título Comissão Externa de Representação, designando os respectivos membros.\n§ 2° Não será subvencionada a Comissão de Representação para o desempenho de missão no Município onde estiver sediada a Assembleia Legislativa.\nArt. 89. A Comissão Externa de Representação terá um Presidente, escolhido dentre seus membros, por maioria de votos.\nArt. 90. Concluída a missão, competirá ao Presidente da Comissão, ou a outro membro por este designado, apresentar ao Plenário o respectivo relatório, por escrito, no prazo de cinco dias."
+          }
+        },
+        {
+          "enunciado": "De acordo com o Regimento Interno da Assembleia Legislativa (Resolução nº 02/2022), qual alternativa está correta sobre a convocação e organização das audiências públicas?",
+          "alternativas": {
+            "A": "A realização de audiência pública depende de aprovação prévia do Plenário da Assembleia Legislativa.",
+            "B": "Comissões Temporárias e Permanentes podem convocar audiências públicas, por proposta de membro ou a pedido de entidade interessada.",
+            "C": "A seleção das autoridades e dos especialistas compete à Mesa Diretora, cabendo ao Presidente da Comissão expedir os convites.",
+            "D": "Havendo defensores e opositores, a apresentação das diversas correntes dependerá de requerimento específico dos interessados.",
+            "E": "A proposta de audiência pública apresentada por membro da Comissão exige apoio de dois terços de seus membros."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O Regimento atribui a convocação às Comissões Temporárias e Permanentes, e a seleção dos participantes à Comissão (arts. 91 e 92).\nB) CORRETA. Ambas as espécies de Comissão podem convocar audiência, mediante proposta de membro ou pedido de entidade interessada (art. 91).\nC) INCORRETA. Cabe à própria Comissão selecionar os participantes e ao Presidente da Comissão expedir os convites (art. 92).\nD) INCORRETA. A Comissão deve possibilitar a apresentação das diversas correntes de opinião, sem condicionar essa providência a requerimento específico (art. 92, § 1°).\nE) INCORRETA. A iniciativa pode partir de qualquer membro ou de entidade interessada, sem exigência de apoio de dois terços (art. 91).",
+          "base_legal": {
+            "dispositivo": "Art. 91, Art. 92 (§ 1°)",
+            "texto": "Art. 91. Caberá às Comissões Temporárias e Permanentes, observadas suas competências específicas, convocar audiências públicas com entidades da sociedade civil, sempre abertas à participação popular, para debater e instruir matéria legislativa em trâmite, bem como para tratar de assuntos de interesse público relevante, atinentes à sua área de atuação, mediante proposta de qualquer membro ou a pedido de entidade interessada.\nArt. 92. Aprovada a realização de audiência pública, a Comissão selecionará para serem ouvidas as autoridades, as pessoas interessadas e os especialistas ligados às entidades participantes, cabendo ao Presidente da Comissão expedir os convites.\n§ 1° Na hipótese de haver defensores e opositores relativamente à matéria objeto de exame, a Comissão procederá de forma que possibilite a apresentação das diversas correntes de opinião."
+          }
+        },
+        {
+          "enunciado": "Segundo o Regimento Interno, assinale a alternativa INCORRETA acerca dos debates, da comunicação e dos registros de audiências públicas.",
+          "alternativas": {
+            "A": "O convidado tem vinte minutos para a exposição, prorrogáveis a critério da Comissão, sem poder ser aparteado.",
+            "B": "Durante a audiência, são admitidas até trinta inscrições de integrantes de entidades civis interessadas para questionamentos e ponderações.",
+            "C": "O comunicado a todos os gabinetes dos Deputados deve informar data, local e matéria, acompanhado de cópia da justificativa.",
+            "D": "Os Deputados inscritos para interpelar o expositor dispõem de dez minutos para formular cada interpelação.",
+            "E": "Os pronunciamentos escritos e os documentos arquivados da audiência serão disponibilizados integralmente no portal da Assembleia."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O convidado dispõe de vinte minutos, prorrogáveis pela Comissão, e não pode ser aparteado (art. 92, § 2°).\nB) CORRETA (opção verdadeira). O máximo é de trinta inscrições de integrantes de entidade civil interessada, com cinco minutos para manifestação (art. 92, § 3°).\nC) CORRETA (opção verdadeira). Devem ser comunicados data, local e matéria, com cópia da justificativa do pedido (art. 93).\nD) INCORRETA (gabarito). O tempo da interpelação parlamentar é de cinco minutos, não dez (art. 92, § 7°).\nE) CORRETA (opção verdadeira). Pronunciamentos escritos e documentos são arquivados e disponibilizados na íntegra no portal (art. 94 e parágrafo único).",
+          "base_legal": {
+            "dispositivo": "Art. 92 (§ 2°, § 3°, § 7°), Art. 93, Art. 94 (Parágrafo único.)",
+            "texto": "Art. 92. Aprovada a realização de audiência pública, a Comissão selecionará para serem ouvidas as autoridades, as pessoas interessadas e os especialistas ligados às entidades participantes, cabendo ao Presidente da Comissão expedir os convites.\n§ 2° O convidado deverá limitar-se ao tema ou questão em debate e disporá, para tanto, de vinte minutos, prorrogáveis a juízo da Comissão, não podendo ser aparteado.\n§ 3° Será permitida a inscrição de integrante de entidade civil interessada durante a audiência para usar a palavra, no número máximo de trinta inscrições, tendo como prazo para formular seus questionamentos e ponderações, cinco minutos.\n§ 7° Os Deputados inscritos para interpelar o expositor poderão fazê-lo estritamente sobre o assunto da exposição, pelo prazo de cinco minutos, tendo o interpelado igual tempo para responder, facultadas a réplica e a tréplica pelo mesmo prazo, vedado ao orador interpelar qualquer dos presentes.\nArt. 93. Aprovada a realização de audiência pública, deve ser expedido comunicado a todos os gabinetes dos Deputados Estaduais informando data, local, matéria, acompanhado de cópia da justificativa do pedido de instituição da audiência.\nArt. 94. Lavrar-se-á ata da audiência pública, arquivando-se, no âmbito da Comissão e da Assembleia, os pronunciamentos escritos e documentos que os acompanharem.\nParágrafo único. Os documentos referidos no caput deste artigo serão disponibilizados na íntegra no portal da Assembleia Legislativa."
+          }
+        }
+      ]
     }
   ]
 }
