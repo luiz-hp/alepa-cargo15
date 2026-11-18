@@ -62,8 +62,22 @@ function mostrarErro(msg) {
 }
 
 function rotuloNorma(n) {
+  if (n.tipo === "Constituição Estadual") return "CE/PA";
   const sigla = n.tipo === "Decreto Legislativo" ? "DL" : "Res.";
   return `${sigla} ${n.numero}/${n.ano}`;
+}
+
+const TITULOS_TIPO = {
+  "Constituição Estadual": "Constituição do Estado do Pará",
+  "Decreto Legislativo": "Decretos Legislativos",
+  "Resolução": "Resoluções",
+};
+
+/* Rótulo do link do texto oficial: usa o do registro quando ele detalha a fonte (ex.: "Texto oficial (Diário Oficial...)"). */
+function rotuloFonte(meta, url) {
+  const pdf = (meta.pdfs || []).find((p) => p.url === url);
+  const r = pdf && pdf.rotulo;
+  return r && r !== "Texto oficial" && r.startsWith("Texto oficial") ? r : "Texto oficial (PDF do Banco de Leis da ALEPA)";
 }
 
 /* ---------- página inicial ---------- */
@@ -78,11 +92,11 @@ function desenharInicio() {
   const listas = el("div");
   const desenharListas = (soComMaterial) => {
     listas.replaceChildren();
-    for (const tipo of ["Decreto Legislativo", "Resolução"]) {
+    for (const tipo of ["Constituição Estadual", "Decreto Legislativo", "Resolução"]) {
       const doTipo = normas.filter((n) => n.tipo === tipo && (!soComMaterial || n.material));
       if (!doTipo.length) continue;
       listas.append(
-        el("h2", {}, tipo === "Decreto Legislativo" ? "Decretos Legislativos" : "Resoluções"),
+        el("h2", {}, TITULOS_TIPO[tipo] || tipo),
         el("ul", { class: "lista-normas" }, doTipo.map(itemNorma))
       );
     }
@@ -94,7 +108,7 @@ function desenharInicio() {
 
   main.replaceChildren(
     el("h1", {}, "Legislação da ALEPA para o Cargo 15"),
-    el("p", { class: "ementa" }, "Resumos e questões comentadas dos decretos legislativos e resoluções cobrados no edital do Concurso nº 002/2026."),
+    el("p", { class: "ementa" }, "Resumos e questões comentadas da Constituição Estadual, dos decretos legislativos e das resoluções cobrados no edital do Concurso nº 002/2026."),
     el("p", { class: "progresso" }, `${prontas} de ${normas.length} normas com material`),
     el("div", { class: "barra", role: "presentation" }, el("span", { style: `width:${pct}%` })),
     el("label", { class: "filtro", for: "filtro" }, filtro, "Mostrar só as normas com material"),
@@ -116,6 +130,7 @@ function itemNorma(n) {
 }
 
 function tituloNorma(n) {
+  if (n.tipo === "Constituição Estadual") return "Constituição do Estado do Pará";
   return `${n.tipo} nº ${n.numero}/${n.ano}`;
 }
 
@@ -166,7 +181,7 @@ function conteudoNorma(meta, norma) {
     el("p", { class: "ementa" }, inline(norma.ementa || meta.ementa)),
   ];
   const infos = [];
-  if (norma.fonte) infos.push(el("li", {}, el("a", { href: norma.fonte, target: "_blank", rel: "noopener" }, "Texto oficial (PDF do Banco de Leis da ALEPA)")));
+  if (norma.fonte) infos.push(el("li", {}, el("a", { href: norma.fonte, target: "_blank", rel: "noopener" }, rotuloFonte(meta, norma.fonte))));
   for (const a of norma.alteracoes || []) infos.push(el("li", {}, inline(a)));
   if (infos.length) nodos.push(el("ul", { class: "meta" }, infos));
 

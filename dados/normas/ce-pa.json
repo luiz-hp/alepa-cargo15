@@ -1,0 +1,322 @@
+{
+  "id": "ce-pa",
+  "titulo": "Constituição do Estado do Pará (artigos do edital)",
+  "ementa": "Constituição do Estado do Pará, promulgada em 5 de outubro de 1989. Artigos cobrados no edital: 11, 86, 90, 92 a 116, 121, 161, 162, 168 e 341.",
+  "fonte": "https://www.alepa.pa.gov.br/Content/Docs/constituicao-estado-do-para.pdf",
+  "alteracoes": [
+    "Texto dos artigos do edital atualizado até a **Emenda Constitucional nº 101/2026**. A compilação oficial da ALEPA (link acima) vai até a EC nº 72/2018; as alterações posteriores estão listadas abaixo.",
+    "**EC nº 78/2019**: incluiu o Defensor Público Geral do Estado no art. 92, XXXIV (crimes de responsabilidade julgados pela Assembleia) e no art. 161, I, \"c\" (mandado de segurança no Tribunal de Justiça); no art. 162, IV, o \"Procurador-Geral da Defensoria Pública\" passou a ser o \"Defensor Público Geral\".",
+    "**EC nº 80/2019**: nova redação do art. 90, parágrafo único (assessoramento da Assembleia pela Procuradoria, Consultoria Técnica, Assessoria Técnica e Coordenadoria Técnico Legislativo).",
+    "**EC nº 81/2020**: acrescentou o § 11 ao art. 99 (sessões e reuniões em períodos excepcionais, inclusive de forma remota).",
+    "**EC nº 82/2020**: incluiu a Polícia Penal no art. 113, § 1º, II (leis orgânicas que são leis complementares).",
+    "**EC nº 87/2023**: revogou o art. 92, XXIV (autorização para o Governador e o Vice-Governador se ausentarem do País).",
+    "**EC nº 96/2025**: no art. 105, II, \"b\", trocou \"inatividade\" por \"aposentadoria\".",
+    "**EC nº 101/2026**: nova redação do art. 168 (Justiça Militar: em primeiro grau, Juízes de Direito e Conselhos de Justiça; em segundo grau, o Tribunal de Justiça).",
+    "O site **não cobra** o art. 99, § 2º (redação divergente entre compilações) nem o § 9º (a EC nº 47/2010, que lhe deu a redação atual, foi declarada inconstitucional pelo STF na ADI nº 4.509).",
+    "A Constituição Estadual ainda prevê **voto secreto** na perda de mandato (art. 92, VIII, e art. 97, § 2º) e **escrutínio secreto** na apreciação do veto (art. 108, § 4º); na Constituição Federal, o voto secreto nesses casos foi suprimido pela EC nº 76/2013. As questões do site seguem a letra da Constituição Estadual."
+  ],
+  "partes": [
+    {
+      "numero": 1,
+      "titulo": "Poderes do Estado, Assembleia Legislativa e competência exclusiva (arts. 11, 86, 90 e 92)",
+      "artigos": "Arts. 11, 86, 90 e 92",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "Os Poderes **Legislativo, Executivo e Judiciário** são **independentes e harmônicos**. Salvo exceções da própria Constituição, são vedados a **delegação de atribuições** e o exercício de funções de outro Poder."
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "A **Assembleia Legislativa** tem autonomia **administrativa e financeira**; cada legislatura dura **quatro anos**. A proposta orçamentária é encaminhada pelo **Presidente**, após aprovação do **Plenário**. A **Procuradoria** representa judicialmente o Legislativo; o ingresso nas carreiras de assessoramento exige concurso de **provas e títulos**."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "**Mesa**",
+              "Reeleição admitida na mesma legislatura."
+            ],
+            [
+              "**Deputado**",
+              "Perda/suspensão: presença de **2/3**, voto secreto e **maioria absoluta**."
+            ],
+            [
+              "**Viagem**",
+              "Governador e Vice: ausência da Capital superior a **15 dias** exige autorização."
+            ],
+            [
+              "**Contas**",
+              "Tomada de contas do Governador: **60 dias** após abertura da sessão."
+            ],
+            [
+              "**Relatórios**",
+              "Tribunais de Contas: apreciação **trimestral**."
+            ],
+            [
+              "**Processo**",
+              "Instauração contra Governador: autorização de **2/3**."
+            ],
+            [
+              "**Julgamento**",
+              "Crimes de responsabilidade: presidência do **TJ** e condenação por **2/3**."
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "A condenação nos crimes de responsabilidade dos incisos XXXIII e XXXIV limita-se à **perda do cargo**, com **inabilitação por oito anos**, sem prejuízo das demais sanções judiciais. A **Assembleia** aprecia vetos e promulga leis no caso de **silêncio do Governador**."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Atenção:** (1) Mandato de Deputado: presença de **2/3** e aprovação por **maioria absoluta**; condenação por crime de responsabilidade: **2/3 dos votos**. (2) A **Mesa Diretora** pode ser **reeleita** na mesma legislatura. (3) Tomada de contas do Governador: prazo de **60 dias** após a abertura da sessão legislativa."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre a organização dos Poderes estaduais, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A delegação de atribuições entre os Poderes Legislativo e Executivo depende de autorização da Assembleia Legislativa.",
+            "B": "Os Poderes Legislativo, Executivo e Judiciário são independentes e harmônicos, admitindo-se exceções constitucionais à vedação de delegação.",
+            "C": "O agente investido nas funções de um Poder pode exercer as de outro mediante anuência dos respectivos dirigentes.",
+            "D": "As exceções à vedação de delegação de atribuições entre os Poderes podem ser estabelecidas por lei complementar estadual.",
+            "E": "A vedação ao exercício de funções de outro Poder alcança exclusivamente os agentes investidos nas funções do Poder Judiciário."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 11, parágrafo único, somente admite exceções à vedação de delegação previstas na própria Constituição, não bastando autorização da Assembleia Legislativa.\nB) CORRETA. O art. 11, caput, estabelece independência e harmonia entre os três Poderes; o parágrafo único ressalva as exceções previstas na Constituição.\nC) INCORRETA. O art. 11, parágrafo único, veda o exercício de funções de outro Poder, ressalvadas as exceções constitucionais, não prevendo anuência dos dirigentes como autorização.\nD) INCORRETA. O art. 11, parágrafo único, exige que as exceções estejam previstas nesta Constituição, e não em lei complementar estadual.\nE) INCORRETA. O art. 11, parágrafo único, estende a vedação a quem for investido nas funções de qualquer dos Poderes, não apenas do Judiciário.",
+          "base_legal": {
+            "dispositivo": "Art. 11, caput e parágrafo único",
+            "texto": "Art. 11 - São Poderes do Estado, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.\nParágrafo Único - Salvo as exceções previstas nesta Constituição, é vedado a qualquer dos poderes delegar atribuições, e quem for investido nas funções de um deles não poderá exercer a de outro."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre o funcionamento da Assembleia Legislativa, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Poder Legislativo estadual é exercido pela Assembleia Legislativa, conforme a Constituição.",
+            "B": "A Assembleia Legislativa goza de autonomia administrativa e financeira.",
+            "C": "A proposta orçamentária da Assembleia observa limites estipulados conjuntamente com os demais Poderes na lei de diretrizes orçamentárias.",
+            "D": "O Presidente da Assembleia encaminha a proposta orçamentária antes de sua aprovação pelo Plenário.",
+            "E": "Cada legislatura tem duração de quatro anos, segundo a Constituição estadual."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 86, caput, atribui o exercício do Poder Legislativo à Assembleia Legislativa.\nB) CORRETA (opção verdadeira). O art. 86, caput, assegura expressamente as autonomias administrativa e financeira.\nC) CORRETA (opção verdadeira). O art. 86, § 1°, estabelece esses limites para a elaboração da proposta orçamentária.\nD) INCORRETA (gabarito). O art. 86, § 1°, determina o encaminhamento pelo Presidente após a aprovação do Plenário, e não antes.\nE) CORRETA (opção verdadeira). O art. 86, § 2°, fixa a duração de quatro anos para cada legislatura.",
+          "base_legal": {
+            "dispositivo": "Art. 86, caput e §§ 1° e 2°",
+            "texto": "Art. 86. O Poder Legislativo é exercido pela Assembléia Legislativa, gozando de autonomia administrativa e financeira.\n§ 1°. A Assembléia Legislativa elaborará sua proposta orçamentária dentro dos limites estipulados conjuntamente com os demais Poderes na lei de diretrizes orçamentárias, sendo a mesma encaminhada pelo seu Presidente, após aprovação do Plenário.\n§ 2°. Cada legislatura terá a duração de quatro anos."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, quanto à Procuradoria e ao assessoramento da Assembleia Legislativa, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O ingresso nas carreiras indicadas para o assessoramento da Assembleia Legislativa ocorre mediante concurso público de provas e títulos.",
+            "B": "A Procuradoria da Assembleia representa o Poder Legislativo judicialmente apenas quando ele integra o polo ativo da ação.",
+            "C": "A Procuradoria da Assembleia substitui as atribuições da Procuradoria Geral do Estado nas ações em que o Legislativo é parte.",
+            "D": "O assessoramento da Assembleia é atribuído exclusivamente à Procuradoria e à Consultoria Técnica, sem participação de outras unidades.",
+            "E": "O ingresso nas carreiras mencionadas para o assessoramento ocorre por concurso público somente de provas, sem avaliação de títulos."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 90, parágrafo único, prevê expressamente concurso público de provas e títulos para o ingresso nas carreiras referidas.\nB) INCORRETA. O art. 90, caput, abrange ações nas quais o Legislativo seja parte ativa ou passivamente, não apenas no polo ativo.\nC) INCORRETA. O art. 90, caput, preserva expressamente as atribuições da Procuradoria Geral do Estado.\nD) INCORRETA. O art. 90, parágrafo único, inclui também a Assessoria Técnica e a Coordenadoria Técnico Legislativo.\nE) INCORRETA. O art. 90, parágrafo único, exige concurso público de provas e títulos, não somente de provas.",
+          "base_legal": {
+            "dispositivo": "Art. 90, caput e parágrafo único",
+            "texto": "Art. 90. A Procuradoria da Assembléia Legislativa representará judicialmente o Poder Legislativo nas ações em que este for parte, ativa ou passivamente, sem prejuízo das atribuições da Procuradoria Geral do Estado.\nParágrafo único. O assessoramento da Assembleia Legislativa será prestado pela Procuradoria, Consultoria Técnica, Assessoria Técnica e Coordenadoria Técnico Legislativo, exercido por Procuradores, Consultores, Assessores Técnicos e Técnicos Legislativos, na forma dos respectivos regimentos, e o ingresso nas carreiras acima referidas far-se-á mediante concurso público de provas e títulos, aplicando-se-lhes o princípio do art. 30, § 1º."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, acerca da organização interna da Assembleia Legislativa, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Assembleia Legislativa pode elaborar seu Regimento Interno e constituir suas Comissões.",
+            "B": "A organização dos serviços da Assembleia e a fixação da remuneração correspondente observam parâmetros da lei de diretrizes orçamentárias.",
+            "C": "A Assembleia Legislativa pode mudar temporariamente sua sede e também o local de suas reuniões.",
+            "D": "A Assembleia Legislativa deve zelar por sua competência legislativa diante da atribuição normativa de outros Poderes.",
+            "E": "A Mesa Diretora eleita pela Assembleia Legislativa não pode ser reeleita durante a mesma legislatura."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 92, I, atribui essas competências à Assembleia Legislativa.\nB) CORRETA (opção verdadeira). O art. 92, II, submete a organização dos serviços e a fixação da respectiva remuneração aos parâmetros da lei de diretrizes orçamentárias.\nC) CORRETA (opção verdadeira). O art. 92, III, permite a mudança temporária da sede e do local das reuniões.\nD) CORRETA (opção verdadeira). O art. 92, IV, determina a preservação da competência legislativa diante da atribuição normativa dos outros Poderes.\nE) INCORRETA (gabarito). O art. 92, I, admite expressamente a reeleição da Mesa Diretora na mesma legislatura.",
+          "base_legal": {
+            "dispositivo": "Art. 92, incisos I a IV",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nI - elaborar seu Regimento Interno, constituir as Comissões e eleger a Mesa Diretora, que poderá ser reeleita na mesma legislatura.\nII - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção de cargos, empregos e funções de seus serviços e fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;\nIII - mudar temporariamente sua sede, bem como o local de suas reuniões;\nIV - zelar pela preservação de sua competência legislativa em face da atribuição normativa dos outros poderes;"
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, para declarar a perda ou a suspensão temporária do mandato de Deputado, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "É exigida a presença de dois terços dos membros, com votação aberta e aprovação pela maioria absoluta.",
+            "B": "É exigida a presença da maioria absoluta dos membros, com votação secreta e aprovação por dois terços.",
+            "C": "É exigida a presença de dois terços dos membros, com votação secreta e aprovação por maioria absoluta.",
+            "D": "É exigida a presença de dois terços dos membros, com votação secreta e aprovação por maioria simples.",
+            "E": "É exigida a presença de três quintos dos membros, com votação secreta e aprovação por maioria absoluta."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 92, VIII, prevê votação secreta, e não aberta.\nB) INCORRETA. O art. 92, VIII, exige presença de dois terços e votação por maioria absoluta; a alternativa inverte esses requisitos.\nC) CORRETA. O art. 92, VIII, combina presença de dois terços dos membros, votação secreta e maioria absoluta.\nD) INCORRETA. O art. 92, VIII, exige maioria absoluta, e não maioria simples.\nE) INCORRETA. O art. 92, VIII, exige presença de dois terços, e não de três quintos dos membros.",
+          "base_legal": {
+            "dispositivo": "Art. 92, inciso VIII",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nVIII - declarar perda ou suspensão temporária de mandato de Deputado, desde que presentes dois terços de seus membros, por votação secreta e maioria absoluta;"
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre competências exclusivas da Assembleia Legislativa, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Compete à Assembleia sustar atos normativos do Poder Executivo apenas quando excedam os limites da delegação legislativa.",
+            "B": "Compete à Assembleia fixar os subsídios dos Deputados, observadas as disposições constitucionais indicadas.",
+            "C": "Compete à Assembleia conceder licença e receber renúncia de Deputados.",
+            "D": "Compete à Assembleia solicitar intervenção federal quando necessária ao livre exercício de suas funções e prerrogativas.",
+            "E": "Compete à Assembleia fiscalizar e controlar atos do Poder Executivo, incluídos os da administração indireta."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 92, IX, permite sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites da delegação legislativa, não apenas nesta última hipótese.\nB) CORRETA (opção verdadeira). O art. 92, V, confere à Assembleia a fixação dos subsídios dos Deputados, observadas as disposições constitucionais mencionadas.\nC) CORRETA (opção verdadeira). O art. 92, VI, prevê concessão de licença e recebimento de renúncia de Deputados.\nD) CORRETA (opção verdadeira). O art. 92, X, prevê solicitação de intervenção federal nessa hipótese.\nE) CORRETA (opção verdadeira). O art. 92, XV, inclui expressamente a administração indireta no controle dos atos do Executivo.",
+          "base_legal": {
+            "dispositivo": "Art. 92, incisos V, VI, IX, X e XV",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nV - fixar os subsídios dos Deputados, observado o que dispõem os arts. 27, § 2°; 39, § 4°; 57, § 7°; 150, II; 153 III; e 153, § 2°, I da Constituição Federal;\nVI - conceder licença e receber renúncia de Deputados;\nIX - sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites da delegação legislativa;\nX - solicitar intervenção federal, quando necessária para garantir o livre exercício de suas funções e prerrogativas;\nXV - fiscalizar e controlar os atos do Poder Executivo, incluídos os da administração indireta;"
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre intervenção, consultas populares e atos patrimoniais, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Assembleia aprecia o decreto de intervenção em Município ou suspende a medida, ressalvada a decorrente de decisão judicial.",
+            "B": "A Assembleia Legislativa tem competência para autorizar referendo e convocar plebiscito.",
+            "C": "A Assembleia aprova previamente, salvo exceções constitucionais, alienação ou concessão de terras públicas e imóveis do Estado.",
+            "D": "A Assembleia Legislativa autoriza previamente operações financeiras internas de interesse do Estado.",
+            "E": "A Assembleia autoriza ou aprova contratos que gerem encargos para o Estado não estabelecidos na lei orçamentária."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 92, XI, ressalva a intervenção decorrente de decisão do Poder Judiciário.\nB) CORRETA (opção verdadeira). O art. 92, XII, atribui à Assembleia a autorização de referendo e a convocação de plebiscito.\nC) CORRETA (opção verdadeira). O art. 92, XIII, prevê a aprovação prévia e as exceções constitucionais.\nD) INCORRETA (gabarito). O art. 92, XIV, menciona operações financeiras externas, e não internas.\nE) CORRETA (opção verdadeira). O art. 92, XIV, inclui contratos que resultem em encargos não estabelecidos na lei orçamentária.",
+          "base_legal": {
+            "dispositivo": "Art. 92, incisos XI a XIV",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nXI - apreciar o decreto de intervenção no Município ou suspender essa medida, salvo quando decorrente de decisão do Poder Judiciário;\nXII - autorizar referendo e convocar plebiscito;\nXIII - aprovar, previamente, salvo os casos previstos nesta Constituição, a alienação ou concessão de terras públicas e dos bens imóveis do Estado;\nXIV - autorizar ou aprovar convênios, acordos, operações ou contratos de que resultem para o Estado quaisquer ônus, dívidas, compromissos ou encargos não estabelecidos na lei orçamentária, bem como autorizar, previamente, operações financeiras externas de interesse do Estado;"
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, quanto às competências referentes a conselhos e Tribunais de Contas, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Compete à Assembleia Legislativa eleger membros do Conselho de Estado, nos termos indicados na Constituição.",
+            "B": "Compete à Assembleia Legislativa eleger quatro de seus membros para o Conselho Estadual de Justiça.",
+            "C": "Compete à Assembleia suspender a execução de lei estadual declarada inconstitucional por decisão definitiva do Tribunal de Justiça do Estado.",
+            "D": "Compete à Assembleia escolher dois terços dos Conselheiros do Tribunal de Contas do Estado e do Tribunal de Contas dos Municípios.",
+            "E": "Compete à Assembleia aprovar previamente, por voto secreto e após arguição pública, a escolha de Conselheiros dos Tribunais de Contas feita pelo Governador."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 92, XVI, prevê a eleição de membros do Conselho de Estado.\nB) INCORRETA (gabarito). O art. 92, XVIII, determina a eleição de três de seus membros, e não quatro.\nC) CORRETA (opção verdadeira). O art. 92, XVII, prevê a suspensão da execução de lei estadual declarada inconstitucional por decisão definitiva do Tribunal de Justiça do Estado.\nD) CORRETA (opção verdadeira). O art. 92, XIX, atribui à Assembleia a escolha de dois terços dos Conselheiros dos Tribunais de Contas mencionados.\nE) CORRETA (opção verdadeira). O art. 92, XX, exige voto secreto e argüição pública para aprovação prévia da escolha feita pelo Governador.",
+          "base_legal": {
+            "dispositivo": "Art. 92, incisos XVI a XX",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nXVI - eleger membros do Conselho de Estado, nos termos do art. 146, VII;\nXVII - suspender a execução, no todo ou em parte, de lei ou ato normativo estadual declarado inconstitucional por decisão definitiva do Tribunal de Justiça do Estado;\nXVIII - eleger três de seus membros para o Conselho Estadual de Justiça, na forma do art. 176, VIII;\nXIX - escolher dois terços dos Conselheiros do Tribunal de Contas do Estado e do Tribunal de Contas dos Municípios;\nXX - aprovar previamente, por voto secreto, após argüição pública, a escolha feita pelo Governador de Conselheiros do Tribunal de Contas do Estado e do Tribunal de Contas dos Municípios, bem como dos titulares de cargos referidos no art. 135, XII, e outros que a lei vier a determinar;"
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre atribuições da Assembleia relativas ao Governador e ao Vice-Governador, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A Assembleia concede licença ao Governador e ao Vice-Governador para deixarem definitivamente os respectivos cargos.",
+            "B": "A Assembleia autoriza a ausência da Capital quando esta ultrapassar dez dias consecutivos.",
+            "C": "A Assembleia dá posse ao Governador, mas a posse do Vice-Governador compete ao Poder Executivo.",
+            "D": "A Assembleia fixa os subsídios do Governador e do Vice-Governador, excluídos os dos Secretários de Estado.",
+            "E": "A Assembleia autoriza o Governador e o Vice-Governador a se ausentarem da Capital quando a ausência exceder quinze dias consecutivos."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O art. 92, XXII, trata de licença para deixar provisoriamente o exercício dos respectivos cargos, e não definitivamente.\nB) INCORRETA. O art. 92, XXIII, fixa o limite superior a quinze dias consecutivos, e não a dez.\nC) INCORRETA. O art. 92, XXI, atribui à Assembleia a posse do Governador e do Vice-Governador.\nD) INCORRETA. O art. 92, XXV, inclui os subsídios dos Secretários de Estado.\nE) CORRETA. O art. 92, XXIII, estabelece autorização para ausência da Capital que exceda quinze dias consecutivos.",
+          "base_legal": {
+            "dispositivo": "Art. 92, incisos XXI, XXII, XXIII e XXV",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nXXI - dar posse ao Governador e ao Vice-Governador e receber os respectivos compromissos e renúncias;\nXXII - conceder licença ao Governador e ao Vice-Governador para que deixem de exercer, provisoriamente, os respectivos cargos;\nXXIII - autorizar o Governador e Vice-Governador a se ausentarem da Capital do Estado, quando a ausência exceder a quinze dias consecutivos;\nXXV - fixar os subsídios do Governador, Vice-Governador e dos Secretários de Estado, observados os princípios da Constituição Federal;"
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre a apreciação e o julgamento de contas, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Assembleia julga anualmente as contas do Governador e aprecia os relatórios de execução dos planos de Governo.",
+            "B": "A Assembleia aprecia trimestralmente os relatórios das atividades do Tribunal de Contas do Estado e do Tribunal de Contas dos Municípios.",
+            "C": "A Assembleia procede à tomada de contas do Governador após quarenta e cinco dias da abertura da sessão legislativa, se não apresentadas.",
+            "D": "A Assembleia aprecia anualmente as contas de sua Mesa Diretora, após julgadas pelo Tribunal de Contas do Estado.",
+            "E": "A Assembleia julga anualmente as contas do Tribunal de Contas do Estado."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 92, XXVI, prevê julgamento anual das contas do Governador e apreciação dos relatórios de execução dos planos de Governo.\nB) CORRETA (opção verdadeira). O art. 92, XXVII, determina apreciação trimestral dos relatórios dos dois Tribunais de Contas.\nC) INCORRETA (gabarito). O art. 92, XXVIII, estabelece sessenta dias após a abertura da sessão legislativa, e não quarenta e cinco.\nD) CORRETA (opção verdadeira). O art. 92, XXIX, determina apreciação anual das contas da Mesa Diretora após julgamento pelo Tribunal de Contas do Estado.\nE) CORRETA (opção verdadeira). O art. 92, XXX, determina julgamento anual das contas do Tribunal de Contas do Estado.",
+          "base_legal": {
+            "dispositivo": "Art. 92, incisos XXVI a XXX",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nXXVI - julgar, anualmente, as contas prestadas pelo Governador e apreciar os relatórios sobre a execução dos planos de Governo;\nXXVII - apreciar, trimestralmente, os relatórios das atividades do Tribunal de Contas do Estado e do Tribunal de Contas dos Municípios;\nXXVIII - proceder à tomada de contas do Governador, quando não apresentadas à Assembléia Legislativa dentro de sessenta dias após a abertura da sessão legislativa;\nXXIX - apreciar, anualmente, as contas de sua Mesa Diretora, após julgadas pelo Tribunal de Contas do Estado, sem participação dos membros da Mesa, funcionando como Presidente, neste procedimento, o Deputado mais idoso;\nXXX - julgar, anualmente, as contas do Tribunal de Contas do Estado."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre a sustação de contratos e a instauração de processo contra o Governador, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "A Assembleia ordena a sustação de contrato impugnado pelo Tribunal de Contas do Estado e autoriza, por dois terços dos membros, processo contra o Governador.",
+            "B": "A Assembleia ordena a sustação de contrato impugnado pelo Tribunal de Contas dos Municípios e autoriza, por dois terços dos membros, processo contra o Governador.",
+            "C": "A Assembleia ordena a sustação de contrato impugnado pelo Tribunal de Contas do Estado e autoriza, por maioria absoluta dos membros, processo contra o Governador.",
+            "D": "A Assembleia ordena a sustação de contrato impugnado pelo Poder Judiciário e autoriza, por dois terços dos membros, processo contra o Governador.",
+            "E": "A Mesa Diretora ordena a sustação de contrato impugnado pelo Tribunal de Contas do Estado e autoriza, por dois terços dos membros, processo contra o Governador."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 92, XXXI e XXXII, atribui à Assembleia ambas as competências, exigindo dois terços de seus membros para autorizar a instauração do processo contra o Governador.\nB) INCORRETA. O art. 92, XXXI, trata de contrato impugnado pelo Tribunal de Contas do Estado, e não pelo Tribunal de Contas dos Municípios.\nC) INCORRETA. O art. 92, XXXII, exige dois terços dos membros, e não maioria absoluta.\nD) INCORRETA. O art. 92, XXXI, menciona impugnação pelo Tribunal de Contas do Estado, e não pelo Poder Judiciário.\nE) INCORRETA. O art. 92, caput, XXXI e XXXII, atribui essas competências à Assembleia Legislativa, e não à Mesa Diretora.",
+          "base_legal": {
+            "dispositivo": "Art. 92, caput e incisos XXXI e XXXII",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nXXXI - ordenar a sustação de contrato impugnado pelo Tribunal de Contas do Estado;\nXXXII - autorizar, por dois terços de seus membros, a instauração de processo contra o Governador;"
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre crimes de responsabilidade e destituição de autoridades, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Assembleia processa e julga o Governador e o Vice-Governador por crimes de responsabilidade.",
+            "B": "A Assembleia processa e julga Secretários de Estado pelos crimes de responsabilidade conexos aos do Governador e do Vice-Governador.",
+            "C": "A Assembleia processa e julga o Procurador-Geral de Justiça por crimes de responsabilidade.",
+            "D": "A Assembleia destitui o Procurador-Geral de Justiça por deliberação da maioria simples, na forma de lei complementar.",
+            "E": "A Assembleia processa e julga o Defensor Público Geral do Estado por crimes de responsabilidade."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 92, XXXIII, atribui à Assembleia o processamento e julgamento dessas autoridades nos crimes de responsabilidade.\nB) CORRETA (opção verdadeira). O art. 92, XXXIII, exige que os crimes de responsabilidade dos Secretários de Estado sejam conexos com os daqueles agentes.\nC) CORRETA (opção verdadeira). O art. 92, XXXIV, inclui o Procurador-Geral de Justiça.\nD) INCORRETA (gabarito). O art. 92, XXXV, exige deliberação da maioria absoluta, e não simples.\nE) CORRETA (opção verdadeira). O art. 92, XXXIV, inclui o Defensor Público Geral do Estado.",
+          "base_legal": {
+            "dispositivo": "Art. 92, incisos XXXIII a XXXV",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nXXXIII - processar e julgar o Governador e o Vice-Governador nos crimes de responsabilidade e os Secretários de Estado nos crimes da mesma natureza conexos com aqueles;\nXXXIV – processar e julgar o Procurador-Geral de Justiça, o Procurador Geral do Estado e o Defensor Público Geral do Estado nos crimes de responsabilidade;\nXXXV - destituir, por deliberação da maioria absoluta, e na forma da lei complementar, o Procurador-Geral de Justiça;"
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre processo legislativo e outras atribuições exclusivas, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Cabe à Assembleia Legislativa emendar a Constituição estadual.",
+            "B": "Cabe à Assembleia Legislativa discutir e votar projetos de lei, enviando-os à sanção e promulgação.",
+            "C": "Cabe à Assembleia Legislativa apreciar o veto e sobre ele deliberar.",
+            "D": "Cabe à Assembleia Legislativa eleger o Governador e o Vice-Governador, na forma da lei e na hipótese constitucional indicada.",
+            "E": "Cabe à Assembleia Legislativa promulgar leis no caso de veto expresso do Governador."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 92, XXXVI, atribui à Assembleia a competência para emendar a Constituição estadual.\nB) CORRETA (opção verdadeira). O art. 92, XXXVI, prevê discussão e votação dos projetos de lei, com envio à sanção e promulgação.\nC) CORRETA (opção verdadeira). O art. 92, XXXVII, prevê apreciação e deliberação sobre o veto.\nD) CORRETA (opção verdadeira). O art. 92, XXXVIII, prevê essa eleição na forma da lei e no caso do art. 131, § 1°.\nE) INCORRETA (gabarito). O art. 92, XXXVI, prevê promulgação de leis no caso de silêncio do Governador, e não de veto expresso.",
+          "base_legal": {
+            "dispositivo": "Art. 92, incisos XXXVI a XXXVIII",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nXXXVI - emendar esta Constituição, discutir e votar projetos de lei, enviá-los à sanção e promulgação, promulgar leis no caso de silêncio do Governador, expedir decretos legislativos e resoluções;\nXXXVII - apreciar o veto e sobre ele deliberar;\nXXXVIII - eleger o Governador e o Vice-Governador, na forma da lei e no caso do art. 131, § 1°.."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, em um caso de processamento e julgamento do Procurador Geral do Estado por crime de responsabilidade na Assembleia Legislativa, qual procedimento está CORRETO?",
+          "alternativas": {
+            "A": "O Presidente da Assembleia presidirá o julgamento, e a condenação exigirá dois terços dos votos dos membros, acarretando perda do cargo e inabilitação por oito anos.",
+            "B": "O Presidente do Tribunal de Justiça presidirá o julgamento, e a condenação exigirá maioria dos votos dos membros, acarretando perda do cargo e inabilitação por oito anos.",
+            "C": "O Presidente do Tribunal de Justiça presidirá o julgamento, e a condenação exigirá dois terços dos votos dos membros da Assembleia, acarretando perda do cargo e inabilitação por oito anos.",
+            "D": "O Presidente do Tribunal de Justiça presidirá o julgamento, e a condenação exigirá dois terços dos votos dos membros, acarretando perda do cargo e inabilitação por seis anos.",
+            "E": "O Presidente do Tribunal de Justiça presidirá o julgamento, e a condenação exigirá dois terços dos votos dos membros, acarretando perda do cargo e afastando as demais sanções judiciais."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 92, parágrafo único, determina que a presidência seja exercida pelo Presidente do Tribunal de Justiça do Estado, não pelo Presidente da Assembleia.\nB) INCORRETA. O art. 92, parágrafo único, exige dois terços dos votos dos membros da Assembleia para a condenação, e não apenas maioria dos votos.\nC) CORRETA. O art. 92, XXXIV e parágrafo único, prevê o julgamento dessa autoridade, a presidência pelo Presidente do Tribunal de Justiça, o quórum de dois terços e a perda do cargo com inabilitação por oito anos.\nD) INCORRETA. O art. 92, parágrafo único, fixa a inabilitação em oito anos, e não seis.\nE) INCORRETA. O art. 92, parágrafo único, preserva expressamente as demais sanções judiciais cabíveis.",
+          "base_legal": {
+            "dispositivo": "Art. 92, inciso XXXIV e parágrafo único",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nXXXIV – processar e julgar o Procurador-Geral de Justiça, o Procurador Geral do Estado e o Defensor Público Geral do Estado nos crimes de responsabilidade;\nParágrafo único. Nos casos previstos nos incisos XXXIII e XXXIV, funcionará como Presidente o do Tribunal de Justiça do Estado, limitando-se a condenação, que somente será proferida por dois terços dos votos dos membros da Assembléia Legislativa, à perda do cargo, com inabilitação, por oito anos, para o exercício de função pública, sem prejuízo das demais sanções judiciais cabíveis."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, na apreciação anual das contas da Mesa Diretora da Assembleia Legislativa, assinale a alternativa CORRETA.",
+          "alternativas": {
+            "A": "O procedimento é presidido pelo Presidente da Mesa Diretora, com participação de seus membros na apreciação das contas.",
+            "B": "O procedimento é presidido pelo Deputado mais idoso, sem participação dos membros da Mesa, após julgamento pelo Tribunal de Contas do Estado.",
+            "C": "O procedimento é presidido pelo Presidente do Tribunal de Contas do Estado, sem participação dos membros da Mesa Diretora.",
+            "D": "O procedimento é presidido pelo Deputado mais jovem, sem participação dos membros da Mesa, depois do julgamento das contas.",
+            "E": "O procedimento é presidido pelo Vice-Presidente da Assembleia, com participação dos membros da Mesa na apreciação das contas."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 92, XXIX, exclui a participação dos membros da Mesa e atribui a presidência ao Deputado mais idoso.\nB) CORRETA. O art. 92, XXIX, estabelece a presidência pelo Deputado mais idoso, a exclusão dos membros da Mesa e o julgamento anterior pelo Tribunal de Contas do Estado.\nC) INCORRETA. O art. 92, XXIX, atribui a presidência ao Deputado mais idoso, e não ao Presidente do Tribunal de Contas do Estado.\nD) INCORRETA. O art. 92, XXIX, atribui a presidência ao Deputado mais idoso, e não ao mais jovem.\nE) INCORRETA. O art. 92, XXIX, impede a participação dos membros da Mesa e atribui a presidência ao Deputado mais idoso.",
+          "base_legal": {
+            "dispositivo": "Art. 92, inciso XXIX",
+            "texto": "Art. 92. É da competência exclusiva da Assembléia Legislativa:\nXXIX - apreciar, anualmente, as contas de sua Mesa Diretora, após julgadas pelo Tribunal de Contas do Estado, sem participação dos membros da Mesa, funcionando como Presidente, neste procedimento, o Deputado mais idoso;"
+          }
+        }
+      ]
+    }
+  ]
+}

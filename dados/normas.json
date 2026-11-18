@@ -2,6 +2,20 @@
   "atualizado_em": "2026-10-30",
   "normas": [
     {
+      "id": "ce-pa",
+      "tipo": "Constituição Estadual",
+      "numero": "",
+      "ano": 1989,
+      "ementa": "Constituição do Estado do Pará, promulgada em 5 de outubro de 1989. Artigos cobrados no edital: 11, 86, 90, 92 a 116, 121, 161, 162, 168 e 341.",
+      "pdfs": [
+        {
+          "rotulo": "Texto oficial (compilação da ALEPA, atualizada até a EC nº 72/2018)",
+          "url": "https://www.alepa.pa.gov.br/Content/Docs/constituicao-estado-do-para.pdf"
+        }
+      ],
+      "material": "dados/normas/ce-pa.json"
+    },
+    {
       "id": "dl-70-1990",
       "tipo": "Decreto Legislativo",
       "numero": "70",
