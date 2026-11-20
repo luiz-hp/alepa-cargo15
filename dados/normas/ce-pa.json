@@ -913,6 +913,304 @@
           }
         }
       ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Convocação de autoridades, Deputados, reuniões e Plenário (arts. 93 a 100)",
+      "artigos": "Arts. 93 a 100",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "**Arts. 93–94:** Assembleia e Comissões convocam Secretários de Estado e dirigentes da administração indireta; a **Mesa Diretora** encaminha a convocação por escrito. Recusa, informação falsa ou ausência de resposta em **30 dias** a pedido escrito configuram crime de responsabilidade. **Cidadão, partido político, associação e sindicato** podem denunciar."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Prisão",
+              "Flagrante inafiançável; autos em **24 h** à Assembleia."
+            ],
+            [
+              "Sustação",
+              "Partido representado; **maioria**; prazo **45 dias**."
+            ],
+            [
+              "Imunidade",
+              "Estado de sítio: suspensão exige **2/3** em casos delimitados."
+            ],
+            [
+              "Mandato",
+              "Perda: incisos I, II e VI por **maioria absoluta** e voto secreto."
+            ],
+            [
+              "Suplente",
+              "Doença superior a **120 dias**; eleição sem suplente se faltarem **mais de 15 meses**."
+            ],
+            [
+              "Reuniões",
+              "**2/2–30/6** e **1º/8–20/12**; sessões com **1/4** presente."
+            ],
+            [
+              "Plenário",
+              "Avoca por voto da **maioria de seus membros**."
+            ]
+          ]
+        },
+        {
+          "tipo": "texto",
+          "conteudo": "**Arts. 96–99:** Vedações começam na **diplomação** ou na **posse**, conforme o caso. Licença para interesse particular: **sem remuneração** e até **120 dias por sessão legislativa**. Sessões preparatórias começam em **1º de fevereiro**; a Mesa tem mandato de **2 anos**. A prorrogação anual exige **maioria absoluta**."
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Três pegadinhas:** **diploma ≠ posse** nas proibições; perda do mandato é **decidida pela Assembleia** nos incisos I, II e VI, mas **declarada pela Mesa** nos incisos III a V; **maioria dos membros** para avocação pelo Plenário não é quórum de **dois terços**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre a convocação de autoridades e os pedidos de informação, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A Assembleia Legislativa ou qualquer de suas Comissões pode convocar Secretário de Estado para prestar informações pessoalmente sobre assunto previamente determinado.",
+            "B": "A convocação de Secretário de Estado deverá ser encaminhada por escrito pela Mesa Diretora.",
+            "C": "O não-atendimento a pedido escrito de informação da Mesa no prazo de vinte dias importa crime de responsabilidade.",
+            "D": "Os Secretários de Estado podem comparecer por iniciativa própria, mediante entendimento com a Mesa, para expor assunto relevante de sua Secretaria.",
+            "E": "A prestação de informações falsas em resposta a pedido escrito da Mesa importa crime de responsabilidade."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 93, caput, atribui essa faculdade à Assembleia e às suas Comissões.\nB) CORRETA (opção verdadeira). O art. 93, § 1°, exige encaminhamento por escrito pela Mesa Diretora.\nC) INCORRETA (gabarito). O art. 93, § 3°, prevê trinta dias, não vinte.\nD) CORRETA (opção verdadeira). O art. 93, § 2°, permite o comparecimento por iniciativa do Secretário e entendimento com a Mesa.\nE) CORRETA (opção verdadeira). O art. 93, § 3°, tipifica a prestação de informações falsas como crime de responsabilidade.",
+          "base_legal": {
+            "dispositivo": "Art. 93, caput e §§ 1º a 3º",
+            "texto": "Art. 93. A Assembléia Legislativa, bem como qualquer de suas Comissões, poderá convocar Secretário de Estado ou dirigentes de entidades da administração indireta, para prestar, pessoalmente, informação sobre assunto previamente determinado, importando em crime de responsabilidade a ausência sem justificação adequada;\n§ 1°. A convocação de que trata este artigo será encaminhada, por escrito, pela Mesa Diretora.\n§ 2°. Os Secretários de Estado poderão comparecer à Assembléia Legislativa ou a qualquer de suas comissões, por sua iniciativa e mediante entendimento com a Mesa, para expor assunto de relevância de sua Secretaria.\n§ 3°. A Mesa da Assembléia Legislativa poderá encaminhar pedidos escritos de informação aos Secretários de Estado ou dirigentes de entidades da administração indireta, importando crime de responsabilidade a recusa, ou o não-atendimento no prazo de trinta dias, bem como a prestação de informações falsas."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, qual conjunto é expressamente legitimado a denunciar crimes de responsabilidade e irregularidades ou ilegalidades perante a Assembleia Legislativa, na forma da lei?",
+          "alternativas": {
+            "A": "Qualquer cidadão, partido político, associação ou sindicato.",
+            "B": "Qualquer cidadão, partido político, associação ou comissão parlamentar.",
+            "C": "Qualquer cidadão, partido político, empresa pública ou sindicato.",
+            "D": "Qualquer cidadão, Ministério Público, associação ou sindicato.",
+            "E": "Qualquer cidadão, partido político, associação ou Tribunal de Contas."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 94 enumera exatamente os quatro legitimados.\nB) INCORRETA. O art. 94 enumera sindicato, e não comissão parlamentar, nesse conjunto.\nC) INCORRETA. O art. 94 enumera associação, e não empresa pública, nesse conjunto.\nD) INCORRETA. O art. 94 enumera partido político, e não Ministério Público, nesse conjunto.\nE) INCORRETA. O art. 94 enumera sindicato, e não Tribunal de Contas, nesse conjunto.",
+          "base_legal": {
+            "dispositivo": "Art. 94, caput",
+            "texto": "Art. 94. Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar crimes de responsabilidade de quaisquer autoridades e irregularidades ou ilegalidades perante a Assembléia Legislativa."
+          }
+        },
+        {
+          "enunciado": "Segundo a Constituição do Estado do Pará, na hipótese de prisão em flagrante de crime inafiançável de Deputado Estadual após a diplomação, qual é o procedimento previsto?",
+          "alternativas": {
+            "A": "Os autos serão enviados em vinte e quatro horas ao Tribunal de Justiça, que resolverá sobre a prisão por maioria de seus membros.",
+            "B": "Os autos serão remetidos em quarenta e oito horas à Assembleia Legislativa, que resolverá sobre a prisão pelo voto da maioria de seus membros.",
+            "C": "Os autos serão remetidos em vinte e quatro horas à Assembleia Legislativa, que resolverá sobre a prisão pelo voto da maioria dos Deputados presentes.",
+            "D": "Os autos serão remetidos em vinte e quatro horas à Assembleia Legislativa, que resolverá sobre a prisão pelo voto da maioria de seus membros.",
+            "E": "Os autos serão remetidos em vinte e quatro horas à Assembleia Legislativa, cuja Mesa Diretora resolverá sobre a prisão por maioria de seus integrantes."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 95, § 2º, remete os autos à Assembleia Legislativa, e não ao Tribunal de Justiça.\nB) INCORRETA. O art. 95, § 2º, fixa vinte e quatro horas para remessa dos autos.\nC) INCORRETA. O art. 95, § 2º, exige voto da maioria de seus membros, e não apenas da maioria dos presentes.\nD) CORRETA. O art. 95, § 2º, estabelece o destinatário, o prazo e a votação indicados.\nE) INCORRETA. O art. 95, § 2º, atribui a decisão à Assembleia Legislativa, e não à Mesa Diretora.",
+          "base_legal": {
+            "dispositivo": "Art. 95, caput e §§ 1º e 2º",
+            "texto": "Art. 95. Os Deputados Estaduais são invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos.\n§ 1º. Os Deputados Estaduais, desde a expedição do diploma, serão submetidos a julgamento perante o Tribunal de Justiça do Estado.\n§ 2º. Desde a expedição do diploma, os membros da Assembléia Legislativa não poderão ser presos, salvo em flagrante de crime inafiançável. Neste caso, os autos serão remetidos dentro de vinte e quatro horas à Assembléia Legislativa, para que, pelo voto da maioria de seus membros, resolva sobre a prisão."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, acerca da sustação de ação penal contra Deputado Estadual, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Recebida denúncia por crime ocorrido após a diplomação, o Tribunal de Justiça do Estado dará ciência à Assembleia Legislativa.",
+            "B": "O pedido de sustação será apreciado em trinta dias improrrogáveis, contados do recebimento pela Mesa Diretora.",
+            "C": "A iniciativa para sustar o andamento da ação pode partir de partido político representado na Assembleia Legislativa.",
+            "D": "A sustação do processo suspende a prescrição enquanto durar o mandato parlamentar.",
+            "E": "A imunidade formal dos Deputados não deverá servir de apanágio à impunidade."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 95, § 3º, impõe a comunicação do Tribunal de Justiça à Assembleia.\nB) INCORRETA (gabarito). O art. 95, § 4º, estabelece quarenta e cinco dias improrrogáveis.\nC) CORRETA (opção verdadeira). O art. 95, § 3º, confere a iniciativa a partido político nela representado.\nD) CORRETA (opção verdadeira). O art. 95, § 5º, estabelece a suspensão da prescrição enquanto durar o mandato.\nE) CORRETA (opção verdadeira). O art. 95, § 10, afasta o uso da imunidade formal como apanágio à impunidade.",
+          "base_legal": {
+            "dispositivo": "Art. 95, caput e §§ 3º a 5º e 10",
+            "texto": "Art. 95. Os Deputados Estaduais são invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos.\n§ 3º. Recebida a denúncia contra o Deputado, por crime ocorrido após a diplomação, o Tribunal de Justiça do Estado dará ciência à Assembléia Legislativa, que por iniciativa de partido político nela representado e pelo voto da maioria de seus membros, poderá, até a decisão final, sustar o andamento da ação.\n§ 4º. O pedido de sustação será apreciado pela Assembléia Legislativa no prazo improrrogável de quarenta e cinco dias do seu recebimento pela Mesa Diretora.\n§ 5º. A sustação do processo suspende a prescrição, enquanto durar o mandato.\n§ 10. Observados os fundamentos e princípios que norteiam esta Constituição, a imunidade formal, conferida aos Deputados, jamais deverá servir de apanágio à impunidade."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, a respeito das garantias e obrigações dos Deputados Estaduais, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Os Deputados Estaduais são invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos.",
+            "B": "Desde a expedição do diploma, os Deputados Estaduais são submetidos a julgamento perante o Tribunal de Justiça do Estado.",
+            "C": "Os Deputados não são obrigados a testemunhar sobre informações recebidas em razão do exercício do mandato.",
+            "D": "A incorporação às Forças Armadas de Deputados militares, ainda que em guerra, depende de prévia licença da Assembleia Legislativa.",
+            "E": "No estado de sítio, a suspensão das imunidades por atos externos incompatíveis com a medida exige voto da maioria absoluta dos membros da Assembleia."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 95, caput, assegura a inviolabilidade civil e penal nesses termos.\nB) CORRETA (opção verdadeira). O art. 95, § 1º, fixa o foro perante o Tribunal de Justiça do Estado desde o diploma.\nC) CORRETA (opção verdadeira). O art. 95, § 6º, dispensa esse testemunho relacionado ao exercício do mandato.\nD) CORRETA (opção verdadeira). O art. 95, § 7º, exige licença prévia mesmo para Deputados militares em tempo de guerra.\nE) INCORRETA (gabarito). O art. 95, § 8º, exige os votos de dois terços dos membros da Assembleia Legislativa, e não maioria absoluta, nos casos especificados.",
+          "base_legal": {
+            "dispositivo": "Art. 95, caput e §§ 1º e 6º a 8º",
+            "texto": "Art. 95. Os Deputados Estaduais são invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos.\n§ 1º. Os Deputados Estaduais, desde a expedição do diploma, serão submetidos a julgamento perante o Tribunal de Justiça do Estado.\n§ 6º. Os Deputados não serão obrigados a testemunhar sobre informações recebidas ou prestadas em razão do exercício do mandato, nem sobre as pessoas que lhes confiaram ou deles receberam informações.\n§ 7º. A incorporação às Forças Armadas de Deputados embora militares e ainda que em tempo de guerra, dependerá da prévia licença da Assembléia Legislativa.\n§ 8º. As imunidades de Deputados subsistirão durante o estado de sítio, só podendo ser suspensas mediante os votos de dois terços dos membros da Assembléia Legislativa, nos casos de atos praticados fora do recinto da Assembléia Legislativa, que sejam incompatíveis com a execução da medida."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre as incompatibilidades dos Deputados Estaduais, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "Desde a expedição do diploma, não podem firmar ou manter contrato com empresa pública, salvo quando o contrato obedecer a cláusulas uniformes.",
+            "B": "Desde a expedição do diploma, não podem aceitar ou exercer cargo remunerado em autarquia.",
+            "C": "Desde a expedição do diploma, não podem ser controladores de empresa favorecida por contrato com pessoa jurídica de direito público.",
+            "D": "Desde a posse, não podem patrocinar causa em que seja interessada sociedade de economia mista.",
+            "E": "Desde a posse, não podem ser titulares de mais de um cargo ou mandato público eletivo."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 96, inciso I, alínea a, contém a proibição e a exceção de cláusulas uniformes.\nB) CORRETA (opção verdadeira). O art. 96, inciso I, alínea b, prevê a proibição desde a expedição do diploma.\nC) INCORRETA (gabarito). O art. 96, inciso II, alínea a, faz a proibição incidir desde a posse, não desde o diploma.\nD) CORRETA (opção verdadeira). O art. 96, inciso II, alínea c, proíbe o patrocínio de causa de interesse dessas entidades desde a posse.\nE) CORRETA (opção verdadeira). O art. 96, inciso II, alínea d, estabelece essa vedação desde a posse.",
+          "base_legal": {
+            "dispositivo": "Art. 96, caput, incisos I e II e respectivas alíneas pertinentes",
+            "texto": "Art. 96. O Deputado não poderá:\nI - desde a expedição do diploma:\na) firmar ou manter contrato com pessoa jurídica de direito público, autarquia, empresa pública, sociedade de economia mista ou empresa concessionária de serviço público, salvo quando o contrato obedecer a cláusulas uniformes;\nb) aceitar ou exercer cargo, função ou emprego remunerado inclusive os de que sejam demissíveis \"ad nutum\", nas entidades constantes da alínea anterior;\nII - desde a posse:\na) ser proprietário, controlador ou diretor de empresa que goze de favor decorrente de contrato com pessoa jurídica de direito público, ou nela exercer função remunerada;\nc) patrocinar causa em que seja interessada qualquer das entidades a que se refere o inciso I, \"a\";\nd) ser titular de mais de um cargo ou mandato público eletivo."
+          }
+        },
+        {
+          "enunciado": "Segundo a Constituição do Estado do Pará, qual conduta é expressamente vedada ao Deputado Estadual desde a posse?",
+          "alternativas": {
+            "A": "Ocupar função demissível \"ad nutum\" em empresa concessionária de serviço público.",
+            "B": "Ocupar cargo de direção em empresa privada que não goze de favor decorrente de contrato público.",
+            "C": "Aceitar cargo remunerado em autarquia, desde a diplomação, com autorização do Presidente da Assembleia.",
+            "D": "Patrocinar causa de interesse de empresa pública, desde a posse, mediante autorização da Mesa Diretora.",
+            "E": "Ser titular de dois mandatos públicos eletivos, desde a posse, desde que exercidos em esferas federativas diferentes."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 96, inciso II, alínea b, veda função demissível \"ad nutum\" nas entidades do inciso I, alínea a.\nB) INCORRETA. O art. 96, inciso II, alínea a, vincula a proibição ao favor decorrente do contrato público especificado, condição ausente na hipótese.\nC) INCORRETA. O art. 96, inciso I, alínea b, não prevê autorização do Presidente da Assembleia como exceção à proibição.\nD) INCORRETA. O art. 96, inciso II, alínea c, não prevê autorização da Mesa Diretora para afastar essa proibição.\nE) INCORRETA. O art. 96, inciso II, alínea d, proíbe a titularidade de mais de um cargo ou mandato público eletivo, sem a ressalva indicada.",
+          "base_legal": {
+            "dispositivo": "Art. 96, caput, incisos I e II e respectivas alíneas pertinentes",
+            "texto": "Art. 96. O Deputado não poderá:\nI - desde a expedição do diploma:\na) firmar ou manter contrato com pessoa jurídica de direito público, autarquia, empresa pública, sociedade de economia mista ou empresa concessionária de serviço público, salvo quando o contrato obedecer a cláusulas uniformes;\nb) aceitar ou exercer cargo, função ou emprego remunerado inclusive os de que sejam demissíveis \"ad nutum\", nas entidades constantes da alínea anterior;\nII - desde a posse:\na) ser proprietário, controlador ou diretor de empresa que goze de favor decorrente de contrato com pessoa jurídica de direito público, ou nela exercer função remunerada;\nb) ocupar cargo ou função de que seja demissível \"ad nutum\", nas entidades referidas no inciso I, \"a\";\nc) patrocinar causa em que seja interessada qualquer das entidades a que se refere o inciso I, \"a\";\nd) ser titular de mais de um cargo ou mandato público eletivo."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, a respeito da perda do mandato e das sanções aplicáveis ao Deputado Estadual, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A infração a qualquer das proibições estabelecidas no artigo anterior constitui hipótese de perda do mandato.",
+            "B": "A declaração de procedimento incompatível com o decoro parlamentar constitui hipótese de perda do mandato.",
+            "C": "A condenação criminal em sentença transitada em julgado constitui hipótese de perda do mandato.",
+            "D": "O regimento interno estabelecerá gradação de penas para faltas dos Deputados, incluindo advertência verbal e suspensão do exercício do mandato.",
+            "E": "O Deputado que perder ou tiver suspensos os direitos políticos está sujeito à perda do mandato parlamentar."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 97, inciso I, prevê a infração às proibições como causa de perda.\nB) CORRETA (opção verdadeira). O art. 97, inciso II, prevê a incompatibilidade com o decoro como causa de perda.\nC) CORRETA (opção verdadeira). O art. 97, inciso VI, prevê a condenação criminal transitada em julgado.\nD) INCORRETA (gabarito). O art. 97, § 4º, prevê advertência por escrito, não verbal, na gradação de penas.\nE) CORRETA (opção verdadeira). O art. 97, inciso IV, prevê a perda ou suspensão dos direitos políticos como causa de perda do mandato.",
+          "base_legal": {
+            "dispositivo": "Art. 97, caput, incisos I, II, IV e VI e §§ 2º e 4º",
+            "texto": "Art. 97. Perderá o mandato o Deputado:\nI - que infringir qualquer das proibições estabelecidas no artigo anterior:\nII - cujo procedimento for declarado incompatível com o decoro parlamentar:\nIV - que perder ou tiver suspensos os direitos políticos;\nVI - que sofrer condenação criminal em sentença transitada em julgado.\n§ 2°. Nos casos dos incisos I, II e VI, a perda do mandato será decidida pela Assembléia Legislativa, por voto secreto e maioria absoluta mediante provocação da Mesa ou de partido político representado na Assembléia Legislativa, assegurada ampla defesa.\n§ 4°. O regimento interno da Assembléia Legislativa estabelecerá uma gradação de penas, incluindo a advertência por escrito e a suspensão do exercício do mandato, para as faltas cometidas por Deputado, observando-se o procedimento previsto no § 2°."
+          }
+        },
+        {
+          "enunciado": "Segundo a Constituição do Estado do Pará, quando o Deputado deixa de comparecer, em cada sessão legislativa, à terça parte das reuniões ordinárias, sem licença nem missão autorizada, como se processa a perda do mandato?",
+          "alternativas": {
+            "A": "Será decidida pelo Plenário, mediante voto secreto e maioria absoluta, assegurada ampla defesa.",
+            "B": "Será declarada pela Mesa, de ofício ou mediante provocação de qualquer de seus membros ou de partido representado, assegurada ampla defesa.",
+            "C": "Será declarada pelo Presidente da Assembleia, de ofício ou por provocação de partido nela representado.",
+            "D": "Será declarada pela Mesa, exclusivamente mediante provocação de partido político com representação na Assembleia.",
+            "E": "Será declarada pela Mesa, de ofício, sem necessidade de assegurar ampla defesa ao Deputado Estadual."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 97, §§ 2º e 3º, distingue a perda decidida pela Assembleia nos incisos I, II e VI da perda declarada pela Mesa nos incisos III a V.\nB) CORRETA. O art. 97, inciso III e § 3º, estabelece a competência da Mesa, as iniciativas e a ampla defesa.\nC) INCORRETA. O art. 97, § 3º, atribui a declaração à Mesa, não individualmente ao Presidente da Assembleia.\nD) INCORRETA. O art. 97, § 3º, admite declaração de ofício e provocação de qualquer membro da Mesa, além de partido representado.\nE) INCORRETA. O art. 97, § 3º, assegura expressamente ampla defesa ao Deputado.",
+          "base_legal": {
+            "dispositivo": "Art. 97, caput, incisos I, II, III e VI e §§ 2º e 3º",
+            "texto": "Art. 97. Perderá o mandato o Deputado:\nI - que infringir qualquer das proibições estabelecidas no artigo anterior:\nII - cujo procedimento for declarado incompatível com o decoro parlamentar:\nIII - que deixar de comparecer, em cada sessão legislativa, à terça parte das reuniões ordinárias, salvo licença ou missão autorizada pela Assembléia Legislativa:\nVI - que sofrer condenação criminal em sentença transitada em julgado.\n§ 2°. Nos casos dos incisos I, II e VI, a perda do mandato será decidida pela Assembléia Legislativa, por voto secreto e maioria absoluta mediante provocação da Mesa ou de partido político representado na Assembléia Legislativa, assegurada ampla defesa.\n§ 3°. Nos casos previstos nos incisos III a V, a perda será declarada pela Mesa, de ofício ou mediante provocação de qualquer de seus membros, ou de partido político com representação na Assembléia Legislativa, assegurada ampla defesa."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, em qual hipótese a licença para tratar de interesse particular é expressamente compatível com a manutenção do mandato de Deputado Estadual?",
+          "alternativas": {
+            "A": "Licença sem remuneração, por até cento e cinquenta dias por sessão legislativa.",
+            "B": "Licença com remuneração, por até cento e vinte dias por sessão legislativa.",
+            "C": "Licença sem remuneração, por até cento e vinte dias por legislatura.",
+            "D": "Licença sem remuneração, por até cento e vinte dias por ano civil.",
+            "E": "Licença sem remuneração, por até cento e vinte dias por sessão legislativa."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O art. 98, inciso II, limita o afastamento a cento e vinte dias por sessão legislativa.\nB) INCORRETA. O art. 98, inciso II, exige licença sem remuneração para interesse particular.\nC) INCORRETA. O art. 98, inciso II, utiliza como referência a sessão legislativa, não toda a legislatura.\nD) INCORRETA. O art. 98, inciso II, utiliza a sessão legislativa, não o ano civil, como referência.\nE) CORRETA. O art. 98, inciso II, reúne ausência de remuneração e limite de cento e vinte dias por sessão legislativa.",
+          "base_legal": {
+            "dispositivo": "Art. 98, caput e inciso II",
+            "texto": "Art. 98. Não perderá o mandato o Deputado:\nII - licenciado pela Assembléia por motivo de doença, ou para tratar, sem remuneração, de interesse particular, desde que, neste caso, o afastamento não ultrapasse cento e vinte dias por sessão legislativa."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre as hipóteses de manutenção do mandato e a convocação de suplentes, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O Deputado investido no cargo de Ministro de Estado não perderá o mandato parlamentar.",
+            "B": "O suplente será convocado quando ocorrer vaga no mandato de Deputado Estadual.",
+            "C": "O suplente será convocado em licença por motivo de doença superior a noventa dias.",
+            "D": "Sem suplente, haverá eleição para preencher a vaga se faltarem mais de quinze meses para o término do mandato.",
+            "E": "O Deputado investido em cargo previsto no inciso I poderá optar pela remuneração do mandato."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 98, inciso I, contempla a investidura como Ministro de Estado.\nB) CORRETA (opção verdadeira). O art. 98, § 1º, prevê convocação do suplente em caso de vaga.\nC) INCORRETA (gabarito). O art. 98, § 1º, exige licença por doença superior a cento e vinte dias.\nD) CORRETA (opção verdadeira). O art. 98, § 2º, fixa o período superior a quinze meses e a inexistência de suplente.\nE) CORRETA (opção verdadeira). O art. 98, § 3º, permite optar pela remuneração do mandato na hipótese do inciso I.",
+          "base_legal": {
+            "dispositivo": "Art. 98, caput, inciso I e §§ 1º a 3º",
+            "texto": "Art. 98. Não perderá o mandato o Deputado:\nI - investido no cargo de Ministro de Estado, Governador de Território, Secretário de Estado, do Distrito Federal, de Território, de Prefeitura de Capital ou chefe de missão diplomática temporária;\n§ 1°. O suplente será convocado nos casos de vaga, de investidura em funções previstas neste artigo ou de licença por motivo de doença, superior a cento e vinte dias.\n§ 2°. Ocorrendo vaga e não havendo suplente, far-se-á eleição para preenchê-la se faltarem mais de quinze meses para o término do mandato.\n§ 3°. Na hipótese do inciso I, o Deputado poderá optar pela remuneração do mandato."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, em quais períodos a Assembleia Legislativa se reúne anualmente na Capital do Estado, independentemente de convocação?",
+          "alternativas": {
+            "A": "De 2 de fevereiro a 30 de junho e de 1º de agosto a 20 de dezembro.",
+            "B": "De 3 de fevereiro a 30 de junho e de 1º de agosto a 20 de dezembro.",
+            "C": "De 2 de fevereiro a 30 de junho e de 1º de agosto a 15 de dezembro.",
+            "D": "De 2 de fevereiro a 30 de junho e de 2 de agosto a 20 de dezembro.",
+            "E": "De 2 de fevereiro a 30 de junho e de 1º de agosto a 22 de dezembro."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 99, caput, estabelece exatamente os dois intervalos indicados.\nB) INCORRETA. O art. 99, caput, inicia as reuniões anuais em 02 de fevereiro.\nC) INCORRETA. O art. 99, caput, encerra o segundo período em 20 de dezembro.\nD) INCORRETA. O art. 99, caput, inicia o segundo período em 1º de agosto.\nE) INCORRETA. O art. 99, caput, encerra o segundo período em 20 de dezembro.",
+          "base_legal": {
+            "dispositivo": "Art. 99, caput",
+            "texto": "Art. 99. A Assembléia Legislativa reunir-se-á, anualmente, na Capital do Estado, de 02 de fevereiro a 30 de junho e de 1º de agosto a 20 de dezembro, independente de convocação."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre as reuniões da Assembleia Legislativa, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "No primeiro ano da legislatura, há sessões preparatórias a partir de 1º de fevereiro para posse dos membros e eleição da Mesa Diretora por dois anos.",
+            "B": "Por motivo especial e deliberação da maioria absoluta de seus membros, a Assembleia pode reunir-se temporariamente em qualquer localidade do Estado.",
+            "C": "Ressalvados os casos regimentais, as sessões são públicas, exigem presença de pelo menos um quarto dos membros e permitem uma sessão ordinária por dia.",
+            "D": "A sessão legislativa anual poderá ser prorrogada pelo voto de três quintos dos Deputados.",
+            "E": "Em períodos excepcionais, a Assembleia e suas Comissões poderão realizar reuniões remotas, mediante regulamentação por Ato da Mesa."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 99, § 5º, fixa data, finalidades e mandato de dois anos da Mesa.\nB) CORRETA (opção verdadeira). O art. 99, § 7º, exige motivo especial e maioria absoluta para a reunião temporária em outra localidade.\nC) CORRETA (opção verdadeira). O art. 99, § 10, estabelece publicidade, presença mínima e limite diário de sessão ordinária.\nD) INCORRETA (gabarito). O art. 99, § 3º, exige maioria absoluta, não três quintos.\nE) CORRETA (opção verdadeira). O art. 99, § 11, admite reuniões remotas em períodos excepcionais por Ato da Mesa.",
+          "base_legal": {
+            "dispositivo": "Art. 99, caput e §§ 3º, 5º, 7º, 10 e 11",
+            "texto": "Art. 99. A Assembléia Legislativa reunir-se-á, anualmente, na Capital do Estado, de 02 de fevereiro a 30 de junho e de 1º de agosto a 20 de dezembro, independente de convocação.\n§ 3°. A sessão legislativa anual poderá ser prorrogada pelo voto da maioria absoluta dos Deputados.\n§ 5°. A Assembléia Legislativa reunir-se-á, em sessões preparatórias, a partir de 1° de fevereiro, no primeiro ano da legislatura, para a posse de seus membros e eleição da Mesa Diretora, para mandato de dois anos.\n§ 7°. Por motivo especial e deliberação da maioria absoluta de seus membros, a Assembléia Legislativa poderá reunir-se, temporariamente, em qualquer localidade do Estado.\n§ 10. Exceto nos casos previstos no Regimento Interno, as sessões da Assembléia Legislativa serão públicas, com a presença, pelo menos, de um quarto de seus membros, só podendo ser realizada uma sessão ordinária por dia e tantas sessões extraordinárias quantas forem necessárias para discussão e aprovação da matéria em pauta.\n§ 11. A Assembleia Legislativa poderá realizar, com a dispensa de prazos e interstícios regimentais, sessões deliberativas, ordinárias ou extraordinárias e quaisquer outras reuniões, bem como suas Comissões, em períodos excepcionais, tais como estado de exceção, declaração de calamidade pública, situação de emergência e estado de sítio ou defesa, entre outros eventos assemelhados, inclusive de forma remota, mediante regulamentação por Ato da Mesa."
+          }
+        },
+        {
+          "enunciado": "Caso prático: durante uma intervenção em Município do Pará, o Presidente da Assembleia Legislativa pretende convocá-la extraordinariamente, sem requerimento da maioria dos Deputados. De acordo com a Constituição do Estado do Pará, qual afirmação está correta?",
+          "alternativas": {
+            "A": "A convocação somente poderá ser feita pelo Governador, mesmo sem matéria urgente para deliberação.",
+            "B": "O Presidente poderá convocar extraordinariamente a Assembleia Legislativa em razão da intervenção no Município.",
+            "C": "O Presidente dependerá de requerimento da maioria de seus membros para convocar a Assembleia nessa situação.",
+            "D": "A convocação deverá ser formalizada pela Mesa Diretora, independentemente da iniciativa de seu Presidente.",
+            "E": "A iniciativa de convocação caberá a partido político representado na Assembleia em caso de intervenção no Município."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 99, § 8º, incisos I e II, atribui ao Presidente competência própria nessa situação; o Governador convoca havendo matéria urgente.\nB) CORRETA. O art. 99, § 8º, inciso II, prevê a convocação extraordinária pelo Presidente em caso de intervenção no Município.\nC) INCORRETA. O art. 99, § 8º, incisos II e III, distingue a competência do Presidente do requerimento da maioria dos membros.\nD) INCORRETA. O art. 99, § 8º, inciso II, prevê o Presidente, não a Mesa Diretora, como legitimado.\nE) INCORRETA. O art. 99, § 8º, enumera Governador, Presidente e requerimento da maioria dos membros, não partido político isolado.",
+          "base_legal": {
+            "dispositivo": "Art. 99, caput, § 8º e incisos I a III",
+            "texto": "Art. 99. A Assembléia Legislativa reunir-se-á, anualmente, na Capital do Estado, de 02 de fevereiro a 30 de junho e de 1º de agosto a 20 de dezembro, independente de convocação.\n§ 8°. A convocação extraordinária da Assembléia Legislativa far-se-á:\nI - pelo Governador, havendo matéria urgente para deliberar;\nII - por seu Presidente, havendo assunto urgente para ser apreciado e em caso de estado de defesa, estado de sítio, de intervenção federal ou de intervenção no Município, bem como para o compromisso e a posse do Governador e do Vice-Governador;\nIII - a requerimento da maioria de seus membros, em caso de urgência ou de interesse público relevante."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre a soberania e o poder de avocação do Plenário da Assembleia Legislativa, qual alternativa está correta?",
+          "alternativas": {
+            "A": "Somente as matérias submetidas à Mesa podem ser avocadas pelo Plenário, mediante voto da maioria de seus membros.",
+            "B": "Os atos da Presidência não se sujeitam à soberania do Plenário, embora os atos das comissões a ela se sujeitem.",
+            "C": "A Mesa Diretora pode avocar, por maioria de seus membros, matérias encaminhadas ao Plenário para deliberar.",
+            "D": "O Plenário pode avocar toda matéria ou ato da Mesa, Presidência ou comissões, desde que haja voto de dois terços de seus membros.",
+            "E": "O Plenário pode avocar, pelo voto da maioria de seus membros, toda matéria ou ato submetido à Mesa, à Presidência ou a comissões."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O art. 100, parágrafo único, também abrange a Presidência e as comissões.\nB) INCORRETA. O art. 100, caput, sujeita ao Plenário os atos da Mesa, da Presidência e das comissões.\nC) INCORRETA. O art. 100, parágrafo único, confere a avocação ao Plenário, não à Mesa Diretora.\nD) INCORRETA. O art. 100, parágrafo único, requer o voto da maioria de seus membros, não de dois terços.\nE) CORRETA. O art. 100, parágrafo único, descreve exatamente a competência e o quórum previstos.",
+          "base_legal": {
+            "dispositivo": "Art. 100, caput e parágrafo único",
+            "texto": "Art. 100. O Plenário da Assembléia é soberano e todos os atos de Mesa da Assembléia, de sua Presidência, bem como das comissões, estão sujeitos ao seu império.\nParágrafo único. O Plenário terá poderes para avocar, pelo voto da maioria de seus membros, toda e qualquer matéria ou ato submetido à Mesa, à Presidência ou comissões, para sobre ele deliberar."
+          }
+        }
+      ]
     }
   ]
 }
