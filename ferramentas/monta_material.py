@@ -32,6 +32,23 @@ REPO = PASTA.parent
 REGISTRO = REPO / "dados" / "normas.json"
 
 
+def parte_repetida(existentes, novas):
+    """Evita somar de novo uma parte que já está no material (mesmo título ou 3 ou mais questões idênticas)."""
+    chave = lambda q: (q.get("enunciado", "").strip(), json.dumps(q.get("alternativas", {}), ensure_ascii=False, sort_keys=True))
+    vistas = [(p.get("numero", i + 1), p.get("titulo", "").strip(), {chave(q) for q in p.get("questoes", [])})
+              for i, p in enumerate(existentes)]
+    for nova in novas:
+        titulo = nova.get("titulo", "").strip()
+        qs = {chave(q) for q in nova.get("questoes", [])}
+        for numero, t, ja in vistas:
+            iguais = len(qs & ja)
+            if (titulo and titulo == t) or iguais >= 3:
+                motivo = "mesmo título" if titulo == t else f"{iguais} questões idênticas"
+                return f'a parte "{titulo}" já está no material como parte {numero} ({motivo}).'
+        vistas.append((None, titulo, qs))
+    return ""
+
+
 def grava_json(caminho, obj):
     caminho.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
@@ -99,6 +116,11 @@ def main():
 
     if destino.exists() and a.acrescentar:
         material = json.loads(destino.read_text(encoding="utf-8"))
+        repetida = parte_repetida(material["partes"], novas)
+        if repetida:
+            print(f"\nERRO: {repetida}")
+            print("Confira se o arquivo é o do bloco certo (o título da parte fica no início do JSON). Nada foi gravado.")
+            return 1
         proximo = max([p.get("numero", i + 1) for i, p in enumerate(material["partes"])] or [0]) + 1
         material.setdefault("alteracoes", [])
         material["alteracoes"] += [n for n in a.nota if n not in material["alteracoes"]]
