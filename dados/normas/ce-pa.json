@@ -877,6 +877,312 @@
           }
         }
       ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Leis: iniciativa privativa, urgência, sanção, veto, leis delegadas e complementares (arts. 105 a 114)",
+      "artigos": "Arts. 105 a 114",
+      "resumo": [
+        {
+          "tipo": "texto",
+          "conteudo": "O **Governador** tem iniciativa privativa para as matérias do art. 105. O aumento de despesa é vedado nos projetos indicados no art. 106, observadas suas exceções."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Tema",
+            "Regra"
+          ],
+          "linhas": [
+            [
+              "Urgência",
+              "**45 dias**; recesso não conta; códigos e leis orgânicas excluídos."
+            ],
+            [
+              "Veto",
+              "**15 dias úteis**; comunicação dos motivos em **48 horas**."
+            ],
+            [
+              "Apreciação",
+              "**30 dias**; rejeição por **maioria absoluta**, em escrutínio secreto."
+            ],
+            [
+              "Promulgação",
+              "Sem ato do **Governador** em **48 horas**, atua o **Presidente da Assembleia**."
+            ],
+            [
+              "Rejeitado",
+              "Novo projeto na mesma sessão: proposta da **maioria absoluta**."
+            ],
+            [
+              "Ordem",
+              "Após **60 dias**, requerimento de **qualquer Deputado**."
+            ],
+            [
+              "Delegadas",
+              "Solicitação do **Governador**; delegação por **decreto legislativo**."
+            ],
+            [
+              "Complementar",
+              "**Maioria absoluta** e numeração distinta."
+            ],
+            [
+              "Decreto",
+              "Competência exclusiva da **Assembleia**."
+            ],
+            [
+              "Resolução",
+              "Interesse interno; promulgação pela **Mesa Diretora**."
+            ]
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "conteudo": "**Atenção:** **15 dias úteis** para vetar não são os **30 dias** para apreciar o veto; os **45 dias** da urgência contam do recebimento da **solicitação**; no recesso, o prazo de apreciação do veto começa no **reinício das reuniões**."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre as leis de iniciativa privativa do Governador, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A fixação ou modificação dos efetivos da Polícia Militar e do Corpo de Bombeiros Militar é matéria de sua iniciativa privativa.",
+            "B": "A criação de cargos na administração direta e autárquica integra sua iniciativa privativa, ressalvadas competências constitucionais de outros órgãos.",
+            "C": "A disciplina do regime jurídico e da estabilidade dos servidores públicos do Estado integra sua iniciativa privativa.",
+            "D": "A criação, estruturação e definição de atribuições das Secretarias de Estado integram sua iniciativa privativa.",
+            "E": "A organização do Tribunal de Justiça do Estado e da Defensoria Pública integra sua iniciativa privativa, nos termos da alínea específica."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 105, I, reserva a fixação ou modificação dos efetivos dessas corporações.\nB) CORRETA (opção verdadeira). O art. 105, II, a, prevê essa iniciativa e ressalva a competência dos demais Poderes, órgãos e instituições referidos na Constituição.\nC) CORRETA (opção verdadeira). O art. 105, II, b, abrange o regime jurídico e a estabilidade dos servidores públicos do Estado.\nD) CORRETA (opção verdadeira). O art. 105, II, d, abrange criação, estruturação e atribuições das Secretarias de Estado.\nE) INCORRETA (gabarito). O art. 105, II, c, menciona a Procuradoria-Geral do Estado e a Defensoria Pública, não o Tribunal de Justiça.",
+          "base_legal": {
+            "dispositivo": "Art. 105, I e II, alíneas a a d",
+            "texto": "Art. 105. São de iniciativa privativa do Governador as leis que:\nI - fixem ou modifiquem os efetivos da Polícia Militar e do Corpo de Bombeiros Militar;\nII - disponham sobre:\na) criação de cargos, funções ou empregos públicos na administração direta e autárquica ou aumento de sua remuneração, ressalvada a competência dos demais Poderes, órgãos e instituições referidos nesta Constituição;\nb) servidores públicos do Estado, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria de civis, reforma e transferência de militares para a aposentadoria;\nc) organização da Procuradoria-Geral do Estado e da Defensoria Pública;\nd) criação, estruturação e atribuições das Secretarias de Estado e órgãos da administração pública;"
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, durante uma sessão legislativa, um deputado apresenta projeto de lei para estabelecer as diretrizes orçamentárias do Estado. Qual é a conclusão quanto à iniciativa?",
+          "alternativas": {
+            "A": "A iniciativa é privativa do Presidente da Assembleia Legislativa, por se tratar de diretrizes orçamentárias.",
+            "B": "A iniciativa é privativa do Governador, de modo que a apresentação do projeto por deputado não respeita essa reserva.",
+            "C": "A iniciativa é privativa da Mesa Diretora da Assembleia Legislativa, por se tratar de matéria orçamentária.",
+            "D": "A iniciativa é privativa do Presidente do Tribunal de Justiça, por se tratar das diretrizes orçamentárias do Estado.",
+            "E": "A iniciativa é privativa do Tribunal de Contas do Estado, por envolver a elaboração das diretrizes orçamentárias."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 105, II, e, atribui a iniciativa privativa ao Governador.\nB) CORRETA. O art. 105, II, e, reserva ao Governador a iniciativa das leis sobre diretrizes orçamentárias.\nC) INCORRETA. O art. 105, II, e, não atribui essa iniciativa à Mesa Diretora.\nD) INCORRETA. O art. 105, II, e, não atribui essa iniciativa ao Presidente do Tribunal de Justiça.\nE) INCORRETA. O art. 105, II, e, não atribui essa iniciativa ao Tribunal de Contas do Estado.",
+          "base_legal": {
+            "dispositivo": "Art. 105, II, e",
+            "texto": "Art. 105. São de iniciativa privativa do Governador as leis que:\nII - disponham sobre:\ne) o plano plurianual, as diretrizes orçamentárias e os orçamentos anuais."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre a proibição de aumento da despesa prevista em projetos de lei, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A vedação alcança projetos de iniciativa exclusiva do Governador, ressalvadas as hipóteses de emendas previstas no dispositivo.",
+            "B": "A vedação abrange projetos sobre organização dos serviços administrativos da Assembleia Legislativa.",
+            "C": "Admite-se aumento da despesa prevista em projetos sobre organização dos serviços administrativos do Tribunal de Contas do Estado.",
+            "D": "A vedação alcança projetos sobre organização dos serviços administrativos do Ministério Público.",
+            "E": "O dispositivo ressalva emendas ao projeto de lei de diretrizes orçamentárias, observada a remissão constitucional nele indicada."
+          },
+          "gabarito": "C",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 106, I, estabelece a vedação e especifica suas ressalvas.\nB) CORRETA (opção verdadeira). O art. 106, II, inclui a Assembleia Legislativa entre os órgãos abrangidos.\nC) INCORRETA (gabarito). O art. 106, II, proíbe o aumento da despesa nesses projetos do Tribunal de Contas do Estado.\nD) CORRETA (opção verdadeira). O art. 106, II, inclui o Ministério Público na vedação.\nE) CORRETA (opção verdadeira). O art. 106, I, ressalva emendas às diretrizes orçamentárias, observada a remissão nele expressa.",
+          "base_legal": {
+            "dispositivo": "Art. 106, I e II",
+            "texto": "Art. 106. Não será admitido aumento da despesa prevista:\nI - nos projetos de iniciativa exclusiva do Governador, salvo se se tratar de emenda ao projeto de lei do orçamento anual ou aos projetos que o modifiquem, de emendas ao projeto de lei de diretrizes orçamentárias, observado o disposto no art. 166, §§ 3°. e 4°., da Constituição Federal;\nII - nos projetos sobre organização dos serviços administrativos da Assembléia Legislativa, Tribunal de Justiça do Estado, Tribunal de Contas do Estado, Tribunal de Contas dos Municípios, Ministério Público, Procuradoria-Geral do Estado e Defensoria Pública;"
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, quem pode solicitar urgência para apreciação de projetos de sua própria iniciativa?",
+          "alternativas": {
+            "A": "O Governador, o Presidente da Assembleia Legislativa ou o Presidente do Tribunal de Justiça do Estado.",
+            "B": "O Governador, o Presidente da Assembleia Legislativa ou o Presidente do Tribunal de Contas do Estado.",
+            "C": "O Governador, a Mesa Diretora da Assembleia Legislativa ou o Presidente do Tribunal de Justiça do Estado.",
+            "D": "O Presidente da Assembleia Legislativa, o Presidente do Tribunal de Justiça ou o Procurador-Geral de Justiça.",
+            "E": "O Governador, o Presidente da Assembleia Legislativa ou o Defensor Público-Geral do Estado."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O caput do art. 107 indica exatamente essas três autoridades e limita a urgência aos projetos de sua iniciativa.\nB) INCORRETA. O caput do art. 107 menciona o Presidente do Tribunal de Justiça, não o Presidente do Tribunal de Contas.\nC) INCORRETA. O caput do art. 107 indica o Presidente da Assembleia Legislativa, e não a Mesa Diretora.\nD) INCORRETA. O caput do art. 107 indica o Governador, e não o Procurador-Geral de Justiça, entre os legitimados.\nE) INCORRETA. O caput do art. 107 indica o Presidente do Tribunal de Justiça, não o Defensor Público-Geral.",
+          "base_legal": {
+            "dispositivo": "Art. 107, caput",
+            "texto": "Art. 107. O Governador, o Presidente da Assembléia Legislativa ou o Presidente do Tribunal de Justiça do Estado poderá solicitar urgência para a apreciação de projetos de sua iniciativa."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre a tramitação de projetos com solicitação de urgência, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "A solicitação de urgência poderá ocorrer depois da remessa do projeto à Assembleia, em qualquer fase de sua tramitação.",
+            "B": "Se a Assembleia não se manifestar em até quarenta e cinco dias, a proposição será incluída na ordem do dia com sobrestamento dos demais assuntos.",
+            "C": "O prazo previsto para a manifestação da Assembleia não corre durante o período de recesso legislativo.",
+            "D": "O prazo para deliberação é contado da data do recebimento inicial do projeto, mesmo quando a urgência é solicitada posteriormente.",
+            "E": "O regime de prazo previsto para a solicitação de urgência não se aplica aos projetos de códigos e de leis orgânicas."
+          },
+          "gabarito": "D",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 107, § 3°, admite o pedido após a remessa, em qualquer fase de tramitação.\nB) CORRETA (opção verdadeira). O art. 107, § 1°, prevê quarenta e cinco dias e inclusão na ordem do dia com sobrestamento.\nC) CORRETA (opção verdadeira). O art. 107, § 2°, determina que o prazo não corre no recesso.\nD) INCORRETA (gabarito). O art. 107, § 4°, inicia a contagem na data do recebimento da solicitação de urgência.\nE) CORRETA (opção verdadeira). O art. 107, § 2°, exclui projetos de códigos e leis orgânicas dessa regra de prazo.",
+          "base_legal": {
+            "dispositivo": "Art. 107, §§ 1° a 4°",
+            "texto": "Art. 107. O Governador, o Presidente da Assembléia Legislativa ou o Presidente do Tribunal de Justiça do Estado poderá solicitar urgência para a apreciação de projetos de sua iniciativa.\n§ 1°. Se, no caso deste artigo, a Assembléia Legislativa não se manifestar, em até quarenta e cinco dias sobre a proposição, será esta incluída na ordem do dia, sobrestando-se a deliberação quanto aos demais assuntos, para que se ultime a votação.\n§ 2°. O prazo do parágrafo anterior não corre no período de recesso da Assembléia Legislativa, nem se aplica aos projetos de códigos e de leis orgânicas.\n§ 3°. A solicitação de urgência poderá ser feita após a remessa do projeto à Assembléia e em qualquer fase de sua tramitação.\n§ 4°. Em qualquer dos casos deste artigo, o prazo para deliberação começa a ser contado da data do recebimento da solicitação."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, se o Governador considerar inconstitucional ou contrário ao interesse público projeto aprovado, qual é o prazo de que dispõe para vetá-lo?",
+          "alternativas": {
+            "A": "Dez dias úteis, contados da data em que o projeto for recebido pelo Governador.",
+            "B": "Quinze dias corridos, contados da data em que o projeto for recebido pelo Governador.",
+            "C": "Quinze dias úteis, contados da data em que o projeto for recebido pelo Governador.",
+            "D": "Vinte dias úteis, contados da data em que o projeto for recebido pelo Governador.",
+            "E": "Doze dias úteis, contados da data em que o projeto for recebido pelo Governador."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 108, § 1°, prevê quinze dias úteis, não dez.\nB) INCORRETA. O art. 108, § 1°, prevê quinze dias úteis, não quinze dias corridos.\nC) CORRETA. O art. 108, § 1°, fixa quinze dias úteis desde o recebimento.\nD) INCORRETA. O art. 108, § 1°, não prevê prazo de vinte dias úteis.\nE) INCORRETA. O art. 108, § 1°, não prevê prazo de doze dias úteis.",
+          "base_legal": {
+            "dispositivo": "Art. 108, § 1°",
+            "texto": "Art. 108. O projeto de lei aprovado pela Assembléia Legislativa será enviado ao Governador, que, aquiescendo, o sancionará.\n§ 1°. Se o Governador considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, veta-lo-á total ou parcialmente, no prazo de quinze dias úteis, contados da data do recebimento e comunicará, dentro de quarenta e oito horas, ao Presidente da Assembléia Legislativa os motivos do veto."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, acerca do veto a projeto de lei, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "O veto parcial somente pode alcançar o texto integral de artigo, parágrafo, inciso ou alínea.",
+            "B": "O Governador poderá vetar projeto total ou parcialmente quando o considerar contrário ao interesse público.",
+            "C": "A rejeição do veto exige voto da maioria absoluta dos Deputados, em escrutínio secreto.",
+            "D": "Se o veto não for mantido, o projeto deverá ser enviado ao Governador para promulgação.",
+            "E": "O veto será apreciado pela Assembleia Legislativa dentro de quarenta e cinco dias contados de seu recebimento."
+          },
+          "gabarito": "E",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 108, § 2°, delimita as unidades integrais que podem ser objeto do veto parcial.\nB) CORRETA (opção verdadeira). O art. 108, § 1°, contempla o veto total ou parcial por contrariedade ao interesse público.\nC) CORRETA (opção verdadeira). O art. 108, § 4°, exige maioria absoluta dos Deputados e escrutínio secreto para rejeitar o veto.\nD) CORRETA (opção verdadeira). O art. 108, § 5°, determina o envio ao Governador para promulgação quando o veto não for mantido.\nE) INCORRETA (gabarito). O art. 108, § 4°, fixa trinta dias para apreciação do veto.",
+          "base_legal": {
+            "dispositivo": "Art. 108, §§ 1°, 2°, 4° e 5°",
+            "texto": "Art. 108. O projeto de lei aprovado pela Assembléia Legislativa será enviado ao Governador, que, aquiescendo, o sancionará.\n§ 1°. Se o Governador considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, veta-lo-á total ou parcialmente, no prazo de quinze dias úteis, contados da data do recebimento e comunicará, dentro de quarenta e oito horas, ao Presidente da Assembléia Legislativa os motivos do veto.\n§ 2°. O veto parcial somente abrangerá texto integral de artigo, de parágrafo, de inciso ou de alínea.\n§ 4°. O veto será apreciado dentro de trinta dias, a contar de seu recebimento, só podendo ser rejeitado pelo voto da maioria absoluta dos Deputados, em escrutínio secreto.\n§ 5°. Se o veto não for mantido, será o projeto enviado, para promulgação, ao Governador."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, nos casos de sanção pelo silêncio ou de veto não mantido, qual é a providência se o Governador deixar de promulgar a lei?",
+          "alternativas": {
+            "A": "Após quarenta e oito horas sem promulgação pelo Governador, caberá à Mesa Diretora promulgá-la diretamente, sem atuação do Presidente da Assembleia.",
+            "B": "Após quarenta e oito horas sem promulgação pelo Governador, o Presidente da Assembleia a promulgará; se também não o fizer em igual prazo, atuarão os Vice-Presidentes, sucessivamente.",
+            "C": "Após vinte e quatro horas sem promulgação pelo Governador, o Presidente da Assembleia a promulgará, seguindo-se os Vice-Presidentes, sucessivamente.",
+            "D": "Após quarenta e oito horas sem promulgação pelo Governador, o Presidente do Tribunal de Justiça a promulgará, seguindo-se os Vice-Presidentes da Assembleia.",
+            "E": "Após setenta e duas horas sem promulgação pelo Governador, o Presidente da Assembleia a promulgará, seguindo-se os Vice-Presidentes, sucessivamente."
+          },
+          "gabarito": "B",
+          "comentario": "A) INCORRETA. O art. 108, § 7°, atribui a promulgação ao Presidente da Assembleia, não diretamente à Mesa Diretora.\nB) CORRETA. O art. 108, § 7°, estabelece quarenta e oito horas e a sucessão pelos Vice-Presidentes na ordem de numeração.\nC) INCORRETA. O art. 108, § 7°, prevê quarenta e oito horas, não vinte e quatro.\nD) INCORRETA. O art. 108, § 7°, atribui a providência ao Presidente da Assembleia, não ao Presidente do Tribunal de Justiça.\nE) INCORRETA. O art. 108, § 7°, prevê quarenta e oito horas, não setenta e duas.",
+          "base_legal": {
+            "dispositivo": "Art. 108, §§ 3°, 5° e 7°",
+            "texto": "Art. 108. O projeto de lei aprovado pela Assembléia Legislativa será enviado ao Governador, que, aquiescendo, o sancionará.\n§ 3°. Decorrido o prazo de quinze dias úteis, o silêncio do Governador importará sanção.\n§ 5°. Se o veto não for mantido, será o projeto enviado, para promulgação, ao Governador.\n§ 7°. Se a lei não for promulgada dentro de quarenta e oito horas pelo Governador, nos casos dos §§ 3°. e 5°., o Presidente da Assembléia Legislativa a promulgará, e, se este não o fizer em igual prazo, deverão fazê-los os Vice-Presidentes da Assembléia, sucessivamente, na ordem de sua numeração."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, quanto ao veto recebido durante recesso da Assembleia Legislativa, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "No recesso, o prazo de apreciação do veto começa a correr no próprio dia da publicação do veto.",
+            "B": "Se a Assembleia estiver em recesso, o veto será publicado, conforme disposição expressa do texto.",
+            "C": "Em caso de urgência da deliberação no recesso, o Presidente da Mesa poderá convocar extraordinariamente a Assembleia.",
+            "D": "Como regra, o prazo de apreciação do veto tem por referência a data de seu recebimento pela Assembleia.",
+            "E": "Esgotado o prazo para apreciar o veto sem deliberação, este irá à ordem do dia da sessão imediata, com sobrestamento das demais proposições."
+          },
+          "gabarito": "A",
+          "comentario": "A) INCORRETA (gabarito). O art. 108, § 8°, determina que, no recesso, o prazo comece no dia do reinício das reuniões.\nB) CORRETA (opção verdadeira). O art. 108, § 8°, prevê a publicação do veto durante o recesso.\nC) CORRETA (opção verdadeira). O art. 108, § 9°, permite convocação extraordinária pelo Presidente da Mesa em caso de urgência.\nD) CORRETA (opção verdadeira). O art. 108, § 4°, estabelece, como regra, a contagem do prazo a partir do recebimento do veto.\nE) CORRETA (opção verdadeira). O art. 108, § 6°, prevê inclusão na sessão imediata e sobrestamento das demais proposições.",
+          "base_legal": {
+            "dispositivo": "Art. 108, §§ 4°, 6°, 8° e 9°",
+            "texto": "Art. 108. O projeto de lei aprovado pela Assembléia Legislativa será enviado ao Governador, que, aquiescendo, o sancionará.\n§ 4°. O veto será apreciado dentro de trinta dias, a contar de seu recebimento, só podendo ser rejeitado pelo voto da maioria absoluta dos Deputados, em escrutínio secreto.\n§ 6°. Esgotado sem deliberação o prazo estabelecido no § 4°, o veto será colocado na ordem do dia da sessão imediata, sobrestadas as demais proposições, até sua votação final.\n§ 8°. Se a Assembléia estiver em recesso, o veto será publicado e o prazo referido no § 4°. começará a correr do dia do reinício das reuniões.\n§ 9°. No caso do parágrafo anterior, se considerar urgente a deliberação sobre o veto, o Presidente da Mesa ou a Comissão Representativa referida no art. 101, § 5°, poderá convocar extraordinariamente a Assembléia Legislativa."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, qual é a regra relativa à publicação da lei?",
+          "alternativas": {
+            "A": "O Governador mandará publicar imediatamente a lei, respeitada a ordem em que os projetos foram aprovados.",
+            "B": "O Presidente da Assembleia mandará publicar imediatamente a lei, respeitada a ordem de promulgação.",
+            "C": "O Governador mandará publicar a lei dentro de cinco dias, respeitada a ordem de promulgação.",
+            "D": "O Governador mandará publicar imediatamente a lei, respeitada a ordem da respectiva promulgação.",
+            "E": "O Governador mandará publicar imediatamente a lei, dispensada a observância da ordem de promulgação."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 109 exige respeito à ordem da promulgação, não à ordem de aprovação dos projetos.\nB) INCORRETA. O art. 109 atribui ao Governador a determinação de publicar a lei.\nC) INCORRETA. O art. 109 estabelece publicação imediata, não dentro de cinco dias.\nD) CORRETA. O art. 109 prevê publicação imediata ordenada pelo Governador, respeitando a ordem de promulgação.\nE) INCORRETA. O art. 109 exige expressamente o respeito à ordem da respectiva promulgação.",
+          "base_legal": {
+            "dispositivo": "Art. 109, caput",
+            "texto": "Art. 109. Respeitada a ordem da respectiva promulgação, o Governador mandará publicar imediatamente a lei."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, quando a matéria de um projeto de lei rejeitado pode ser objeto de novo projeto na mesma sessão legislativa?",
+          "alternativas": {
+            "A": "Quando houver proposta individual de qualquer Deputado, independentemente de apoio de outros membros da Assembleia.",
+            "B": "Quando houver proposta de um terço dos membros da Assembleia Legislativa para reapresentar a matéria.",
+            "C": "Somente na sessão legislativa seguinte, ainda que exista proposta da maioria absoluta dos membros da Assembleia.",
+            "D": "Quando houver autorização do Governador para que o projeto rejeitado seja novamente apresentado.",
+            "E": "Quando houver proposta da maioria absoluta dos membros da Assembleia Legislativa para novo projeto."
+          },
+          "gabarito": "E",
+          "comentario": "A) INCORRETA. O art. 110 exige proposta da maioria absoluta dos membros da Assembleia, não proposta individual.\nB) INCORRETA. O art. 110 prevê maioria absoluta, não um terço dos membros.\nC) INCORRETA. O art. 110 permite novo projeto na mesma sessão legislativa com a proposta exigida.\nD) INCORRETA. O art. 110 exige proposta da maioria absoluta da Assembleia, e não autorização do Governador.\nE) CORRETA. O art. 110 expressamente admite novo projeto na mesma sessão legislativa mediante essa proposta.",
+          "base_legal": {
+            "dispositivo": "Art. 110, caput",
+            "texto": "Art. 110. A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto, na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros da Assembléia Legislativa."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, qual providência será adotada em relação a projeto recebido há sessenta dias?",
+          "alternativas": {
+            "A": "O Presidente da Assembleia, a requerimento de qualquer Deputado, mandará incluí-lo na ordem do dia para discussão e votação, com ou sem parecer.",
+            "B": "O Presidente da Assembleia, a requerimento da maioria absoluta dos Deputados, mandará incluí-lo na ordem do dia para discussão e votação.",
+            "C": "O Presidente da Assembleia, a requerimento de qualquer Deputado, somente poderá incluí-lo na ordem do dia se já houver parecer.",
+            "D": "O Presidente da Assembleia, após noventa dias do recebimento, a requerimento de qualquer Deputado, mandará incluí-lo para discussão e votação.",
+            "E": "O Presidente da Assembleia, a requerimento de qualquer Deputado, mandará incluí-lo na ordem do dia para discussão, dispensada a votação."
+          },
+          "gabarito": "A",
+          "comentario": "A) CORRETA. O art. 111 prevê sessenta dias, requerimento de qualquer Deputado e discussão e votação com ou sem parecer.\nB) INCORRETA. O art. 111 exige requerimento de qualquer Deputado, não da maioria absoluta.\nC) INCORRETA. O art. 111 permite a inclusão com ou sem parecer.\nD) INCORRETA. O art. 111 fixa sessenta dias, não noventa.\nE) INCORRETA. O art. 111 determina inclusão para discussão e votação, não apenas discussão.",
+          "base_legal": {
+            "dispositivo": "Art. 111, caput",
+            "texto": "Art. 111. Decorridos sessenta dias do recebimento de um projeto, o Presidente da Assembléia, a requerimento de qualquer Deputado, mandará incluí-lo na ordem do dia, para discussão e votação, com ou sem parecer."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, sobre as leis delegadas, assinale a alternativa INCORRETA.",
+          "alternativas": {
+            "A": "As leis delegadas serão elaboradas pelo Governador, que deverá solicitar delegação à Assembleia Legislativa.",
+            "B": "A delegação ao Governador será feita por decreto legislativo da Assembleia, dispensada a especificação dos termos de exercício.",
+            "C": "A matéria reservada à lei complementar não pode ser objeto de delegação legislativa ao Governador.",
+            "D": "Os planos plurianuais, as diretrizes orçamentárias e os orçamentos estão entre as matérias excluídas da delegação.",
+            "E": "Caso o decreto legislativo exija apreciação do projeto pela Assembleia, a votação será única e não admitirá emendas."
+          },
+          "gabarito": "B",
+          "comentario": "A) CORRETA (opção verdadeira). O art. 112, caput, atribui a elaboração ao Governador e exige solicitação de delegação à Assembleia.\nB) INCORRETA (gabarito). O art. 112, § 2°, exige que o decreto legislativo da Assembleia especifique o conteúdo da delegação e os termos de seu exercício.\nC) CORRETA (opção verdadeira). O art. 112, § 1°, veda delegar matéria reservada à lei complementar.\nD) CORRETA (opção verdadeira). O art. 112, § 1°, II, exclui essas matérias da delegação.\nE) CORRETA (opção verdadeira). O art. 112, § 3°, prevê votação única, vedada qualquer emenda.",
+          "base_legal": {
+            "dispositivo": "Art. 112, §§ 1° a 3°",
+            "texto": "Art. 112. As leis delegadas serão elaboradas pelo Governador, que deverá solicitar a delegação à Assembléia Legislativa.\n§ 1°. Não serão objeto de delegação os atos de competência exclusiva na Assembléia Legislativa a matéria reservada à lei complementar, nem a legislação sobre:\nI - organização do Poder Judiciário, do Ministério Público, da Defensoria Pública, do Tribunal de Contas do Estado, do Tribunal de Contas dos Municípios, a carreira e a garantia de seus membros;\nII - planos plurianuais, diretrizes orçamentárias e orçamentos.\n§ 2°. A delegação ao Governador terá a forma de decreto legislativo da Assembléia, que especificará seu conteúdo e os termos de seu exercício.\n§ 3°. Se o decreto legislativo determinar a apreciação do projeto pela Assembléia, esta a fará em votação única, vedada qualquer emenda."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, qual afirmação sobre leis complementares está correta?",
+          "alternativas": {
+            "A": "Os Códigos de Finanças Públicas e Tributário do Estado são leis complementares, aprovadas por três quintos dos membros.",
+            "B": "A Lei de Organização Judiciária do Estado é lei complementar, com a mesma numeração das leis ordinárias.",
+            "C": "O Código Tributário do Estado é lei complementar, aprovada por maioria absoluta, com numeração distinta da das leis ordinárias.",
+            "D": "A lei orgânica da Polícia Penal é lei complementar, mas sua aprovação exige maioria simples dos membros.",
+            "E": "A lei orgânica do Ministério Público é lei complementar, mas sua aprovação exige dois terços dos membros."
+          },
+          "gabarito": "C",
+          "comentario": "A) INCORRETA. O art. 113, caput, exige maioria absoluta, embora o § 1°, I, classifique esses Códigos como leis complementares.\nB) INCORRETA. O art. 113, § 2°, estabelece numeração distinta da das leis ordinárias; o § 1°, III, inclui essa lei.\nC) CORRETA. O art. 113, caput, § 1°, I, e § 2°, confirmam classificação, quórum e numeração.\nD) INCORRETA. O art. 113, caput, exige maioria absoluta; o § 1°, II, inclui a lei orgânica da Polícia Penal.\nE) INCORRETA. O art. 113, caput, exige maioria absoluta; o § 1°, II, inclui a lei orgânica do Ministério Público.",
+          "base_legal": {
+            "dispositivo": "Art. 113, caput, §§ 1° e 2°",
+            "texto": "Art. 113. As leis complementares e suas alterações serão aprovadas por maioria absoluta.\n§ 1°. Dentre outras previstas nesta Constituição, consideram-se leis complementares:\nI - os Códigos de Finanças Públicas e Tributário do Estado;\nII - as leis orgânicas do Ministério Público, da Procuradoria Geral do Estado, da Defensoria Pública, do Tribunal de Contas do Estado, do Tribunal de Contas dos Municípios, do Magistério Público, da Polícia Civil, da Polícia Penal e da Polícia Militar;\nIII - a Lei de Organização Judiciária do Estado.\n§ 2°. As leis complementares terão numeração distinta da numeração das leis ordinárias."
+          }
+        },
+        {
+          "enunciado": "De acordo com a Constituição do Estado do Pará, qual alternativa apresenta corretamente o emprego e a promulgação dos decretos legislativos e das resoluções?",
+          "alternativas": {
+            "A": "O decreto legislativo manifesta a Assembleia sobre competência concorrente; a resolução regula interesse interno; ambos são promulgados pela Mesa Diretora.",
+            "B": "O decreto legislativo trata de competência exclusiva; a resolução regula apenas matérias administrativas internas; ambos são promulgados pela Mesa Diretora.",
+            "C": "O decreto legislativo trata de competência exclusiva; a resolução regula interesse interno; ambos são promulgados pelo Presidente da Assembleia.",
+            "D": "O decreto legislativo manifesta a Assembleia em competência exclusiva; a resolução regula seu interesse interno, político ou administrativo; ambos são promulgados pela Mesa Diretora.",
+            "E": "O decreto legislativo trata de competência exclusiva; a resolução regula interesse interno; ambos são promulgados pelo Plenário da Assembleia."
+          },
+          "gabarito": "D",
+          "comentario": "A) INCORRETA. O art. 114 destina o decreto legislativo às matérias de competência exclusiva da Assembleia, não concorrente.\nB) INCORRETA. O art. 114, caput, não restringe as resoluções às matérias administrativas, pois inclui o interesse interno, político ou administrativo.\nC) INCORRETA. O parágrafo único do art. 114 atribui a promulgação à Mesa Diretora, não individualmente ao Presidente da Assembleia.\nD) CORRETA. O caput do art. 114 distingue as matérias e o parágrafo único atribui a promulgação de ambos à Mesa Diretora.\nE) INCORRETA. O parágrafo único do art. 114 atribui a promulgação à Mesa Diretora, não ao Plenário.",
+          "base_legal": {
+            "dispositivo": "Art. 114, caput e parágrafo único",
+            "texto": "Art. 114. Através de decreto legislativo, a Assembléia Legislativa se manifesta sobre as matérias de sua competência exclusiva, e, através de resolução, regula matéria de seu interesse interno, político ou administrativo.\nParágrafo único. Os decretos legislativos e as resoluções serão promulgados pela Mesa Diretora."
+          }
+        }
+      ]
     }
   ]
 }
